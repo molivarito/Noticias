@@ -5,6 +5,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 # --- Para generación de resúmenes automáticos con IA Generativa ---
+import argparse # Importar argparse
 import google.generativeai as genai # Cambiado de openai a google.generativeai
 import os
 import time # Necesario para time.mktime si se usa, o para struct_time
@@ -38,8 +39,9 @@ except Exception as e:
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__)) # Directorio donde se encuentra el script
 FUENTES_RSS_JSON_PATH = os.path.join(SCRIPT_DIR, "fuentes_rss.json")
 DEFAULT_HOURS_AGO = 24 # Cambiado de 72 a 24 horas
+DEFAULT_WEEKLY_HOURS = 7 * 24 # 7 días en horas
 USER_AGENT = "NewsAggregatorBot/1.0 (+http://example.com/botinfo)" # User agent genérico
-MAX_ARTICLES_TO_SUMMARIZE_PER_SOURCE = 3 # Límite de artículos a resumir por fuente
+MAX_ARTICLES_TO_SUMMARIZE_PER_CATEGORY = 5 # Límite de artículos a resumir por categoría (ajusta si quieres más para el reporte semanal)
 OUTPUT_HTML_FILE_NAME = "resumen_noticias.html" # Solo el nombre del archivo
 OUTPUT_HTML_FILE_PATH = os.path.join(SCRIPT_DIR, OUTPUT_HTML_FILE_NAME) # Ruta completa al archivo HTML local
 
@@ -51,32 +53,27 @@ fuentes_rss = {
     "internacional": [
         {"name": "France24 Español", "url": "https://www.france24.com/es/rss"},
         {"name": "Le Monde International", "url": "https://www.lemonde.fr/rss/en_continu.xml"},
-        {"name": "BBC Mundo", "url": "https://feeds.bbci.co.uk/mundo/rss.xml"},  # reemplaza RFI
-        {"name": "Euronews Español", "url": "https://es.euronews.com/rss"}
+        {"name": "BBC Mundo", "url": "https://feeds.bbci.co.uk/mundo/rss.xml"},
+        {"name": "Reuters Top News", "url": "http://feeds.reuters.com/reuters/topNews"},
+        {"name": "Le Figaro", "url": "https://www.lefigaro.fr/rss/figaro_actualites.xml"}
     ],
     "nacional": [
         {"name": "La Tercera", "url": "https://www.latercera.com/rss/"},
-        {"name": "CIPER Chile", "url": "https://www.ciperchile.cl/feed/"},
-        {"name": "The Clinic", "url": "https://www.theclinic.cl/feed/"},  # reemplaza El Mostrador
-        {"name": "El Dínamo", "url": "https://www.eldinamo.cl/feed/"}     # reemplaza BioBioChile
+        {"name": "CIPER Chile", "url": "https://www.ciperchile.cl/feed/"}
     ],
     "opinion_ensayo": [
-        {"name": "Jacobin América Latina", "url": "https://jacobinlat.com/feed/"},  # reemplaza mondiplo
+        {"name": "Jacobin América Latina", "url": "https://jacobinlat.com/feed/"},
         {"name": "The Guardian Opinion", "url": "https://www.theguardian.com/uk/commentisfree/rss"},
-        {"name": "CTXT – Opinión", "url": "https://ctxt.es/rss/seccion/7"},  # reemplaza Libération
         {"name": "El País Opinión", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/opinion/portada"}
     ],
     "ciencia_tecnologia": [
-        {"name": "Science News", "url": "https://www.sciencenews.org/feed"},  # reemplaza Nature Briefing
-        {"name": "Scientific American", "url": "https://www.scientificamerican.com/feed/rss.xml"},  # reemplaza CNRS
-        {"name": "New Scientist", "url": "https://www.newscientist.com/feed/home/"},
-        {"name": "Sciences et Avenir", "url": "https://www.sciencesetavenir.fr/rss.xml"}
+        {"name": "Sciences et Avenir", "url": "https://www.sciencesetavenir.fr/rss.xml"},
+        {"name": "Nature Current", "url": "http://feeds.nature.com/nature/rss/current?x=1"}
     ],
     "cultura_arte": [
-        {"name": "Arts & Letters Daily", "url": "https://www.aldaily.com/rss.php"},  # reemplaza Télérama
         {"name": "The Guardian Culture", "url": "https://www.theguardian.com/uk/culture/rss"},
         {"name": "El País Cultura", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/cultura/portada"},
-        {"name": "Revista Ñ – Clarín Cultura", "url": "https://www.clarin.com/rss/cultura/"}  # reemplaza France Culture
+        {"name": "Revista Ñ – Clarín Cultura", "url": "https://www.clarin.com/rss/cultura/"}
     ]
 }
 
@@ -155,7 +152,7 @@ def extraer_contenido(url):
         return ""
 
 
-def obtener_articulos_recientes(rss_url, horas=DEFAULT_HOURS_AGO):
+def obtener_articulos_recientes(rss_url, horas):
     """
     Obtiene artículos de un feed RSS publicados en las últimas 'horas'.
     """
@@ -198,7 +195,8 @@ def obtener_articulos_recientes(rss_url, horas=DEFAULT_HOURS_AGO):
                     articulos_recientes.append({
                         "titulo": entry.get("title", "[sin título]"),
                         "link": entry.get("link", "[sin link]"),
-                        "fecha": fecha_articulo_utc.strftime("%Y-%m-%d %H:%M:%S UTC")
+                        "fecha_obj": fecha_articulo_utc, # datetime object para ordenar
+                        "fecha_str": fecha_articulo_utc.strftime("%Y-%m-%d %H:%M:%S UTC") # string para mostrar
                     })
             except Exception as e:
                 print(f"    - Error processing date for entry '{entry.get('title', '[sin título]')}': {e}")
@@ -207,13 +205,14 @@ def obtener_articulos_recientes(rss_url, horas=DEFAULT_HOURS_AGO):
     return articulos_recientes
 
 def procesar_y_resumir_articulos(fuentes, gemini_model):
-    html_content = f"""
+    def generate_html_content(processed_articles_by_category, report_type):
+        html_content = f"""
     <!DOCTYPE html>
     <html lang="es">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Resumen Diario de Noticias</title>
+        <title>Resumen {report_type.title()} de Noticias</title>
         <style>
             body {{ font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; line-height: 1.6; margin: 0; padding: 20px; background-color: #f8f9fa; color: #212529; }}
             .container {{ max-width: 900px; margin: 20px auto; background-color: #ffffff; padding: 25px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }}
@@ -235,93 +234,115 @@ def procesar_y_resumir_articulos(fuentes, gemini_model):
     </head>
     <body>
         <div class="container">
-            <h1>Resumen Diario de Noticias</h1>"""
-    any_article_processed_overall = False
-
-    for categoria, lista_fuentes in fuentes.items():
-        html_parts = [] 
-        html_parts.append(f"<h2>{categoria.replace('_', ' ').title()}</h2>")
-        articles_in_category_found = False
-        for fuente in lista_fuentes:
-            html_parts.append(f"<h3>{fuente['name']}</h3>")
-            articulos = obtener_articulos_recientes(fuente["url"], horas=DEFAULT_HOURS_AGO)
-            print(f"🔍 {fuente['name']}: {len(articulos)} artículos recientes encontrados.")
-
-            if not articulos:
-                html_parts.append(f"<p class='no-articles'><i>No se encontraron artículos recientes de {fuente['name']}.</i></p>")
-                continue
-            
-            articulos_procesados_fuente = []
-            articles_attempted_this_source = 0
-            for i, articulo in enumerate(articulos):
-                if articles_attempted_this_source >= MAX_ARTICLES_TO_SUMMARIZE_PER_SOURCE:
-                    print(f"  ℹ️ Límite de {MAX_ARTICLES_TO_SUMMARIZE_PER_SOURCE} resúmenes alcanzado para {fuente['name']}.")
-                    break
-
-                if not articulo["link"] or articulo["link"] == "[sin link]":
-                    print(f"⚠️ Skipping article with missing link: {articulo['titulo']}")
-                    continue
-
-                articles_attempted_this_source +=1
-                contenido = extraer_contenido(articulo["link"])
-                if not contenido:
-                    print(f"  ⚠️ No se pudo extraer contenido de: {articulo['link']}")
-                    continue
-                
-                print(f"  🔄 Resumiendo '{articulo['titulo']}'...")
-                time.sleep(1.5) # Reducido para QPM de Gemini Flash (60 QPM = 1 QPS)
-                datos_gemini = resumir_y_puntuar_con_gemini(gemini_model, articulo["titulo"], contenido, categoria)
-
-                if datos_gemini and \
-                   datos_gemini.get("teaser_sentence") and \
-                   datos_gemini.get("resumen") and isinstance(datos_gemini.get("relevancia_score"), int):
-                    articulos_procesados_fuente.append({
-                        "info": articulo,
-                        "resumen_datos": datos_gemini
-                    })
-                    articles_in_category_found = True
-                    any_article_processed_overall = True
-                else:
-                    print(f"  ⚠️ Gemini no devolvió datos válidos para: {articulo['titulo']}")
-
-            articulos_procesados_fuente.sort(key=lambda x: x["resumen_datos"].get("relevancia_score", 0), reverse=True)
-
-            if not articulos_procesados_fuente:
-                if articulos: 
-                    html_parts.append(f"<p class='no-articles'><i>Artículos encontrados de {fuente['name']} pero no se pudieron procesar o puntuar.</i></p>")
-            else:
-                for item_procesado in articulos_procesados_fuente:
-                    articulo_info = item_procesado["info"]
-                    resumen_datos = item_procesado["resumen_datos"]
-                    html_parts.append(f"""
-                        <details>
-                            <summary>
-                                {resumen_datos['teaser_sentence']} (Puntuación: {resumen_datos['relevancia_score']}/10)
-                            </summary>
-                            <div class="article-content-wrapper">
-                                <p class="article-title">{articulo_info['titulo']}</p>
-                                <p class="article-meta">
-                                    Fecha: {articulo_info.get('fecha', 'No disp.')}
-                                </p>
-                                <p class="article-summary">{resumen_datos['resumen']}</p>
-                                <a href='{articulo_info['link']}' target='_blank'>Leer más en la fuente original</a>
-                            </div>
-                        </details>
-                    """)
-            
-        if not articles_in_category_found:
-            html_parts.append(f"<p class='no-articles'><i>No se encontraron artículos recientes procesables en la categoría {categoria.replace('_', ' ').title()}.</i></p>")
+            <h1>Resumen {report_type.title()} de Noticias</h1>"""
         
-        html_content += "\n".join(html_parts)
-        html_parts = [] 
+        if not processed_articles_by_category:
+            html_content += "<p class='no-articles'><i>No se procesaron artículos para ninguna categoría.</i></p>"
+        else:
+            for categoria, articulos_procesados_list in processed_articles_by_category.items():
+                html_content += f"<h2>{categoria.replace('_', ' ').title()}</h2>"
+                
+                if not articulos_procesados_list:
+                    html_content += f"<p class='no-articles'><i>No se encontraron artículos procesados para la categoría {categoria.replace('_', ' ').title()}.</i></p>"
+                else:
+                    for item_procesado in articulos_procesados_list:
+                        articulo_info = item_procesado["info"]
+                        resumen_datos = item_procesado["resumen_datos"]
+                        html_content += f"""
+                                <details>
+                                    <summary>
+                                        {resumen_datos['teaser_sentence']} (Puntuación: {resumen_datos['relevancia_score']}/10)
+                                    </summary>
+                                    <div class="article-content-wrapper">
+                                        <p class="article-title">{articulo_info['titulo']}</p>
+                                        <p class="article-meta">
+                                            Fuente: {articulo_info['source_name']} | Fecha: {articulo_info.get('fecha_str', 'No disp.')}
+                                        </p>
+                                        <p class="article-summary">{resumen_datos['resumen']}</p>
+                                        <a href='{articulo_info['link']}' target='_blank'>Leer más en la fuente original</a>
+                                    </div>
+                                </details>
+                        """
 
-    html_content += """
+        html_content += """
         </div>
     </body>
     </html>
     """
-    
-    if not any_article_processed_overall:
+        return html_content
+
+
+
+    # --- Lógica principal de procesamiento ---
+    # Esta parte necesita ser modificada para recopilar todos los artículos primero
+    # y luego procesarlos por categoría.
+
+    # Recopilar todos los artículos recientes de todas las fuentes, etiquetados por fuente
+    all_articles_by_category = {}
+    for categoria, lista_fuentes in fuentes.items():
+        all_articles_this_category = []
+        print(f"\n📚 Recopilando artículos para la categoría: {categoria.replace('_', ' ').title()}")
+        for fuente in lista_fuentes:
+            # obtener_articulos_recientes ya imprime su progreso detallado
+            # Usamos 'horas_a_revisar' que se definirá en el bloque __main__
+            articulos_de_fuente = obtener_articulos_recientes(fuente["url"], horas=horas_a_revisar) 
+            for art in articulos_de_fuente:
+                art['source_name'] = fuente['name'] # Etiquetar con el nombre de la fuente
+                all_articles_this_category.append(art)
+        all_articles_by_category[categoria] = all_articles_this_category
+        print(f"  📰 Total de artículos recientes encontrados en '{categoria.replace('_', ' ').title()}': {len(all_articles_this_category)}")
+
+    # Procesar y resumir los N artículos principales por categoría
+    processed_articles_by_category = {}
+    any_article_processed_overall = False # Reset flag for processing stage
+
+    for categoria, all_articles_this_category in all_articles_by_category.items():
+        print(f"\n✨ Procesando artículos para la categoría: {categoria.replace('_', ' ').title()}")
+        
+        # Ordenar todos los artículos de la categoría por fecha (más recientes primero)
+        all_articles_this_category.sort(key=lambda x: x['fecha_obj'], reverse=True)
+
+        # Seleccionar los N artículos principales para resumir para esta categoría
+        articles_to_summarize_for_category = all_articles_this_category[:MAX_ARTICLES_TO_SUMMARIZE_PER_CATEGORY]
+        print(f"  🎯 Seleccionados para resumir en '{categoria.replace('_', ' ').title()}': {len(articles_to_summarize_for_category)} artículos (límite: {MAX_ARTICLES_TO_SUMMARIZE_PER_CATEGORY})")
+
+        articulos_procesados_final_categoria = []
+        
+        for i, articulo_para_resumir in enumerate(articles_to_summarize_for_category):
+            print(f"  🔄 Procesando ({i+1}/{len(articles_to_summarize_for_category)}) '{articulo_para_resumir['titulo']}' de {articulo_para_resumir['source_name']}...")
+            
+            if not articulo_para_resumir["link"] or articulo_para_resumir["link"] == "[sin link]":
+                print(f"    ⚠️ Saltando artículo con enlace faltante: {articulo_para_resumir['titulo']}")
+                continue
+
+            contenido = extraer_contenido(articulo_para_resumir["link"])
+            if not contenido:
+                print(f"    ⚠️ No se pudo extraer contenido de: {articulo_para_resumir['link']}")
+                continue
+            
+            time.sleep(1.5) # Límite de tasa de API
+            datos_gemini = resumir_y_puntuar_con_gemini(gemini_model, articulo_para_resumir["titulo"], contenido, categoria)
+
+            if datos_gemini and \
+               datos_gemini.get("teaser_sentence") and \
+               datos_gemini.get("resumen") and isinstance(datos_gemini.get("relevancia_score"), int):
+                articulos_procesados_final_categoria.append({
+                    "info": articulo_para_resumir, # Contiene titulo, link, fecha_obj, fecha_str, source_name
+                    "resumen_datos": datos_gemini
+                })
+                any_article_processed_overall = True
+            else:
+                print(f"    ⚠️ Gemini no devolvió datos válidos para: {articulo_para_resumir['titulo']}")
+
+        # Ordenar artículos procesados por puntuación de relevancia
+        articulos_procesados_final_categoria.sort(key=lambda x: x["resumen_datos"].get("relevancia_score", 0), reverse=True)
+        processed_articles_by_category[categoria] = articulos_procesados_final_categoria
+
+    # Generar HTML y enviar correo
+    report_type = "Semanal" if horas_a_revisar == DEFAULT_WEEKLY_HOURS else "Diario"
+    html_content = generate_html_content(processed_articles_by_category, report_type)
+
+    if not any_article_processed_overall: # Check the flag after processing all categories
         print("ℹ️ No se procesó ningún artículo para el resumen final.")
         
     try:
@@ -329,7 +350,7 @@ def procesar_y_resumir_articulos(fuentes, gemini_model):
             f.write(html_content)
         
         full_web_url = BASE_WEB_URL + OUTPUT_HTML_FILE_NAME
-        print(f"📄 Resumen interactivo guardado en: {OUTPUT_HTML_FILE_PATH}")
+        print(f"📄 Resumen {report_type} interactivo guardado en: {OUTPUT_HTML_FILE_PATH}")
 
         # Intentar subir el archivo automáticamente
         usuario_stanford = "pdelac"  # ¡¡¡IMPORTANTE: MODIFICA ESTO con tu nombre de usuario en Stanford!!!
@@ -344,10 +365,10 @@ def procesar_y_resumir_articulos(fuentes, gemini_model):
             OUTPUT_HTML_FILE_NAME
         )
 
-        email_subject = "Resumen Diario de Noticias Interactivo"        
+        email_subject = f"Resumen {report_type} de Noticias Interactivo"        
         if not any_article_processed_overall:
-            email_subject = "Resumen Diario de Noticias Interactivo (Sin artículos nuevos)"
-        
+            email_subject += " (Sin artículos nuevos)"
+
         email_body = f"""
         Hola,
 
@@ -432,6 +453,17 @@ def enviar_correo_con_enlace(subject, body_text):
         print(f"❌ Error al enviar correo con enlace: {e}")
 
 if __name__ == "__main__":
+    # --- Configuración de argumentos de línea de comandos ---
+    parser = argparse.ArgumentParser(description="Compila, resume y puntúa noticias de feeds RSS.")
+    parser.add_argument(
+        "-w", "--weekly", action="store_true",
+        help=f"Genera un reporte semanal (últimas {DEFAULT_WEEKLY_HOURS} horas) en lugar del reporte diario (últimas {DEFAULT_HOURS_AGO} horas)."
+    )
+    args = parser.parse_args()
+
+    horas_a_revisar = DEFAULT_WEEKLY_HOURS if args.weekly else DEFAULT_HOURS_AGO
+    print(f"Configurado para revisar noticias de las últimas {horas_a_revisar} horas.")
+
     # --- Configuración de Gemini ---
     GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
     if not GEMINI_API_KEY:
@@ -457,7 +489,7 @@ if __name__ == "__main__":
         exit(1) # Termina el script si el modelo no se puede inicializar.
 
     fuentes = cargar_fuentes_desde_json()
-    procesar_y_resumir_articulos(fuentes, gemini_generative_model)
+    procesar_y_resumir_articulos(fuentes, gemini_generative_model) # Pasa horas_a_revisar implícitamente a obtener_articulos_recientes
 
 # === INSTRUCCIÓN IMPORTANTE ===
 # Para que el envío de email funcione, debes crear una contraseña de aplicación en tu cuenta de Gmail
