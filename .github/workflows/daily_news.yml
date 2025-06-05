@@ -31,28 +31,27 @@ jobs:
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-        BASE_WEB_URL: ${{ secrets.BASE_WEB_URL || 'https://ccrma.stanford.edu/~pdelac/' }}
+        GMAIL_USER: ${{ secrets.GMAIL_USER }} # Asegúrate de tener este secret
+        GMAIL_DESTINATARIO: ${{ secrets.GMAIL_DESTINATARIO || secrets.GMAIL_USER }} # Opcional, usa GMAIL_USER si no está
+        # Para el script de Python, si quieres que el email contenga la URL de GitHub Pages:
+        BASE_WEB_URL: "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
+        GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }} # Para que el script de Python pueda construir la URL
+        GITHUB_REPOSITORY_NAME: ${{ github.event.repository.name }} # Para que el script de Python pueda construir la URL
         # El script compila_noticias.py por defecto es diario si no se pasa --weekly
       run: python compila_noticias.py # Asume que tu script está en la raíz del repo
 
-    - name: Configurar SSH para SCP (Diario)
-      if: success() # Solo si el script se ejecutó bien
-      uses: webfactory/ssh-agent@v0.9.0
-      with:
-        ssh-private-key: ${{ secrets.STANFORD_SSH_PRIVATE_KEY }}
-
-    - name: Subir archivo HTML a Stanford (Diario)
+    - name: Deploy to GitHub Pages
       if: success()
-      env:
-        STANFORD_USER: ${{ secrets.STANFORD_USER || 'pdelac' }}
-        STANFORD_HOST_SCP: ${{ secrets.STANFORD_HOST_SCP || 'ccrma-gate.stanford.edu' }}
-        STANFORD_REMOTE_PATH: ${{ secrets.STANFORD_REMOTE_PATH || 'Library/Web' }}
-        OUTPUT_HTML_FILE_NAME: "resumen_noticias.html" # Debe coincidir con OUTPUT_HTML_FILE_NAME en tu script
-      run: |
-        scp -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null \
-        ./${OUTPUT_HTML_FILE_NAME} \
-        ${STANFORD_USER}@${STANFORD_HOST_SCP}:${STANFORD_REMOTE_PATH}/${OUTPUT_HTML_FILE_NAME}
-        echo "Archivo HTML diario subido."
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }} # Token automático de GitHub Actions
+        publish_dir: ./ # Directorio que contiene el HTML a publicar (asume que resumen_noticias.html está en la raíz)
+        publish_branch: gh-pages # Rama donde se publicará
+        user_name: 'github-actions[bot]'
+        user_email: 'github-actions[bot]@users.noreply.github.com'
+        commit_message: 'Deploy daily news summary to GitHub Pages'
+        # Opcional: si solo quieres el último resumen y no acumular historial en gh-pages
+        force_orphan: true
 
   # Descomenta y adapta este job si quieres un reporte semanal separado
   # generate_weekly_report:
@@ -77,30 +76,30 @@ jobs:
   #     env:
   #       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
   #       GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-  #       BASE_WEB_URL: ${{ secrets.BASE_WEB_URL || 'https://ccrma.stanford.edu/~pdelac/' }}
+  #       GMAIL_USER: ${{ secrets.GMAIL_USER }}
+  #       GMAIL_DESTINATARIO: ${{ secrets.GMAIL_DESTINATARIO || secrets.GMAIL_USER }}
+  #       BASE_WEB_URL: "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
+  #       GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+  #       GITHUB_REPOSITORY_NAME: ${{ github.event.repository.name }}
+  #       # Para el reporte semanal, podrías querer un nombre de archivo diferente
+  #       # OUTPUT_HTML_FILE_NAME: "resumen_semanal_noticias.html" # Si tu script lo maneja
   #     run: python compila_noticias.py --weekly # Pasa el argumento --weekly
 
-  #   - name: Configurar SSH para SCP (Semanal)
+  #   - name: Deploy Weekly Report to GitHub Pages
   #     if: success()
-  #     uses: webfactory/ssh-agent@v0.9.0
+  #     uses: peaceiris/actions-gh-pages@v3
   #     with:
-  #       ssh-private-key: ${{ secrets.STANFORD_SSH_PRIVATE_KEY }}
-
-  #   - name: Subir archivo HTML a Stanford (Semanal)
-  #     if: success()
-  #     env:
-  #       STANFORD_USER: ${{ secrets.STANFORD_USER || 'pdelac' }}
-  #       STANFORD_HOST_SCP: ${{ secrets.STANFORD_HOST_SCP || 'ccrma-gate.stanford.edu' }}
-  #       STANFORD_REMOTE_PATH: ${{ secrets.STANFORD_REMOTE_PATH || 'Library/Web' }}
-  #       # Podrías querer un nombre de archivo diferente para el reporte semanal
-  #       OUTPUT_HTML_FILE_NAME_WEEKLY: "resumen_semanal_noticias.html"
-  #     run: |
-  #       # Asegúrate que tu script genere el archivo con este nombre si es semanal
-  #       # o renómbralo aquí antes de subirlo si el script siempre usa el mismo nombre.
-  #       # Ejemplo si el script siempre genera "resumen_noticias.html":
-  #       # mv ./resumen_noticias.html ./${OUTPUT_HTML_FILE_NAME_WEEKLY}
-  #       scp -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null \
-  #       ./${OUTPUT_HTML_FILE_NAME_WEEKLY} \ # O el nombre que use tu script para el semanal
-  #       ${STANFORD_USER}@${STANFORD_HOST_SCP}:${STANFORD_REMOTE_PATH}/${OUTPUT_HTML_FILE_NAME_WEEKLY}
-  #       echo "Archivo HTML semanal subido."
-
+  #       github_token: ${{ secrets.GITHUB_TOKEN }}
+  #       publish_dir: ./ # Asume que el script genera el archivo con el nombre correcto
+  #       # Si el script genera resumen_noticias.html, y quieres un nombre diferente para el semanal:
+  #       # target_path: resumen_semanal_noticias.html # Publica el archivo con este nombre en la raíz de gh-pages
+  #       # O si tu script genera un archivo con nombre diferente para el semanal:
+  #       # publish_dir: ./ # y asegúrate que el nombre del archivo sea el que quieres
+  #       publish_branch: gh-pages
+  #       user_name: 'github-actions[bot]'
+  #       user_email: 'github-actions[bot]@users.noreply.github.com'
+  #       commit_message: 'Deploy weekly news summary to GitHub Pages'
+  #       # Considera si quieres `force_orphan: true` también aquí o `keep_files: true`
+  #       # si quieres mantener tanto el diario como el semanal en la misma rama.
+  #       # Si quieres archivos separados, asegúrate que tu script Python genere
+  #       # nombres de archivo diferentes o renómbralos antes de este paso.
