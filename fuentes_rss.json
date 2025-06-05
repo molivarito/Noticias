@@ -38,10 +38,6 @@
             "name": "CIPER Chile",
             "url": "https://www.ciperchile.cl/feed/"
         },
-        // {
-        //     "name": "El Mostrador", // Eliminado temporalmente por errores SAX recurrentes
-        //     "url": "https://www.elmostrador.cl/feed/"
-        // },
         {
             "name": "BioBioChile",
             "url": "https://www.biobiochile.cl/lista/categorias/actualidad/feed"
