@@ -10,7 +10,7 @@
         },
         {
             "name": "Reuters World News",
-            "url": "https://www.reuters.com/world/feed/"
+            "url": "http://feeds.reuters.com/reuters/topNews"
         },
         {
             "name": "Le Figaro",
@@ -32,16 +32,16 @@
     "nacional": [
         {
             "name": "La Tercera",
-            "url": "https://www.latercera.com/feed/"
+            "url": "https://www.latercera.com/feed/" 
         },
         {
             "name": "CIPER Chile",
             "url": "https://www.ciperchile.cl/feed/"
         },
-        {
-            "name": "El Mostrador",
-            "url": "https://www.elmostrador.cl/feed/"
-        },
+        // {
+        //     "name": "El Mostrador", // Eliminado temporalmente por errores SAX recurrentes
+        //     "url": "https://www.elmostrador.cl/feed/"
+        // },
         {
             "name": "BioBioChile",
             "url": "https://www.biobiochile.cl/lista/categorias/actualidad/feed"
@@ -52,7 +52,7 @@
         },
         {
             "name": "Cooperativa",
-            "url": "https://www.cooperativa.cl/noticias/site/tax/port/all/rss____1.xml"
+            "url": "https://www.cooperativa.cl/noticias/site/tax/port/all/rss____1.xml" // Mantener, pero observar si es muy deportivo
         }
     ],
     "opinion_ensayo": [
@@ -65,8 +65,8 @@
             "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/opinion/portada"
         },
         {
-            "name": "Project Syndicate Commentaries",
-            "url": "https://www.project-syndicate.org/rss/commentaries"
+            "name": "Project Syndicate Commentaries", // Mantener y observar, el error SAX puede ser temporal
+            "url": "https://www.project-syndicate.org/rss/commentaries" 
         },
         {
             "name": "The New York Times Opinion",
@@ -76,7 +76,7 @@
     "ciencia_tecnologia": [
         {
             "name": "Sciences et Avenir",
-            "url": "https://www.sciencesetavenir.fr/rss.xml"
+            "url": "https://www.sciencesetavenir.fr/rss.xml" // Mantener y observar, si el 405 persiste, reemplazar
         },
         {
             "name": "Nature News",
@@ -97,8 +97,8 @@
     ],
     "cultura_arte": [
         {
-            "name": "Artnet News",
-            "url": "https://news.artnet.com/feed"
+            "name": "The Guardian Culture", // Volvemos a The Guardian Culture, Artnet dio error 403
+            "url": "https://www.theguardian.com/uk/culture/rss"
         },
         {
             "name": "El País Cultura",
@@ -113,8 +113,8 @@
             "url": "https://hyperallergic.com/feed/"
         },
         {
-            "name": "Artforum International",
-            "url": "https://www.artforum.com/rss.xml"
+            "name": "Artforum International", // Mantener y observar, el error SAX puede ser temporal
+            "url": "https://www.artforum.com/rss.xml" 
         }
     ]
 }
