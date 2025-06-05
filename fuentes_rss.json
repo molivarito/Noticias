@@ -1,10 +1,6 @@
 {
     "internacional": [
         {
-            "name": "France24 Español",
-            "url": "https://www.france24.com/es/rss"
-        },
-        {
             "name": "Le Monde International",
             "url": "https://www.lemonde.fr/rss/en_continu.xml"
         },
@@ -13,29 +9,45 @@
             "url": "https://feeds.bbci.co.uk/mundo/rss.xml"
         },
         {
-            "name": "Reuters Top News",
-            "url": "http://feeds.reuters.com/reuters/topNews"
+            "name": "Reuters World News",
+            "url": "https://www.reuters.com/pf/api/v3/content/fetch/articles-by-section-alias-or-id-v1?query=%7B%22arc-site%22%3A%22reuters%22%2C%22section_id%22%3A%22%2Fworld%2F%22%2C%22offset%22%3A0%2C%22size%22%3A20%7D&d=149&_website=reuters"
         },
         {
             "name": "Le Figaro",
             "url": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+        },
+        {
+            "name": "Associated Press World News",
+            "url": "https://apnews.com/hub/world-news/rss"
+        },
+        {
+            "name": "El País Internacional",
+            "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada"
+        },
+        {
+            "name": "The New York Times World",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
         }
     ],
     "nacional": [
         {
             "name": "La Tercera",
-            "url": "https://www.latercera.com/rss/"
+            "url": "https://www.latercera.com/feed/"
         },
         {
             "name": "CIPER Chile",
             "url": "https://www.ciperchile.cl/feed/"
+        },
+        {
+            "name": "El Mostrador",
+            "url": "https://www.elmostrador.cl/feed/"
+        },
+        {
+            "name": "BioBioChile",
+            "url": "https://www.biobiochile.cl/lista/categorias/actualidad/feed"
         }
     ],
     "opinion_ensayo": [
-        {
-            "name": "Jacobin América Latina",
-            "url": "https://jacobinlat.com/feed/"
-        },
         {
             "name": "The Guardian Opinion",
             "url": "https://www.theguardian.com/uk/commentisfree/rss"
@@ -43,6 +55,14 @@
         {
             "name": "El País Opinión",
             "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/opinion/portada"
+        },
+        {
+            "name": "Project Syndicate Commentaries",
+            "url": "https://www.project-syndicate.org/rss/commentaries"
+        },
+        {
+            "name": "The New York Times Opinion",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Opinion.xml"
         }
     ],
     "ciencia_tecnologia": [
@@ -51,8 +71,20 @@
             "url": "https://www.sciencesetavenir.fr/rss.xml"
         },
         {
-            "name": "Nature Current",
-            "url": "http://feeds.nature.com/nature/rss/current?x=1"
+            "name": "Nature News",
+            "url": "https://www.nature.com/nature/rss/current"
+        },
+        {
+            "name": "Wired",
+            "url": "https://www.wired.com/feed/rss"
+        },
+        {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/feed/"
+        },
+        {
+            "name": "Ars Technica",
+            "url": "https://arstechnica.com/feed/"
         }
     ],
     "cultura_arte": [
@@ -67,6 +99,14 @@
         {
             "name": "Revista Ñ – Clarín Cultura",
             "url": "https://www.clarin.com/rss/cultura/"
+        },
+        {
+            "name": "Hyperallergic",
+            "url": "https://hyperallergic.com/feed/"
+        },
+        {
+            "name": "Artforum International",
+            "url": "https://www.artforum.com/rss.xml"
         }
     ]
 }
