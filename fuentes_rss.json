@@ -13,8 +13,12 @@
             "url": "https://feeds.bbci.co.uk/mundo/rss.xml"
         },
         {
-            "name": "Euronews Español",
-            "url": "https://es.euronews.com/rss"
+            "name": "Reuters Top News",
+            "url": "http://feeds.reuters.com/reuters/topNews"
+        },
+        {
+            "name": "Le Figaro",
+            "url": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
         }
     ],
     "nacional": [
@@ -25,14 +29,6 @@
         {
             "name": "CIPER Chile",
             "url": "https://www.ciperchile.cl/feed/"
-        },
-        {
-            "name": "The Clinic",
-            "url": "https://www.theclinic.cl/feed/"
-        },
-        {
-            "name": "El Dínamo",
-            "url": "https://www.eldinamo.cl/feed/"
         }
     ],
     "opinion_ensayo": [
@@ -45,37 +41,21 @@
             "url": "https://www.theguardian.com/uk/commentisfree/rss"
         },
         {
-            "name": "CTXT – Opinión",
-            "url": "https://ctxt.es/rss/seccion/7"
-        },
-        {
             "name": "El País Opinión",
             "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/opinion/portada"
         }
     ],
     "ciencia_tecnologia": [
         {
-            "name": "Science News",
-            "url": "https://www.sciencenews.org/feed"
-        },
-        {
-            "name": "Scientific American",
-            "url": "https://www.scientificamerican.com/feed/rss.xml"
-        },
-        {
-            "name": "New Scientist",
-            "url": "https://www.newscientist.com/feed/home/"
-        },
-        {
             "name": "Sciences et Avenir",
             "url": "https://www.sciencesetavenir.fr/rss.xml"
+        },
+        {
+            "name": "Nature Current",
+            "url": "http://feeds.nature.com/nature/rss/current?x=1"
         }
     ],
     "cultura_arte": [
-        {
-            "name": "Arts & Letters Daily",
-            "url": "https://www.aldaily.com/rss.php"
-        },
         {
             "name": "The Guardian Culture",
             "url": "https://www.theguardian.com/uk/culture/rss"

@@ -6,9 +6,9 @@ from email.mime.text import MIMEText
 
 # --- Para generación de resúmenes automáticos con IA Generativa ---
 import argparse # Importar argparse
-import google.generativeai as genai # Cambiado de openai a google.generativeai
+import google.generativeai as genai
 import os
-import time # Necesario para time.mktime si se usa, o para struct_time
+import time
 
 # --- Para parseo de feeds RSS y manejo de fechas ---
 import feedparser
@@ -20,14 +20,13 @@ from newspaper import Article
 # --- SSL Configuration for macOS and certifi ---
 import ssl
 import certifi
-# --- Para cargar variables de entorno desde .env ---
+# --- Para cargar variables de entorno desde .env (útil para desarrollo local) ---
 from dotenv import load_dotenv
 
 load_dotenv() # Carga variables desde un archivo .env en el mismo directorio
 
 try:
     # Configure Python's SSL context to use certifi's CA bundle.
-    # This helps resolve "CERTIFICATE_VERIFY_FAILED" errors on some systems (like macOS).
     ssl_context = ssl.create_default_context(cafile=certifi.where())
     ssl._create_default_https_context = lambda: ssl_context
     print("✅ SSL context configured to use certifi's CA bundle.")
@@ -38,57 +37,31 @@ except Exception as e:
 # --- Constantes ---
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__)) # Directorio donde se encuentra el script
 FUENTES_RSS_JSON_PATH = os.path.join(SCRIPT_DIR, "fuentes_rss.json")
-DEFAULT_HOURS_AGO = 24 # Cambiado de 72 a 24 horas
+DEFAULT_HOURS_AGO = 24
 DEFAULT_WEEKLY_HOURS = 7 * 24 # 7 días en horas
-USER_AGENT = "NewsAggregatorBot/1.0 (+http://example.com/botinfo)" # User agent genérico
-MAX_ARTICLES_TO_SUMMARIZE_PER_CATEGORY = 5 # Límite de artículos a resumir por categoría (ajusta si quieres más para el reporte semanal)
+USER_AGENT = "NewsAggregatorBot/1.0 (+http://example.com/botinfo)"
+MAX_ARTICLES_TO_SUMMARIZE_PER_CATEGORY = 5 # Límite de artículos a resumir por categoría
 OUTPUT_HTML_FILE_NAME = "resumen_noticias.html" # Solo el nombre del archivo
 OUTPUT_HTML_FILE_PATH = os.path.join(SCRIPT_DIR, OUTPUT_HTML_FILE_NAME) # Ruta completa al archivo HTML local
 
-# Reemplaza esto con la URL base donde alojarás el archivo HTML en tu servidor de Stanford
-BASE_WEB_URL = "https://ccrma.stanford.edu/~pdelac/" # ¡¡¡IMPORTANTE: MODIFICA ESTO!!!
-# Guarded block to define and save initial RSS sources as a JSON file
-import json
-fuentes_rss = {
-    "internacional": [
-        {"name": "France24 Español", "url": "https://www.france24.com/es/rss"},
-        {"name": "Le Monde International", "url": "https://www.lemonde.fr/rss/en_continu.xml"},
-        {"name": "BBC Mundo", "url": "https://feeds.bbci.co.uk/mundo/rss.xml"},
-        {"name": "Reuters Top News", "url": "http://feeds.reuters.com/reuters/topNews"},
-        {"name": "Le Figaro", "url": "https://www.lefigaro.fr/rss/figaro_actualites.xml"}
-    ],
-    "nacional": [
-        {"name": "La Tercera", "url": "https://www.latercera.com/rss/"},
-        {"name": "CIPER Chile", "url": "https://www.ciperchile.cl/feed/"}
-    ],
-    "opinion_ensayo": [
-        {"name": "Jacobin América Latina", "url": "https://jacobinlat.com/feed/"},
-        {"name": "The Guardian Opinion", "url": "https://www.theguardian.com/uk/commentisfree/rss"},
-        {"name": "El País Opinión", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/opinion/portada"}
-    ],
-    "ciencia_tecnologia": [
-        {"name": "Sciences et Avenir", "url": "https://www.sciencesetavenir.fr/rss.xml"},
-        {"name": "Nature Current", "url": "http://feeds.nature.com/nature/rss/current?x=1"}
-    ],
-    "cultura_arte": [
-        {"name": "The Guardian Culture", "url": "https://www.theguardian.com/uk/culture/rss"},
-        {"name": "El País Cultura", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/cultura/portada"},
-        {"name": "Revista Ñ – Clarín Cultura", "url": "https://www.clarin.com/rss/cultura/"}
-    ]
-}
+# Leer la URL base del servidor desde una variable de entorno.
+# El workflow de GitHub Actions la proveerá desde un secret o un valor por defecto.
+BASE_WEB_URL = os.getenv("BASE_WEB_URL", "https://ccrma.stanford.edu/~pdelac/")
 
-# Guardar las fuentes RSS en un archivo JSON. Esto se ejecuta cada vez.
-try:
-    with open(FUENTES_RSS_JSON_PATH, "w", encoding="utf-8") as f:
-        json.dump(fuentes_rss, f, ensure_ascii=False, indent=4)
-    print(f"Archivo {FUENTES_RSS_JSON_PATH} guardado exitosamente.")
-except IOError as e:
-    print(f"Error al guardar el archivo {FUENTES_RSS_JSON_PATH}: {e}")
+import json
 
 # --- Función para cargar fuentes desde JSON ---
 def cargar_fuentes_desde_json():
-    with open(FUENTES_RSS_JSON_PATH, "r", encoding="utf-8") as f:
-        return json.load(f)
+    try:
+        with open(FUENTES_RSS_JSON_PATH, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except FileNotFoundError:
+        print(f"❌ Error CRÍTICO: No se encontró el archivo de fuentes RSS en {FUENTES_RSS_JSON_PATH}")
+        print("   Asegúrate de que el archivo 'fuentes_rss.json' exista en el mismo directorio que el script.")
+        exit(1) # Termina el script si el archivo de fuentes no existe.
+    except json.JSONDecodeError as e:
+        print(f"❌ Error CRÍTICO: El archivo de fuentes RSS en {FUENTES_RSS_JSON_PATH} no es un JSON válido: {e}")
+        exit(1) # Termina el script si el JSON es inválido.
 
 # --- Función para resumir artículos usando Gemini ---
 def resumir_y_puntuar_con_gemini(model, titulo, contenido, categoria):
@@ -122,16 +95,17 @@ Proporciona tu respuesta ESTRICTAMENTE en el siguiente formato JSON. No incluyas
         response = model.generate_content(prompt)
         raw_text = response.text
 
+        # Intenta extraer el JSON incluso si hay texto adicional antes/después
         json_start = raw_text.find('{')
         json_end = raw_text.rfind('}')
         if json_start != -1 and json_end != -1 and json_end > json_start:
             json_text = raw_text[json_start:json_end+1]
         else:
-            json_text = raw_text
+            json_text = raw_text # Asume que es JSON si no se encuentran los delimitadores
 
-        return json.loads(json_text) # Confía en que Gemini devuelve JSON válido si se especifica response_mime_type
+        return json.loads(json_text)
     except json.JSONDecodeError as e:
-        print(f"    ❌ Error al decodificar JSON de Gemini para '{titulo}': {e}. Respuesta recibida: {response.text[:200]}...")
+        print(f"    ❌ Error al decodificar JSON de Gemini para '{titulo}': {e}. Respuesta recibida: {raw_text[:200]}...")
         return None
     except Exception as e:
         print(f"    ❌ Error al resumir y puntuar con Gemini para '{titulo}': {e}")
@@ -204,7 +178,7 @@ def obtener_articulos_recientes(rss_url, horas):
     print(f"  Found {len(articulos_recientes)} recent articles from {rss_url} (last {horas} hours).")
     return articulos_recientes
 
-def procesar_y_resumir_articulos(fuentes, gemini_model):
+def procesar_y_resumir_articulos(fuentes, gemini_model, horas_a_revisar):
     def generate_html_content(processed_articles_by_category, report_type):
         html_content = f"""
     <!DOCTYPE html>
@@ -256,7 +230,7 @@ def procesar_y_resumir_articulos(fuentes, gemini_model):
                                     <div class="article-content-wrapper">
                                         <p class="article-title">{articulo_info['titulo']}</p>
                                         <p class="article-meta">
-                                            Fuente: {articulo_info['source_name']} | Fecha: {articulo_info.get('fecha_str', 'No disp.')}
+                                            Fuente: {articulo_info['source_name']} | Fecha: {articulo_info.get('fecha_str', 'No disp.')} | Justificación: {resumen_datos.get('relevancia_justificacion', 'N/A')}
                                         </p>
                                         <p class="article-summary">{resumen_datos['resumen']}</p>
                                         <a href='{articulo_info['link']}' target='_blank'>Leer más en la fuente original</a>
@@ -271,78 +245,55 @@ def procesar_y_resumir_articulos(fuentes, gemini_model):
     """
         return html_content
 
-
-
-    # --- Lógica principal de procesamiento ---
-    # Esta parte necesita ser modificada para recopilar todos los artículos primero
-    # y luego procesarlos por categoría.
-
-    # Recopilar todos los artículos recientes de todas las fuentes, etiquetados por fuente
     all_articles_by_category = {}
     for categoria, lista_fuentes in fuentes.items():
         all_articles_this_category = []
         print(f"\n📚 Recopilando artículos para la categoría: {categoria.replace('_', ' ').title()}")
         for fuente in lista_fuentes:
-            # obtener_articulos_recientes ya imprime su progreso detallado
-            # Usamos 'horas_a_revisar' que se definirá en el bloque __main__
             articulos_de_fuente = obtener_articulos_recientes(fuente["url"], horas=horas_a_revisar) 
             for art in articulos_de_fuente:
-                art['source_name'] = fuente['name'] # Etiquetar con el nombre de la fuente
+                art['source_name'] = fuente['name']
                 all_articles_this_category.append(art)
         all_articles_by_category[categoria] = all_articles_this_category
         print(f"  📰 Total de artículos recientes encontrados en '{categoria.replace('_', ' ').title()}': {len(all_articles_this_category)}")
 
-    # Procesar y resumir los N artículos principales por categoría
     processed_articles_by_category = {}
-    any_article_processed_overall = False # Reset flag for processing stage
+    any_article_processed_overall = False
 
     for categoria, all_articles_this_category in all_articles_by_category.items():
         print(f"\n✨ Procesando artículos para la categoría: {categoria.replace('_', ' ').title()}")
-        
-        # Ordenar todos los artículos de la categoría por fecha (más recientes primero)
         all_articles_this_category.sort(key=lambda x: x['fecha_obj'], reverse=True)
-
-        # Seleccionar los N artículos principales para resumir para esta categoría
         articles_to_summarize_for_category = all_articles_this_category[:MAX_ARTICLES_TO_SUMMARIZE_PER_CATEGORY]
         print(f"  🎯 Seleccionados para resumir en '{categoria.replace('_', ' ').title()}': {len(articles_to_summarize_for_category)} artículos (límite: {MAX_ARTICLES_TO_SUMMARIZE_PER_CATEGORY})")
-
         articulos_procesados_final_categoria = []
-        
         for i, articulo_para_resumir in enumerate(articles_to_summarize_for_category):
             print(f"  🔄 Procesando ({i+1}/{len(articles_to_summarize_for_category)}) '{articulo_para_resumir['titulo']}' de {articulo_para_resumir['source_name']}...")
-            
             if not articulo_para_resumir["link"] or articulo_para_resumir["link"] == "[sin link]":
                 print(f"    ⚠️ Saltando artículo con enlace faltante: {articulo_para_resumir['titulo']}")
                 continue
-
             contenido = extraer_contenido(articulo_para_resumir["link"])
             if not contenido:
                 print(f"    ⚠️ No se pudo extraer contenido de: {articulo_para_resumir['link']}")
                 continue
-            
-            time.sleep(1.5) # Límite de tasa de API
+            time.sleep(1.5)
             datos_gemini = resumir_y_puntuar_con_gemini(gemini_model, articulo_para_resumir["titulo"], contenido, categoria)
-
             if datos_gemini and \
                datos_gemini.get("teaser_sentence") and \
                datos_gemini.get("resumen") and isinstance(datos_gemini.get("relevancia_score"), int):
                 articulos_procesados_final_categoria.append({
-                    "info": articulo_para_resumir, # Contiene titulo, link, fecha_obj, fecha_str, source_name
+                    "info": articulo_para_resumir,
                     "resumen_datos": datos_gemini
                 })
                 any_article_processed_overall = True
             else:
                 print(f"    ⚠️ Gemini no devolvió datos válidos para: {articulo_para_resumir['titulo']}")
-
-        # Ordenar artículos procesados por puntuación de relevancia
         articulos_procesados_final_categoria.sort(key=lambda x: x["resumen_datos"].get("relevancia_score", 0), reverse=True)
         processed_articles_by_category[categoria] = articulos_procesados_final_categoria
 
-    # Generar HTML y enviar correo
     report_type = "Semanal" if horas_a_revisar == DEFAULT_WEEKLY_HOURS else "Diario"
     html_content = generate_html_content(processed_articles_by_category, report_type)
 
-    if not any_article_processed_overall: # Check the flag after processing all categories
+    if not any_article_processed_overall:
         print("ℹ️ No se procesó ningún artículo para el resumen final.")
         
     try:
@@ -352,18 +303,22 @@ def procesar_y_resumir_articulos(fuentes, gemini_model):
         full_web_url = BASE_WEB_URL + OUTPUT_HTML_FILE_NAME
         print(f"📄 Resumen {report_type} interactivo guardado en: {OUTPUT_HTML_FILE_PATH}")
 
-        # Intentar subir el archivo automáticamente
-        usuario_stanford = "pdelac"  # ¡¡¡IMPORTANTE: MODIFICA ESTO con tu nombre de usuario en Stanford!!!
-        host_stanford = "ccrma-gate.stanford.edu" # Host para SCP
-        directorio_web_remoto_base = "Library/Web" # RUTA A TU DIRECTORIO WEB PÚBLICO EN STANFORD
+        # Leer parámetros de SCP desde variables de entorno (provistas por GitHub Actions Secrets)
+        usuario_stanford = os.getenv("STANFORD_USER", "pdelac") # Valor por defecto si no está en env
+        host_stanford = os.getenv("STANFORD_HOST_SCP", "ccrma-gate.stanford.edu") # Valor por defecto
+        directorio_web_remoto_base = os.getenv("STANFORD_REMOTE_PATH", "Library/Web") # Valor por defecto
+        subida_exitosa = False
 
-        subida_exitosa = subir_archivo_con_scp(
-            OUTPUT_HTML_FILE_PATH,
-            usuario_stanford,
-            host_stanford,
-            directorio_web_remoto_base,
-            OUTPUT_HTML_FILE_NAME
-        )
+        if not all([usuario_stanford, host_stanford, directorio_web_remoto_base]):
+            print("⚠️  Advertencia: Faltan una o más variables de entorno para SCP (STANFORD_USER, STANFORD_HOST_SCP, STANFORD_REMOTE_PATH). Se omitirá la subida automática.")
+        else:
+            subida_exitosa = subir_archivo_con_scp(
+                OUTPUT_HTML_FILE_PATH,
+                usuario_stanford,
+                host_stanford,
+                directorio_web_remoto_base,
+                OUTPUT_HTML_FILE_NAME
+            )
 
         email_subject = f"Resumen {report_type} de Noticias Interactivo"        
         if not any_article_processed_overall:
@@ -372,7 +327,7 @@ def procesar_y_resumir_articulos(fuentes, gemini_model):
         email_body = f"""
         Hola,
 
-        Tu resumen de noticias interactivo está listo.
+        Tu resumen de noticias {report_type.lower()} está listo.
         El archivo ha sido guardado localmente en: {OUTPUT_HTML_FILE_PATH}
         """
 
@@ -385,9 +340,9 @@ def procesar_y_resumir_articulos(fuentes, gemini_model):
         else:
             email_body += f"""
 
-        ⚠️ La subida automática del archivo a tu servidor falló.
+        ⚠️ La subida automática del archivo a tu servidor falló o fue omitida.
         Para subirlo a tu servidor de Stanford, puedes usar un comando similar a este desde tu terminal:
-        scp {OUTPUT_HTML_FILE_PATH} {usuario_stanford}@ccrma-gate.stanford.edu:{directorio_web_remoto_base}/{OUTPUT_HTML_FILE_NAME}
+        scp {OUTPUT_HTML_FILE_PATH} {usuario_stanford}@{host_stanford}:{directorio_web_remoto_base}/{OUTPUT_HTML_FILE_NAME}
         
         Una vez subido, podrás verlo en: {full_web_url}
         (Recuerda que si el archivo {OUTPUT_HTML_FILE_NAME} ya existe en {directorio_web_remoto_base}, scp lo sobrescribirá.)
@@ -404,11 +359,10 @@ def procesar_y_resumir_articulos(fuentes, gemini_model):
 
 def subir_archivo_con_scp(archivo_local, usuario_remoto, host_remoto, ruta_remota_base, nombre_archivo_remoto):
     ruta_completa_remota_destino = f"{ruta_remota_base}/{nombre_archivo_remoto}"
-    
     comando_scp = [
         "scp",
-        "-o", "BatchMode=yes", # Evita prompts interactivos de contraseña si la clave SSH falla
-        "-o", "ConnectTimeout=10", # Timeout para la conexión
+        "-o", "BatchMode=yes",
+        "-o", "ConnectTimeout=10",
         archivo_local,
         f"{usuario_remoto}@{host_remoto}:{ruta_completa_remota_destino}"
     ]
@@ -418,7 +372,7 @@ def subir_archivo_con_scp(archivo_local, usuario_remoto, host_remoto, ruta_remot
         proceso = subprocess.run(comando_scp, check=True, capture_output=True, text=True, timeout=60)
         print(f"✅ Archivo subido exitosamente a {host_remoto}:{ruta_completa_remota_destino}")
         if proceso.stdout: print(f"   Salida de SCP (stdout): {proceso.stdout.strip()}")
-        if proceso.stderr: print(f"   Salida de SCP (stderr): {proceso.stderr.strip()}") # scp a veces usa stderr para mensajes de éxito
+        if proceso.stderr: print(f"   Salida de SCP (stderr): {proceso.stderr.strip()}")
         return True
     except subprocess.CalledProcessError as e:
         print(f"❌ Error al subir archivo con SCP (Código de retorno: {e.returncode}):")
@@ -433,8 +387,18 @@ def subir_archivo_con_scp(archivo_local, usuario_remoto, host_remoto, ruta_remot
         return False
 
 def enviar_correo_con_enlace(subject, body_text):
-    remitente = "patodelac@gmail.com"
-    destinatario = "patodelac@gmail.com"
+    remitente = os.getenv("GMAIL_USER", "tu_email@gmail.com") # Lee de variable de entorno o usa un default
+    destinatario = os.getenv("GMAIL_DESTINATARIO", remitente) # Lee de variable o envía a remitente
+    
+    gmail_app_password = os.getenv("GMAIL_APP_PASSWORD")
+    if not gmail_app_password:
+        print("❌ Error: La variable de entorno GMAIL_APP_PASSWORD no está configurada. No se puede enviar correo.")
+        return
+    if not remitente or remitente == "tu_email@gmail.com":
+        print("❌ Error: La variable de entorno GMAIL_USER no está configurada o usa el valor por defecto. No se puede enviar correo.")
+        return
+
+
     msg = MIMEText(body_text)
     msg["Subject"] = subject
     msg["From"] = remitente
@@ -442,10 +406,6 @@ def enviar_correo_con_enlace(subject, body_text):
 
     try:
         with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
-            gmail_app_password = os.getenv("GMAIL_APP_PASSWORD")
-            if not gmail_app_password:
-                print("❌ Error: La variable de entorno GMAIL_APP_PASSWORD no está configurada. No se puede enviar correo.")
-                return
             server.login(remitente, gmail_app_password)
             server.sendmail(remitente, destinatario, msg.as_string())
             print("📧 Correo con enlace enviado exitosamente.")
@@ -453,7 +413,6 @@ def enviar_correo_con_enlace(subject, body_text):
         print(f"❌ Error al enviar correo con enlace: {e}")
 
 if __name__ == "__main__":
-    # --- Configuración de argumentos de línea de comandos ---
     parser = argparse.ArgumentParser(description="Compila, resume y puntúa noticias de feeds RSS.")
     parser.add_argument(
         "-w", "--weekly", action="store_true",
@@ -462,22 +421,20 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     horas_a_revisar = DEFAULT_WEEKLY_HOURS if args.weekly else DEFAULT_HOURS_AGO
-    print(f"Configurado para revisar noticias de las últimas {horas_a_revisar} horas.")
+    report_type_str = "Semanal" if args.weekly else "Diario"
+    print(f"🚀 Iniciando compilador de noticias para el reporte {report_type_str} (últimas {horas_a_revisar} horas).")
 
-    # --- Configuración de Gemini ---
     GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
     if not GEMINI_API_KEY:
         print("❌ Error CRÍTICO: La variable de entorno GEMINI_API_KEY no está configurada.")
-        print("   Por favor, configura la variable de entorno GEMINI_API_KEY para continuar.")
-        print("   Ejemplo: export GEMINI_API_KEY=\"tu_clave_api_de_gemini\"")
-        exit(1) # Termina el script si la clave no está.
+        exit(1)
 
     try:
         genai.configure(api_key=GEMINI_API_KEY)
         gemini_generative_model = genai.GenerativeModel(
             'gemini-1.5-flash-latest',
             generation_config=genai.types.GenerationConfig(
-                max_output_tokens=450, # Ajusta según necesidad, pero el prompt pide ~150 palabras + teaser + justificación
+                max_output_tokens=450,
                 temperature=0.5,
                 response_mime_type="application/json"
             )
@@ -485,21 +442,24 @@ if __name__ == "__main__":
         print("✅ Modelo Gemini inicializado correctamente.")
     except Exception as e:
         print(f"❌ Error CRÍTICO al inicializar el modelo de Gemini: {e}")
-        print("   Verifica tu API Key y la configuración de la librería google-generativeai.")
-        exit(1) # Termina el script si el modelo no se puede inicializar.
+        exit(1)
 
     fuentes = cargar_fuentes_desde_json()
-    procesar_y_resumir_articulos(fuentes, gemini_generative_model) # Pasa horas_a_revisar implícitamente a obtener_articulos_recientes
+    procesar_y_resumir_articulos(fuentes, gemini_generative_model, horas_a_revisar)
 
 # === INSTRUCCIÓN IMPORTANTE ===
-# Para que el envío de email funcione, debes crear una contraseña de aplicación en tu cuenta de Gmail
-# y guardarla como variable de entorno:
-#   export GMAIL_APP_PASSWORD="tu_clave_de_aplicacion"
+# Para que este script funcione correctamente, especialmente en entornos automatizados como GitHub Actions:
+# 1. Asegúrate de que el archivo 'fuentes_rss.json' esté presente en el mismo directorio que este script.
+# 2. Configura las siguientes variables de entorno (o "secrets" en GitHub Actions):
+#    - GEMINI_API_KEY: Tu clave API de Google Gemini.
+#    - GMAIL_APP_PASSWORD: Tu contraseña de aplicación de Gmail.
+#    - GMAIL_USER: Tu dirección de correo de Gmail (remitente).
+#    - GMAIL_DESTINATARIO: (Opcional) Dirección de correo del destinatario, si es diferente al remitente.
+#    - BASE_WEB_URL: La URL base donde se alojará el archivo HTML (ej. "https://ccrma.stanford.edu/~pdelac/").
+#    - STANFORD_USER: Tu nombre de usuario en el servidor de Stanford para SCP.
+#    - STANFORD_HOST_SCP: El host del servidor de Stanford para SCP (ej. "ccrma-gate.stanford.edu").
+#    - STANFORD_REMOTE_PATH: La ruta en el servidor de Stanford donde se subirá el archivo (ej. "Library/Web").
+#    - STANFORD_SSH_PRIVATE_KEY: (Solo para GitHub Actions) La clave SSH privada para autenticar con el servidor de Stanford.
 #
-# Para que la generación de resúmenes con Gemini funcione, necesitas una API Key de Google AI Studio
-# y guardarla como variable de entorno:
-#   export GEMINI_API_KEY="tu_clave_api_de_gemini"
-#
-# Para la subida automática por SCP, asegúrate de tener configurada la autenticación por clave SSH
-# entre tu máquina local y ccrma.stanford.edu para el usuario que configures en la variable 'usuario_stanford'.
-# Si tu clave SSH privada tiene contraseña, asegúrate de que ssh-agent la esté gestionando.
+# Para desarrollo local, puedes crear un archivo '.env' en el mismo directorio y definir estas variables allí.
+# La línea 'load_dotenv()' al principio del script cargará estas variables.

@@ -1,0 +1,106 @@
+name: Generar Resumen de Noticias
+
+on:
+  schedule:
+    # Ejecuta todos los días a las 07:00 UTC (ajusta la hora según tu preferencia)
+    # Puedes usar https://crontab.guru/ para generar expresiones cron
+    - cron: '0 7 * * *' # Reporte diario
+    # Descomenta y ajusta si quieres un reporte semanal en un día específico, ej. Domingos a las 08:00 UTC
+    # - cron: '0 8 * * 0' # Reporte semanal los Domingos
+  workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña "Actions" en GitHub
+
+jobs:
+  generate_daily_report:
+    name: Reporte Diario de Noticias
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout del repositorio
+      uses: actions/checkout@v4
+
+    - name: Configurar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10' # Asegúrate que coincida con la versión con la que desarrollaste
+
+    - name: Instalar dependencias
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+    - name: Ejecutar script de noticias (Diario)
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        BASE_WEB_URL: ${{ secrets.BASE_WEB_URL || 'https://ccrma.stanford.edu/~pdelac/' }}
+        # El script compila_noticias.py por defecto es diario si no se pasa --weekly
+      run: python compila_noticias.py # Asume que tu script está en la raíz del repo
+
+    - name: Configurar SSH para SCP (Diario)
+      if: success() # Solo si el script se ejecutó bien
+      uses: webfactory/ssh-agent@v0.9.0
+      with:
+        ssh-private-key: ${{ secrets.STANFORD_SSH_PRIVATE_KEY }}
+
+    - name: Subir archivo HTML a Stanford (Diario)
+      if: success()
+      env:
+        STANFORD_USER: ${{ secrets.STANFORD_USER || 'pdelac' }}
+        STANFORD_HOST_SCP: ${{ secrets.STANFORD_HOST_SCP || 'ccrma-gate.stanford.edu' }}
+        STANFORD_REMOTE_PATH: ${{ secrets.STANFORD_REMOTE_PATH || 'Library/Web' }}
+        OUTPUT_HTML_FILE_NAME: "resumen_noticias.html" # Debe coincidir con OUTPUT_HTML_FILE_NAME en tu script
+      run: |
+        scp -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null \
+        ./${OUTPUT_HTML_FILE_NAME} \
+        ${STANFORD_USER}@${STANFORD_HOST_SCP}:${STANFORD_REMOTE_PATH}/${OUTPUT_HTML_FILE_NAME}
+        echo "Archivo HTML diario subido."
+
+  # Descomenta y adapta este job si quieres un reporte semanal separado
+  # generate_weekly_report:
+  #   name: Reporte Semanal de Noticias
+  #   if: github.event_name == 'schedule' && github.event.schedule == '0 8 * * 0' # Asegúrate que el cron coincida
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #   - name: Checkout del repositorio
+  #     uses: actions/checkout@v4
+
+  #   - name: Configurar Python
+  #     uses: actions/setup-python@v4
+  #     with:
+  #       python-version: '3.10'
+
+  #   - name: Instalar dependencias
+  #     run: |
+  #       python -m pip install --upgrade pip
+  #       if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+  #   - name: Ejecutar script de noticias (Semanal)
+  #     env:
+  #       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+  #       GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+  #       BASE_WEB_URL: ${{ secrets.BASE_WEB_URL || 'https://ccrma.stanford.edu/~pdelac/' }}
+  #     run: python compila_noticias.py --weekly # Pasa el argumento --weekly
+
+  #   - name: Configurar SSH para SCP (Semanal)
+  #     if: success()
+  #     uses: webfactory/ssh-agent@v0.9.0
+  #     with:
+  #       ssh-private-key: ${{ secrets.STANFORD_SSH_PRIVATE_KEY }}
+
+  #   - name: Subir archivo HTML a Stanford (Semanal)
+  #     if: success()
+  #     env:
+  #       STANFORD_USER: ${{ secrets.STANFORD_USER || 'pdelac' }}
+  #       STANFORD_HOST_SCP: ${{ secrets.STANFORD_HOST_SCP || 'ccrma-gate.stanford.edu' }}
+  #       STANFORD_REMOTE_PATH: ${{ secrets.STANFORD_REMOTE_PATH || 'Library/Web' }}
+  #       # Podrías querer un nombre de archivo diferente para el reporte semanal
+  #       OUTPUT_HTML_FILE_NAME_WEEKLY: "resumen_semanal_noticias.html"
+  #     run: |
+  #       # Asegúrate que tu script genere el archivo con este nombre si es semanal
+  #       # o renómbralo aquí antes de subirlo si el script siempre usa el mismo nombre.
+  #       # Ejemplo si el script siempre genera "resumen_noticias.html":
+  #       # mv ./resumen_noticias.html ./${OUTPUT_HTML_FILE_NAME_WEEKLY}
+  #       scp -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null \
+  #       ./${OUTPUT_HTML_FILE_NAME_WEEKLY} \ # O el nombre que use tu script para el semanal
+  #       ${STANFORD_USER}@${STANFORD_HOST_SCP}:${STANFORD_REMOTE_PATH}/${OUTPUT_HTML_FILE_NAME_WEEKLY}
+  #       echo "Archivo HTML semanal subido."
+
