@@ -6,7 +6,7 @@ on:
     # Puedes usar https://crontab.guru/ para generar expresiones cron
     - cron: '0 7 * * *' # Reporte diario
     # Descomenta y ajusta si quieres un reporte semanal en un día específico, ej. Domingos a las 08:00 UTC
-    # - cron: '0 8 * * 0' # Reporte semanal los Domingos
+    - cron: '0 8 * * 0' # Reporte semanal los Domingos
   workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña "Actions" en GitHub
 
 jobs:
@@ -53,53 +53,50 @@ jobs:
         # Opcional: si solo quieres el último resumen y no acumular historial en gh-pages
         force_orphan: true
 
-  # Descomenta y adapta este job si quieres un reporte semanal separado
-  # generate_weekly_report:
-  #   name: Reporte Semanal de Noticias
-  #   if: github.event_name == 'schedule' && github.event.schedule == '0 8 * * 0' # Asegúrate que el cron coincida
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #   - name: Checkout del repositorio
-  #     uses: actions/checkout@v4
+  generate_weekly_report:
+    name: Reporte Semanal de Noticias
+    # Asegúrate que el cron '0 8 * * 0' (Domingos a las 08:00 UTC) no se solape demasiado con el diario
+    # o que entiendas que el último en ejecutarse será el que veas en la URL.
+    if: github.event_name == 'schedule' && github.event.schedule == '0 8 * * 0' # Asegúrate que el cron coincida con el de `on.schedule`
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout del repositorio
+      uses: actions/checkout@v4
 
-  #   - name: Configurar Python
-  #     uses: actions/setup-python@v4
-  #     with:
-  #       python-version: '3.10'
+    - name: Configurar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
 
-  #   - name: Instalar dependencias
-  #     run: |
-  #       python -m pip install --upgrade pip
-  #       if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Instalar dependencias
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-  #   - name: Ejecutar script de noticias (Semanal)
-  #     env:
-  #       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-  #       GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-  #       GMAIL_USER: ${{ secrets.GMAIL_USER }}
-  #       GMAIL_DESTINATARIO: ${{ secrets.GMAIL_DESTINATARIO || secrets.GMAIL_USER }}
-  #       BASE_WEB_URL: "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
-  #       GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
-  #       GITHUB_REPOSITORY_NAME: ${{ github.event.repository.name }}
-  #       # Para el reporte semanal, podrías querer un nombre de archivo diferente
-  #       # OUTPUT_HTML_FILE_NAME: "resumen_semanal_noticias.html" # Si tu script lo maneja
-  #     run: python compila_noticias.py --weekly # Pasa el argumento --weekly
+    - name: Ejecutar script de noticias (Semanal)
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        GMAIL_USER: ${{ secrets.GMAIL_USER }}
+        GMAIL_DESTINATARIO: ${{ secrets.GMAIL_DESTINATARIO || secrets.GMAIL_USER }}
+        BASE_WEB_URL: "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
+        GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+        GITHUB_REPOSITORY_NAME: ${{ github.event.repository.name }}
+        # El script compila_noticias.py generará resumen_noticias.html con contenido semanal
+      run: python compila_noticias.py --weekly # Pasa el argumento --weekly
 
-  #   - name: Deploy Weekly Report to GitHub Pages
-  #     if: success()
-  #     uses: peaceiris/actions-gh-pages@v3
-  #     with:
-  #       github_token: ${{ secrets.GITHUB_TOKEN }}
-  #       publish_dir: ./ # Asume que el script genera el archivo con el nombre correcto
-  #       # Si el script genera resumen_noticias.html, y quieres un nombre diferente para el semanal:
-  #       # target_path: resumen_semanal_noticias.html # Publica el archivo con este nombre en la raíz de gh-pages
-  #       # O si tu script genera un archivo con nombre diferente para el semanal:
-  #       # publish_dir: ./ # y asegúrate que el nombre del archivo sea el que quieres
-  #       publish_branch: gh-pages
-  #       user_name: 'github-actions[bot]'
-  #       user_email: 'github-actions[bot]@users.noreply.github.com'
-  #       commit_message: 'Deploy weekly news summary to GitHub Pages'
-  #       # Considera si quieres `force_orphan: true` también aquí o `keep_files: true`
-  #       # si quieres mantener tanto el diario como el semanal en la misma rama.
-  #       # Si quieres archivos separados, asegúrate que tu script Python genere
-  #       # nombres de archivo diferentes o renómbralos antes de este paso.
+    - name: Deploy Weekly Report to GitHub Pages
+      if: success()
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./ # Publica el contenido de la raíz (donde está resumen_noticias.html)
+        publish_branch: gh-pages
+        user_name: 'github-actions[bot]'
+        user_email: 'github-actions[bot]@users.noreply.github.com'
+        commit_message: 'Deploy weekly news summary to GitHub Pages'
+        force_orphan: true # Para mantener la rama gh-pages limpia solo con el último reporte
+        # Si quisieras mantener tanto el diario como el semanal con nombres diferentes,
+        # necesitarías modificar el script de Python para que genere, por ejemplo,
+        # "resumen_semanal_noticias.html" y luego ajustar `publish_dir` o usar `target_path`.
+        # Por ahora, el semanal sobrescribirá al diario cuando se ejecute.
