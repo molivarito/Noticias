@@ -46,7 +46,15 @@ OUTPUT_HTML_FILE_PATH = os.path.join(SCRIPT_DIR, OUTPUT_HTML_FILE_NAME) # Ruta c
 
 # Leer la URL base del servidor desde una variable de entorno.
 # El workflow de GitHub Actions la proveerá desde un secret o un valor por defecto.
-BASE_WEB_URL = os.getenv("BASE_WEB_URL", "https://ccrma.stanford.edu/~pdelac/")
+# Para GitHub Pages, el workflow pasa la URL completa.
+github_repo_owner = os.getenv("GITHUB_REPOSITORY_OWNER")
+github_repo_name = os.getenv("GITHUB_REPOSITORY_NAME")
+
+if github_repo_owner and github_repo_name:
+    default_gh_pages_url = f"https://{github_repo_owner}.github.io/{github_repo_name}/"
+else:
+    default_gh_pages_url = "https://tu-usuario.github.io/tu-repositorio/" # Placeholder si no se ejecuta en Actions
+BASE_WEB_URL = os.getenv("BASE_WEB_URL", default_gh_pages_url)
 
 import json
 
@@ -303,22 +311,8 @@ def procesar_y_resumir_articulos(fuentes, gemini_model, horas_a_revisar):
         full_web_url = BASE_WEB_URL + OUTPUT_HTML_FILE_NAME
         print(f"📄 Resumen {report_type} interactivo guardado en: {OUTPUT_HTML_FILE_PATH}")
 
-        # Leer parámetros de SCP desde variables de entorno (provistas por GitHub Actions Secrets)
-        usuario_stanford = os.getenv("STANFORD_USER", "pdelac") # Valor por defecto si no está en env
-        host_stanford = os.getenv("STANFORD_HOST_SCP", "ccrma-gate.stanford.edu") # Valor por defecto
-        directorio_web_remoto_base = os.getenv("STANFORD_REMOTE_PATH", "Library/Web") # Valor por defecto
-        subida_exitosa = False
-
-        if not all([usuario_stanford, host_stanford, directorio_web_remoto_base]):
-            print("⚠️  Advertencia: Faltan una o más variables de entorno para SCP (STANFORD_USER, STANFORD_HOST_SCP, STANFORD_REMOTE_PATH). Se omitirá la subida automática.")
-        else:
-            subida_exitosa = subir_archivo_con_scp(
-                OUTPUT_HTML_FILE_PATH,
-                usuario_stanford,
-                host_stanford,
-                directorio_web_remoto_base,
-                OUTPUT_HTML_FILE_NAME
-            )
+        # Ya no se usa SCP, la subida la hace GitHub Actions a GitHub Pages
+        print(f"ℹ️  El archivo se desplegará en GitHub Pages: {full_web_url}")
 
         email_subject = f"Resumen {report_type} de Noticias Interactivo"        
         if not any_article_processed_overall:
@@ -328,24 +322,7 @@ def procesar_y_resumir_articulos(fuentes, gemini_model, horas_a_revisar):
         Hola,
 
         Tu resumen de noticias {report_type.lower()} está listo.
-        El archivo ha sido guardado localmente en: {OUTPUT_HTML_FILE_PATH}
-        """
-
-        if subida_exitosa:
-            email_body += f"""
-
-        ¡El archivo ha sido subido automáticamente a tu servidor!
-        Puedes verlo directamente en: {full_web_url}
-        """
-        else:
-            email_body += f"""
-
-        ⚠️ La subida automática del archivo a tu servidor falló o fue omitida.
-        Para subirlo a tu servidor de Stanford, puedes usar un comando similar a este desde tu terminal:
-        scp {OUTPUT_HTML_FILE_PATH} {usuario_stanford}@{host_stanford}:{directorio_web_remoto_base}/{OUTPUT_HTML_FILE_NAME}
-        
-        Una vez subido, podrás verlo en: {full_web_url}
-        (Recuerda que si el archivo {OUTPUT_HTML_FILE_NAME} ya existe en {directorio_web_remoto_base}, scp lo sobrescribirá.)
+        Puedes verlo directamente en GitHub Pages: {full_web_url}
         """
         email_body += """
 
@@ -357,34 +334,34 @@ def procesar_y_resumir_articulos(fuentes, gemini_model, horas_a_revisar):
     except IOError as e:
         print(f"❌ Error al guardar el archivo HTML: {e}")
 
-def subir_archivo_con_scp(archivo_local, usuario_remoto, host_remoto, ruta_remota_base, nombre_archivo_remoto):
-    ruta_completa_remota_destino = f"{ruta_remota_base}/{nombre_archivo_remoto}"
-    comando_scp = [
-        "scp",
-        "-o", "BatchMode=yes",
-        "-o", "ConnectTimeout=10",
-        archivo_local,
-        f"{usuario_remoto}@{host_remoto}:{ruta_completa_remota_destino}"
-    ]
-    try:
-        print(f"🚀 Intentando subir {archivo_local} a {host_remoto}...")
-        print(f"   Comando: {' '.join(comando_scp)}")
-        proceso = subprocess.run(comando_scp, check=True, capture_output=True, text=True, timeout=60)
-        print(f"✅ Archivo subido exitosamente a {host_remoto}:{ruta_completa_remota_destino}")
-        if proceso.stdout: print(f"   Salida de SCP (stdout): {proceso.stdout.strip()}")
-        if proceso.stderr: print(f"   Salida de SCP (stderr): {proceso.stderr.strip()}")
-        return True
-    except subprocess.CalledProcessError as e:
-        print(f"❌ Error al subir archivo con SCP (Código de retorno: {e.returncode}):")
-        if e.stdout: print(f"   Salida Estándar: {e.stdout.strip()}")
-        if e.stderr: print(f"   Salida de Error: {e.stderr.strip()}")
-        return False
-    except FileNotFoundError:
-        print("❌ Error: El comando 'scp' no se encontró. Asegúrate de que esté instalado y en tu PATH.")
-        return False
-    except subprocess.TimeoutExpired:
-        print("❌ Error: El comando SCP tardó demasiado tiempo (timeout).")
-        return False
+# def subir_archivo_con_scp(archivo_local, usuario_remoto, host_remoto, ruta_remota_base, nombre_archivo_remoto):
+#     ruta_completa_remota_destino = f"{ruta_remota_base}/{nombre_archivo_remoto}"
+#     comando_scp = [
+#         "scp",
+#         "-o", "BatchMode=yes",
+#         "-o", "ConnectTimeout=10",
+#         archivo_local,
+#         f"{usuario_remoto}@{host_remoto}:{ruta_completa_remota_destino}"
+#     ]
+#     try:
+#         print(f"🚀 Intentando subir {archivo_local} a {host_remoto}...")
+#         print(f"   Comando: {' '.join(comando_scp)}")
+#         proceso = subprocess.run(comando_scp, check=True, capture_output=True, text=True, timeout=60)
+#         print(f"✅ Archivo subido exitosamente a {host_remoto}:{ruta_completa_remota_destino}")
+#         if proceso.stdout: print(f"   Salida de SCP (stdout): {proceso.stdout.strip()}")
+#         if proceso.stderr: print(f"   Salida de SCP (stderr): {proceso.stderr.strip()}")
+#         return True
+#     except subprocess.CalledProcessError as e:
+#         print(f"❌ Error al subir archivo con SCP (Código de retorno: {e.returncode}):")
+#         if e.stdout: print(f"   Salida Estándar: {e.stdout.strip()}")
+#         if e.stderr: print(f"   Salida de Error: {e.stderr.strip()}")
+#         return False
+#     except FileNotFoundError:
+#         print("❌ Error: El comando 'scp' no se encontró. Asegúrate de que esté instalado y en tu PATH.")
+#         return False
+#     except subprocess.TimeoutExpired:
+#         print("❌ Error: El comando SCP tardó demasiado tiempo (timeout).")
+#         return False
 
 def enviar_correo_con_enlace(subject, body_text):
     remitente = os.getenv("GMAIL_USER", "tu_email@gmail.com") # Lee de variable de entorno o usa un default
@@ -455,11 +432,11 @@ if __name__ == "__main__":
 #    - GMAIL_APP_PASSWORD: Tu contraseña de aplicación de Gmail.
 #    - GMAIL_USER: Tu dirección de correo de Gmail (remitente).
 #    - GMAIL_DESTINATARIO: (Opcional) Dirección de correo del destinatario, si es diferente al remitente.
-#    - BASE_WEB_URL: La URL base donde se alojará el archivo HTML (ej. "https://ccrma.stanford.edu/~pdelac/").
-#    - STANFORD_USER: Tu nombre de usuario en el servidor de Stanford para SCP.
-#    - STANFORD_HOST_SCP: El host del servidor de Stanford para SCP (ej. "ccrma-gate.stanford.edu").
-#    - STANFORD_REMOTE_PATH: La ruta en el servidor de Stanford donde se subirá el archivo (ej. "Library/Web").
-#    - STANFORD_SSH_PRIVATE_KEY: (Solo para GitHub Actions) La clave SSH privada para autenticar con el servidor de Stanford.
-#
+#    - BASE_WEB_URL: (Automáticamente provista por el workflow para GitHub Pages)
+#    - GITHUB_REPOSITORY_OWNER: (Automáticamente provista por el workflow)
+#    - GITHUB_REPOSITORY_NAME: (Automáticamente provista por el workflow)
+# 
+#  Variables de SCP ya no son necesarias si solo usas GitHub Pages:
+#    - STANFORD_USER, STANFORD_HOST_SCP, STANFORD_REMOTE_PATH, STANFORD_SSH_PRIVATE_KEY
 # Para desarrollo local, puedes crear un archivo '.env' en el mismo directorio y definir estas variables allí.
 # La línea 'load_dotenv()' al principio del script cargará estas variables.
