@@ -10,7 +10,7 @@
         },
         {
             "name": "Reuters World News",
-            "url": "https://www.reuters.com/pf/api/v3/content/fetch/articles-by-section-alias-or-id-v1?query=%7B%22arc-site%22%3A%22reuters%22%2C%22section_id%22%3A%22%2Fworld%2F%22%2C%22offset%22%3A0%2C%22size%22%3A20%7D&d=149&_website=reuters"
+            "url": "https://www.reuters.com/world/feed/"
         },
         {
             "name": "Le Figaro",
@@ -18,7 +18,7 @@
         },
         {
             "name": "Associated Press World News",
-            "url": "https://apnews.com/hub/world-news/rss"
+            "url": "https://feeds.apnews.com/APF-WorldNews/rss2.0.xml"
         },
         {
             "name": "El País Internacional",
@@ -45,6 +45,14 @@
         {
             "name": "BioBioChile",
             "url": "https://www.biobiochile.cl/lista/categorias/actualidad/feed"
+        },
+        {
+            "name": "CNN Chile",
+            "url": "https://www.cnnchile.com/feed/"
+        },
+        {
+            "name": "Cooperativa",
+            "url": "https://www.cooperativa.cl/noticias/site/tax/port/all/rss____1.xml"
         }
     ],
     "opinion_ensayo": [
@@ -89,8 +97,8 @@
     ],
     "cultura_arte": [
         {
-            "name": "The Guardian Culture",
-            "url": "https://www.theguardian.com/uk/culture/rss"
+            "name": "Artnet News",
+            "url": "https://news.artnet.com/feed"
         },
         {
             "name": "El País Cultura",
