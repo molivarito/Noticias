@@ -187,24 +187,41 @@ def obtener_articulos_recientes(rss_url, horas):
     return articulos_recientes
 
 def procesar_y_resumir_articulos(fuentes, gemini_model, horas_a_revisar):
-    def generate_html_content(processed_articles_by_category, report_type):
+    def generate_html_content(processed_articles_by_category, report_type, generation_timestamp_str):
+        # Iconos Unicode para categorías (puedes personalizarlos)
+        category_icons = {
+            "internacional": "🌍",
+            "nacional": "🇨🇱", # O un icono más genérico como 📰
+            "opinion_ensayo": "✍️",
+            "ciencia_tecnologia": "🔬",
+            "cultura_arte": "🎨",
+            "default": "🔹" # Icono por defecto
+        }
+
         html_content = f"""
     <!DOCTYPE html>
     <html lang="es">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
         <title>Resumen {report_type.title()} de Noticias</title>
         <style>
-            body {{ font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; line-height: 1.6; margin: 0; padding: 20px; background-color: #f8f9fa; color: #212529; }}
-            .container {{ max-width: 900px; margin: 20px auto; background-color: #ffffff; padding: 25px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }}
-            h1 {{ color: #343a40; text-align: center; margin-bottom: 30px; font-weight: 600; }}
-            h2 {{ color: #495057; border-bottom: 2px solid #dee2e6; padding-bottom: 10px; margin-top: 30px; margin-bottom: 20px; font-weight: 500; }}
-            h3 {{ color: #6c757d; margin-top: 25px; margin-bottom: 15px; font-weight: 500; }}
-            details {{ background-color: #ffffff; border: 1px solid #e9ecef; border-radius: 6px; margin-bottom: 15px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }}
-            details[open] {{ background-color: #fdfdff; }}
-            summary {{ font-weight: 600; cursor: pointer; color: #0056b3; font-size: 1.1em; margin-bottom: 5px; list-style-position: inside; }}
-            summary:hover {{ color: #003d82; }}
+            body {{ 
+                font-family: 'Roboto', sans-serif; 
+                line-height: 1.6; margin: 0; padding: 20px; 
+                background-color: #f4f7f6; /* Fondo ligeramente más cálido */
+                color: #333; 
+            }}
+            .container {{ max-width: 900px; margin: 30px auto; background-color: #ffffff; padding: 30px; border-radius: 10px; box-shadow: 0 6px 12px rgba(0,0,0,0.08); }}
+            h1 {{ font-family: 'Montserrat', sans-serif; color: #2c3e50; text-align: center; margin-bottom: 15px; font-weight: 700; font-size: 2.2em; }}
+            .report-timestamp {{ text-align: center; font-size: 0.9em; color: #555; margin-top: -10px; margin-bottom: 35px; }}
+            h2 {{ font-family: 'Montserrat', sans-serif; color: #34495e; border-bottom: 3px solid #1abc9c; /* Color de acento */ padding-bottom: 12px; margin-top: 40px; margin-bottom: 25px; font-weight: 600; font-size: 1.8em; }}
+            details {{ background-color: #fdfdfd; border: 1px solid #e0e0e0; border-radius: 8px; margin-bottom: 20px; padding: 20px; box-shadow: 0 3px 6px rgba(0,0,0,0.04); transition: box-shadow 0.3s ease; }}
+            details:hover {{ box-shadow: 0 5px 10px rgba(0,0,0,0.06); }}
+            details[open] {{ background-color: #ffffff; border-left: 5px solid #1abc9c; /* Color de acento al abrir */ }}
+            summary {{ font-family: 'Montserrat', sans-serif; font-weight: 600; cursor: pointer; color: #2980b9; /* Azul más vibrante */ font-size: 1.15em; margin-bottom: 8px; list-style-position: inside; outline: none; }}
+            summary:hover {{ color: #1f618d; }}
             .article-content-wrapper {{ padding-top: 10px; }}
             .article-title {{ font-size: 1.15em; font-weight: bold; color: #343a40; margin-bottom: 5px; }}
             .article-meta {{ font-size: 0.85em; color: #6c757d; margin-bottom: 8px; }}
@@ -216,16 +233,19 @@ def procesar_y_resumir_articulos(fuentes, gemini_model, horas_a_revisar):
     </head>
     <body>
         <div class="container">
-            <h1>Resumen {report_type.title()} de Noticias</h1>"""
+            <h1>Resumen {report_type.title()} de Noticias</h1>
+            <p class="report-timestamp">Generado el: {generation_timestamp_str}</p>
+            """
         
         if not processed_articles_by_category:
             html_content += "<p class='no-articles'><i>No se procesaron artículos para ninguna categoría.</i></p>"
         else:
             for categoria, articulos_procesados_list in processed_articles_by_category.items():
-                html_content += f"<h2>{categoria.replace('_', ' ').title()}</h2>"
+                icon = category_icons.get(categoria, category_icons["default"])
+                html_content += f"<h2>{icon} {categoria.replace('_', ' ').title()}</h2>"
                 
                 if not articulos_procesados_list:
-                    html_content += f"<p class='no-articles'><i>No se encontraron artículos procesados para la categoría {categoria.replace('_', ' ').title()}.</i></p>"
+                    html_content += f"<p class='no-articles'><i>No se encontraron artículos procesados para la categoría {icon} {categoria.replace('_', ' ').title()}.</i></p>"
                 else:
                     for item_procesado in articulos_procesados_list:
                         articulo_info = item_procesado["info"]
@@ -299,8 +319,10 @@ def procesar_y_resumir_articulos(fuentes, gemini_model, horas_a_revisar):
         processed_articles_by_category[categoria] = articulos_procesados_final_categoria
 
     report_type = "Semanal" if horas_a_revisar == DEFAULT_WEEKLY_HOURS else "Diario"
-    html_content = generate_html_content(processed_articles_by_category, report_type)
-
+    # Obtener la fecha y hora actual para el timestamp
+    generation_timestamp = datetime.now(timezone.utc)
+    generation_timestamp_str = generation_timestamp.strftime("%d de %B de %Y, %H:%M:%S UTC")
+    html_content = generate_html_content(processed_articles_by_category, report_type, generation_timestamp_str)
     if not any_article_processed_overall:
         print("ℹ️ No se procesó ningún artículo para el resumen final.")
         
