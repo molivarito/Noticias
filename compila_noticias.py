@@ -41,7 +41,7 @@ DEFAULT_HOURS_AGO = 24
 DEFAULT_WEEKLY_HOURS = 7 * 24 # 7 días en horas
 USER_AGENT = "NewsAggregatorBot/1.0 (+http://example.com/botinfo)"
 MAX_ARTICLES_TO_SUMMARIZE_PER_CATEGORY = 5 # Límite de artículos a resumir por categoría
-OUTPUT_HTML_FILE_NAME = "resumen_noticias.html" # Solo el nombre del archivo
+OUTPUT_HTML_FILE_NAME = "resumen_noticias_nuevas.html" # Solo el nombre del archivo
 OUTPUT_HTML_FILE_PATH = os.path.join(SCRIPT_DIR, OUTPUT_HTML_FILE_NAME) # Ruta completa al archivo HTML local
 
 # Leer la URL base del servidor desde una variable de entorno.
