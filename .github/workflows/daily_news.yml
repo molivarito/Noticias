@@ -17,6 +17,14 @@ jobs:
     - name: Checkout del repositorio
       uses: actions/checkout@v4
 
+    - name: Cache del historial de noticias
+      id: cache-historial
+      uses: actions/cache@v4
+      with:
+        path: historial_noticias.json
+        # La clave de caché es simple; el script de Python gestiona el contenido.
+        key: ${{ runner.os }}-historial-noticias
+
     - name: Configurar Python
       uses: actions/setup-python@v4
       with:
@@ -28,7 +36,8 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
     - name: 1. Ejecutar script de noticias (Diario)
-      # Este paso siempre se ejecuta, ya sea por schedule diario o manual.
+      # Se ejecuta solo si el trigger es manual O si es el schedule diario específico.
+      if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && github.event.schedule == '0 7 * * *')
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
