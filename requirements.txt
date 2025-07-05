@@ -1,0 +1,6 @@
+google-generativeai
+feedparser
+newspaper3k
+lxml[html_clean]
+certifi
+python-dotenv
