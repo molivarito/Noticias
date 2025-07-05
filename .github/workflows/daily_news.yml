@@ -12,6 +12,8 @@ on:
 jobs:
   generate_daily_report:
     name: Reporte Diario de Noticias
+    # Ejecuta este job si es un trigger manual O si es el schedule diario específico
+    if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && github.event.schedule == '0 7 * * *')
     runs-on: ubuntu-latest
     steps:
     - name: Checkout del repositorio
@@ -55,9 +57,8 @@ jobs:
 
   generate_weekly_report:
     name: Reporte Semanal de Noticias
-    # Asegúrate que el cron '0 8 * * 0' (Domingos a las 08:00 UTC) no se solape demasiado con el diario
-    # o que entiendas que el último en ejecutarse será el que veas en la URL.
-    if: github.event_name == 'schedule' && github.event.schedule == '0 8 * * 0' # Asegúrate que el cron coincida con el de `on.schedule`
+    # Ejecuta este job si es un trigger manual O si es el schedule semanal específico
+    if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && github.event.schedule == '0 8 * * 0')
     runs-on: ubuntu-latest
     steps:
     - name: Checkout del repositorio
@@ -95,8 +96,5 @@ jobs:
         user_name: 'github-actions[bot]'
         user_email: 'github-actions[bot]@users.noreply.github.com'
         commit_message: 'Deploy weekly news summary to GitHub Pages'
-        force_orphan: true # Para mantener la rama gh-pages limpia solo con el último reporte
-        # Si quisieras mantener tanto el diario como el semanal con nombres diferentes,
-        # necesitarías modificar el script de Python para que genere, por ejemplo,
-        # "resumen_semanal_noticias.html" y luego ajustar `publish_dir` o usar `target_path`.
-        # Por ahora, el semanal sobrescribirá al diario cuando se ejecute.
+        # Se elimina force_orphan: true para permitir que los reportes diario y semanal coexistan
+        # en la rama gh-pages sin sobreescribirse mutuamente.
