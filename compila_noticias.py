@@ -528,27 +528,14 @@ if __name__ == "__main__":
         exit(1)
 
     if args.weekly:
-        # Lógica semanal: leer del historial, generar reporte y limpiar historial.
-        # Refactorización pendiente: mover generate_html_content fuera para ser reutilizable.
-        # Por ahora, esta es una aproximación. La lógica de generación de HTML está dentro de procesar_y_resumir_articulos
-        # lo que hace este flujo un poco más complejo.
-        # La solución más limpia sería tener una función dedicada para el reporte semanal.
+        # Lógica semanal: leer del historial, generar reporte y limpiar el historial.
         print("🚀 Iniciando compilador de noticias para el reporte Semanal desde el historial.")
-        # Aquí iría la llamada a una función refactorizada como `generar_reporte_semanal_desde_historial()`
-        # Por simplicidad, la lógica se puede integrar aquí o en una nueva función.
-        # Dado que el código original tiene la generación de HTML anidada,
-        # el cambio más simple es modificar el flujo principal.
-        # La lógica de `procesar_reporte_semanal_desde_historial` debería ser llamada aquí.
-        # Por ahora, vamos a mantener el flujo original y solo cambiar la fuente de datos.
-        procesar_y_resumir_articulos(fuentes={}, gemini_model=gemini_generative_model, horas_a_revisar=DEFAULT_WEEKLY_HOURS)
-
+        procesar_reporte_semanal()
     else:
         # Lógica diaria: leer feeds, generar reporte y AÑADIR al historial.
-        horas_a_revisar = DEFAULT_HOURS_AGO
-        report_type_str = "Diario"
-        print(f"🚀 Iniciando compilador de noticias para el reporte {report_type_str} (últimas {horas_a_revisar} horas).")
+        print("🚀 Iniciando compilador de noticias para el reporte Diario.")
         fuentes = cargar_fuentes_desde_json()
-        procesar_y_resumir_articulos(fuentes, gemini_generative_model, horas_a_revisar)
+        procesar_reporte_diario(fuentes, gemini_generative_model)
 
 # === INSTRUCCIÓN IMPORTANTE ===
 # Para que este script funcione correctamente, especialmente en entornos automatizados como GitHub Actions:
