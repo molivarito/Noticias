@@ -50,8 +50,8 @@ jobs:
         user_name: 'github-actions[bot]'
         user_email: 'github-actions[bot]@users.noreply.github.com'
         commit_message: 'Deploy daily news summary to GitHub Pages'
-        # Opcional: si solo quieres el último resumen y no acumular historial en gh-pages
-        force_orphan: true
+        # Se elimina force_orphan: true para permitir que los reportes diario y semanal coexistan
+        # en la rama gh-pages sin sobreescribirse mutuamente.
 
   generate_weekly_report:
     name: Reporte Semanal de Noticias

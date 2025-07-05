@@ -41,8 +41,6 @@ DEFAULT_HOURS_AGO = 24
 DEFAULT_WEEKLY_HOURS = 7 * 24 # 7 días en horas
 USER_AGENT = "NewsAggregatorBot/1.0 (+http://example.com/botinfo)"
 MAX_ARTICLES_TO_SUMMARIZE_PER_CATEGORY = 5 # Límite de artículos a resumir por categoría
-OUTPUT_HTML_FILE_NAME = "resumen_noticias_nuevas.html" # Solo el nombre del archivo
-OUTPUT_HTML_FILE_PATH = os.path.join(SCRIPT_DIR, OUTPUT_HTML_FILE_NAME) # Ruta completa al archivo HTML local
 
 # Leer la URL base del servidor desde una variable de entorno.
 # El workflow de GitHub Actions la proveerá desde un secret o un valor por defecto.
@@ -319,19 +317,28 @@ def procesar_y_resumir_articulos(fuentes, gemini_model, horas_a_revisar):
         processed_articles_by_category[categoria] = articulos_procesados_final_categoria
 
     report_type = "Semanal" if horas_a_revisar == DEFAULT_WEEKLY_HOURS else "Diario"
+
+    # Determinar el nombre del archivo de salida según el tipo de reporte
+    if report_type == "Semanal":
+        output_html_file_name = "resumen_semanal.html"
+    else:
+        # Usar index.html para el reporte diario para que sea la página principal del sitio
+        output_html_file_name = "index.html"
+    output_html_file_path = os.path.join(SCRIPT_DIR, output_html_file_name)
+
     # Obtener la fecha y hora actual para el timestamp
     generation_timestamp = datetime.now(timezone.utc)
     generation_timestamp_str = generation_timestamp.strftime("%d de %B de %Y, %H:%M:%S UTC")
     html_content = generate_html_content(processed_articles_by_category, report_type, generation_timestamp_str)
     if not any_article_processed_overall:
         print("ℹ️ No se procesó ningún artículo para el resumen final.")
-        
+
     try:
-        with open(OUTPUT_HTML_FILE_PATH, "w", encoding="utf-8") as f:
+        with open(output_html_file_path, "w", encoding="utf-8") as f:
             f.write(html_content)
-        
-        full_web_url = BASE_WEB_URL + OUTPUT_HTML_FILE_NAME
-        print(f"📄 Resumen {report_type} interactivo guardado en: {OUTPUT_HTML_FILE_PATH}")
+
+        full_web_url = BASE_WEB_URL + output_html_file_name
+        print(f"📄 Resumen {report_type} interactivo guardado en: {output_html_file_path}")
 
         # Ya no se usa SCP, la subida la hace GitHub Actions a GitHub Pages
         print(f"ℹ️  El archivo se desplegará en GitHub Pages: {full_web_url}")
