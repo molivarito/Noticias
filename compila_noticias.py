@@ -185,6 +185,86 @@ def obtener_articulos_recientes(rss_url, horas):
     print(f"  Found {len(articulos_recientes)} recent articles from {rss_url} (last {horas} hours).")
     return articulos_recientes
 
+def generate_html_content(processed_articles_by_category, report_type, generation_timestamp_str):
+    """Genera el contenido HTML para un reporte de noticias."""
+    # Iconos Unicode para categorías (puedes personalizarlos)
+    category_icons = {
+        "internacional": "🌍",
+        "nacional": "🇨🇱", # O un icono más genérico como 📰
+        "opinion_ensayo": "✍️",
+        "ciencia_tecnologia": "🔬",
+        "cultura_arte": "🎨",
+        "default": "🔹" # Icono por defecto
+    }
+
+    html_content = f"""
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <title>Resumen {report_type.title()} de Noticias</title>
+    <style>
+        body {{ font-family: 'Roboto', sans-serif; line-height: 1.6; margin: 0; padding: 20px; background-color: #f4f7f6; color: #333; }}
+        .container {{ max-width: 900px; margin: 30px auto; background-color: #ffffff; padding: 30px; border-radius: 10px; box-shadow: 0 6px 12px rgba(0,0,0,0.08); }}
+        h1 {{ font-family: 'Montserrat', sans-serif; color: #2c3e50; text-align: center; margin-bottom: 15px; font-weight: 700; font-size: 2.2em; }}
+        .report-timestamp {{ text-align: center; font-size: 0.9em; color: #555; margin-top: -10px; margin-bottom: 35px; }}
+        h2 {{ font-family: 'Montserrat', sans-serif; color: #34495e; border-bottom: 3px solid #1abc9c; padding-bottom: 12px; margin-top: 40px; margin-bottom: 25px; font-weight: 600; font-size: 1.8em; }}
+        details {{ background-color: #fdfdfd; border: 1px solid #e0e0e0; border-radius: 8px; margin-bottom: 20px; padding: 20px; box-shadow: 0 3px 6px rgba(0,0,0,0.04); transition: box-shadow 0.3s ease; }}
+        details:hover {{ box-shadow: 0 5px 10px rgba(0,0,0,0.06); }}
+        details[open] {{ background-color: #ffffff; border-left: 5px solid #1abc9c; }}
+        summary {{ font-family: 'Montserrat', sans-serif; font-weight: 600; cursor: pointer; color: #2980b9; font-size: 1.15em; margin-bottom: 8px; list-style-position: inside; outline: none; }}
+        summary:hover {{ color: #1f618d; }}
+        .article-content-wrapper {{ padding-top: 10px; }}
+        .article-title {{ font-size: 1.15em; font-weight: bold; color: #343a40; margin-bottom: 5px; }}
+        .article-meta {{ font-size: 0.85em; color: #6c757d; margin-bottom: 8px; }}
+        .article-summary {{ margin-top: 10px; color: #495057; }}
+        a {{ color: #007bff; text-decoration: none; }}
+        a:hover {{ text-decoration: underline; }}
+        .no-articles {{ font-style: italic; color: #6c757d; margin-left: 10px; }}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Resumen {report_type.title()} de Noticias</h1>
+        <p class="report-timestamp">Generado el: {generation_timestamp_str}</p>
+        """
+    
+    if not processed_articles_by_category or not any(processed_articles_by_category.values()):
+        html_content += "<p class='no-articles'><i>No se procesaron artículos para este reporte.</i></p>"
+    else:
+        for categoria, articulos_procesados_list in processed_articles_by_category.items():
+            if not articulos_procesados_list: continue # Saltar categorías sin artículos
+            icon = category_icons.get(categoria, category_icons["default"])
+            html_content += f"<h2>{icon} {categoria.replace('_', ' ').title()}</h2>"
+            
+            for item_procesado in articulos_procesados_list:
+                articulo_info = item_procesado["info"]
+                resumen_datos = item_procesado["resumen_datos"]
+                html_content += f"""
+                        <details>
+                            <summary>
+                                {resumen_datos['teaser_sentence']} (Puntuación: {resumen_datos['relevancia_score']}/10)
+                            </summary>
+                            <div class="article-content-wrapper">
+                                <p class="article-title">{articulo_info['titulo']}</p>
+                                <p class="article-meta">
+                                    Fuente: {articulo_info['source_name']} | Fecha: {articulo_info.get('fecha_str', 'No disp.')} | Justificación: {resumen_datos.get('relevancia_justificacion', 'N/A')}
+                                </p>
+                                <p class="article-summary">{resumen_datos['resumen']}</p>
+                                <a href='{articulo_info['link']}' target='_blank'>Leer más en la fuente original</a>
+                            </div>
+                        </details>
+                """
+
+    html_content += """
+    </div>
+</body>
+</html>
+"""
+    return html_content
+
 def guardar_en_historial(processed_articles_by_category):
     """Carga el historial existente, añade los nuevos artículos y lo guarda."""
     historial = []
@@ -204,93 +284,9 @@ def guardar_en_historial(processed_articles_by_category):
         json.dump(historial, f, indent=4)
     print(f"💾 Historial actualizado con {sum(len(v) for v in processed_articles_by_category.values())} nuevos artículos.")
 
-def procesar_y_resumir_articulos(fuentes, gemini_model, horas_a_revisar):
-    def generate_html_content(processed_articles_by_category, report_type, generation_timestamp_str):
-        # Iconos Unicode para categorías (puedes personalizarlos)
-        category_icons = {
-            "internacional": "🌍",
-            "nacional": "🇨🇱", # O un icono más genérico como 📰
-            "opinion_ensayo": "✍️",
-            "ciencia_tecnologia": "🔬",
-            "cultura_arte": "🎨",
-            "default": "🔹" # Icono por defecto
-        }
-
-        html_content = f"""
-    <!DOCTYPE html>
-    <html lang="es">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-        <title>Resumen {report_type.title()} de Noticias</title>
-        <style>
-            body {{ 
-                font-family: 'Roboto', sans-serif; 
-                line-height: 1.6; margin: 0; padding: 20px; 
-                background-color: #f4f7f6; /* Fondo ligeramente más cálido */
-                color: #333; 
-            }}
-            .container {{ max-width: 900px; margin: 30px auto; background-color: #ffffff; padding: 30px; border-radius: 10px; box-shadow: 0 6px 12px rgba(0,0,0,0.08); }}
-            h1 {{ font-family: 'Montserrat', sans-serif; color: #2c3e50; text-align: center; margin-bottom: 15px; font-weight: 700; font-size: 2.2em; }}
-            .report-timestamp {{ text-align: center; font-size: 0.9em; color: #555; margin-top: -10px; margin-bottom: 35px; }}
-            h2 {{ font-family: 'Montserrat', sans-serif; color: #34495e; border-bottom: 3px solid #1abc9c; /* Color de acento */ padding-bottom: 12px; margin-top: 40px; margin-bottom: 25px; font-weight: 600; font-size: 1.8em; }}
-            details {{ background-color: #fdfdfd; border: 1px solid #e0e0e0; border-radius: 8px; margin-bottom: 20px; padding: 20px; box-shadow: 0 3px 6px rgba(0,0,0,0.04); transition: box-shadow 0.3s ease; }}
-            details:hover {{ box-shadow: 0 5px 10px rgba(0,0,0,0.06); }}
-            details[open] {{ background-color: #ffffff; border-left: 5px solid #1abc9c; /* Color de acento al abrir */ }}
-            summary {{ font-family: 'Montserrat', sans-serif; font-weight: 600; cursor: pointer; color: #2980b9; /* Azul más vibrante */ font-size: 1.15em; margin-bottom: 8px; list-style-position: inside; outline: none; }}
-            summary:hover {{ color: #1f618d; }}
-            .article-content-wrapper {{ padding-top: 10px; }}
-            .article-title {{ font-size: 1.15em; font-weight: bold; color: #343a40; margin-bottom: 5px; }}
-            .article-meta {{ font-size: 0.85em; color: #6c757d; margin-bottom: 8px; }}
-            .article-summary {{ margin-top: 10px; color: #495057; }}
-            a {{ color: #007bff; text-decoration: none; }}
-            a:hover {{ text-decoration: underline; }}
-            .no-articles {{ font-style: italic; color: #6c757d; margin-left: 10px; }}
-        </style>
-    </head>
-    <body>
-        <div class="container">
-            <h1>Resumen {report_type.title()} de Noticias</h1>
-            <p class="report-timestamp">Generado el: {generation_timestamp_str}</p>
-            """
-        
-        if not processed_articles_by_category:
-            html_content += "<p class='no-articles'><i>No se procesaron artículos para ninguna categoría.</i></p>"
-        else:
-            for categoria, articulos_procesados_list in processed_articles_by_category.items():
-                icon = category_icons.get(categoria, category_icons["default"])
-                html_content += f"<h2>{icon} {categoria.replace('_', ' ').title()}</h2>"
-                
-                if not articulos_procesados_list:
-                    html_content += f"<p class='no-articles'><i>No se encontraron artículos procesados para la categoría {icon} {categoria.replace('_', ' ').title()}.</i></p>"
-                else:
-                    for item_procesado in articulos_procesados_list:
-                        articulo_info = item_procesado["info"]
-                        resumen_datos = item_procesado["resumen_datos"]
-                        html_content += f"""
-                                <details>
-                                    <summary>
-                                        {resumen_datos['teaser_sentence']} (Puntuación: {resumen_datos['relevancia_score']}/10)
-                                    </summary>
-                                    <div class="article-content-wrapper">
-                                        <p class="article-title">{articulo_info['titulo']}</p>
-                                        <p class="article-meta">
-                                            Fuente: {articulo_info['source_name']} | Fecha: {articulo_info.get('fecha_str', 'No disp.')} | Justificación: {resumen_datos.get('relevancia_justificacion', 'N/A')}
-                                        </p>
-                                        <p class="article-summary">{resumen_datos['resumen']}</p>
-                                        <a href='{articulo_info['link']}' target='_blank'>Leer más en la fuente original</a>
-                                    </div>
-                                </details>
-                        """
-
-        html_content += """
-        </div>
-    </body>
-    </html>
-    """
-        return html_content
-
+def procesar_reporte_diario(fuentes, gemini_model):
+    """Lógica completa para el reporte diario: leer RSS, resumir, guardar HTML y actualizar historial."""
+    horas_a_revisar = DEFAULT_HOURS_AGO
     all_articles_by_category = {}
     for categoria, lista_fuentes in fuentes.items():
         all_articles_this_category = []
@@ -336,19 +332,15 @@ def procesar_y_resumir_articulos(fuentes, gemini_model, horas_a_revisar):
         articulos_procesados_final_categoria.sort(key=lambda x: x["resumen_datos"].get("relevancia_score", 0), reverse=True)
         processed_articles_by_category[categoria] = articulos_procesados_final_categoria
 
-    guardar_en_historial(processed_articles_by_category)
-
-    report_type = "Semanal" if horas_a_revisar == DEFAULT_WEEKLY_HOURS else "Diario"
-
-    # Determinar el nombre del archivo de salida según el tipo de reporte
-    if report_type == "Semanal":
-        output_html_file_name = "resumen_semanal.html"
+    if any_article_processed_overall:
+        guardar_en_historial(processed_articles_by_category)
     else:
-        # Usar index.html para el reporte diario para que sea la página principal del sitio
-        output_html_file_name = "index.html"
+        print("ℹ️ No se procesaron nuevos artículos, el historial no se modificará.")
+
+    report_type = "Diario"
+    output_html_file_name = "index.html"
     output_html_file_path = os.path.join(SCRIPT_DIR, output_html_file_name)
 
-    # Obtener la fecha y hora actual para el timestamp
     generation_timestamp = datetime.now(timezone.utc)
     generation_timestamp_str = generation_timestamp.strftime("%d de %B de %Y, %H:%M:%S UTC")
     html_content = generate_html_content(processed_articles_by_category, report_type, generation_timestamp_str)
@@ -361,11 +353,9 @@ def procesar_y_resumir_articulos(fuentes, gemini_model, horas_a_revisar):
 
         full_web_url = BASE_WEB_URL + output_html_file_name
         print(f"📄 Resumen {report_type} interactivo guardado en: {output_html_file_path}")
-
-        # Ya no se usa SCP, la subida la hace GitHub Actions a GitHub Pages
         print(f"ℹ️  El archivo se desplegará en GitHub Pages: {full_web_url}")
 
-        email_subject = f"Resumen {report_type} de Noticias Interactivo"        
+        email_subject = f"Resumen {report_type} de Noticias Interactivo"
         if not any_article_processed_overall:
             email_subject += " (Sin artículos nuevos)"
 
@@ -385,19 +375,25 @@ def procesar_y_resumir_articulos(fuentes, gemini_model, horas_a_revisar):
     except IOError as e:
         print(f"❌ Error al guardar el archivo HTML: {e}")
 
-def procesar_reporte_semanal_desde_historial(gemini_model):
-    """Genera el reporte semanal leyendo del historial, no de los feeds RSS."""
+def procesar_reporte_semanal():
+    """Lógica completa para el reporte semanal: leer historial, seleccionar mejores, guardar HTML y limpiar historial."""
     print("✨ Iniciando procesamiento del reporte semanal desde el historial.")
+    report_type = "Semanal"
+    output_html_file_name = "resumen_semanal.html"
+    output_html_file_path = os.path.join(SCRIPT_DIR, output_html_file_name)
+    
     if not os.path.exists(HISTORIAL_JSON_PATH):
         print("ℹ️ No se encontró archivo de historial. No se puede generar el reporte semanal.")
-        # Opcional: generar un HTML vacío o con un mensaje
         return
 
-    with open(HISTORIAL_JSON_PATH, "r", encoding="utf-8") as f:
-        historial = json.load(f)
-    
-    if not historial:
-        print("ℹ️ El historial está vacío. No hay artículos para el reporte semanal.")
+    try:
+        with open(HISTORIAL_JSON_PATH, "r", encoding="utf-8") as f:
+            historial = json.load(f)
+        if not historial:
+            print("ℹ️ El historial está vacío. No hay artículos para el reporte semanal.")
+            return
+    except (json.JSONDecodeError, FileNotFoundError):
+        print("⚠️ No se encontró historial o estaba corrupto. No se puede generar reporte semanal.")
         return
 
     print(f"📈 Analizando {len(historial)} artículos del historial de la semana.")
@@ -419,21 +415,34 @@ def procesar_reporte_semanal_desde_historial(gemini_model):
         top_articulos_semana[categoria] = articulos[:MAX_ARTICLES_TO_SUMMARIZE_PER_CATEGORY]
         print(f"  🏆 Seleccionados para '{categoria.replace('_', ' ').title()}': {len(top_articulos_semana[categoria])} artículos.")
 
-    # Usar la misma función de generación de HTML
     generation_timestamp = datetime.now(timezone.utc)
     generation_timestamp_str = generation_timestamp.strftime("%d de %B de %Y, %H:%M:%S UTC")
-    # La función generate_html_content está anidada, la redefinimos aquí para simplicidad o la movemos fuera.
-    # Por ahora, asumimos que la lógica de procesar_y_resumir_articulos contiene la definición de generate_html_content
-    # y la llamamos desde allí. Para este ejemplo, vamos a invocar la función principal con un flag.
-    # Este es un refactor pendiente, pero para que funcione, llamaremos a la función principal con los datos ya procesados.
-    # --- La forma correcta sería refactorizar generate_html_content fuera de la otra función ---
-    # Pero para un cambio rápido, vamos a llamar a la función principal con los datos ya procesados.
-    # Esto es un hack, la solución ideal es refactorizar.
-    # Por ahora, vamos a hacer el procesamiento y la generación de HTML directamente aquí.
-    procesar_y_resumir_articulos_inst = procesar_y_resumir_articulos(None, gemini_model, DEFAULT_WEEKLY_HOURS)
-    # Limpiar el historial para la próxima semana
-    print("🧹 Limpiando el historial para la próxima semana.")
-    open(HISTORIAL_JSON_PATH, 'w').close()
+    html_content = generate_html_content(top_articulos_semana, report_type, generation_timestamp_str)
+
+    try:
+        with open(output_html_file_path, "w", encoding="utf-8") as f:
+            f.write(html_content)
+        
+        full_web_url = BASE_WEB_URL + output_html_file_name
+        print(f"📄 Resumen {report_type} interactivo guardado en: {output_html_file_path}")
+        print(f"ℹ️  El archivo se desplegará en GitHub Pages: {full_web_url}")
+
+        email_subject = f"Resumen Semanal de Noticias: Lo más destacado"
+        email_body = f"""
+        Hola,
+
+        Tu resumen con las noticias más relevantes de la semana está listo.
+        Puedes verlo directamente en GitHub Pages: {full_web_url}
+        """
+        enviar_correo_con_enlace(email_subject, email_body)
+
+        # Limpiar el historial para la próxima semana DESPUÉS de un procesamiento exitoso
+        print("🧹 Limpiando el historial para la próxima semana.")
+        with open(HISTORIAL_JSON_PATH, 'w') as f:
+            json.dump([], f) # Escribe una lista vacía
+
+    except IOError as e:
+        print(f"❌ Error al guardar el archivo HTML semanal o limpiar el historial: {e}")
 
 # def subir_archivo_con_scp(archivo_local, usuario_remoto, host_remoto, ruta_remota_base, nombre_archivo_remoto):
 #     ruta_completa_remota_destino = f"{ruta_remota_base}/{nombre_archivo_remoto}"
