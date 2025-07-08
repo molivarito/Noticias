@@ -12,7 +12,7 @@
         },
         {
             "name": "Reuters World News",
-            "url": "https://www.reuters.com/world/rss/",
+            "url": "https://www.reuters.com/arc/outboundfeeds/rss/category/world/?useEditorialTag=true",
             "lang": "en"
         },
         {

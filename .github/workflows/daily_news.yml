@@ -2,12 +2,19 @@ name: Generar Resumen de Noticias
 
 on:
   schedule:
-    # Ejecuta todos los días a las 07:00 UTC (ajusta la hora según tu preferencia)
-    # Puedes usar https://crontab.guru/ para generar expresiones cron
-    - cron: '0 7 * * *' # Reporte diario
-    # Descomenta y ajusta si quieres un reporte semanal en un día específico, ej. Domingos a las 08:00 UTC
-    - cron: '0 8 * * 0' # Reporte semanal los Domingos
-  workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña "Actions" en GitHub
+    - cron: '0 7 * * *'  # Reporte diario
+    - cron: '0 8 * * 0'  # Reporte semanal los Domingos
+  
+  workflow_dispatch:
+    inputs:
+      report_type:
+        description: 'Tipo de reporte a generar manualmente'
+        required: true
+        default: 'diario'
+        type: choice
+        options:
+        - diario
+        - semanal
 
 jobs:
   generate_and_deploy_reports:
@@ -18,26 +25,20 @@ jobs:
       uses: actions/checkout@v4
 
     - name: Cache del historial de noticias
+      # ... (sin cambios)
       id: cache-historial
       uses: actions/cache@v4
       with:
         path: historial_noticias.json
-        # La clave de caché es simple; el script de Python gestiona el contenido.
         key: ${{ runner.os }}-historial-noticias
 
-    - name: Configurar Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
-
-    - name: Instalar dependencias
+    - name: Configurar Python e Instalar dependencias
+      # ... (sin cambios)
       run: |
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-    - name: 1. Ejecutar script de noticias (Diario)
-      # Se ejecuta solo si el trigger es manual O si es el schedule diario específico.
-      if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && github.event.schedule == '0 7 * * *')
+    - name: Ejecutar script de noticias
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
@@ -46,31 +47,27 @@ jobs:
         BASE_WEB_URL: "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
         GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
         GITHUB_REPOSITORY_NAME: ${{ github.event.repository.name }}
-      run: python compila_noticias.py
+      run: |
+        # Lógica para decidir qué comando ejecutar
+        if [[ "${{ github.event_name }}" == "schedule" && "${{ github.event.schedule }}" == "0 8 * * 0" ]]; then
+          echo "Ejecutando reporte semanal (agendado)..."
+          python compila_noticias.py --weekly
+        elif [[ "${{ github.event_name }}" == "workflow_dispatch" && "${{ github.event.inputs.report_type }}" == "semanal" ]]; then
+          echo "Ejecutando reporte semanal (manual)..."
+          python compila_noticias.py --weekly
+        else
+          echo "Ejecutando reporte diario (agendado o manual por defecto)..."
+          python compila_noticias.py
+        fi
 
-    - name: 2. Ejecutar script de noticias (Semanal)
-      # Este paso solo se ejecuta si el trigger es manual O si es el schedule semanal.
-      if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && github.event.schedule == '0 8 * * 0')
-      env:
-        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-        GMAIL_USER: ${{ secrets.GMAIL_USER }}
-        GMAIL_DESTINATARIO: ${{ secrets.GMAIL_DESTINATARIO || secrets.GMAIL_USER }}
-        BASE_WEB_URL: "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
-        GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
-        GITHUB_REPOSITORY_NAME: ${{ github.event.repository.name }}
-      run: python compila_noticias.py --weekly
-
-    - name: 3. Desplegar reportes a GitHub Pages
+    - name: Desplegar reportes a GitHub Pages
+      # ... (sin cambios)
       if: success()
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./ # Publica el contenido de la raíz, que ahora contendrá ambos archivos si corresponde.
+        publish_dir: ./
         publish_branch: gh-pages
         user_name: 'github-actions[bot]'
         user_email: 'github-actions[bot]@users.noreply.github.com'
         commit_message: 'Deploy news summary to GitHub Pages'
-        # Al no usar force_orphan, los archivos existentes se mantienen.
-        # El script diario sobreescribe index.html y el semanal sobreescribe resumen_semanal.html.
-        # Todo funciona como se espera.
