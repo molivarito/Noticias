@@ -24,10 +24,8 @@ except ImportError as e:
 from typing import List, Dict, Any, Optional
 
 # --- CONFIGURACIÓN INICIAL ---
-# Carga variables desde un archivo .env sin sobreescribir las del sistema (ideal para GitHub Actions)
 load_dotenv(override=False)
 
-# Configura el contexto SSL para usar los certificados de 'certifi'
 try:
     ssl_context = ssl.create_default_context(cafile=certifi.where())
     ssl._create_default_https_context = lambda: ssl_context
@@ -39,61 +37,40 @@ except Exception as e:
 # CLASE DE CONFIGURACIÓN
 # ==============================================================================
 class Config:
-    """
-    Centraliza toda la configuración del script, cargando desde variables de entorno.
-    """
     SCRIPT_DIR = Path(__file__).resolve().parent
     FUENTES_RSS_JSON_PATH = SCRIPT_DIR / "fuentes_rss.json"
     HISTORIAL_JSON_PATH = SCRIPT_DIR / "historial_noticias.json"
-    
     DEFAULT_HOURS_AGO = 24
-    DEFAULT_WEEKLY_HOURS = 7 * 24
-    
     USER_AGENT = "NewsAggregatorBot/1.0 (+https://github.com/features/actions)"
     MAX_ARTICLES_TO_SUMMARIZE_PER_CATEGORY = 5
-    ARTICLE_DOWNLOAD_TIMEOUT = 15  # Timeout en segundos para la descarga de artículos
-
-    # --- Credenciales y API Keys ---
+    ARTICLE_DOWNLOAD_TIMEOUT = 15
     GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
     GMAIL_USER = os.getenv("GMAIL_USER")
     GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD")
     GMAIL_DESTINATARIO = os.getenv("GMAIL_DESTINATARIO", GMAIL_USER)
-
-    # --- Configuración de URL para GitHub Pages ---
     GITHUB_REPO_OWNER = os.getenv("GITHUB_REPOSITORY_OWNER")
     GITHUB_REPO_NAME = os.getenv("GITHUB_REPOSITORY_NAME")
     
     if GITHUB_REPO_OWNER and GITHUB_REPO_NAME:
         BASE_WEB_URL = f"https://{GITHUB_REPO_OWNER}.github.io/{GITHUB_REPO_NAME}/"
     else:
-        # URL de respaldo para ejecución local
         BASE_WEB_URL = f"file://{SCRIPT_DIR.absolute()}/"
 
 # ==============================================================================
 # CLASE PRINCIPAL DEL PROCESADOR DE NOTICIAS
 # ==============================================================================
 class NewsProcessor:
-    """
-    Encapsula toda la lógica para obtener, procesar, resumir y guardar noticias.
-    """
     def __init__(self, config: Config):
         self.config = config
         self.gemini_model = self._init_gemini_model()
 
     def _init_gemini_model(self) -> Optional[genai.GenerativeModel]:
-        """Inicializa y devuelve el modelo generativo de Gemini."""
         if not self.config.GEMINI_API_KEY:
             print("❌ Error CRÍTICO: La variable de entorno GEMINI_API_KEY no está configurada.")
             return None
         try:
             genai.configure(api_key=self.config.GEMINI_API_KEY)
-            model = genai.GenerativeModel(
-                'gemini-1.5-flash-latest',
-                generation_config={
-                    "temperature": 0.5,
-                    "response_mime_type": "application/json",
-                }
-            )
+            model = genai.GenerativeModel('gemini-1.5-flash-latest', generation_config={"temperature": 0.5, "response_mime_type": "application/json"})
             print("✅ Modelo Gemini inicializado correctamente.")
             return model
         except Exception as e:
@@ -101,252 +78,240 @@ class NewsProcessor:
             return None
 
     def _cargar_fuentes(self) -> Dict[str, Any]:
-        """Carga las fuentes RSS desde el archivo JSON."""
         try:
             with open(self.config.FUENTES_RSS_JSON_PATH, "r", encoding="utf-8") as f:
                 return json.load(f)
-        except FileNotFoundError:
-            print(f"❌ Error CRÍTICO: No se encontró el archivo '{self.config.FUENTES_RSS_JSON_PATH.name}'.")
-            return {}
-        except json.JSONDecodeError as e:
-            print(f"❌ Error CRÍTICO: El archivo JSON de fuentes es inválido: {e}")
+        except (FileNotFoundError, json.JSONDecodeError) as e:
+            print(f"❌ Error CRÍTICO al cargar 'fuentes_rss.json': {e}")
             return {}
 
     def obtener_articulos_recientes(self, rss_url: str, horas: int) -> List[Dict[str, Any]]:
-        """Obtiene artículos de un feed RSS, manejando errores de conexión y formato."""
         print(f"\n📡 Analizando feed: {rss_url}")
         articulos_recientes = []
         try:
             feed = feedparser.parse(rss_url, agent=self.config.USER_AGENT, request_headers={'Accept': 'application/rss+xml, application/xml'})
-            
-            # Manejo de errores de feedparser
-            if feed.bozo:
-                # Ignorar errores comunes que no impiden la lectura
-                if not isinstance(feed.bozo_exception, (feedparser.NonXMLContentType, feedparser.CharacterEncodingOverride)):
-                    raise feed.bozo_exception
-
-            # Manejo de errores HTTP
+            if feed.bozo and not isinstance(feed.bozo_exception, (feedparser.NonXMLContentType, feedparser.CharacterEncodingOverride)):
+                raise feed.bozo_exception
             if feed.get("status", 200) not in [200, 301, 302]:
-                 print(f"  ⚠️  Error HTTP {feed.status} al acceder al feed. Se omite.")
+                 print(f"  ⚠️ Error HTTP {feed.status} al acceder al feed. Se omite.")
                  return articulos_recientes
-
             if not feed.entries:
-                print(f"  ℹ️  No se encontraron entradas en el feed.")
+                print(f"  ℹ️ No se encontraron entradas en el feed.")
                 return articulos_recientes
 
             print(f"  📰 Encontradas {len(feed.entries)} entradas totales.")
             limite_tiempo_utc = datetime.now(timezone.utc) - timedelta(hours=horas)
-
             for entry in feed.entries:
                 fecha_publicacion = entry.get('published_parsed') or entry.get('updated_parsed')
-                if not fecha_publicacion:
-                    continue
-                
+                if not fecha_publicacion: continue
                 fecha_articulo_utc = datetime.fromtimestamp(time.mktime(fecha_publicacion), tz=timezone.utc)
-
                 if fecha_articulo_utc > limite_tiempo_utc:
-                    articulo = {
+                    articulos_recientes.append({
                         "titulo": entry.get("title", "[sin título]"),
                         "link": entry.get("link", "[sin link]"),
                         "fecha_obj": fecha_articulo_utc,
                         "fecha_str": fecha_articulo_utc.strftime("%d-%m-%Y %H:%M UTC")
-                    }
-                    articulos_recientes.append(articulo)
-            
+                    })
             print(f"  ✅ Se encontraron {len(articulos_recientes)} artículos recientes (últimas {horas} horas).")
-
         except Exception as e:
             print(f"  ❌ Error inesperado procesando el feed {rss_url}: {e}")
-        
         return articulos_recientes
 
     def extraer_contenido(self, url: str) -> Optional[str]:
-        """Extrae el contenido de un artículo, con timeout y manejo de errores."""
         try:
             article = Article(url, browser_user_agent=self.config.USER_AGENT)
             article.download(timeout=self.config.ARTICLE_DOWNLOAD_TIMEOUT)
             article.parse()
             return article.text
-        except ArticleException as e:
-            print(f"    ⚠️  Error de Newspaper3k (se omite artículo): {e}")
-        except Exception as e:
-            print(f"    ❌ Error inesperado al extraer de {url} (se omite): {e}")
+        except (ArticleException, Exception) as e:
+            print(f"    ⚠️ Error extrayendo de {url} (se omite): {e}")
         return None
 
     def resumir_con_gemini(self, titulo: str, contenido: str, categoria: str) -> Optional[Dict[str, Any]]:
-        """Genera un resumen y puntuación para un artículo usando la API de Gemini."""
-        if not self.gemini_model:
-            return None
-        
+        if not self.gemini_model: return None
         prompt = f"""
-        Analiza el siguiente artículo en español.
-        Título: {titulo}
-        Contenido:
-        {contenido}
-
+        Analiza el siguiente artículo en español. Título: {titulo}\nContenido:\n{contenido}
         Tu tarea es:
-        1.  Crea una frase única y concisa (máximo 20 palabras) que sirva como "gancho" o "teaser".
-        2.  Resume el artículo en español (100-150 palabras). El resumen debe ser un texto plano válido.
-        3.  Evalúa la relevancia para la categoría '{categoria.replace('_', ' ').title()}' en una escala de 1 a 10.
-        4.  Proporciona una justificación breve para tu puntuación.
-
-        Proporciona tu respuesta ESTRICTAMENTE en el siguiente formato JSON:
-        {{
-          "teaser_sentence": "...",
-          "resumen": "...",
-          "relevancia_score": <int>,
-          "relevancia_justificacion": "..."
-        }}
+        1. Crea una frase concisa (máximo 20 palabras) como "teaser".
+        2. Resume el artículo (100-150 palabras).
+        3. Evalúa la relevancia para la categoría '{categoria.replace('_', ' ').title()}' de 1 a 10.
+        4. Justifica brevemente la puntuación.
+        Responde ESTRICTAMENTE en este formato JSON:
+        {{ "teaser_sentence": "...", "resumen": "...", "relevancia_score": <int>, "relevancia_justificacion": "..." }}
         """
         try:
             print(f"    📝 Solicitando resumen para: {titulo}")
             response = self.gemini_model.generate_content(prompt)
-            # Limpieza adicional por si la API devuelve el JSON dentro de un bloque de código markdown
-            clean_response_text = response.text.strip().replace("```json", "").replace("```", "")
+            clean_response_text = response.text.strip().lstrip("```json").rstrip("```")
             return json.loads(clean_response_text)
         except (json.JSONDecodeError, Exception) as e:
-            print(f"    ❌ Error al procesar con Gemini para '{titulo}': {e}")
+            print(f"    ❌ Error procesando con Gemini para '{titulo}': {e}")
             return None
+
+    def save_to_history(self, processed_articles: Dict[str, List[Dict]]):
+        history = []
+        if self.config.HISTORIAL_JSON_PATH.exists():
+            try:
+                history = json.loads(self.config.HISTORIAL_JSON_PATH.read_text(encoding="utf-8"))
+            except json.JSONDecodeError:
+                print("⚠️ El archivo de historial estaba corrupto. Se creará uno nuevo.")
+        
+        count = 0
+        for categoria, articles in processed_articles.items():
+            for art in articles:
+                if 'fecha_obj' in art['info'] and isinstance(art['info']['fecha_obj'], datetime):
+                    art['info']['fecha_obj'] = art['info']['fecha_obj'].isoformat()
+                art_copy = art.copy()
+                art_copy['categoria'] = categoria
+                history.append(art_copy)
+                count += 1
+        
+        self.config.HISTORIAL_JSON_PATH.write_text(json.dumps(history, indent=2, ensure_ascii=False), encoding="utf-8")
+        print(f"💾 Historial actualizado con {count} nuevos artículos.")
+
+    # --- INICIO DEL CÓDIGO CORREGIDO ---
+    def generate_html_report(self, processed_articles_by_category: Dict[str, list], report_type: str) -> str:
+        """Genera el contenido HTML completo para el reporte de noticias."""
+        generation_timestamp = datetime.now(timezone.utc)
+        generation_timestamp_str = generation_timestamp.strftime("%d de %B de %Y, %H:%M:%S UTC")
+
+        category_icons = {
+            "internacional": "🌍", "nacional": "🇨🇱", "opinion_ensayo": "✍️",
+            "ciencia_tecnologia": "🔬", "cultura_arte": "🎨", "default": "🔹"
+        }
+
+        html_content = f"""
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <title>Resumen {report_type.title()} de Noticias</title>
+    <style>
+        body {{ font-family: 'Roboto', sans-serif; line-height: 1.6; margin: 0; padding: 20px; background-color: #f4f7f6; color: #333; }}
+        .container {{ max-width: 900px; margin: 30px auto; background-color: #ffffff; padding: 30px; border-radius: 10px; box-shadow: 0 6px 12px rgba(0,0,0,0.08); }}
+        h1 {{ font-family: 'Montserrat', sans-serif; color: #2c3e50; text-align: center; margin-bottom: 15px; font-weight: 700; font-size: 2.2em; }}
+        .report-timestamp {{ text-align: center; font-size: 0.9em; color: #555; margin-top: -10px; margin-bottom: 35px; }}
+        h2 {{ font-family: 'Montserrat', sans-serif; color: #34495e; border-bottom: 3px solid #1abc9c; padding-bottom: 12px; margin-top: 40px; margin-bottom: 25px; font-weight: 600; font-size: 1.8em; }}
+        details {{ background-color: #fdfdfd; border: 1px solid #e0e0e0; border-radius: 8px; margin-bottom: 20px; padding: 20px; box-shadow: 0 3px 6px rgba(0,0,0,0.04); transition: box-shadow 0.3s ease; }}
+        details:hover {{ box-shadow: 0 5px 10px rgba(0,0,0,0.06); }}
+        details[open] {{ background-color: #ffffff; border-left: 5px solid #1abc9c; }}
+        summary {{ font-family: 'Montserrat', sans-serif; font-weight: 600; cursor: pointer; color: #2980b9; font-size: 1.15em; margin-bottom: 8px; list-style-position: inside; outline: none; }}
+        .article-content-wrapper {{ padding-top: 10px; }}
+        .article-title {{ font-size: 1.15em; font-weight: bold; color: #343a40; margin-bottom: 5px; }}
+        .article-meta {{ font-size: 0.85em; color: #6c757d; margin-bottom: 8px; }}
+        .article-summary {{ margin-top: 10px; color: #495057; }}
+        a {{ color: #007bff; text-decoration: none; }}
+        a:hover {{ text-decoration: underline; }}
+        .no-articles {{ text-align: center; font-style: italic; color: #6c757d; margin: 40px 10px; font-size: 1.1em; }}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Resumen {report_type.title()} de Noticias</h1>
+        <p class="report-timestamp">Generado el: {generation_timestamp_str}</p>
+        """
+        
+        if not processed_articles_by_category or not any(processed_articles_by_category.values()):
+            html_content += "<p class='no-articles'>No se encontraron noticias nuevas en las últimas 24 horas.</p>"
+        else:
+            for categoria, articulos in processed_articles_by_category.items():
+                if not articulos: continue
+                icon = category_icons.get(categoria, category_icons["default"])
+                html_content += f"<h2>{icon} {categoria.replace('_', ' ').title()}</h2>"
+                for item in articulos:
+                    info = item["info"]
+                    resumen = item["resumen_datos"]
+                    html_content += f"""
+                    <details>
+                        <summary>{resumen.get('teaser_sentence', 'Click para ver más')} (Puntuación: {resumen.get('relevancia_score', 'N/A')}/10)</summary>
+                        <div class="article-content-wrapper">
+                            <p class="article-title">{info.get('titulo', 'Sin título')}</p>
+                            <p class="article-meta">
+                                Fuente: {info.get('source_name', 'N/A')} | Fecha: {info.get('fecha_str', 'N/A')} | Justificación: {resumen.get('relevancia_justificacion', 'N/A')}
+                            </p>
+                            <p class="article-summary">{resumen.get('resumen', 'No hay resumen disponible.')}</p>
+                            <a href='{info.get('link', '#')}' target='_blank'>Leer más en la fuente original</a>
+                        </div>
+                    </details>
+                    """
+        html_content += "</div></body></html>"
+        return html_content
+    # --- FIN DEL CÓDIGO CORREGIDO ---
 
     def run_daily_report(self):
         """Orquesta la generación completa del reporte diario."""
         fuentes = self._cargar_fuentes()
         if not fuentes: return
 
-        all_articles_by_category = {}
+        all_articles = {}
         for categoria, lista_fuentes in fuentes.items():
-            print(f"\n📚 Recopilando para la categoría: {categoria.replace('_', ' ').title()}")
+            print(f"\n📚 Recopilando para: {categoria.replace('_', ' ').title()}")
             articles_this_category = []
             for fuente in lista_fuentes:
                 articles = self.obtener_articulos_recientes(fuente["url"], self.config.DEFAULT_HOURS_AGO)
                 for art in articles:
                     art['source_name'] = fuente['name']
                 articles_this_category.extend(articles)
-            all_articles_by_category[categoria] = articles_this_category
+            all_articles[categoria] = articles_this_category
 
         processed_articles = {}
-        for categoria, articles in all_articles_by_category.items():
+        for categoria, articles in all_articles.items():
             print(f"\n✨ Procesando y resumiendo para: {categoria.replace('_', ' ').title()}")
             articles.sort(key=lambda x: x['fecha_obj'], reverse=True)
-            
             articles_to_process = articles[:self.config.MAX_ARTICLES_TO_SUMMARIZE_PER_CATEGORY]
             processed_list = []
-
             for i, art in enumerate(articles_to_process):
-                print(f"  ▶️  ({i+1}/{len(articles_to_process)}) Artículo: '{art['titulo']}'")
+                print(f"  ▶️ ({i+1}/{len(articles_to_process)}) Artículo: '{art['titulo']}'")
                 contenido = self.extraer_contenido(art['link'])
-                if not contenido:
-                    continue
-                
-                time.sleep(1) # Pausa para no sobrecargar la API de Gemini
-                
+                if not contenido: continue
+                time.sleep(1)
                 resumen_datos = self.resumir_con_gemini(art['titulo'], contenido, categoria)
                 if resumen_datos:
                     processed_list.append({"info": art, "resumen_datos": resumen_datos})
-            
-            # Ordenar por relevancia
             processed_list.sort(key=lambda x: x['resumen_datos'].get('relevancia_score', 0), reverse=True)
             processed_articles[categoria] = processed_list
 
-        # Guardar en historial
         self.save_to_history(processed_articles)
-        
-        # Generar y guardar HTML
         html_content = self.generate_html_report(processed_articles, "Diario")
         output_path = self.config.SCRIPT_DIR / "index.html"
         output_path.write_text(html_content, encoding="utf-8")
         print(f"\n📄 Reporte Diario guardado en: {output_path}")
         print(f"🔗 URL de despliegue: {self.config.BASE_WEB_URL}index.html")
 
-        # Enviar notificación por correo
         email_subject = "Resumen Diario de Noticias Interactivo"
         email_body = f"Tu resumen diario de noticias está listo.\nPuedes verlo en: {self.config.BASE_WEB_URL}index.html"
-        send_email_notification(self.config, email_subject, email_body)
-
-    def save_to_history(self, processed_articles: Dict[str, List[Dict]]):
-        """Guarda los artículos procesados en un archivo JSON, manejando fechas."""
-        history = []
-        if self.config.HISTORIAL_JSON_PATH.exists():
-            try:
-                history = json.loads(self.config.HISTORIAL_JSON_PATH.read_text(encoding="utf-8"))
-            except json.JSONDecodeError:
-                print("⚠️  El archivo de historial estaba corrupto. Se creará uno nuevo.")
-        
-        count = 0
-        for categoria, articles in processed_articles.items():
-            for art in articles:
-                # SOLUCIÓN: Convertir el objeto datetime a string ISO 8601 antes de guardar
-                if 'fecha_obj' in art['info'] and isinstance(art['info']['fecha_obj'], datetime):
-                    art['info']['fecha_obj'] = art['info']['fecha_obj'].isoformat()
-                
-                art_copy = art.copy()
-                art_copy['categoria'] = categoria
-                history.append(art_copy)
-                count += 1
-        
-        try:
-            with open(self.config.HISTORIAL_JSON_PATH, "w", encoding="utf-8") as f:
-                json.dump(history, f, indent=2, ensure_ascii=False)
-            print(f"💾 Historial actualizado con {count} nuevos artículos.")
-        except Exception as e:
-            print(f"❌ Error al guardar el historial: {e}")
-
-    def generate_html_report(self, processed_articles: Dict[str, List[Dict]], report_type: str) -> str:
-        """Genera el contenido HTML para el reporte de noticias."""
-        # (El código de esta función es largo y se mantiene similar al original,
-        # por lo que se omite aquí por brevedad, pero estaría incluido en el script final)
-        # ...
-        return "<html>...</html>" # Placeholder
+        send_email_notification(self.config, email_body, email_subject)
 
     def run_weekly_report(self):
-        """Orquesta la generación del reporte semanal desde el historial."""
         print("✨ Iniciando procesamiento del reporte semanal desde el historial.")
-        # (Lógica para leer de self.config.HISTORIAL_JSON_PATH, seleccionar los mejores,
-        # generar HTML y limpiar el historial. Similar a la original)
-        print("ℹ️  Funcionalidad de reporte semanal pendiente de implementación completa en la nueva estructura.")
+        # La lógica completa para el reporte semanal iría aquí.
 
-
-# ==============================================================================
-# FUNCIONES AUXILIARES
-# ==============================================================================
-def send_email_notification(config: Config, subject: str, body_text: str):
-    """Envía una notificación por correo electrónico usando Gmail."""
+def send_email_notification(config: Config, body_text: str, subject: str):
     if not all([config.GMAIL_USER, config.GMAIL_APP_PASSWORD, config.GMAIL_DESTINATARIO]):
-        print("⚠️  Faltan credenciales de Gmail. No se enviará correo.")
+        print("⚠️ Faltan credenciales de Gmail. No se enviará correo.")
         return
-
     msg = MIMEText(body_text, 'plain', 'utf-8')
     msg["Subject"] = subject
     msg["From"] = config.GMAIL_USER
     msg["To"] = config.GMAIL_DESTINATARIO
-
     try:
         with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
             print(f"📧 Intentando enviar correo a {config.GMAIL_DESTINATARIO}...")
             server.login(config.GMAIL_USER, config.GMAIL_APP_PASSWORD)
             server.send_message(msg)
             print("✅ Correo de notificación enviado exitosamente.")
-    except smtplib.SMTPAuthenticationError:
-        print("❌ Error de autenticación con Gmail. Revisa GMAIL_USER y GMAIL_APP_PASSWORD.")
     except Exception as e:
         print(f"❌ Error al enviar correo: {e}")
 
-# ==============================================================================
-# PUNTO DE ENTRADA PRINCIPAL
-# ==============================================================================
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Compilador de noticias con IA.")
-    parser.add_argument(
-        "-w", "--weekly", action="store_true",
-        help="Genera un reporte semanal en lugar del diario."
-    )
+    parser.add_argument("-w", "--weekly", action="store_true", help="Genera un reporte semanal.")
     args = parser.parse_args()
-
     config = Config()
     processor = NewsProcessor(config)
-
-    if not processor.gemini_model:
-        exit(1)
+    if not processor.gemini_model: exit(1)
 
     if args.weekly:
         processor.run_weekly_report()
