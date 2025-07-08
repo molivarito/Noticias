@@ -1,81 +1,81 @@
 [
   {
     "info": {
-      "titulo": "El gobierno de Trump elimina la protección del TPS para miles de migrantes de Honduras y Nicaragua en EE.UU.",
-      "link": "https://www.bbc.com/mundo/articles/c07d55yxyldo",
-      "fecha_obj": "2025-07-08T01:54:28+00:00",
-      "fecha_str": "08-07-2025 01:54 UTC",
-      "source_name": "BBC Mundo"
+      "titulo": "En direct, guerre en Ukraine : Kiev affirme avoir été attaqué par 54 drones russes dans la nuit, cinq impacts enregistrés",
+      "link": "https://www.lemonde.fr/international/live/2025/07/08/en-direct-guerre-en-ukraine-kiev-affirme-avoir-ete-attaque-par-54-drones-russes-dans-la-nuit-cinq-impacts-enregistres_6619192_3210.html",
+      "fecha_obj": "2025-07-08T07:16:46+00:00",
+      "fecha_str": "08-07-2025 07:16 UTC",
+      "source_name": "Le Monde International"
     },
     "resumen_datos": {
-      "teaser_sentence": "EEUU cancela el TPS para miles de hondureños y nicaragüenses, dejando en riesgo su estatus migratorio.",
-      "resumen": "El gobierno de Trump revocó el Estatus de Protección Temporal (TPS) para aproximadamente 76.000 hondureños y nicaragüenses en EEUU, medida que entrará en vigor el 6 de septiembre.  La decisión, tomada por la Secretaria de Seguridad Nacional Kristi Noem, argumenta la recuperación económica de ambos países.  Esta acción se suma a otras cancelaciones de TPS bajo la administración Trump, afectando a cientos de miles de migrantes de diversas nacionalidades.  A pesar de las renovaciones del TPS bajo la administración Biden, considerando la inestabilidad política y económica en Honduras y Nicaragua,  la decisión de Trump ha generado críticas, especialmente considerando los reportes de violencia y represión en ambos países.  El gobierno hondureño lo considera parte de una tendencia más amplia de la administración Trump.",
+      "teaser_sentence": "La región ucraniana de Dnipropetrovsk vive con miedo la cercanía del avance ruso en el Donbás, mientras los civiles coexisten con militares.",
+      "resumen": "El artículo describe la situación en la región de Dnipropetrovsk, Ucrania, donde el avance de las fuerzas rusas en el Donbás genera temor entre la población civil.  Una joven de 17 años, que trabaja en un café, relata la atmósfera de tensión, con la presencia constante de militares y el éxodo de habitantes.  A pesar del miedo, la vida continúa, con civiles y militares compartiendo espacios públicos.  El artículo menciona también las declaraciones de Rusia sobre la toma de posiciones en la zona y la creación de una 'zona tampón', afirmaciones que Kiev niega. La situación se presenta como crítica, con la amenaza inminente de una ofensiva rusa.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "La noticia trata sobre una decisión política de EEUU con impacto directo en miles de migrantes de Honduras y Nicaragua, constituyendo un evento de relevancia internacional."
+      "relevancia_justificacion": "El artículo trata sobre un conflicto bélico activo entre Rusia y Ucrania, un tema de máxima relevancia internacional por sus implicaciones geopolíticas y humanitarias."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Trump and Netanyahu Meet Amid Gaza Cease-Fire Negotiations",
-      "link": "https://www.nytimes.com/2025/07/07/us/politics/trump-netanyahu-dinner-gaza-cease-fire.html",
-      "fecha_obj": "2025-07-08T01:52:14+00:00",
-      "fecha_str": "08-07-2025 01:52 UTC",
-      "source_name": "The New York Times World"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Trump y Netanyahu se felicitan mutuamente tras ataques a Irán, mientras negocian sobre Gaza y la normalización de relaciones con países del Golfo.",
-      "resumen": "El presidente Trump y el primer ministro Netanyahu se reunieron para cenar y abordar temas cruciales como el futuro de Gaza y la normalización de relaciones entre Israel y países del Golfo Pérsico.  Inicialmente, ambos se congratularon por los ataques aéreos estadounidenses contra instalaciones nucleares iraníes. Netanyahu nominó a Trump para el Premio Nobel de la Paz, alabando sus esfuerzos por la paz en la región. Trump comparó sus acciones con la decisión de Truman de lanzar bombas atómicas sobre Japón. La reunión destaca la compleja relación entre Estados Unidos e Israel, y su impacto en la política de Oriente Medio.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "La noticia cubre una reunión de alto nivel entre líderes de Estados Unidos e Israel, abordando conflictos internacionales en Oriente Medio, incluyendo negociaciones de alto riesgo sobre Gaza y relaciones internacionales.  Su impacto geopolítico es significativo."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Iran Carries Out Mass Expulsion of Afghan Refugees",
-      "link": "https://www.nytimes.com/2025/07/07/world/middleeast/iran-afghan-refugees-deportations.html",
-      "fecha_obj": "2025-07-08T01:26:05+00:00",
-      "fecha_str": "08-07-2025 01:26 UTC",
-      "source_name": "The New York Times World"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Irán expulsa a cientos de miles de refugiados afganos en una campaña masiva de deportación.",
-      "resumen": "Irán ha llevado a cabo una expulsión masiva de refugiados afganos, con cerca de 800.000 personas expulsadas desde marzo, y más de 600.000 desde el 1 de junio.  La operación se intensificó tras la guerra entre Israel e Irán, con sospechas de espionaje contra los afganos.  Aunque Irán alberga a millones de refugiados afganos, la paciencia del gobierno parece haberse agotado, llevando a una expulsión diaria de hasta 50.000 personas.  Organizaciones internacionales alertan sobre la situación humanitaria de los expulsados, muchos de los cuales se encuentran en condiciones de hambre y agotamiento.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "La noticia trata sobre una crisis humanitaria internacional de gran magnitud, involucrando a dos países y una gran cantidad de refugiados.  Su impacto geopolítico y humanitario es significativo, por lo que es altamente relevante para la categoría 'Internacional'."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Israel’s Deadly Assault on Iran Prison Incites Fury, Even Among Dissidents",
-      "link": "https://www.nytimes.com/2025/07/06/world/middleeast/israel-iran-evin-prison.html",
-      "fecha_obj": "2025-07-08T01:13:56+00:00",
-      "fecha_str": "08-07-2025 01:13 UTC",
-      "source_name": "The New York Times World"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Ataque israelí a prisión iraní de Evin causa indignación, incluso entre disidentes.",
-      "resumen": "Un ataque con misiles israelíes a la prisión de Evin en Teherán, el 23 de junio, durante una guerra de 12 días entre Israel e Irán, ha generado una condena generalizada, incluso entre los opositores al gobierno iraní.  Evin, un símbolo de opresión con un historial de detención, tortura y ejecución, sufrió graves daños.  Irán reporta 79 muertos y decenas de heridos, aunque se espera que la cifra aumente. El ataque dejó escenas de destrucción en el centro de visitantes, la administración e incluso la enfermería de la prisión.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El evento es de gran relevancia internacional por involucrar a dos países con influencia global, un ataque militar directo y una significativa pérdida de vidas humanas.  Las consecuencias geopolíticas del conflicto también son de interés internacional."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Netanyahou dit avoir présenté la nomination de Trump pour le Nobel de la Paix",
-      "link": "https://www.lefigaro.fr/international/netanyahou-dit-avoir-presente-la-nomination-de-trump-pour-le-nobel-de-la-paix-20250708",
-      "fecha_obj": "2025-07-07T23:56:23+00:00",
-      "fecha_str": "07-07-2025 23:56 UTC",
+      "titulo": "Gaza : qui sont les otages toujours retenus par le Hamas ?",
+      "link": "https://www.lefigaro.fr/international/gaza-qui-sont-les-otages-toujours-retenus-par-le-hamas-20250708",
+      "fecha_obj": "2025-07-08T07:15:00+00:00",
+      "fecha_str": "08-07-2025 07:15 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Netanyahu nomina a Trump para el Nobel de la Paz por sus esfuerzos en Oriente Medio.",
-      "resumen": "El primer ministro israelí, Benjamin Netanyahu, anunció que nominó a Donald Trump para el Premio Nobel de la Paz.  Netanyahu justificó la nominación destacando los esfuerzos de Trump para lograr la paz en varias regiones, aunque no especificó cuáles.  La declaración se realizó durante una cena en la Casa Blanca con el presidente estadounidense.  La nominación ha generado debate, ya que la contribución real de Trump a la paz en Oriente Medio es un tema de discusión. Algunos argumentan que los acuerdos de Abraham son un logro significativo, mientras que otros señalan la falta de resolución del conflicto palestino-israelí. La nominación subraya la estrecha relación entre Netanyahu y Trump y la importancia simbólica de este reconocimiento.",
+      "teaser_sentence": "Otages de Gaza: le Hamas retient encore 49 personnes, des négociations sont en cours.",
+      "resumen": "Le 7 octobre 2023, le Hamas a enlevé 251 personnes à Gaza.  49 sont toujours retenues, dont 27 déclarées mortes par Israël.  Des négociations pour un cessez-le-feu et la libération des otages sont en cours à Doha. L’article détaille le profil de plusieurs otages, certains vifs, d’autres déclarés morts par l’armée israélienne,  soulignant les conditions de leur capture et les informations disponibles sur leur sort. Des échanges de prisonniers ont déjà eu lieu.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre una crisis internacional con importantes implicaciones políticas y humanitarias, involucrando a Israel, Hamas y la comunidad internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "PSG-Real Madrid: Deschamps aux États-Unis pour la demi-finale de coupe du monde des clubs",
+      "link": "https://www.lefigaro.fr/sports/football/psg-real-madrid-deschamps-sera-aux-etats-unis-pour-la-demi-finale-de-coupe-du-monde-des-clubs-20250708",
+      "fecha_obj": "2025-07-08T07:16:29+00:00",
+      "fecha_str": "08-07-2025 07:16 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Deschamps observa a jugadores franceses del PSG y Real Madrid en la semifinal del Mundial de Clubes.",
+      "resumen": "Didier Deschamps, seleccionador de Francia, asistirá a la semifinal del Mundial de Clubes entre el PSG y el Real Madrid para observar a los jugadores franceses de ambos equipos, incluyendo a Mbappé, Tchouaméni, Dembélé, entre otros.  Su presencia busca evaluar el rendimiento de sus internacionales antes del inicio de las eliminatorias para la Eurocopa 2024. Deschamps permanecerá en Estados Unidos hasta la final, con la posibilidad de observar también a Nkunku si Chelsea clasifica.",
       "relevancia_score": 9,
-      "relevancia_justificacion": "La noticia tiene alta relevancia internacional por involucrar a líderes de dos países importantes (Israel y Estados Unidos) y un premio global de gran prestigio.  La nominación, y la justificación de la misma, genera debate geopolítico."
+      "relevancia_justificacion": "La noticia trata sobre el seleccionador de Francia y sus observaciones de jugadores clave para la selección nacional, lo que tiene una alta relevancia internacional debido al interés en el fútbol francés y el Mundial de Clubes."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "2000 hectares de forêt en feu, 1000 sapeurs-pompiers déployés, habitants confinés... Ce qu’il faut savoir sur l’incendie dans l’Aude, près de Narbonne",
+      "link": "https://www.lefigaro.fr/actualite-france/incendie-dans-l-aude-un-feu-parcourt-450-hectares-pres-de-narbonne-habitants-confines-et-a9-fermee-20250707",
+      "fecha_obj": "2025-07-08T07:15:03+00:00",
+      "fecha_str": "08-07-2025 07:15 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Incendio en Aude, Francia: 2000 hectáreas arrasadas, miles de evacuados y carreteras cortadas.",
+      "resumen": "Un incendio de grandes proporciones consumió más de 2000 hectáreas de vegetación cerca de Narbonne, Francia.  Más de 1000 bomberos y una decena de aviones combatieron las llamas, avivadas por fuertes vientos y condiciones climáticas secas.  Habitantes de un hameau tuvieron que ser evacuados, sufriendo daños materiales en sus viviendas. La autopista A9 fue cerrada temporalmente, y se reportaron algunos heridos leves entre bomberos y civiles. El incendio, que comenzó en un viñedo, se considera el tercero en una semana en la región de Aude, resaltando el alto riesgo de incendios forestales debido a las condiciones meteorológicas.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien es un evento localizado, la magnitud del incendio, el número de personas afectadas y la interrupción de infraestructuras importantes lo hacen relevante a nivel internacional.  La noticia ilustra los desafíos globales del cambio climático y los riesgos de incendios forestales."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "«C’est mal connaître la réalité du pays» : Fabien Roussel juge «hors-sol» la position de LFI sur la police municipale",
+      "link": "https://www.lefigaro.fr/politique/c-est-mal-connaitre-la-realite-du-pays-fabien-roussel-juge-hors-sol-la-position-de-lfi-sur-la-police-municipale-20250708",
+      "fecha_obj": "2025-07-08T07:09:30+00:00",
+      "fecha_str": "08-07-2025 07:09 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Roussel rechaza la postura de LFI sobre la policía municipal, tildándola de \"hors-sol\" y descartando alianzas.",
+      "resumen": "Fabien Roussel, secretario nacional del PCF, criticó duramente la posición de La France Insoumise (LFI) sobre el desarme de la policía municipal y el desmantelamiento de la videovigilancia, calificándola de \"desconectada de la realidad\".  Roussel descarta alianzas con LFI en las municipales si mantienen esta postura, argumentando que el aumento de la inseguridad requiere un refuerzo de la policía nacional.  Si bien se opone al proyecto de ley de Retailleau que amplía las competencias de la policía municipal, considera que la propuesta de LFI es irreal.  Critica la contradicción entre este proyecto y los recortes presupuestarios para los municipios.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien la noticia se centra en la política francesa interna, las implicaciones de las políticas de seguridad y las alianzas entre partidos políticos tienen relevancia internacional al mostrar tendencias en la política europea y las estrategias para abordar temas como la seguridad pública."
     },
     "categoria": "internacional"
   },
@@ -88,10 +88,10 @@
       "source_name": "CIPER Chile"
     },
     "resumen_datos": {
-      "teaser_sentence": "Fraude millonario en La Serena: \"funcionarios fantasmas\" cobraron $1.400 millones por trabajos inexistentes.",
-      "resumen": "Una investigación en la Corporación Municipal de La Serena reveló un fraude de $1.400 millones.  Al menos 21 \"funcionarios fantasmas\" cobraron honorarios por servicios inexistentes entre 2015 y 2021.  La Contraloría había detectado previamente un desfalco de $800 millones en el Departamento de Salud.  Dos exconcejales también son investigados por irregularidades. La falta de control interno y la ausencia de protocolos para el pago de boletas contribuyeron al fraude. La situación involucra imputaciones, detenciones y una deuda millonaria en cotizaciones previsionales.",
+      "teaser_sentence": "Fraude millonario en La Serena: más de $1.400 millones en pagos a \"funcionarios fantasmas\".",
+      "resumen": "Una investigación interna en la Corporación Municipal de La Serena reveló pagos por más de $1.300 millones a 21 \"funcionarios fantasmas\".  La Contraloría previamente detectó $800 millones en irregularidades.  El fraude involucra boletas falsas, falta de respaldo contractual, y la posible complicidad de exconcejales.  Al menos 19 personas están imputadas, y la investigación sigue en curso, con la posibilidad de que el monto defraudado aumente.  Se encontraron graves fallas en los controles internos de la corporación, incluyendo la falta de libros contables y análisis bancarios, lo que facilitó el fraude.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El caso involucra un fraude millonario en una institución pública, con implicancias legales y políticas a nivel nacional. La magnitud del desfalco y las figuras involucradas (exconcejales, funcionarios) justifican una alta relevancia nacional."
+      "relevancia_justificacion": "El caso involucra una gran suma de dinero, corrupción en el gobierno local, y múltiples imputados, generando un impacto significativo a nivel nacional."
     },
     "categoria": "nacional"
   },
@@ -105,185 +105,185 @@
     },
     "resumen_datos": {
       "teaser_sentence": "La ciencia, clave para sanar suelos chilenos degradados por incendios y desertificación.",
-      "resumen": "El artículo destaca la urgencia de integrar la ciencia del suelo en las políticas chilenas ante la creciente desertificación e incendios.  Señala que la degradación del suelo afecta la seguridad alimentaria y la resiliencia climática.  Menciona iniciativas de la USM que usan biotecnología y soluciones basadas en la naturaleza para restaurar suelos dañados por incendios y metales pesados, en colaboración con instituciones públicas y privadas.  Finalmente, aboga por la aprobación del proyecto de Ley Marco de Suelos para impulsar una política pública efectiva basada en ciencia y tecnología, tomando ejemplos de la UE y EE.UU.",
+      "resumen": "El artículo destaca la urgencia de integrar la ciencia del suelo en las políticas chilenas ante la creciente desertificación e incendios.  Se menciona la degradación del 22% del territorio nacional, impactando a millones.  Investigaciones del CETAM y CB-DAL de la USM, financiadas por ANID, desarrollan soluciones biotecnológicas para restaurar suelos dañados por incendios y contaminación con metales pesados, en colaboración con instituciones públicas y privadas.  Se destaca la importancia del proyecto de Ley Marco de Suelos para escalar estas soluciones y la necesidad de una política pública que combine ciencia y tecnología para lograr justicia ambiental, tomando ejemplos de la UE y EE.UU.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo aborda un problema nacional crucial: la degradación de suelos en Chile, sus causas, consecuencias y posibles soluciones a través de la ciencia y políticas públicas.  Tiene un impacto directo en la sociedad chilena y su futuro."
+      "relevancia_justificacion": "El artículo aborda un problema nacional crítico: la degradación de suelos en Chile,  presentando soluciones científicas con impacto directo en la población y el medio ambiente.  La mención de políticas, instituciones y proyectos nacionales refuerza su relevancia."
     },
     "categoria": "nacional"
   },
   {
     "info": {
-      "titulo": "Big Tech Wants to Profit From the Loneliness It Helps Cause",
-      "link": "https://www.nytimes.com/2025/07/07/opinion/loneliness-ai-social-media.html",
-      "fecha_obj": "2025-07-07T23:24:01+00:00",
-      "fecha_str": "07-07-2025 23:24 UTC",
-      "source_name": "The New York Times Opinion"
+      "titulo": "Governments like mine have a duty to stand up to Israel. Far too many have failed | Gustavo Petro",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/08/governments-stand-up-to-israel-colombia",
+      "fecha_obj": "2025-07-08T07:00:29+00:00",
+      "fecha_str": "08-07-2025 07:00 UTC",
+      "source_name": "The Guardian Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Big Tech lucra con la soledad que ayuda a crear, ofreciendo soluciones digitales que empeoran el problema.",
-      "resumen": "El artículo critica la comercialización de la soledad por parte de las grandes empresas tecnológicas.  Plataformas de redes sociales, aplicaciones de citas y compañeros de IA se presentan como soluciones a la soledad, pero el autor argumenta que en realidad la exacerban.  Se aprovecha la vulnerabilidad de las personas solitarias, ofreciendo conexiones digitales superficiales que evitan el autoconocimiento y la resolución del problema subyacente.  La declaración de la soledad como epidemia ha creado un mercado lucrativo, donde la tecnología se presenta como una cura, perpetuando un ciclo de dependencia y exacerbando la soledad.",
+      "teaser_sentence": "Gobiernos deben desafiar las acciones de Israel; la inacción es complicidad.",
+      "resumen": "El presidente colombiano Gustavo Petro critica la pasividad internacional ante las acciones de Israel en Gaza, instando a la acción colectiva.  Recuerda la resolución de la ONU que exige el fin de la presencia israelí ilegal y condena la inacción de muchos estados por cálculos estratégicos.  Petro destaca acciones de Colombia, Sudáfrica y Malasia como ejemplos de desafío a la impunidad de Israel.  Anuncia una conferencia urgente en La Haya para coordinar medidas legales, diplomáticas y económicas para detener la destrucción en Gaza y defender el derecho internacional, enfatizando la necesidad de pasar de la condena a la acción colectiva para evitar el colapso del sistema internacional.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo presenta una opinión crítica y argumentada sobre la relación entre la tecnología y la soledad, encajando perfectamente en la categoría de 'Opinión Ensayo'.  Expone una tesis, la apoya con ejemplos y evidencia, y ofrece una conclusión reflexiva sobre el tema."
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que expresa una postura crítica y argumentada sobre la política internacional y la responsabilidad de los gobiernos ante violaciones del derecho internacional. Presenta una propuesta concreta de acción y apela a la conciencia moral del lector."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "How Trump’s ‘Big, Beautiful Bill’ Will Make China Great Again",
-      "link": "https://www.nytimes.com/2025/07/03/opinion/trump-bill-clean-energy-china.html",
-      "fecha_obj": "2025-07-07T19:53:10+00:00",
-      "fecha_str": "07-07-2025 19:53 UTC",
-      "source_name": "The New York Times Opinion"
+      "titulo": "To those who question what Labour stands for – look at Best Start. It will change Britain’s future | Polly Toynbee",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/08/labour-best-start-britain-children",
+      "fecha_obj": "2025-07-08T05:00:27+00:00",
+      "fecha_str": "08-07-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "La ley de Trump, un desastre para EE.UU. y un regalo para China, según este análisis.",
-      "resumen": "El artículo critica duramente la ley energética de Trump, argumentando que perjudica la energía renovable estadounidense, dificulta la creación de empleos verdes, aumenta los costos de energía y beneficia a China.  Señala restricciones complejas a los créditos fiscales para tecnologías limpias, la eliminación de un impuesto al metano y la falta de consulta con expertos.  El autor destaca la contradicción entre las acciones de Trump y los intereses de innovación tecnológica de EE.UU.,  usando a Elon Musk como ejemplo de alguien que reconoce el daño causado por esta legislación.  Se concluye que la ley debilita la capacidad de EE.UU. para desarrollar inteligencia artificial y otras tecnologías clave, otorgando una ventaja a China.",
+      "teaser_sentence": "El programa Best Start de Labour, sucesor de Sure Start, prioriza la infancia para construir una sociedad más justa e igualitaria.",
+      "resumen": "Polly Toynbee argumenta que el programa Best Start del Partido Laborista, que amplía los servicios de apoyo familiar y educación infantil temprana, representa la esencia de su ideología.  Basado en el exitoso programa Sure Start, Best Start busca reducir las desigualdades y mejorar las oportunidades de los niños, con inversiones en guarderías, desayunos gratuitos y atención sanitaria. Estudios demuestran los beneficios a largo plazo de Sure Start en el rendimiento académico, salud mental y reducción de hospitalizaciones. Toynbee aboga por que Best Start sea la prioridad en la agenda del partido, incluso por encima de otras políticas, financiándolo con medidas como un impuesto a la riqueza, para combatir la pobreza infantil y romper el ciclo de desigualdad.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo presenta una opinión argumentada y crítica sobre una ley específica, con evidencia y ejemplos.  Se ajusta perfectamente a la categoría de 'Opinion Ensayo' por su análisis profundo, perspectiva clara y estructura argumentativa."
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza en profundidad una política específica (Best Start) y su significado ideológico para el Partido Laborista, ofreciendo argumentos a favor y contra, y proponiendo soluciones.  Se ajusta perfectamente a la categoría de 'Opinión Ensayo'."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "Texas Hill Country Is Underwater, and America’s Emergency Lifeline Is Fraying",
-      "link": "https://www.nytimes.com/2025/07/07/opinion/texas-floods-fema.html",
-      "fecha_obj": "2025-07-08T02:33:24+00:00",
-      "fecha_str": "08-07-2025 02:33 UTC",
+      "titulo": "Germany is ‘importing’ antisemitism, our leaders claim. Irony is not their strong point | Mithu Sanyal",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/08/germany-importing-antisemitism-migrants-jewish",
+      "fecha_obj": "2025-07-08T04:00:26+00:00",
+      "fecha_str": "08-07-2025 04:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Políticos alemanes culpan a inmigrantes del antisemitismo, ignorando su propia historia y perpetuando un discurso peligroso.",
+      "resumen": "El artículo critica la narrativa en Alemania que atribuye el aumento del antisemitismo a la inmigración.  Políticos como Merz y Aiwanger utilizan esta frase, ignorando el profundo arraigo histórico del antisemitismo en Alemania. La autora argumenta que esta visión ignora la responsabilidad alemana y criminaliza a los inmigrantes, incluso aquellos con ascendencia alemana.  Se critica la falta de análisis profundo del antisemitismo y la aplicación selectiva de la ley, donde se castiga la crítica a Israel pero se tolera la xenofobia.  El artículo concluye que Alemania debería reconocer su papel en la historia del antisemitismo europeo y dejar de culpar a otros.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente un tema político y social relevante: la atribución del antisemitismo a la inmigración en Alemania. Presenta argumentos, evidencia y opiniones con el objetivo de persuadir al lector sobre la problemática de esta narrativa."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "This Is BYD, the Chinese Car That’s Taking Over the World",
+      "link": "https://www.nytimes.com/2025/07/08/opinion/byd-china-car-ev.html",
+      "fecha_obj": "2025-07-08T06:15:26+00:00",
+      "fecha_str": "08-07-2025 06:15 UTC",
       "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Desastres naturales en Texas exponen la fragilidad del sistema de emergencias de EE. UU.",
-      "resumen": "Las catastróficas inundaciones en Texas, con al menos 81 muertos, resaltan la creciente ineficiencia del sistema de respuesta a emergencias de Estados Unidos.  La región, aún recuperándose de inundaciones previas, sufrió lluvias torrenciales que superaron los 15 centímetros en horas, provocando inundaciones repentinas devastadoras.  Este evento, en un contexto de cambio climático que intensifica los fenómenos meteorológicos, pone de manifiesto la insuficiencia de los recursos y la tardanza en la respuesta federal.  El artículo argumenta que el sistema de ayuda en emergencias se está debilitando, llegando tarde, con poca potencia o incluso sin llegar, poniendo en riesgo la resiliencia nacional.",
+      "teaser_sentence": "BYD, el gigante chino de autos eléctricos, amenaza el dominio estadounidense; ¿podrá EE.UU. responder?",
+      "resumen": "El fabricante chino de vehículos eléctricos BYD superó a Tesla en ventas y se proyecta como un competidor de Toyota y Volkswagen para 2030. Sin embargo, su presencia en EE.UU. es limitada debido a altos aranceles.  El artículo argumenta que el éxito de BYD refleja un modelo industrial chino superior, que combina apoyo gubernamental, planificación a largo plazo e innovación.  Esta situación representa una seria amenaza para la industria automotriz estadounidense, instando a una respuesta nacional urgente y decidida para recuperar la competitividad, similar a un 'Proyecto Manhattan' para la industria automotriz.",
       "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta una opinión sobre la ineficacia del sistema de respuesta a emergencias de EE.UU. ante desastres naturales,  basada en un evento específico.  Analiza las causas (cambio climático, recursos insuficientes) y consecuencias (pérdidas humanas, ineficacia de la respuesta federal), ofreciendo una perspectiva crítica y argumentativa, propia de un ensayo de opinión."
+      "relevancia_justificacion": "El artículo presenta una opinión clara y argumentada sobre la amenaza que representa BYD para la industria automotriz estadounidense, ofreciendo análisis y propuestas.  Su estructura y enfoque lo hacen adecuado para un ensayo de opinión."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "In Texas, Another Tragic Warning on Climate Change",
-      "link": "https://www.nytimes.com/2025/07/07/opinion/texas-floods-climate-change.html",
-      "fecha_obj": "2025-07-08T00:06:10+00:00",
-      "fecha_str": "08-07-2025 00:06 UTC",
+      "titulo": "The Ruthless Ambition of Stephen Miller",
+      "link": "https://www.nytimes.com/2025/07/07/opinion/stephen-miller.html",
+      "fecha_obj": "2025-07-08T06:13:28+00:00",
+      "fecha_str": "08-07-2025 06:13 UTC",
       "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Recortes en el Servicio Meteorológico Nacional ponen en riesgo vidas ante eventos climáticos extremos en Texas.",
-      "resumen": "Dos cartas al editor del New York Times lamentan las consecuencias de los recortes en el Servicio Meteorológico Nacional de Estados Unidos.  La primera destaca la ironía de los recortes en medio de una tragedia climática en Texas y el inicio de la temporada de huracanes, incluyendo la interrupción del intercambio de datos con entidades locales y el Departamento de Defensa. La segunda carta enfatiza la pérdida de vidas humanas en Texas debido a inundaciones repentinas, calificándolo de tragedia evitable. Ambas cartas exigen explicaciones a la administración por las decisiones tomadas y su impacto en la capacidad de predicción y alerta temprana de eventos climáticos extremos.",
+      "teaser_sentence": "El poder de Stephen Miller en la administración Trump: ambición despiadada o estrategia política maestra?",
+      "resumen": "El artículo analiza el poder e influencia de Stephen Miller en la administración Trump, destacando su papel en la deportación masiva de venezolanos y su estrategia de 'hacerlo y enfrentar las consecuencias'.  Miller, descrito como despiadado y astuto, ha mantenido su posición a través de la lealtad incondicional a Trump, incluso abandonando antiguos aliados. Su influencia se basa en la adulación extrema y la capacidad de anticipar los deseos de Trump.  Sin embargo, su poder podría verse amenazado no por intrigas internas, sino por factores más profundos. El artículo cuestiona la legalidad de las acciones de Miller y la capacidad de Trump para ignorar el derecho federal.",
       "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta claramente opiniones sobre la gestión gubernamental de la información meteorológica y sus consecuencias, expresadas a través de cartas al editor que argumentan sobre la responsabilidad política en las muertes ocurridas.  Su estructura y enfoque lo hacen adecuado para la categoría de 'Opinión Ensayo'."
+      "relevancia_justificacion": "El artículo presenta un análisis crítico y opinativo sobre el poder de Stephen Miller y su impacto en la política de inmigración de Trump.  Expresa una clara postura sobre las acciones de Miller y su ética, lo que lo hace adecuado para un ensayo de opinión."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "‘F1’ Is a Triumph of the Movie Star",
-      "link": "https://www.nytimes.com/2025/07/05/opinion/brad-pitt-f1.html",
-      "fecha_obj": "2025-07-08T02:33:45+00:00",
-      "fecha_str": "08-07-2025 02:33 UTC",
-      "source_name": "The New York Times Opinion"
+      "titulo": "10% Home Depot Promo Codes & Coupons | July 2025",
+      "link": "https://www.wired.com/story/home-depot-promo-code/",
+      "fecha_obj": "2025-07-08T05:00:00+00:00",
+      "fecha_str": "08-07-2025 05:00 UTC",
+      "source_name": "Wired"
     },
     "resumen_datos": {
-      "teaser_sentence": "El éxito de 'F1: The Movie' demuestra que el estrellato de Brad Pitt sigue vigente en Hollywood.",
-      "resumen": "El artículo discute la idea de que el estrellato en Hollywood ha disminuido, con el éxito de las franquicias y la propiedad intelectual superando a las estrellas.  Sin embargo, el reciente estreno de \"F1: The Movie\", protagonizada por Brad Pitt, recaudó más de $145 millones a nivel mundial, superando las expectativas y desafiando la idea de que las estrellas de cine ya no son relevantes.  A diferencia de otras películas exitosas de este año basadas en videojuegos o remakes, el éxito de 'F1' se atribuye directamente al poder de atracción de Brad Pitt, demostrando que el estrellato clásico aún puede impulsar taquilla.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "El artículo presenta una opinión sobre el estado actual de Hollywood y el poder de las estrellas de cine, apoyada en datos de taquilla y ejemplos concretos.  Se argumenta de forma clara y concisa, aunque podría profundizar más en el análisis de las causas del éxito de Pitt."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "Memory gets a boost from positive emotion",
-      "link": "https://www.nature.com/articles/d41586-025-02107-7",
-      "fecha_obj": "2025-07-08T00:00:00+00:00",
-      "fecha_str": "08-07-2025 00:00 UTC",
-      "source_name": "Nature News"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Las emociones positivas mejoran la memoria; un descubrimiento científico con implicaciones para la salud.",
-      "resumen": "El artículo, cuyo acceso completo requiere una versión actualizada del navegador,  sugiere una correlación entre las emociones positivas y una mejora en la capacidad de memoria.  Si bien el contenido específico no es accesible debido a las limitaciones del navegador, el título indica una investigación científica que explora la conexión entre estados emocionales y las funciones cognitivas, específicamente la memoria.  La investigación probablemente utilizó métodos científicos para analizar los efectos de las emociones en la memoria, lo que podría tener implicaciones en el desarrollo de tratamientos o estrategias para mejorar la memoria y la salud cognitiva.  Se requieren más datos para una comprensión completa de los hallazgos.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El estudio explora la relación entre la emoción y la cognición, un área de investigación relevante para la ciencia y la tecnología.  Tiene el potencial de llevar a avances en neurociencia y tecnologías relacionadas con la salud mental y la mejora cognitiva."
+      "teaser_sentence": "Ahorra hasta un 60% en Home Depot con cupones, ofertas y programas de lealtad.",
+      "resumen": "El artículo detalla las diversas promociones y descuentos disponibles en Home Depot durante el verano de 2025.  Se destacan ofertas de hasta un 50% en muebles de patio, electrodomésticos y herramientas, además de cupones de 10% para suscriptores del boletín.  Se mencionan descuentos adicionales para compras múltiples de electrodomésticos, ofertas diarias con hasta un 40% de rebaja, y el programa de lealtad Pro Xtra con descuentos exclusivos. También se incluye un descuento del 10% para militares, con un límite anual.  El artículo enfatiza la variedad de opciones para ahorrar dinero en compras online y en tienda.",
+      "relevancia_score": 2,
+      "relevancia_justificacion": "El artículo se centra en las promociones de una tienda de artículos para el hogar y la construcción.  Aunque menciona algunos artículos relacionados con la tecnología inteligente para el hogar (como termostatos Nest), la información principal no se relaciona con avances científicos o tecnológicos."
     },
     "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "Hot air: the most extreme heatwaves are accelerating the fastest",
-      "link": "https://www.nature.com/articles/d41586-025-02109-5",
-      "fecha_obj": "2025-07-08T00:00:00+00:00",
-      "fecha_str": "08-07-2025 00:00 UTC",
-      "source_name": "Nature News"
+      "titulo": "Suck it up! The sinister side of holiday snaps – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2025/jul/08/the-tourist-kourtney-roy-sinister-les-recontres-darles-in-pictures",
+      "fecha_obj": "2025-07-08T06:00:29+00:00",
+      "fecha_str": "08-07-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
     },
     "resumen_datos": {
-      "teaser_sentence": "Las olas de calor extremas se intensifican a un ritmo alarmante.",
-      "resumen": "El artículo analiza la aceleración en la intensidad de las olas de calor más extremas.  Señala que estas no solo son más frecuentes, sino que su aumento de intensidad es mucho más rápido de lo que se preveía.  Esto tiene implicaciones significativas para el cambio climático y sus efectos devastadores.  La investigación probablemente utiliza datos de temperatura global para sustentar sus conclusiones, mostrando una tendencia preocupante hacia eventos climáticos más severos.  La aceleración en la intensidad de estas olas de calor representa una amenaza creciente para la salud humana, los ecosistemas y las infraestructuras.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El tema aborda directamente el cambio climático, un área clave de la ciencia y la tecnología.  La investigación sobre eventos climáticos extremos y sus proyecciones futuras es altamente relevante para el desarrollo de tecnologías de mitigación y adaptación."
-    },
-    "categoria": "ciencia_tecnologia"
-  },
-  {
-    "info": {
-      "titulo": "Programmation énergétique: débats scrutés au Sénat, sur fond de discorde gouvernementale",
-      "link": "https://www.sciencesetavenir.fr/nature-environnement/programmation-energetique-debats-scrutes-au-senat-sur-fond-de-discorde-gouvernementale_187004?xtor=RSS-15",
-      "fecha_obj": "2025-07-08T01:50:01+00:00",
-      "fecha_str": "08-07-2025 01:50 UTC",
-      "source_name": "Sciences et Avenir"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Debate en el Senado francés: futuro energético en juego, entre el nuclear y las renovables.",
-      "resumen": "El Senado francés debate una ley sobre el futuro energético del país, con fuertes desacuerdos entre el gobierno. La propuesta, que impulsa la energía nuclear y las renovables, enfrenta la oposición de algunos miembros del gobierno, especialmente por las subvenciones a las energías renovables.  El debate se centra en la financiación de las energías renovables y en la necesidad de acelerar la transición energética. Se espera que esta ley influya en la próxima programación plurianual de energía (PPE).  Se busca un consenso sobre la expansión nuclear y el aumento de la energía renovable a un 58% para 2030, aunque persisten las tensiones políticas.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "El artículo trata sobre políticas energéticas que implican decisiones científicas y tecnológicas en la producción y el consumo de energía. La discusión sobre energía nuclear y renovable, y la PPE, son temas de alta relevancia en ciencia y tecnología."
-    },
-    "categoria": "ciencia_tecnologia"
-  },
-  {
-    "info": {
-      "titulo": "Agriculture: la loi Duplomb entrevoit le bout du tunnel parlementaire, sans éteindre la controverse",
-      "link": "https://www.sciencesetavenir.fr/nature-environnement/agriculture-la-loi-duplomb-entrevoit-le-bout-du-tunnel-parlementaire-sans-eteindre-la-controverse_187003?xtor=RSS-15",
-      "fecha_obj": "2025-07-08T01:50:01+00:00",
-      "fecha_str": "08-07-2025 01:50 UTC",
-      "source_name": "Sciences et Avenir"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Polémica ley agrícola francesa autoriza uso de pesticida neonictinoide, generando controversia ambiental.",
-      "resumen": "La ley agrícola Duplomb-Menonville, aprobada en Francia, permite la reintroducción del pesticida neonicotinoide acetamiprida, a pesar de las preocupaciones ambientales.  Si bien se justifica para ayudar a agricultores de remolacha y avellanas,  la medida es criticada por grupos ecologistas y apicultores por su impacto en las abejas.  El texto incluye medidas para facilitar el almacenamiento de agua y la expansión de la agricultura intensiva, generando más controversia.  A pesar de la oposición, la ley cuenta con el apoyo de una amplia mayoría parlamentaria, aunque se prevén recursos al Consejo Constitucional.",
-      "relevancia_score": 4,
-      "relevancia_justificacion": "Si bien la ley tiene implicaciones científicas relacionadas con los pesticidas y su impacto en el medio ambiente, el enfoque principal es político y agrícola.  La discusión científica sobre los neonicotinoides es relevante, pero no es el tema central del artículo."
-    },
-    "categoria": "ciencia_tecnologia"
-  },
-  {
-    "info": {
-      "titulo": "Slain Palestinian Boy Honored in Illinois Playground Monument",
-      "link": "https://hyperallergic.com/1026145/slain-palestinian-boy-wadee-alfayoumi-honored-in-illinois-playground-monument/",
-      "fecha_obj": "2025-07-07T21:27:35+00:00",
-      "fecha_str": "07-07-2025 21:27 UTC",
-      "source_name": "Hyperallergic"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Monumento en Illinois honra a Wadee Alfayoumi, niño palestino asesinado en un crimen de odio.",
-      "resumen": "La comunidad de Plainfield, Illinois, inauguró un monumento en honor a Wadee Alfayoumi, un niño palestino de seis años asesinado en 2023 por su casero en un crimen de odio anti-musulmán y anti-palestino. El monumento, ubicado en un parque rebautizado con su nombre, muestra la silueta de Alfayoumi con la mano levantada formando un corazón.  El proyecto, financiado por los Boy Scouts, costó 10.000 dólares y fue diseñado por artistas locales.  El asesino, Joseph Czuba, fue condenado a 53 años de prisión. La inauguración del monumento incluyó la condena a la islamofobia y un mensaje de paz. Este evento destaca la memoria del niño y la lucha contra el odio.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "El artículo describe una obra de arte pública creada en memoria de una víctima de un crimen de odio. La creación y presentación del monumento son eventos culturales relevantes, y la obra misma es una pieza de arte.  La puntuación no es 10 porque el enfoque principal no es el análisis artístico de la pieza, sino el evento y su contexto socio-político."
+      "teaser_sentence": "Autoretratos solitarios y un toque siniestro: la nueva exposición de Kourtney Roy.",
+      "resumen": "La exposición \"The Tourist\" de Kourtney Roy, en Les Recontres d’Arles hasta el 5 de octubre, presenta una serie de auto-retratos con una estética que combina humor y oscuridad, glamour y decadencia.  Las imágenes muestran a personajes solitarios que beben a solas, reflejando el estilo característico de la artista: una paleta de colores específica, un enfoque cinematográfico y una tensión entre lo convencional y lo no ortodoxo. La muestra, también disponible en libro, se caracteriza por la auto-representación de la artista y su exploración de la soledad.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La exposición es una muestra de arte contemporáneo, con una artista específica, una temática y una ubicación.  Se ajusta perfectamente a la categoría 'Cultura Arte', cubriendo aspectos de fotografía, autorretratos y una exposición en una galería reconocida."
     },
     "categoria": "cultura_arte"
   },
   {
     "info": {
-      "titulo": "Billion Dollar Playground review – drop everything! Your hate-watch of the summer is here",
-      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/07/billion-dollar-playground-review-drop-everything-your-hate-watch-of-the-summer-is-here",
-      "fecha_obj": "2025-07-07T20:55:17+00:00",
-      "fecha_str": "07-07-2025 20:55 UTC",
+      "titulo": "Del ping pong a la tensión gamer, el arte se anima a jugar en la apertura de BIENALSUR",
+      "link": "https://www.clarin.com/cultura/ping-pong-tension-gamer-arte-anima-jugar-apertura-bienalsur_0_JFiUMdU6dE.html",
+      "fecha_obj": "2025-07-07T21:57:58+00:00",
+      "fecha_str": "07-07-2025 21:57 UTC",
+      "source_name": "Revista Ñ – Clarín Cultura"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "BIENALSUR celebra 10 años con una exposición interactiva que fusiona arte y juego.",
+      "resumen": "La 5ta edición de BIENALSUR, celebrada en el Centro de Arte Contemporáneo de Muntref,  presentó la exposición \"Let's Play / Juguemos en el Mundo\", una experiencia interactiva que invitaba a la participación activa del público.  Obras de artistas internacionales como Marta Minujín, Michelangelo Pistoletto y Carlos Amorales, entre otros,  transformaron el espacio en un entorno lúdico. La muestra exploró la relación entre arte y juego,  invitando a los visitantes a participar en instalaciones que desafiaban la pasividad del espectador,  desde mesas de ping pong de diseño hasta juegos que reflexionaban sobre el tiempo y la identidad. La bienal, que se extendió a otras sedes,  celebró su décimo aniversario con una propuesta innovadora que fusionó diferentes disciplinas artísticas.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo describe completamente una exposición de arte contemporáneo internacional, incluyendo detalles de las obras, artistas y la experiencia del evento.  Su enfoque en la interacción y la participación del público lo hace altamente relevante para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "‘They rewrite the ending’: the knife crime play with its own outreach scheme",
+      "link": "https://www.theguardian.com/stage/2025/jul/08/knife-crime-play-sam-edmunds-chaos-that-has-been",
+      "fecha_obj": "2025-07-08T06:00:30+00:00",
+      "fecha_str": "08-07-2025 06:00 UTC",
       "source_name": "The Guardian Culture"
     },
     "resumen_datos": {
-      "teaser_sentence": "Billion Dollar Playground: lujo, drama y personajes detestables en un reality imperdible.",
-      "resumen": "Billion Dollar Playground es un reality que sigue a un equipo de empleados que atienden a millonarios en lujosas propiedades australianas.  El programa se centra en las personalidades conflictivas del personal, como la irresponsable Heaven y la eficiente Elsie, y el caos que generan al atender las extravagantes demandas de los huéspedes.  Se destaca el contraste entre el lujo extremo y las personalidades disfuncionales, creando una experiencia de \"hate-watch\" adictiva.  Las situaciones absurdas y los personajes detestables prometen un verano lleno de diversión cínica.",
-      "relevancia_score": 3,
-      "relevancia_justificacion": "Si bien el programa toca aspectos de la cultura del lujo y el comportamiento de las élites, su enfoque principal es el entretenimiento y el drama, no el análisis cultural profundo o artístico."
+      "teaser_sentence": "Obra de teatro contra la violencia con cuchillos busca cambiar la narrativa a través de un programa de alcance comunitario.",
+      "resumen": "Sam Edmunds, dramaturgo que creció en un entorno con alta violencia con armas blancas, presenta \"The Chaos That Has Been and Will No Doubt Return\", una obra basada en hechos reales que aborda la problemática.  Acompañando la gira teatral, Edmunds y su compañía Chalk Line lanzan un programa nacional de intervención contra la violencia con cuchillos, buscando llegar a más de 1000 jóvenes. La obra, desarrollada con la colaboración de la policía y jóvenes vulnerables, explora las raíces de la violencia, ofreciendo un mensaje de esperanza y promoviendo la reflexión sobre las decisiones y sus consecuencias a través de talleres donde los jóvenes pueden \"reescribir el final\".  El programa busca empoderar a los jóvenes, no solo denunciar la problemática, frente al aumento alarmante de crímenes con cuchillos en Inglaterra y Gales.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien la temática principal es social, la obra de teatro en sí misma es una creación artística y cultural. El programa de alcance comunitario amplía su impacto cultural al involucrar a jóvenes en un proceso creativo y reflexivo."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "The Hyperallergic Art Crossword: July 2025",
+      "link": "https://hyperallergic.com/1025328/the-hyperallergic-art-crossword-july-2025/",
+      "fecha_obj": "2025-07-07T21:41:29+00:00",
+      "fecha_str": "07-07-2025 21:41 UTC",
+      "source_name": "Hyperallergic"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Crucigramas de arte de Natan Last: un acercamiento cultural inteligente.",
+      "resumen": "El artículo presenta a Natan Last, creador de crucigramas que aparecen en publicaciones como The New Yorker y The Atlantic.  Se destaca su trabajo en la creación de crucigramas, incluyendo uno sobre arte en julio de 2025.  Se menciona que Last también escribe ensayos y poesía, y que está trabajando en un libro sobre crucigramas.  La pieza ofrece una breve biografía de Last y destaca su contribución a la cultura a través de los crucigramas, un formato que puede abordar temas de arte y cultura de manera accesible e inteligente.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Aunque el artículo se centra en el crucigrama, la conexión con el arte a través del tema del crucigrama y el hecho de que el autor escribe sobre arte lo hacen relevante para la categoría.  Sin embargo, no es un análisis profundo de una obra de arte específica, por lo que no recibe una puntuación más alta."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: hit show Couples Therapy just keeps getting better",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/08/tv-tonight-hit-show-couples-therapy-just-keeps-getting-better",
+      "fecha_obj": "2025-07-08T05:20:27+00:00",
+      "fecha_str": "08-07-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: terapia de parejas, granjas, crímenes y el clásico 'El hombre de mimbre'.",
+      "resumen": "La programación televisiva de esta noche ofrece una variada selección de programas. 'Couples Therapy' destaca por la vulnerabilidad de los pacientes y el profesionalismo de la terapeuta.  'A Yorkshire Farm' muestra la vida rural en Inglaterra y Gales. 'Reuben Owen: Life in the Dales' sigue la actividad en una granja durante la temporada de partos.  'The Wicker Man' (1973) es la película destacada.  Otros programas incluyen un documental sobre la desintegración de Yugoslavia, una comedia de situación y un drama criminal ambientado en una granja.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien la programación incluye la película clásica 'El hombre de mimbre' y un documental sobre un evento histórico, la mayor parte del contenido se centra en realities y programas de la vida rural, con poca relevancia para la cultura y el arte en general."
     },
     "categoria": "cultura_arte"
   }
