@@ -1,1 +1,290 @@
-[]
+[
+  {
+    "info": {
+      "titulo": "El gobierno de Trump elimina la protección del TPS para miles de migrantes de Honduras y Nicaragua en EE.UU.",
+      "link": "https://www.bbc.com/mundo/articles/c07d55yxyldo",
+      "fecha_obj": "2025-07-08T01:54:28+00:00",
+      "fecha_str": "08-07-2025 01:54 UTC",
+      "source_name": "BBC Mundo"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "EEUU cancela el TPS para miles de hondureños y nicaragüenses, dejando en riesgo su estatus migratorio.",
+      "resumen": "El gobierno de Trump revocó el Estatus de Protección Temporal (TPS) para aproximadamente 76.000 hondureños y nicaragüenses en EEUU, medida que entrará en vigor el 6 de septiembre.  La decisión, tomada por la Secretaria de Seguridad Nacional Kristi Noem, argumenta la recuperación económica de ambos países.  Esta acción se suma a otras cancelaciones de TPS bajo la administración Trump, afectando a cientos de miles de migrantes de diversas nacionalidades.  A pesar de las renovaciones del TPS bajo la administración Biden, considerando la inestabilidad política y económica en Honduras y Nicaragua,  la decisión de Trump ha generado críticas, especialmente considerando los reportes de violencia y represión en ambos países.  El gobierno hondureño lo considera parte de una tendencia más amplia de la administración Trump.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La noticia trata sobre una decisión política de EEUU con impacto directo en miles de migrantes de Honduras y Nicaragua, constituyendo un evento de relevancia internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Trump and Netanyahu Meet Amid Gaza Cease-Fire Negotiations",
+      "link": "https://www.nytimes.com/2025/07/07/us/politics/trump-netanyahu-dinner-gaza-cease-fire.html",
+      "fecha_obj": "2025-07-08T01:52:14+00:00",
+      "fecha_str": "08-07-2025 01:52 UTC",
+      "source_name": "The New York Times World"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Trump y Netanyahu se felicitan mutuamente tras ataques a Irán, mientras negocian sobre Gaza y la normalización de relaciones con países del Golfo.",
+      "resumen": "El presidente Trump y el primer ministro Netanyahu se reunieron para cenar y abordar temas cruciales como el futuro de Gaza y la normalización de relaciones entre Israel y países del Golfo Pérsico.  Inicialmente, ambos se congratularon por los ataques aéreos estadounidenses contra instalaciones nucleares iraníes. Netanyahu nominó a Trump para el Premio Nobel de la Paz, alabando sus esfuerzos por la paz en la región. Trump comparó sus acciones con la decisión de Truman de lanzar bombas atómicas sobre Japón. La reunión destaca la compleja relación entre Estados Unidos e Israel, y su impacto en la política de Oriente Medio.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La noticia cubre una reunión de alto nivel entre líderes de Estados Unidos e Israel, abordando conflictos internacionales en Oriente Medio, incluyendo negociaciones de alto riesgo sobre Gaza y relaciones internacionales.  Su impacto geopolítico es significativo."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Iran Carries Out Mass Expulsion of Afghan Refugees",
+      "link": "https://www.nytimes.com/2025/07/07/world/middleeast/iran-afghan-refugees-deportations.html",
+      "fecha_obj": "2025-07-08T01:26:05+00:00",
+      "fecha_str": "08-07-2025 01:26 UTC",
+      "source_name": "The New York Times World"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Irán expulsa a cientos de miles de refugiados afganos en una campaña masiva de deportación.",
+      "resumen": "Irán ha llevado a cabo una expulsión masiva de refugiados afganos, con cerca de 800.000 personas expulsadas desde marzo, y más de 600.000 desde el 1 de junio.  La operación se intensificó tras la guerra entre Israel e Irán, con sospechas de espionaje contra los afganos.  Aunque Irán alberga a millones de refugiados afganos, la paciencia del gobierno parece haberse agotado, llevando a una expulsión diaria de hasta 50.000 personas.  Organizaciones internacionales alertan sobre la situación humanitaria de los expulsados, muchos de los cuales se encuentran en condiciones de hambre y agotamiento.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La noticia trata sobre una crisis humanitaria internacional de gran magnitud, involucrando a dos países y una gran cantidad de refugiados.  Su impacto geopolítico y humanitario es significativo, por lo que es altamente relevante para la categoría 'Internacional'."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Israel’s Deadly Assault on Iran Prison Incites Fury, Even Among Dissidents",
+      "link": "https://www.nytimes.com/2025/07/06/world/middleeast/israel-iran-evin-prison.html",
+      "fecha_obj": "2025-07-08T01:13:56+00:00",
+      "fecha_str": "08-07-2025 01:13 UTC",
+      "source_name": "The New York Times World"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ataque israelí a prisión iraní de Evin causa indignación, incluso entre disidentes.",
+      "resumen": "Un ataque con misiles israelíes a la prisión de Evin en Teherán, el 23 de junio, durante una guerra de 12 días entre Israel e Irán, ha generado una condena generalizada, incluso entre los opositores al gobierno iraní.  Evin, un símbolo de opresión con un historial de detención, tortura y ejecución, sufrió graves daños.  Irán reporta 79 muertos y decenas de heridos, aunque se espera que la cifra aumente. El ataque dejó escenas de destrucción en el centro de visitantes, la administración e incluso la enfermería de la prisión.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El evento es de gran relevancia internacional por involucrar a dos países con influencia global, un ataque militar directo y una significativa pérdida de vidas humanas.  Las consecuencias geopolíticas del conflicto también son de interés internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Netanyahou dit avoir présenté la nomination de Trump pour le Nobel de la Paix",
+      "link": "https://www.lefigaro.fr/international/netanyahou-dit-avoir-presente-la-nomination-de-trump-pour-le-nobel-de-la-paix-20250708",
+      "fecha_obj": "2025-07-07T23:56:23+00:00",
+      "fecha_str": "07-07-2025 23:56 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Netanyahu nomina a Trump para el Nobel de la Paz por sus esfuerzos en Oriente Medio.",
+      "resumen": "El primer ministro israelí, Benjamin Netanyahu, anunció que nominó a Donald Trump para el Premio Nobel de la Paz.  Netanyahu justificó la nominación destacando los esfuerzos de Trump para lograr la paz en varias regiones, aunque no especificó cuáles.  La declaración se realizó durante una cena en la Casa Blanca con el presidente estadounidense.  La nominación ha generado debate, ya que la contribución real de Trump a la paz en Oriente Medio es un tema de discusión. Algunos argumentan que los acuerdos de Abraham son un logro significativo, mientras que otros señalan la falta de resolución del conflicto palestino-israelí. La nominación subraya la estrecha relación entre Netanyahu y Trump y la importancia simbólica de este reconocimiento.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia tiene alta relevancia internacional por involucrar a líderes de dos países importantes (Israel y Estados Unidos) y un premio global de gran prestigio.  La nominación, y la justificación de la misma, genera debate geopolítico."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Más de mil boletas sin respaldo: corporación municipal de La Serena detectó cerca de $1.400 millones pagados a “funcionarios fantasmas”",
+      "link": "https://www.ciperchile.cl/2025/07/07/mas-de-mil-boletas-sin-respaldo-corporacion-municipal-de-la-serena-detecto-cerca-de-1-400-millones-pagados-a-funcionarios-fantasmas/?utm_source=rss&utm_medium=rss&utm_campaign=mas-de-mil-boletas-sin-respaldo-corporacion-municipal-de-la-serena-detecto-cerca-de-1-400-millones-pagados-a-funcionarios-fantasmas",
+      "fecha_obj": "2025-07-08T00:25:04+00:00",
+      "fecha_str": "08-07-2025 00:25 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Fraude millonario en La Serena: \"funcionarios fantasmas\" cobraron $1.400 millones por trabajos inexistentes.",
+      "resumen": "Una investigación en la Corporación Municipal de La Serena reveló un fraude de $1.400 millones.  Al menos 21 \"funcionarios fantasmas\" cobraron honorarios por servicios inexistentes entre 2015 y 2021.  La Contraloría había detectado previamente un desfalco de $800 millones en el Departamento de Salud.  Dos exconcejales también son investigados por irregularidades. La falta de control interno y la ausencia de protocolos para el pago de boletas contribuyeron al fraude. La situación involucra imputaciones, detenciones y una deuda millonaria en cotizaciones previsionales.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El caso involucra un fraude millonario en una institución pública, con implicancias legales y políticas a nivel nacional. La magnitud del desfalco y las figuras involucradas (exconcejales, funcionarios) justifican una alta relevancia nacional."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Cómo la ciencia puede sanar nuestros suelos",
+      "link": "https://www.ciperchile.cl/2025/07/07/como-la-ciencia-puede-sanar-nuestros-suelos/?utm_source=rss&utm_medium=rss&utm_campaign=como-la-ciencia-puede-sanar-nuestros-suelos",
+      "fecha_obj": "2025-07-07T14:05:34+00:00",
+      "fecha_str": "07-07-2025 14:05 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La ciencia, clave para sanar suelos chilenos degradados por incendios y desertificación.",
+      "resumen": "El artículo destaca la urgencia de integrar la ciencia del suelo en las políticas chilenas ante la creciente desertificación e incendios.  Señala que la degradación del suelo afecta la seguridad alimentaria y la resiliencia climática.  Menciona iniciativas de la USM que usan biotecnología y soluciones basadas en la naturaleza para restaurar suelos dañados por incendios y metales pesados, en colaboración con instituciones públicas y privadas.  Finalmente, aboga por la aprobación del proyecto de Ley Marco de Suelos para impulsar una política pública efectiva basada en ciencia y tecnología, tomando ejemplos de la UE y EE.UU.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo aborda un problema nacional crucial: la degradación de suelos en Chile, sus causas, consecuencias y posibles soluciones a través de la ciencia y políticas públicas.  Tiene un impacto directo en la sociedad chilena y su futuro."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Big Tech Wants to Profit From the Loneliness It Helps Cause",
+      "link": "https://www.nytimes.com/2025/07/07/opinion/loneliness-ai-social-media.html",
+      "fecha_obj": "2025-07-07T23:24:01+00:00",
+      "fecha_str": "07-07-2025 23:24 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Big Tech lucra con la soledad que ayuda a crear, ofreciendo soluciones digitales que empeoran el problema.",
+      "resumen": "El artículo critica la comercialización de la soledad por parte de las grandes empresas tecnológicas.  Plataformas de redes sociales, aplicaciones de citas y compañeros de IA se presentan como soluciones a la soledad, pero el autor argumenta que en realidad la exacerban.  Se aprovecha la vulnerabilidad de las personas solitarias, ofreciendo conexiones digitales superficiales que evitan el autoconocimiento y la resolución del problema subyacente.  La declaración de la soledad como epidemia ha creado un mercado lucrativo, donde la tecnología se presenta como una cura, perpetuando un ciclo de dependencia y exacerbando la soledad.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión crítica y argumentada sobre la relación entre la tecnología y la soledad, encajando perfectamente en la categoría de 'Opinión Ensayo'.  Expone una tesis, la apoya con ejemplos y evidencia, y ofrece una conclusión reflexiva sobre el tema."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "How Trump’s ‘Big, Beautiful Bill’ Will Make China Great Again",
+      "link": "https://www.nytimes.com/2025/07/03/opinion/trump-bill-clean-energy-china.html",
+      "fecha_obj": "2025-07-07T19:53:10+00:00",
+      "fecha_str": "07-07-2025 19:53 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La ley de Trump, un desastre para EE.UU. y un regalo para China, según este análisis.",
+      "resumen": "El artículo critica duramente la ley energética de Trump, argumentando que perjudica la energía renovable estadounidense, dificulta la creación de empleos verdes, aumenta los costos de energía y beneficia a China.  Señala restricciones complejas a los créditos fiscales para tecnologías limpias, la eliminación de un impuesto al metano y la falta de consulta con expertos.  El autor destaca la contradicción entre las acciones de Trump y los intereses de innovación tecnológica de EE.UU.,  usando a Elon Musk como ejemplo de alguien que reconoce el daño causado por esta legislación.  Se concluye que la ley debilita la capacidad de EE.UU. para desarrollar inteligencia artificial y otras tecnologías clave, otorgando una ventaja a China.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada y crítica sobre una ley específica, con evidencia y ejemplos.  Se ajusta perfectamente a la categoría de 'Opinion Ensayo' por su análisis profundo, perspectiva clara y estructura argumentativa."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Texas Hill Country Is Underwater, and America’s Emergency Lifeline Is Fraying",
+      "link": "https://www.nytimes.com/2025/07/07/opinion/texas-floods-fema.html",
+      "fecha_obj": "2025-07-08T02:33:24+00:00",
+      "fecha_str": "08-07-2025 02:33 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Desastres naturales en Texas exponen la fragilidad del sistema de emergencias de EE. UU.",
+      "resumen": "Las catastróficas inundaciones en Texas, con al menos 81 muertos, resaltan la creciente ineficiencia del sistema de respuesta a emergencias de Estados Unidos.  La región, aún recuperándose de inundaciones previas, sufrió lluvias torrenciales que superaron los 15 centímetros en horas, provocando inundaciones repentinas devastadoras.  Este evento, en un contexto de cambio climático que intensifica los fenómenos meteorológicos, pone de manifiesto la insuficiencia de los recursos y la tardanza en la respuesta federal.  El artículo argumenta que el sistema de ayuda en emergencias se está debilitando, llegando tarde, con poca potencia o incluso sin llegar, poniendo en riesgo la resiliencia nacional.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión sobre la ineficacia del sistema de respuesta a emergencias de EE.UU. ante desastres naturales,  basada en un evento específico.  Analiza las causas (cambio climático, recursos insuficientes) y consecuencias (pérdidas humanas, ineficacia de la respuesta federal), ofreciendo una perspectiva crítica y argumentativa, propia de un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "In Texas, Another Tragic Warning on Climate Change",
+      "link": "https://www.nytimes.com/2025/07/07/opinion/texas-floods-climate-change.html",
+      "fecha_obj": "2025-07-08T00:06:10+00:00",
+      "fecha_str": "08-07-2025 00:06 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Recortes en el Servicio Meteorológico Nacional ponen en riesgo vidas ante eventos climáticos extremos en Texas.",
+      "resumen": "Dos cartas al editor del New York Times lamentan las consecuencias de los recortes en el Servicio Meteorológico Nacional de Estados Unidos.  La primera destaca la ironía de los recortes en medio de una tragedia climática en Texas y el inicio de la temporada de huracanes, incluyendo la interrupción del intercambio de datos con entidades locales y el Departamento de Defensa. La segunda carta enfatiza la pérdida de vidas humanas en Texas debido a inundaciones repentinas, calificándolo de tragedia evitable. Ambas cartas exigen explicaciones a la administración por las decisiones tomadas y su impacto en la capacidad de predicción y alerta temprana de eventos climáticos extremos.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta claramente opiniones sobre la gestión gubernamental de la información meteorológica y sus consecuencias, expresadas a través de cartas al editor que argumentan sobre la responsabilidad política en las muertes ocurridas.  Su estructura y enfoque lo hacen adecuado para la categoría de 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "‘F1’ Is a Triumph of the Movie Star",
+      "link": "https://www.nytimes.com/2025/07/05/opinion/brad-pitt-f1.html",
+      "fecha_obj": "2025-07-08T02:33:45+00:00",
+      "fecha_str": "08-07-2025 02:33 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El éxito de 'F1: The Movie' demuestra que el estrellato de Brad Pitt sigue vigente en Hollywood.",
+      "resumen": "El artículo discute la idea de que el estrellato en Hollywood ha disminuido, con el éxito de las franquicias y la propiedad intelectual superando a las estrellas.  Sin embargo, el reciente estreno de \"F1: The Movie\", protagonizada por Brad Pitt, recaudó más de $145 millones a nivel mundial, superando las expectativas y desafiando la idea de que las estrellas de cine ya no son relevantes.  A diferencia de otras películas exitosas de este año basadas en videojuegos o remakes, el éxito de 'F1' se atribuye directamente al poder de atracción de Brad Pitt, demostrando que el estrellato clásico aún puede impulsar taquilla.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo presenta una opinión sobre el estado actual de Hollywood y el poder de las estrellas de cine, apoyada en datos de taquilla y ejemplos concretos.  Se argumenta de forma clara y concisa, aunque podría profundizar más en el análisis de las causas del éxito de Pitt."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Memory gets a boost from positive emotion",
+      "link": "https://www.nature.com/articles/d41586-025-02107-7",
+      "fecha_obj": "2025-07-08T00:00:00+00:00",
+      "fecha_str": "08-07-2025 00:00 UTC",
+      "source_name": "Nature News"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Las emociones positivas mejoran la memoria; un descubrimiento científico con implicaciones para la salud.",
+      "resumen": "El artículo, cuyo acceso completo requiere una versión actualizada del navegador,  sugiere una correlación entre las emociones positivas y una mejora en la capacidad de memoria.  Si bien el contenido específico no es accesible debido a las limitaciones del navegador, el título indica una investigación científica que explora la conexión entre estados emocionales y las funciones cognitivas, específicamente la memoria.  La investigación probablemente utilizó métodos científicos para analizar los efectos de las emociones en la memoria, lo que podría tener implicaciones en el desarrollo de tratamientos o estrategias para mejorar la memoria y la salud cognitiva.  Se requieren más datos para una comprensión completa de los hallazgos.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El estudio explora la relación entre la emoción y la cognición, un área de investigación relevante para la ciencia y la tecnología.  Tiene el potencial de llevar a avances en neurociencia y tecnologías relacionadas con la salud mental y la mejora cognitiva."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Hot air: the most extreme heatwaves are accelerating the fastest",
+      "link": "https://www.nature.com/articles/d41586-025-02109-5",
+      "fecha_obj": "2025-07-08T00:00:00+00:00",
+      "fecha_str": "08-07-2025 00:00 UTC",
+      "source_name": "Nature News"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Las olas de calor extremas se intensifican a un ritmo alarmante.",
+      "resumen": "El artículo analiza la aceleración en la intensidad de las olas de calor más extremas.  Señala que estas no solo son más frecuentes, sino que su aumento de intensidad es mucho más rápido de lo que se preveía.  Esto tiene implicaciones significativas para el cambio climático y sus efectos devastadores.  La investigación probablemente utiliza datos de temperatura global para sustentar sus conclusiones, mostrando una tendencia preocupante hacia eventos climáticos más severos.  La aceleración en la intensidad de estas olas de calor representa una amenaza creciente para la salud humana, los ecosistemas y las infraestructuras.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El tema aborda directamente el cambio climático, un área clave de la ciencia y la tecnología.  La investigación sobre eventos climáticos extremos y sus proyecciones futuras es altamente relevante para el desarrollo de tecnologías de mitigación y adaptación."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Programmation énergétique: débats scrutés au Sénat, sur fond de discorde gouvernementale",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/programmation-energetique-debats-scrutes-au-senat-sur-fond-de-discorde-gouvernementale_187004?xtor=RSS-15",
+      "fecha_obj": "2025-07-08T01:50:01+00:00",
+      "fecha_str": "08-07-2025 01:50 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Debate en el Senado francés: futuro energético en juego, entre el nuclear y las renovables.",
+      "resumen": "El Senado francés debate una ley sobre el futuro energético del país, con fuertes desacuerdos entre el gobierno. La propuesta, que impulsa la energía nuclear y las renovables, enfrenta la oposición de algunos miembros del gobierno, especialmente por las subvenciones a las energías renovables.  El debate se centra en la financiación de las energías renovables y en la necesidad de acelerar la transición energética. Se espera que esta ley influya en la próxima programación plurianual de energía (PPE).  Se busca un consenso sobre la expansión nuclear y el aumento de la energía renovable a un 58% para 2030, aunque persisten las tensiones políticas.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo trata sobre políticas energéticas que implican decisiones científicas y tecnológicas en la producción y el consumo de energía. La discusión sobre energía nuclear y renovable, y la PPE, son temas de alta relevancia en ciencia y tecnología."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Agriculture: la loi Duplomb entrevoit le bout du tunnel parlementaire, sans éteindre la controverse",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/agriculture-la-loi-duplomb-entrevoit-le-bout-du-tunnel-parlementaire-sans-eteindre-la-controverse_187003?xtor=RSS-15",
+      "fecha_obj": "2025-07-08T01:50:01+00:00",
+      "fecha_str": "08-07-2025 01:50 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Polémica ley agrícola francesa autoriza uso de pesticida neonictinoide, generando controversia ambiental.",
+      "resumen": "La ley agrícola Duplomb-Menonville, aprobada en Francia, permite la reintroducción del pesticida neonicotinoide acetamiprida, a pesar de las preocupaciones ambientales.  Si bien se justifica para ayudar a agricultores de remolacha y avellanas,  la medida es criticada por grupos ecologistas y apicultores por su impacto en las abejas.  El texto incluye medidas para facilitar el almacenamiento de agua y la expansión de la agricultura intensiva, generando más controversia.  A pesar de la oposición, la ley cuenta con el apoyo de una amplia mayoría parlamentaria, aunque se prevén recursos al Consejo Constitucional.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien la ley tiene implicaciones científicas relacionadas con los pesticidas y su impacto en el medio ambiente, el enfoque principal es político y agrícola.  La discusión científica sobre los neonicotinoides es relevante, pero no es el tema central del artículo."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Slain Palestinian Boy Honored in Illinois Playground Monument",
+      "link": "https://hyperallergic.com/1026145/slain-palestinian-boy-wadee-alfayoumi-honored-in-illinois-playground-monument/",
+      "fecha_obj": "2025-07-07T21:27:35+00:00",
+      "fecha_str": "07-07-2025 21:27 UTC",
+      "source_name": "Hyperallergic"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Monumento en Illinois honra a Wadee Alfayoumi, niño palestino asesinado en un crimen de odio.",
+      "resumen": "La comunidad de Plainfield, Illinois, inauguró un monumento en honor a Wadee Alfayoumi, un niño palestino de seis años asesinado en 2023 por su casero en un crimen de odio anti-musulmán y anti-palestino. El monumento, ubicado en un parque rebautizado con su nombre, muestra la silueta de Alfayoumi con la mano levantada formando un corazón.  El proyecto, financiado por los Boy Scouts, costó 10.000 dólares y fue diseñado por artistas locales.  El asesino, Joseph Czuba, fue condenado a 53 años de prisión. La inauguración del monumento incluyó la condena a la islamofobia y un mensaje de paz. Este evento destaca la memoria del niño y la lucha contra el odio.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo describe una obra de arte pública creada en memoria de una víctima de un crimen de odio. La creación y presentación del monumento son eventos culturales relevantes, y la obra misma es una pieza de arte.  La puntuación no es 10 porque el enfoque principal no es el análisis artístico de la pieza, sino el evento y su contexto socio-político."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Billion Dollar Playground review – drop everything! Your hate-watch of the summer is here",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/07/billion-dollar-playground-review-drop-everything-your-hate-watch-of-the-summer-is-here",
+      "fecha_obj": "2025-07-07T20:55:17+00:00",
+      "fecha_str": "07-07-2025 20:55 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Billion Dollar Playground: lujo, drama y personajes detestables en un reality imperdible.",
+      "resumen": "Billion Dollar Playground es un reality que sigue a un equipo de empleados que atienden a millonarios en lujosas propiedades australianas.  El programa se centra en las personalidades conflictivas del personal, como la irresponsable Heaven y la eficiente Elsie, y el caos que generan al atender las extravagantes demandas de los huéspedes.  Se destaca el contraste entre el lujo extremo y las personalidades disfuncionales, creando una experiencia de \"hate-watch\" adictiva.  Las situaciones absurdas y los personajes detestables prometen un verano lleno de diversión cínica.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien el programa toca aspectos de la cultura del lujo y el comportamiento de las élites, su enfoque principal es el entretenimiento y el drama, no el análisis cultural profundo o artístico."
+    },
+    "categoria": "cultura_arte"
+  }
+]
