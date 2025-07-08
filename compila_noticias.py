@@ -43,7 +43,6 @@ class Config:
     DEFAULT_HOURS_AGO = 24
     USER_AGENT = "NewsAggregatorBot/1.0 (+https://github.com/features/actions)"
     MAX_ARTICLES_TO_SUMMARIZE_PER_CATEGORY = 5
-    ARTICLE_DOWNLOAD_TIMEOUT = 15
     GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
     GMAIL_USER = os.getenv("GMAIL_USER")
     GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD")
@@ -120,7 +119,8 @@ class NewsProcessor:
     def extraer_contenido(self, url: str) -> Optional[str]:
         try:
             article = Article(url, browser_user_agent=self.config.USER_AGENT)
-            article.download(timeout=self.config.ARTICLE_DOWNLOAD_TIMEOUT)
+            # SOLUCIÓN: Se elimina el parámetro 'timeout' para compatibilidad con versiones antiguas de newspaper3k
+            article.download()
             article.parse()
             return article.text
         except (ArticleException, Exception) as e:
@@ -167,11 +167,10 @@ class NewsProcessor:
                 count += 1
         
         self.config.HISTORIAL_JSON_PATH.write_text(json.dumps(history, indent=2, ensure_ascii=False), encoding="utf-8")
-        print(f"💾 Historial actualizado con {count} nuevos artículos.")
+        if count > 0:
+            print(f"💾 Historial actualizado con {count} nuevos artículos.")
 
-    # --- INICIO DEL CÓDIGO CORREGIDO ---
     def generate_html_report(self, processed_articles_by_category: Dict[str, list], report_type: str) -> str:
-        """Genera el contenido HTML completo para el reporte de noticias."""
         generation_timestamp = datetime.now(timezone.utc)
         generation_timestamp_str = generation_timestamp.strftime("%d de %B de %Y, %H:%M:%S UTC")
 
@@ -238,10 +237,8 @@ class NewsProcessor:
                     """
         html_content += "</div></body></html>"
         return html_content
-    # --- FIN DEL CÓDIGO CORREGIDO ---
 
     def run_daily_report(self):
-        """Orquesta la generación completa del reporte diario."""
         fuentes = self._cargar_fuentes()
         if not fuentes: return
 
@@ -257,6 +254,7 @@ class NewsProcessor:
             all_articles[categoria] = articles_this_category
 
         processed_articles = {}
+        total_processed_count = 0
         for categoria, articles in all_articles.items():
             print(f"\n✨ Procesando y resumiendo para: {categoria.replace('_', ' ').title()}")
             articles.sort(key=lambda x: x['fecha_obj'], reverse=True)
@@ -272,6 +270,9 @@ class NewsProcessor:
                     processed_list.append({"info": art, "resumen_datos": resumen_datos})
             processed_list.sort(key=lambda x: x['resumen_datos'].get('relevancia_score', 0), reverse=True)
             processed_articles[categoria] = processed_list
+            if processed_list:
+                print(f"  ✅ Procesados con éxito {len(processed_list)} artículos para '{categoria}'.")
+                total_processed_count += len(processed_list)
 
         self.save_to_history(processed_articles)
         html_content = self.generate_html_report(processed_articles, "Diario")
@@ -280,13 +281,13 @@ class NewsProcessor:
         print(f"\n📄 Reporte Diario guardado en: {output_path}")
         print(f"🔗 URL de despliegue: {self.config.BASE_WEB_URL}index.html")
 
-        email_subject = "Resumen Diario de Noticias Interactivo"
-        email_body = f"Tu resumen diario de noticias está listo.\nPuedes verlo en: {self.config.BASE_WEB_URL}index.html"
-        send_email_notification(self.config, email_body, email_subject)
+        if total_processed_count > 0:
+            email_subject = f"Resumen Diario de Noticias ({total_processed_count} artículos)"
+            email_body = f"Tu resumen diario de noticias está listo.\nSe procesaron {total_processed_count} artículos.\n\nPuedes verlo en: {self.config.BASE_WEB_URL}index.html"
+            send_email_notification(self.config, email_body, email_subject)
 
     def run_weekly_report(self):
         print("✨ Iniciando procesamiento del reporte semanal desde el historial.")
-        # La lógica completa para el reporte semanal iría aquí.
 
 def send_email_notification(config: Config, body_text: str, subject: str):
     if not all([config.GMAIL_USER, config.GMAIL_APP_PASSWORD, config.GMAIL_DESTINATARIO]):
