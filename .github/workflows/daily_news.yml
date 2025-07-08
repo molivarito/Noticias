@@ -72,3 +72,4 @@ jobs:
         user_name: 'github-actions[bot]'
         user_email: 'github-actions[bot]@users.noreply.github.com'
         commit_message: 'Deploy news summary to GitHub Pages'
+        keep_files: true # <--- ESTA ES LA LÍNEA DE LA SOLUCIÓN
