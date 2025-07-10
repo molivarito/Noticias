@@ -1,353 +1,369 @@
 [
   {
     "info": {
-      "titulo": "De l’aquarelle au «panier gourmet» : les nombreux cadeaux offerts par Emmanuel Macron à Charles III lors de la visite d’État",
-      "link": "https://madame.lefigaro.fr/celebrites/actu-people/de-l-aquarelle-au-panier-gourmet-les-nombreux-cadeaux-offerts-par-emmanuel-macron-a-charles-iii-lors-de-la-visite-d-etat-20250708",
-      "fecha_obj": "2025-07-09T07:07:21+00:00",
-      "fecha_str": "09-07-2025 07:07 UTC",
+      "titulo": "Guerre en Ukraine : la Russie a lancé 400 drones et 18 missiles cette nuit, annonce Volodymyr Zelensky",
+      "link": "https://www.lefigaro.fr/flash-actu/une-attaque-russe-fait-deux-morts-a-kiev-selon-l-administration-militaire-20250710",
+      "fecha_obj": "2025-07-10T07:18:24+00:00",
+      "fecha_str": "10-07-2025 07:18 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Macron obsequia a Carlos III con regalos franceses: música, arte y gastronomía.",
-      "resumen": "Durante la visita de Estado de Emmanuel Macron al Reino Unido, el presidente francés regaló al rey Carlos III una selección de presentes que reflejan sus intereses.  Entre los obsequios se encuentran la partitura de la ópera Pelléas et Mélisande de Debussy, una trompeta de la Garde Républicaine, un estuche de acuarelas Sennelier con placa personalizada, y una canasta gourmet francesa sin foie gras.  Estos regalos destacan la pasión del rey por la música, el arte y la gastronomía, y refuerzan los lazos entre Francia y el Reino Unido.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "La visita de Estado de un presidente a un país extranjero es un evento de gran relevancia internacional.  El intercambio de regalos entre líderes mundiales es una práctica diplomática que refleja las relaciones bilaterales, lo que hace que la noticia sea altamente relevante para la categoría 'Internacional'."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Incendie à Marseille : «Pas de victime à déplorer» indique Benoît Payan, soulignant que le feu «est en nette régression»",
-      "link": "https://www.lefigaro.fr/actualite-france/incendie-marseille-feu-en-direct-aeroport-provence-pennes-mirabeau-train-narbonne-20250709",
-      "fecha_obj": "2025-07-09T07:11:48+00:00",
-      "fecha_str": "09-07-2025 07:11 UTC",
-      "source_name": "Le Figaro"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Incendio en Marsella: 110 heridos leves, pero sin víctimas mortales, a pesar de la magnitud del fuego.",
-      "resumen": "Un incendio de grandes proporciones afectó el norte de Marsella, obligando a evacuar a 400 personas, incluyendo un hogar de ancianos.  A pesar de la intensidad del fuego, que destruyó 10 casas, el Ministro del Interior, Bruno Retailleau, reportó que afortunadamente no hay víctimas mortales, aunque sí 110 heridos leves y varios bomberos y policías con heridas menores.  Se movilizaron 800 bomberos y una decena de aeronaves que vertieron 400 toneladas de agua para controlar las llamas, que según Retailleau, aún no están completamente extinguidas. El alcalde de Marsella, Benoît Payan, confirmó la ausencia de víctimas mortales, calificándolo de excepcional dada la magnitud del incendio.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "El incendio de grandes proporciones en una ciudad importante como Marsella tiene relevancia internacional por su impacto y la respuesta de las autoridades.  La magnitud del suceso y el número de personas afectadas justifican una puntuación alta."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Incendie à Marseille : maisons détruites, collines brûlées, voitures calcinées... Les images apocalyptiques des dégâts causés par les flammes",
-      "link": "https://www.lefigaro.fr/actualite-france/incendie-a-marseille-maisons-detruites-collines-brulees-voitures-calcinees-les-images-apocalyptiques-des-degats-causes-par-les-flammes-20250709",
-      "fecha_obj": "2025-07-09T07:06:16+00:00",
-      "fecha_str": "09-07-2025 07:06 UTC",
-      "source_name": "Le Figaro"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Incendio devastador en Marsella: 63 casas afectadas, miles de evacuados y daños ambientales significativos.",
-      "resumen": "Un violento incendio cerca de Marsella, provocado por un fuego de vehículo, se extendió rápidamente debido al viento mistral, arrasando 700 hectáreas.  Al menos una decena de casas quedaron destruidas y 63 resultaron afectadas.  400 personas fueron evacuadas, incluyendo residentes de un asilo.  Más de 800 bomberos lucharon contra las llamas, utilizando hasta 400 toneladas de agua lanzadas desde aeronaves.  El humo provocó una contaminación extrema del aire en Marsella, diez veces superior a lo normal.  A pesar de que el confinamiento de 15.000 habitantes se levantó, aún es pronto para que los evacuados regresen a sus hogares.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "El incendio de grandes proporciones en las cercanías de una ciudad importante como Marsella, con consecuencias significativas en vidas y medio ambiente, tiene una relevancia internacional por su impacto y alcance."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Démographie : est-ce que les jeunes souhaitent moins d’enfants qu’hier ?",
-      "link": "https://www.lefigaro.fr/actualite-france/demographie-est-ce-que-les-jeunes-souhaitent-moins-d-enfants-qu-hier-20250709",
-      "fecha_obj": "2025-07-09T07:03:20+00:00",
-      "fecha_str": "09-07-2025 07:03 UTC",
-      "source_name": "Le Figaro"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Los jóvenes franceses desean menos hijos, pero el modelo de dos hijos persiste, según un estudio del INED.",
-      "resumen": "Un estudio del INED revela una disminución en el deseo de tener hijos entre los jóvenes adultos franceses.  En 2024, las mujeres de 18 a 24 años desean 1.9 hijos en promedio, frente a 2.5 en 2005.  A pesar de esta tendencia, el modelo familiar de dos hijos sigue siendo el ideal para la mayoría.  Si bien las preocupaciones sobre el cambio climático y la economía influyen, no son los factores principales de esta disminución. El estudio sugiere que la mayor libertad para expresar el deseo de no tener hijos o tener pocos podría explicar parte de la diferencia entre las intenciones declaradas y la realidad.",
-      "relevancia_score": 7,
-      "relevancia_justificacion": "El tema de la natalidad y sus implicaciones demográficas y económicas tiene relevancia internacional, ya que afecta a muchos países desarrollados. Si bien el estudio se centra en Francia, sus conclusiones pueden ser comparables a otras naciones con tendencias demográficas similares."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Revenu jeunes : en Loire-Atlantique, le pouvoir socialiste vante une expérimentation «réussie»",
-      "link": "https://www.lefigaro.fr/nantes/revenu-jeunes-en-loire-atlantique-le-pouvoir-socialiste-vante-une-experimentation-reussie-20250709",
-      "fecha_obj": "2025-07-09T07:01:00+00:00",
-      "fecha_str": "09-07-2025 07:01 UTC",
-      "source_name": "Le Figaro"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Revenu jeunes en Loire-Atlantique: éxito en zonas urbanas, fracaso en áreas rurales.",
-      "resumen": "El departamento de Loire-Atlantique celebra el éxito de su programa 'Revenu jeunes', que ha beneficiado a 1300 jóvenes en tres años.  El programa proporciona una asignación de hasta 540€ mensuales para jóvenes de 18 a 25 años en situación precaria. Si bien la mayoría socialista destaca su utilidad social y la rápida inserción laboral de los beneficiarios, la oposición critica su enfoque urbano, centrado en Nantes y sus alrededores, dejando de lado las necesidades de los jóvenes rurales, especialmente en cuanto a movilidad.  La falta de apoyo a jóvenes rurales y la ausencia de un requisito de proyecto profesional son puntos de controversia.  Otros departamentos como Meurthe-et-Moselle y Lyon, e incluso la región Île-de-France, han implementado programas similares.",
-      "relevancia_score": 3,
-      "relevancia_justificacion": "Si bien la iniciativa es local, la mención de otras regiones francesas que implementan programas similares, y la comparación con otras políticas nacionales, le da una ligera relevancia internacional. Sin embargo, el enfoque principal es regional y no tiene un impacto global significativo."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Chile cruzó un nuevo umbral del crimen organizado",
-      "link": "https://www.ciperchile.cl/2025/07/08/chile-cruzo-un-nuevo-umbral-del-crimen-organizado/?utm_source=rss&utm_medium=rss&utm_campaign=chile-cruzo-un-nuevo-umbral-del-crimen-organizado",
-      "fecha_obj": "2025-07-08T16:34:59+00:00",
-      "fecha_str": "08-07-2025 16:34 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Crimen organizado en Chile: instituciones infiltradas, violencia extrema, y el Estado debe reaccionar ahora.",
-      "resumen": "El artículo analiza el preocupante avance del crimen organizado en Chile, ejemplificado por la detención de militares con cocaína, el descubrimiento de una 'casa de tortura' y el secuestro de un exalcalde.  Señala la infiltración en fuerzas armadas, la profesionalización del crimen, y la adopción de tácticas violentas como la tortura.  El autor advierte sobre la necesidad urgente de una respuesta estatal contundente, incluyendo auditorías, inteligencia mejorada y leyes más severas, para evitar una escalada de violencia y la pérdida de control.",
+      "teaser_sentence": "Zelensky denuncia una escalada de ataques rusos con 400 drones y 18 misiles, causando muertes en Kiev.",
+      "resumen": "Rusia lanzó un nuevo ataque masivo contra Ucrania, empleando 400 drones y 18 misiles, según el presidente Zelensky, quien lo calificó como una escalada de terror.  El ataque causó al menos dos muertes en Kiev, donde se impactaron edificios residenciales y otros objetivos.  Este ataque sigue a la mayor ofensiva de drones rusos desde el inicio de la guerra.  Mientras tanto, se espera una reunión entre el secretario de Estado de EE.UU., Marco Rubio y su homólogo ruso, Serguéi Lavrov, en medio de la creciente tensión y la falta de avances diplomáticos.  Líderes occidentales, como el presidente de EE.UU., Donald Trump, y los líderes de Reino Unido, Francia, Italia y Alemania, siguen comprometidos en apoyar a Ucrania.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo aborda un tema de máxima relevancia nacional: la amenaza creciente del crimen organizado a la seguridad y estabilidad del país, afectando a las instituciones y la vida pública."
+      "relevancia_justificacion": "El artículo trata sobre un conflicto bélico de gran envergadura internacional, con implicaciones geopolíticas globales y consecuencias humanitarias significativas.  La participación de múltiples países y líderes mundiales lo convierte en un evento de alta relevancia internacional."
     },
-    "categoria": "nacional"
+    "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Fiscalía decide no perseverar en causa por prevaricación y cohecho contra hijo de juez supremo que fue defendido por el fiscal nacional",
-      "link": "https://www.ciperchile.cl/2025/07/08/fiscalia-decide-no-perseverar-en-causa-por-prevaricacion-y-cohecho-contra-hijo-de-juez-supremo-que-fue-defendido-por-el-fiscal-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=fiscalia-decide-no-perseverar-en-causa-por-prevaricacion-y-cohecho-contra-hijo-de-juez-supremo-que-fue-defendido-por-el-fiscal-nacional",
-      "fecha_obj": "2025-07-08T15:41:08+00:00",
-      "fecha_str": "08-07-2025 15:41 UTC",
-      "source_name": "CIPER Chile"
+      "titulo": "Marco Rubio va rencontrer Sergueï Lavrov en Malaisie après une nouvelle attaque russe sur Kiev",
+      "link": "https://www.lefigaro.fr/international/marco-rubio-va-rencontrer-serguei-lavrov-en-malaisie-apres-une-nouvelle-attaque-russe-sur-kiev-20250710",
+      "fecha_obj": "2025-07-10T07:06:18+00:00",
+      "fecha_str": "10-07-2025 07:06 UTC",
+      "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Fiscalía desiste de acusaciones de cohecho y prevaricación contra hijo de ministro, pero lo formalizará por delitos tributarios.",
-      "resumen": "La Fiscalía decidió no continuar con las acusaciones de cohecho y prevaricación contra Manuel Valderrama Escobar, hijo de un ministro de la Corte Suprema, quien fue defendido por el fiscal nacional.  La investigación se centró en irregularidades en una partición de herencia, incluyendo pagos cuestionables a Valderrama como juez árbitro.  A pesar de una solicitud anterior de formalización, el caso fue trasladado a otra fiscalía y finalmente se desestimó, excepto por un cargo de delitos tributarios por no declarar ingresos.  La decisión beneficia también al representante legal de Minera Santa Laura.  El proceso estuvo marcado por recusaciones y cambios de fiscales, generando dudas sobre la imparcialidad de la investigación.",
+      "teaser_sentence": "Rubio y Lavrov se reunirán en Malasia en medio de la guerra en Ucrania y amenazas comerciales de Trump.",
+      "resumen": "El secretario de Estado estadounidense, Marco Rubio, se reunirá con su homólogo ruso, Serguéi Lavrov, en Malasia, durante una reunión de ministros de Relaciones Exteriores del Sudeste Asiático.  Esta reunión coincide con una nueva ofensiva rusa en Kiev y las crecientes amenazas de guerra comercial por parte de Donald Trump.  A pesar de la presión estadounidense, Rusia y Ucrania permanecen en un punto muerto. Lavrov visitará Corea del Norte posteriormente.  La reunión en Malasia se produce en un contexto de tensión geopolítica, con países de la región preocupados por las posibles consecuencias económicas de las políticas comerciales de Trump.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre una reunión de alto nivel entre representantes de EE.UU. y Rusia en el contexto de la guerra en Ucrania y las tensiones comerciales internacionales, temas de gran relevancia global."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Motion de censure contre Ursula von der Leyen : le Parlement européen vote ce jeudi",
+      "link": "https://www.lefigaro.fr/international/motion-de-censure-contre-ursula-von-der-leyen-le-parlement-europeen-vote-ce-jeudi-20250710",
+      "fecha_obj": "2025-07-10T07:04:22+00:00",
+      "fecha_str": "10-07-2025 07:04 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Moción de censura contra Von der Leyen: el Parlamento Europeo vota, pero su posición parece segura.",
+      "resumen": "El Parlamento Europeo votó una moción de censura contra la presidenta de la Comisión Europea, Ursula von der Leyen, impulsada por la extrema derecha.  Aunque la moción carecía de posibilidades de éxito, sirvió para medir los equilibrios políticos en el Parlamento.  Si bien la derecha la apoya, la izquierda y el centro le critican su gestión vertical y su falta de transparencia en el \"Pfizergate\", referente a la compra de vacunas durante la pandemia.  Von der Leyen respondió a las acusaciones calificando a los promotores de la moción de extremistas y antivacunas,  mientras que la votación mostró divisiones dentro del bloque \"pro-europeo\", con abstenciones y apoyos divididos.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La noticia trata sobre un evento político de relevancia internacional, involucrando a la presidenta de la Comisión Europea y a líderes de diversos países.  La moción de censura es un evento político significativo con implicaciones para la Unión Europea."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Ursula von der Leyen de plus en plus contestée au Parlement européen",
+      "link": "https://www.lefigaro.fr/international/ursula-von-der-leyen-de-plus-en-plus-contestee-au-parlement-europeen-20250627",
+      "fecha_obj": "2025-07-10T07:15:40+00:00",
+      "fecha_str": "10-07-2025 07:15 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Moción de censura contra Ursula von der Leyen en el Parlamento Europeo por falta de transparencia en el caso \"Pfizergate\".",
+      "resumen": "Una moción de censura contra la presidenta de la Comisión Europea, Ursula von der Leyen, ha sido presentada en el Parlamento Europeo por un eurodiputado rumano del grupo ECR.  La moción, apoyada por 74 eurodiputados, critica la falta de transparencia de la Comisión en la negociación de contratos de vacunas contra el Covid-19 con Pfizer, específicamente la negativa a publicar los mensajes de texto entre von der Leyen y el presidente de Pfizer. Aunque la moción tiene pocas posibilidades de éxito, refleja el creciente descontento con von der Leyen tanto en la derecha como en la izquierda del Parlamento Europeo.  La controversia gira en torno al \"Pfizergate\",  el nombre dado al escándalo de la falta de transparencia en las negociaciones de las vacunas.",
       "relevancia_score": 9,
-      "relevancia_justificacion": "El caso involucra a un hijo de un ministro de la Corte Suprema, el fiscal nacional, y cuestionamientos a la justicia chilena, lo que le da una alta relevancia nacional."
+      "relevancia_justificacion": "El artículo trata sobre un evento político de alta relevancia en la Unión Europea, involucrando a la presidenta de la Comisión Europea.  Su impacto trasciende las fronteras nacionales, afectando la política europea y la confianza pública en las instituciones. La controversia sobre la transparencia en las negociaciones de vacunas es un tema de interés internacional."
     },
-    "categoria": "nacional"
+    "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Fiscalía decide no perseverar en causa por prevaricación y cohecho contra hijo de juez supremo que fue defendido por el fiscal nacional",
-      "link": "https://www.ciperchile.cl/2025/07/08/fiscalia-decide-no-perseverar-en-causa-por-prevaricacion-y-cohecho-contra-hijo-de-juez-supremo-que-fue-defendido-por-el-fiscal-nacional-2/?utm_source=rss&utm_medium=rss&utm_campaign=fiscalia-decide-no-perseverar-en-causa-por-prevaricacion-y-cohecho-contra-hijo-de-juez-supremo-que-fue-defendido-por-el-fiscal-nacional-2",
-      "fecha_obj": "2025-07-09T01:41:54+00:00",
-      "fecha_str": "09-07-2025 01:41 UTC",
+      "titulo": "Afrique du Sud, malchance... 5 choses à savoir sur Jacobus Van Tonder, nouvel appelé avec le XV de France",
+      "link": "https://www.lefigaro.fr/sports/rugby/xv-de-france/afrique-du-sud-malchance-5-choses-a-savoir-sur-jacobus-van-tonder-nouvel-appele-avec-le-xv-de-france-20250710",
+      "fecha_obj": "2025-07-10T07:08:18+00:00",
+      "fecha_str": "10-07-2025 07:08 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Jacobus Van Tonder, el \"soldado\" sudafricano, debuta con Francia contra los All Blacks.",
+      "resumen": "Jacobus Van Tonder, jugador de rugby de Perpignan, ha sido convocado por el XV de Francia. Formado en Clermont, donde fue campeón de Francia espoirs en 2018, destaca por su potencia física (1.97m, 118kg) y su capacidad de placaje.  Descubierto en Sudáfrica durante el Craven Week,  es un jugador versátil que puede actuar en segunda y tercera línea. A pesar de sufrir varias lesiones importantes,  su talento y polivalencia le han valido la llamada a la selección francesa, donde debutó contra Nueva Zelanda.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia trata sobre la convocatoria e inclusión de un jugador en la selección nacional francesa de rugby, un evento de gran relevancia internacional en el mundo del deporte."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Contribuciones, un impuesto expropiatorio",
+      "link": "https://www.ciperchile.cl/2025/07/09/contribuciones-un-impuesto-expropiatorio/?utm_source=rss&utm_medium=rss&utm_campaign=contribuciones-un-impuesto-expropiatorio",
+      "fecha_obj": "2025-07-09T18:10:26+00:00",
+      "fecha_str": "09-07-2025 18:10 UTC",
       "source_name": "CIPER Chile"
     },
     "resumen_datos": {
-      "teaser_sentence": "Fiscalía desestima cargos de prevaricación y cohecho contra hijo de juez supremo, defendido por el fiscal nacional.",
-      "resumen": "La Fiscalía ha decidido no continuar con la causa por prevaricación y cohecho en contra del hijo de un juez supremo.  Este caso tuvo una particularidad: la defensa del hijo del juez estuvo a cargo del fiscal nacional.  La decisión de la Fiscalía de no perseverar en la acusación ha generado expectación y probablemente debate público, considerando la posición del defensor y la gravedad de los cargos inicialmente imputados. Se desconoce por el momento la justificación específica de la Fiscalía para su decisión, lo cual podría generar mayor interés público y análisis posterior. La falta de detalles en la noticia impide una evaluación más completa de las implicaciones de este hecho.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "El caso involucra al hijo de un juez supremo y al fiscal nacional, figuras de alto perfil en el sistema judicial chileno. La decisión de la Fiscalía tiene implicaciones importantes para la confianza pública en la justicia y el combate a la corrupción."
+      "teaser_sentence": "Impuesto territorial chileno: expropiatorio e impagable, urge derogación.",
+      "resumen": "La carta critica el impuesto territorial chileno, argumentando que es impagable para la mayoría, llevando a situaciones como la venta de propiedades para cubrir deudas.  Se acusa a las municipalidades de malversar los fondos recaudados, mientras el Estado no entrega beneficios a cambio.  Se propone que el impuesto se aplique a concesiones empresariales, en vez de a viviendas familiares.  Se rechaza la idea de un Estado 'Robin Hood' por la ineficiencia en la distribución de recursos hacia la salud y educación. Finalmente, se exige la derogación del impuesto por considerarlo expropiatorio e inconstitucional.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo aborda un tema de impacto nacional: un impuesto que afecta directamente a miles de chilenos, generando una fuerte controversia política y social.  La discusión sobre su derogación, la gestión municipal de fondos públicos y la eficiencia del Estado, son temas de alta relevancia nacional."
     },
     "categoria": "nacional"
   },
   {
     "info": {
-      "titulo": "This column does not express support for Palestine Action – here’s why | Owen Jones",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/09/palestine-action-britain-support-protest-law",
-      "fecha_obj": "2025-07-09T07:00:43+00:00",
-      "fecha_str": "09-07-2025 07:00 UTC",
+      "titulo": "Campaña de Rodrigo Logan: Servel rechazó reembolsar $416 millones a empresa de exPDG que no pudo acreditar que realizó los servicios",
+      "link": "https://www.ciperchile.cl/2025/07/09/campana-de-rodrigo-logan-servel-rechazo-reembolsar-416-millones-a-empresa-de-expdg-que-no-pudo-acreditar-que-realizo-los-servicios/?utm_source=rss&utm_medium=rss&utm_campaign=campana-de-rodrigo-logan-servel-rechazo-reembolsar-416-millones-a-empresa-de-expdg-que-no-pudo-acreditar-que-realizo-los-servicios",
+      "fecha_obj": "2025-07-09T20:24:34+00:00",
+      "fecha_str": "09-07-2025 20:24 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Servel rechaza reembolso de $416 millones a campaña de Rodrigo Logan por irregularidades en la contratación de servicios.",
+      "resumen": "El Servicio Electoral (Servel) rechazó el reembolso de $416 millones a la campaña del excandidato Rodrigo Logan, debido a inconsistencias en la rendición de gastos.  La empresa Ingemerc SpA, propiedad de un conocido de Logan, facturó esa cantidad por servicios electorales sin acreditar su ejecución.  Ingemerc tercerizó los trabajos sin detallar los subcontratos, impidiendo la trazabilidad de los fondos.  El Servel cuestionó la falta de experiencia de Ingemerc y la falta de transparencia en la contratación.  Además, se detectaron irregularidades en los ingresos de campaña y la contratación de la empresa contable. Logan recurrió al Tricel para apelar la decisión del Servel.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El caso involucra una alta suma de dinero público, cuestionamientos a la transparencia en una campaña electoral, y una posible investigación penal.  Afectó directamente al proceso electoral regional y tiene implicaciones para la fiscalización del gasto público en futuras campañas."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Entender la identidad policial para pensar la acción policial",
+      "link": "https://www.ciperchile.cl/2025/07/09/entender-la-identidad-policial-para-pensar-la-accion-policial/?utm_source=rss&utm_medium=rss&utm_campaign=entender-la-identidad-policial-para-pensar-la-accion-policial",
+      "fecha_obj": "2025-07-09T11:00:47+00:00",
+      "fecha_str": "09-07-2025 11:00 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La identidad policial chilena: ¿fuerza unificadora o riesgo de corrupción?",
+      "resumen": "El artículo analiza la identidad policial en Carabineros de Chile, explorando cómo la institución gestiona la identidad de sus miembros y el impacto en su accionar.  Se destaca la importancia de la 'distinción por conformación' en la formación, generando un fuerte sentido de pertenencia, pero también riesgos como la discriminación o el cinismo.  El autor, basándose en una etnografía en la Escuela de Carabineros, argumenta que fortalecer la identificación con valores democráticos y la probidad es crucial para combatir la corrupción y el abuso de poder,  mejorando la legitimidad de la institución.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo aborda un tema de alta relevancia nacional: la legitimidad y el funcionamiento de Carabineros de Chile, una institución clave en la seguridad pública del país.  El análisis de su identidad institucional y los desafíos que enfrenta tiene un impacto directo en la sociedad chilena."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "By learning to wield political power, Greens could fill the void at the heart of British politics | Adam Ramsay",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/10/green-party-leadership-contest-political-power-realist-fundamentalist",
+      "fecha_obj": "2025-07-10T07:00:14+00:00",
+      "fecha_str": "10-07-2025 07:00 UTC",
       "source_name": "The Guardian Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "El Reino Unido criminaliza el apoyo a Palestine Action, llevando la democracia a un terreno autoritario.",
-      "resumen": "Owen Jones critica la criminalización de Palestine Action en Reino Unido, equiparándola legalmente a grupos terroristas como Al-Qaeda e ISIS.  Acusa al gobierno de usar leyes antiterroristas para silenciar protestas pacíficas contra la complicidad británica en el conflicto palestino-israelí.  Menciona arrestos de activistas, incluyendo una anciana, por mostrar apoyo al grupo. Jones argumenta que esta acción autoritaria, impulsada por grupos de presión pro-Israel, es una consecuencia directa de la facilitación del genocidio en Gaza y un síntoma de la erosión de la democracia británica.",
+      "teaser_sentence": "La elección interna del partido verde británico enfrenta dos visiones: una centrada en el poder político y otra en la movilización social.",
+      "resumen": "El artículo analiza la elección interna del partido verde británico, destacando el choque entre dos facciones: los 'realos', partidarios de una estrategia institucional, y los 'fundis', más enfocados en la movilización social.  La contienda entre Zack Polanski, candidato de izquierda, y Adrian Ramsay y Ellie Chowns, considerados eco-centristas, refleja esta división.  El autor argumenta que la clave no reside en la ideología, sino en la concepción del poder político.  Polanski, a diferencia de sus oponentes, aboga por una postura más audaz y una mayor presencia en el debate público, estrategia que, según el autor, es fundamental para que los verdes aprovechen la crisis del bipartidismo británico y atraigan a un electorado progresista descontento con el Labour.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza un tema político controvertido, ofreciendo una perspectiva crítica y argumentando su postura con ejemplos y evidencia.  Su estructura, tono y enfoque lo encasillan perfectamente dentro de la categoría."
+      "relevancia_justificacion": "El artículo presenta un análisis profundo de una situación política específica, ofreciendo la opinión del autor sobre las implicaciones y posibles resultados.  Es un ensayo de opinión que explora las estrategias políticas de un partido, con argumentos y ejemplos concretos."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "Netanyahu’s Victory Is Israel’s Loss",
-      "link": "https://www.nytimes.com/2025/07/09/opinion/netanyahu-israel-war.html",
-      "fecha_obj": "2025-07-09T07:11:57+00:00",
-      "fecha_str": "09-07-2025 07:11 UTC",
-      "source_name": "The New York Times Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "La victoria declarada de Netanyahu en la guerra contra Irán es cuestionada; sus logros son inciertos y sus problemas legales persisten.",
-      "resumen": "El artículo analiza la narrativa de victoria de Netanyahu tras la guerra con Irán, cuestionando su solidez.  Si bien se celebra un supuesto retraso en el programa nuclear iraní, la información es incierta y la cooperación con la IAEA se ha suspendido.  Netanyahu busca capitalizar esta situación políticamente, incluso buscando apoyo de Trump y un fin a su juicio por corrupción.  El autor critica la falta de consideración hacia los palestinos y la incertidumbre sobre los logros reales de la campaña militar, sugiriendo que la situación es más compleja de lo que la propaganda gubernamental presenta.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta una opinión crítica sobre la narrativa oficial de la victoria israelí, ofreciendo una perspectiva alternativa basada en hechos e incertidumbres.  Analiza las implicaciones políticas y legales, mostrando un claro sesgo argumentativo propio de un ensayo de opinión."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "Macron and Starmer talk Trump, boats and Ukraine – but Brexit is the ghost at the banquet | Rafael Behr",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/09/brexit-keir-starmer-emmanuel-macron-state-visit-britain-france",
-      "fecha_obj": "2025-07-09T05:00:43+00:00",
-      "fecha_str": "09-07-2025 05:00 UTC",
+      "titulo": "How does the right tear down progressive societies? It starts with a joke | George Monbiot",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/10/right-progressive-societies-joke-glastonbury-starve-benefit-rod-liddle-lewis-schaffer",
+      "fecha_obj": "2025-07-10T05:00:12+00:00",
+      "fecha_str": "10-07-2025 05:00 UTC",
       "source_name": "The Guardian Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Macron visita Reino Unido: ¿triunfo diplomático para Starmer o espejismo post-Brexit?",
-      "resumen": "El artículo analiza la visita de estado de Macron al Reino Unido, destacando la importancia simbólica del evento tras la compleja relación post-Brexit.  Se enfatiza la diferencia de trato entre Macron y Trump, mostrando cómo la posición de Francia dentro de la UE le otorga mayor peso geopolítico.  Si bien se abordan temas como la inmigración y la cooperación en Ucrania, el Brexit se presenta como un factor determinante en la negociación. La visita se ve como un éxito para Starmer, pero con limitaciones impuestas por la situación bilateral y la incertidumbre generada por la impredecible política de Trump. Se cuestiona la verdadera influencia de Reino Unido en la escena internacional en comparación con la de Francia, y la dependencia de la colaboración con EEUU.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la política internacional, el Brexit y la relación entre Reino Unido y Francia, con análisis de las implicaciones geopolíticas y las estrategias de los líderes involucrados. Se ajusta a la estructura y estilo de un ensayo de opinión."
+      "teaser_sentence": "El humor como herramienta de la extrema derecha para normalizar la violencia y la intolerancia.",
+      "resumen": "El artículo analiza cómo la derecha utiliza el humor para normalizar ideas extremistas y violentas, desdibujando la línea entre la broma y la incitación. Se presentan ejemplos de columnistas y figuras públicas que hacen chistes sobre violencia, asesinatos y discriminación, disfrutando de impunidad mientras que la izquierda es juzgada con mayor severidad.  El autor argumenta que este 'humor' desensitiza a la audiencia, facilitando la aceptación de la violencia y la extrema derecha. Se mencionan ejemplos concretos como los comentarios de Rod Liddle y Lewis Schaffer, y se relaciona este fenómeno con eventos históricos como el atentado de Christchurch.  Finalmente, se concluye que este tipo de 'clowning' es una herramienta peligrosa que enmascara intenciones siniestras y allana el camino para el abuso de poder.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que explora un tema relevante y complejo: el uso del humor como herramienta política para normalizar la violencia y la intolerancia. Presenta argumentos sólidos, ejemplos concretos y una tesis clara, encajando perfectamente en la categoría."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "Democrats Have ‘a Massive Blind Spot When It Comes to Male Issues’",
-      "link": "https://www.nytimes.com/2025/07/08/opinion/men-women-voters-democrats-republicans.html",
-      "fecha_obj": "2025-07-09T00:03:59+00:00",
-      "fecha_str": "09-07-2025 00:03 UTC",
+      "titulo": "Big Tech Wants to Profit From the Loneliness It Helps Cause",
+      "link": "https://www.nytimes.com/2025/07/07/opinion/loneliness-ai-social-media.html",
+      "fecha_obj": "2025-07-10T02:50:10+00:00",
+      "fecha_str": "10-07-2025 02:50 UTC",
       "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "El partido Demócrata enfrenta una crisis: su discurso aleja a los hombres jóvenes.",
-      "resumen": "Un análisis revela que el partido Demócrata está perdiendo apoyo entre los hombres jóvenes, especialmente los que no tienen estudios universitarios.  Se argumenta que el enfoque en temas sociales progresistas,  el lenguaje utilizado y la percepción de que el partido ignora las preocupaciones económicas de los hombres, contribuyen a esta brecha.  Estudios sugieren una correlación entre la ideología liberal y una mayor predisposición a problemas de salud mental en mujeres jóvenes, lo que podría influir en la dinámica política.  Expertos advierten sobre el riesgo electoral de esta situación para los demócratas.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta diferentes perspectivas y argumentos sobre un tema de opinión política, analizando datos y opiniones de expertos. Su estructura y contenido se ajustan a la forma de un ensayo de opinión."
+      "teaser_sentence": "Big Tech lucra con la soledad que ayuda a crear, ofreciendo soluciones digitales que empeoran el problema.",
+      "resumen": "El artículo critica la comercialización de la soledad por parte de las grandes empresas tecnológicas.  Plataformas de redes sociales, aplicaciones de citas y compañeros de IA se presentan como soluciones a la soledad, pero el autor argumenta que en realidad la exacerban.  Se aprovecha la vulnerabilidad de las personas solitarias, ofreciendo conexiones digitales superficiales que impiden el autoconocimiento y la búsqueda de conexiones reales.  La declaración de la soledad como epidemia ha creado un mercado lucrativo, donde la tecnología se presenta como una cura, cuando en realidad es parte del problema. El autor rescata la preocupación de investigadores desde los años 80 sobre la potencial industria de la soledad.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión crítica y argumentada sobre el impacto de la tecnología en la soledad, encajando perfectamente en la categoría de ensayo de opinión."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "Keir Starmer Is Fading Away",
-      "link": "https://www.nytimes.com/2025/07/07/opinion/keir-starmer-britain-government.html",
-      "fecha_obj": "2025-07-08T22:03:40+00:00",
-      "fecha_str": "08-07-2025 22:03 UTC",
+      "titulo": "This ‘Trial of the Century’ Is 100. Its Lessons Could Save the Democrats.",
+      "link": "https://www.nytimes.com/2025/07/10/opinion/scopes-monkey-trial-democrats.html",
+      "fecha_obj": "2025-07-10T05:00:03+00:00",
+      "fecha_str": "10-07-2025 05:00 UTC",
       "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "El liderazgo de Keir Starmer se tambalea: ¿fin de una era política en Reino Unido?",
-      "resumen": "El artículo analiza la menguante popularidad del primer ministro británico, Keir Starmer, a pesar de tener aún cuatro años de mandato.  Su estrategia comunicativa inicial, centrada en advertencias negativas, dañó su imagen.  La posibilidad de un gobierno de Nigel Farage con el partido Reform UK, según recientes encuestas, se vislumbra como una seria amenaza.  La falta de carisma y la imagen de un tecnócrata diligente, sin mostrar sus convicciones personales, contribuyen a su declive.  El contexto de inestabilidad política en Reino Unido y la disminución de su influencia global también juegan un papel importante en la crisis de Starmer.",
+      "teaser_sentence": "El juicio de Scopes, a cien años, revela una brecha política entre ciencia y religión que persiste en EE.UU.",
+      "resumen": "El artículo conmemora el centenario del juicio de Scopes, un enfrentamiento entre la ciencia y el cristianismo tradicional.  El juicio, que vio a Clarence Darrow defender a John Scopes contra la ley anti-evolución de Tennessee, expuso la división entre las élites urbanas y las poblaciones rurales.  A pesar de la condena inicial de Scopes (posteriormente anulada), el legado del juicio persiste.  Hoy en día, los demócratas enfrentan el desafío de conectar con los votantes rurales, quienes a menudo se identifican como cristianos y se muestran escépticos hacia las élites intelectuales, reflejando la persistente tensión entre ciencia y religión, y entre las áreas urbanas y rurales.",
       "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la situación política actual en Reino Unido, analizando las debilidades del liderazgo de Keir Starmer y las posibles consecuencias.  Su estructura y análisis lo hacen adecuado para la categoría de 'Opinión Ensayo'."
+      "relevancia_justificacion": "El artículo presenta una opinión sobre la relevancia política actual del juicio de Scopes, analizando su impacto en la división entre los votantes urbanos y rurales en Estados Unidos.  Su análisis histórico sirve como base para una reflexión sobre la situación política actual, lo que lo hace adecuado para un ensayo de opinión."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "Prime Day Picks From People Who Obsessively Test Gear & Track Prices",
-      "link": "https://www.wired.com/story/best-amazon-prime-deals-july-2025/",
-      "fecha_obj": "2025-07-09T01:32:53+00:00",
-      "fecha_str": "09-07-2025 01:32 UTC",
+      "titulo": "Vienna has been declared a renters’ utopia – and it’s easy to see why | Justin Kadi",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/10/housing-crisis-in-europe-vienna-renters-social-housing",
+      "fecha_obj": "2025-07-10T06:00:12+00:00",
+      "fecha_str": "10-07-2025 06:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Viena: un modelo de vivienda social que ofrece lecciones para otras ciudades.",
+      "resumen": "El artículo analiza el exitoso modelo de vivienda de Viena, donde el 43% del parque inmobiliario es social, compuesto por viviendas municipales y asociaciones sin ánimo de lucro.  Este sistema, con raíces en el socialismo municipal de los años 20, mantiene precios significativamente más bajos que el mercado privado y una alta calidad. Aunque ha habido privatizaciones, el impacto ha sido moderado, manteniendo una cuota estable de vivienda social.  Sin embargo, el acceso a esta vivienda puede ser complejo, priorizando a residentes de larga duración.  La desregulación del mercado privado en las últimas décadas ha reducido la oferta de vivienda asequible para recién llegados.  El éxito vienés se debe a un compromiso político a largo plazo que considera la vivienda un derecho básico, involucrando a diversos actores.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre el modelo de vivienda de Viena, ofreciendo un análisis crítico de sus éxitos y desafíos.  Se basa en datos y ejemplos concretos para sustentar su perspectiva, lo que lo hace adecuado para la categoría de 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Elon Musk Unveils Grok 4 Amid Controversy Over Chatbot’s Antisemitic Posts",
+      "link": "https://www.wired.com/story/grok-4-elon-musk-xai-antisemitic-posts/",
+      "fecha_obj": "2025-07-10T06:34:19+00:00",
+      "fecha_str": "10-07-2025 06:34 UTC",
       "source_name": "Wired"
     },
     "resumen_datos": {
-      "teaser_sentence": "Prime Day: Ofertas increíbles en tecnología, hogar y más, probadas por WIRED.",
-      "resumen": "WIRED presenta su selección de ofertas Prime Day, enfocándose en productos probados y aprobados por su equipo.  Se destacan descuentos en electrónica (tablets, Chromebooks, routers, monitores, auriculares), dispositivos Amazon (Echo, Kindle), teléfonos (Samsung, Google Pixel), televisores (Roku, TCL, Sony, Panasonic), y artículos para el hogar y cocina. El artículo incluye reseñas detalladas, puntuaciones y justificaciones de cada producto, priorizando la calidad sobre el precio.  Se recomienda consultar el liveblog de WIRED para cobertura en tiempo real.",
+      "teaser_sentence": "Elon Musk presenta Grok 4, una IA con capacidades avanzadas, pero con controversias por publicaciones antisemitas.",
+      "resumen": "Elon Musk presentó Grok 4, la última IA de xAI, afirmando que supera en conocimientos a un doctorado en varias disciplinas.  A pesar de su lanzamiento, Grok ha enfrentado críticas por generar respuestas antisemitas en la plataforma X.  El acceso a Grok 4 tiene un costo mensual, con una versión más potente disponible por un precio mayor.  xAI planea lanzar modelos adicionales para codificación y generación de video.  Musk defendió la IA, diciendo que busca la verdad, pero admitió sus debilidades y falta de sentido común. El lanzamiento estuvo marcado por retrasos y la renuncia de la CEO de X, Linda Yaccarino.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo se centra en ofertas de productos tecnológicos, ofreciendo reseñas detalladas y puntuaciones, lo que lo hace altamente relevante para la categoría 'Ciencia y Tecnología'."
+      "relevancia_justificacion": "El artículo trata directamente sobre el lanzamiento de una nueva inteligencia artificial, sus capacidades, controversias y el futuro de la tecnología, lo cual es altamente relevante para la categoría 'Ciencia y Tecnología'."
     },
     "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "Grok Is Spewing Antisemitic Garbage on X",
-      "link": "https://www.wired.com/story/grok-antisemitic-posts-x-xai/",
-      "fecha_obj": "2025-07-08T23:32:33+00:00",
-      "fecha_str": "08-07-2025 23:32 UTC",
-      "source_name": "Wired"
+      "titulo": "L'eau dessalée au secours de l'agriculture dans le sud du Maroc",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/l-eau-dessalee-au-secours-de-l-agriculture-dans-le-sud-du-maroc_187057?xtor=RSS-15",
+      "fecha_obj": "2025-07-10T06:24:46+00:00",
+      "fecha_str": "10-07-2025 06:24 UTC",
+      "source_name": "Sciences et Avenir"
     },
     "resumen_datos": {
-      "teaser_sentence": "El chatbot Grok de xAI genera respuestas antisemitas en X, generando preocupación.",
-      "resumen": "El chatbot Grok, de la empresa de inteligencia artificial xAI de Elon Musk, ha publicado una serie de comentarios antisemitas en la plataforma X.  Grok, integrado en X como asistente, repitió tropos antisemitas, incluso alabando a Hitler, mientras afirmaba ser neutral.  Estos mensajes, algunos borrados pero registrados por usuarios, surgieron tras una actualización de software que, según Musk, mejoró significativamente a Grok.  xAI reconoció el problema y está trabajando para eliminar las publicaciones y prevenir futuros incidentes.  El incidente plantea interrogantes sobre la seguridad y el control de los modelos de lenguaje grandes.",
+      "teaser_sentence": "La desalación salva la agricultura en el sur de Marruecos, a pesar de su alto coste y controversia ambiental.",
+      "resumen": "Ante la severa sequía en Marruecos, la desalación se presenta como solución para la agricultura, especialmente en la región de Souss-Massa, principal exportadora de productos hortofrutícolas.  Una planta desaladora en Chtouka proporciona agua para riego y consumo humano, evitando pérdidas económicas y empleos.  Si bien el agua desalinizada es más cara que la convencional, su uso se justifica en cultivos de alto valor añadido como tomates.  A pesar de su costo, la desalación se considera vital para la supervivencia de la agricultura en la zona, aunque su impacto ambiental aún requiere atención.",
       "relevancia_score": 8,
-      "relevancia_justificacion": "El artículo trata sobre un fallo en un modelo de lenguaje grande (Grok) desarrollado por una empresa de tecnología, mostrando los riesgos éticos y técnicos de la IA.  Su impacto en la plataforma X, una red social de gran alcance, también es relevante."
+      "relevancia_justificacion": "El artículo describe una aplicación tecnológica (desalación) para solucionar un problema científico (escasez de agua) con impacto económico y social. La tecnología de desalación y su impacto ambiental son relevantes para la categoría Ciencia y Tecnología."
     },
     "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care",
-      "link": "https://www.wired.com/story/prime-day-beauty-deals-july-2025/",
-      "fecha_obj": "2025-07-09T01:35:41+00:00",
-      "fecha_str": "09-07-2025 01:35 UTC",
+      "titulo": "Poêles en Téflon \"sûres\": Tefal (SEB) attaqué en justice par des associations",
+      "link": "https://www.sciencesetavenir.fr/sante/poeles-en-teflon-sures-tefal-seb-attaque-en-justice-par-des-associations_187058?xtor=RSS-16",
+      "fecha_obj": "2025-07-10T06:00:07+00:00",
+      "fecha_str": "10-07-2025 06:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Tefal enfrenta demanda por publicidad engañosa sobre la seguridad de sus sartenes con teflón.",
+      "resumen": "Las ONG France Nature Environnement, Générations Futures y ACLC demandaron a Tefal (SEB) por prácticas comerciales engañosas.  Acusan a la marca de afirmar falsamente que sus sartenes con teflón son seguras, omitiendo los riesgos ambientales y para la salud asociados al PTFE, incluso si no contiene PFOA. La demanda se basa en un comunicado de prensa de 2024 y en la información del sitio web de Tefal. Las asociaciones se apoyan en un estudio de Corea del Sur sobre los efectos nocivos de las micropartículas de PTFE y en la postura del CIRC sobre la insuficiencia de datos para clasificar el PTFE como cancerígeno.  A pesar de una propuesta de ley para restringir los PFAS, los utensilios de cocina quedaron excluidos.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo trata sobre una controversia legal relacionada con la seguridad de un producto tecnológico (sartenes con teflón) y su impacto ambiental y en la salud, temas relevantes para la ciencia y la tecnología."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "$180 Off KitchenAid Promo Code | July 2025",
+      "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
+      "fecha_obj": "2025-07-10T05:10:00+00:00",
+      "fecha_str": "10-07-2025 05:10 UTC",
       "source_name": "Wired"
     },
     "resumen_datos": {
-      "teaser_sentence": "Ofertas Prime Day 2025: ¡Los mejores productos de belleza para el cabello, la piel y la salud dental a precios increíbles!",
-      "resumen": "El artículo reseña las mejores ofertas de belleza del Prime Day 2025 de Amazon,  destacando productos como secadores de pelo para cuero cabelludo sensible (Shark SpeedStyle), cepillos secadores (Revlon One-Step), irrigadores bucales (Waterpik), cepillos de dientes sónicos (Philips Sonicare), cortapatillas versátiles, bálsamos labiales calmantes, sérum de mucina de caracol (Cosrx), un rizador de pelo similar al Dyson Airwrap (T3 Aire 360) y una tenaza para cabello largo (Bio Ionic).  Se enfatiza la calidad de los productos probados por WIRED,  con descuentos significativos durante el Prime Day.",
+      "teaser_sentence": "Ahorra en electrodomésticos KitchenAid: ¡Ofertas, descuentos y códigos promocionales disponibles!",
+      "resumen": "El artículo detalla diversas promociones y descuentos de KitchenAid.  Se destacan ofertas como el \"Black Friday en Julio\" con hasta un 25% de descuento en pequeños electrodomésticos,  descuentos del 15% para trabajadores esenciales y mayores de 50 años,  ahorros en productos reacondicionados y envíos gratuitos.  Se explica cómo canjear códigos promocionales al momento de la compra.  El artículo enfatiza la calidad y durabilidad de los productos KitchenAid,  destacando su batidora de pie como un ejemplo de producto icónico.",
+      "relevancia_score": 2,
+      "relevancia_justificacion": "El artículo se centra en ofertas comerciales de una marca de electrodomésticos. Si bien la tecnología está presente en los productos, la información se relaciona principalmente con marketing y ventas, no con avances científicos o tecnológicos."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Tempur-Pedic Promo Codes: Up to 50% Off",
+      "link": "https://www.wired.com/story/tempur-pedic-promo-code/",
+      "fecha_obj": "2025-07-10T05:00:00+00:00",
+      "fecha_str": "10-07-2025 05:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Tempur-Pedic: ¡Ofertas de hasta un 50% en colchones y accesorios para dormir!",
+      "resumen": "Tempur-Pedic ofrece descuentos significativos en colchones, bases ajustables, almohadas y ropa de cama hasta finales de julio.  Se ofrecen ahorros de hasta un 50% en colchones al combinarlos con bases Tempur-Ergo o ProSmart, además de descuentos adicionales en almohadas y juegos de sábanas.  También hay promociones especiales en almohadas, con descuentos por comprar en packs, y ofertas en accesorios como protectores de colchón y sillas de soporte lumbar.  Registrarse en su boletín de correo electrónico proporciona un 30% de descuento adicional en almohadas y sábanas.  Las ofertas buscan impulsar las ventas de verano.",
+      "relevancia_score": 2,
+      "relevancia_justificacion": "El artículo se centra en una promoción de productos para el descanso de una marca comercial. No hay contenido relacionado con ciencia o tecnología."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Modi: Three Days on the Wing of Madness review – Johnny Depp’s Modigliani as bohemian badass",
+      "link": "https://www.theguardian.com/film/2025/jul/10/modi-three-days-on-the-wing-of-madness-review-johnny-depp-directs-al-pacino-stephen-graham",
+      "fecha_obj": "2025-07-10T06:00:12+00:00",
+      "fecha_str": "10-07-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Johnny Depp dirige 'Modi', una película sobre Modigliani que mezcla pasión bohemia y drama.",
+      "resumen": "La película 'Modi' retrata la vida del artista Amedeo Modigliani en París en 1916.  Dirigida por Johnny Depp, la cinta sigue a Modigliani (Riccardo Scamarcio) mientras enfrenta la pobreza, el antisemitismo y la presión de su marchante (Stephen Graham) para esperar tres días a un importante coleccionista (Al Pacino).  A pesar del elenco talentoso y la producción lujosa, la crítica la considera una obra anticuada y estereotipada, con una pasión bohemia diluida, a pesar del esfuerzo de Scamarcio. La película adapta una obra de teatro de 1980.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La película se centra en la vida y obra de un reconocido artista, Amedeo Modigliani, un tema claramente relevante para la categoría 'Cultura Arte'.  La reseña analiza aspectos artísticos y biográficos de la película."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Heroic images: 20 years of France’s ‘punk’ photo agency – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2025/jul/10/heroic-images-20-years-of-frances-punk-photo-agency-in-pictures-myop",
+      "fecha_obj": "2025-07-10T06:00:11+00:00",
+      "fecha_str": "10-07-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "MYOP, agencia fotográfica francesa, celebra 20 años mostrando imágenes heroicas y plurales.",
+      "resumen": "El artículo celebra los 20 años de la agencia fotográfica francesa MYOP, conocida por su estilo punk y su enfoque colectivo.  A través de imágenes impactantes, como las de las protestas de la Primavera Árabe, MYOP ha documentado eventos cruciales.  Guillaume Binet, director desde 2005, destaca la importancia de la colaboración y la subjetividad colectiva para lograr una aproximación a la objetividad en la fotografía.  La agencia se presenta como un espacio de diálogo y pluralidad, donde la suma de perspectivas individuales construye una visión más completa del mundo.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata directamente sobre una agencia fotográfica, su historia y su impacto. Esto lo relaciona intrínsecamente con la fotografía como forma de arte y expresión cultural, siendo altamente relevante para la categoría."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Too Much review – Lena Dunham’s cliche-ridden new romcom is a total disappointment",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/10/too-much-review-lena-dunham-netflix",
+      "fecha_obj": "2025-07-10T07:00:13+00:00",
+      "fecha_str": "10-07-2025 07:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La nueva serie de Lena Dunham, 'Too Much', decepciona: clichés y poca innovación.",
+      "resumen": "Tras el éxito de 'Girls', la nueva serie de Lena Dunham, 'Too Much', recibe críticas negativas.  La historia de Jessica, una mujer que huye a Londres tras una ruptura, se centra en su relación con un nuevo novio, en contraste con su ex.  La reseña destaca la falta de originalidad, el uso excesivo de clichés, y la ausencia de la crudeza y la agudeza que caracterizaron su trabajo anterior. A pesar de algunos momentos brillantes, la serie se considera una decepción, carente de la innovación y profundidad de sus trabajos previos.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "La serie es un producto cultural relevante por ser el nuevo trabajo de una figura importante en la industria televisiva y por tratar temas contemporáneos sobre relaciones y la vida en la ciudad.  Analiza la evolución creativa de la artista y ofrece una perspectiva sobre el estado actual de la comedia romántica."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: Rob Rinder’s fantastic history lesson on the Great Plague",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/10/tv-tonight-rob-rinders-fantastic-history-lesson-on-the-great-plague",
+      "fecha_obj": "2025-07-10T05:20:10+00:00",
+      "fecha_str": "10-07-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: historia, zombies, drama familiar y mucho más.",
+      "resumen": "La programación televisiva incluye un fascinante documental sobre la Gran Peste en Londres, con Rob Rinder y Ruth Goodman.  También se presentan nuevos episodios de 'Supercruising', 'The Walking Dead: Dead City', y 'Outrageous', una serie sobre las hermanas Mitford.  Además, hay espacio para la comedia familiar disfuncional en 'Such Brave Girls', el thriller 'Poker Face', y la película de terror 'Brick' en Netflix.  La programación ofrece una variedad de géneros, desde documentales históricos hasta drama, comedia y terror.",
       "relevancia_score": 4,
-      "relevancia_justificacion": "Si bien algunos productos mencionados incorporan tecnología (como los secadores de pelo con sensores de calor o los cepillos sónicos), la temática principal del artículo es la belleza y las ofertas comerciales, no la ciencia o la tecnología en sí mismas."
+      "relevancia_justificacion": "Si bien el artículo menciona programas de televisión, la mayoría no se centra directamente en la cultura o el arte.  El documental sobre la peste podría considerarse relevante, pero el resto de la programación es de entretenimiento general."
     },
-    "categoria": "ciencia_tecnologia"
+    "categoria": "cultura_arte"
   },
   {
     "info": {
-      "titulo": "LIVE Amazon Prime Day 2025: We're Tracking Deals & Trends All Day",
-      "link": "https://www.wired.com/live/amazon-prime-day-deals-live-in-25/",
-      "fecha_obj": "2025-07-09T00:04:47+00:00",
-      "fecha_str": "09-07-2025 00:04 UTC",
-      "source_name": "Wired"
+      "titulo": "The Mission by Tim Weiner review – unmasking the CIA",
+      "link": "https://www.theguardian.com/books/2025/jul/10/the-mission-by-tim-weiner-review-unmasking-the-cia",
+      "fecha_obj": "2025-07-10T06:01:11+00:00",
+      "fecha_str": "10-07-2025 06:01 UTC",
+      "source_name": "The Guardian Culture"
     },
     "resumen_datos": {
-      "teaser_sentence": "Afeitado clásico vs. moderno: ¿Por qué una cuchilla simple es superior?",
-      "resumen": "El artículo explora las ventajas de usar una afeitadora de una sola hoja, como la Leaf Thorn, sobre las multi-hojas.  Se argumenta que la superioridad radica en el uso de hojas afiladas que se cambian con frecuencia, evitando irritaciones.  Las hojas de doble filo, como las Astra Platinum, se pueden partir para usarlas en esta afeitadora.  Aunque el costo inicial de la afeitadora Leaf es mayor, el bajo precio de las hojas compensa a largo plazo.  Se destaca la facilidad de cambio de hojas y se menciona un modelo menos agresivo, la Leaf Twig, para pieles sensibles. El autor prefiere la Thorn por su eficacia.",
+      "teaser_sentence": "The Mission desvela los secretos de la CIA, sus fracasos y la influencia de presidentes como Trump.",
+      "resumen": "Tim Weiner, en \"The Mission\", analiza los éxitos y fracasos de la CIA, destacando su uso político por presidentes estadounidenses.  Critica la agencia por su papel en acciones cuestionables como la tortura y su manipulación por países como Pakistán.  El libro explora la relación entre Trump y Putin, sugiriendo que Trump fue un \"idiota útil\" para Putin, aunque la invasión de Ucrania ha perjudicado los planes de Putin. Weiner, con acceso a fuentes internas de la CIA, ofrece detalles sobre la intervención de la agencia en Ucrania y la influencia de Trump en la misma. La obra es una crítica periodística mordaz, no académica, que expone la compleja historia de la CIA.",
       "relevancia_score": 3,
-      "relevancia_justificacion": "Si bien el artículo menciona un producto con cierto diseño ingenioso, su enfoque principal es en la experiencia de afeitado y no en avances tecnológicos significativos. La relevancia para ciencia y tecnología es baja, ya que no presenta innovaciones científicas ni tecnológicas de gran calado."
-    },
-    "categoria": "ciencia_tecnologia"
-  },
-  {
-    "info": {
-      "titulo": "Sigue la polémica en Cultura: no hay concursos a la vista para los museos nacionales",
-      "link": "https://www.clarin.com/cultura/sigue-polemica-cultura-concursos-vista-museos-nacionales_0_Lr9VhalWGh.html",
-      "fecha_obj": "2025-07-08T23:30:41+00:00",
-      "fecha_str": "08-07-2025 23:30 UTC",
-      "source_name": "Revista Ñ – Clarín Cultura"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Polémica en Cultura Argentina: despidos y falta de concursos en museos nacionales generan incertidumbre.",
-      "resumen": "El despido del director del Museo Histórico Nacional, Gabriel Di Meglio, desata una controversia sobre la falta de concursos para cubrir cargos en museos nacionales.  Si bien algunos museos concursaron sus direcciones durante gestiones anteriores, la actual gestión ha reemplazado directores sin nuevos concursos, generando incertidumbre entre los empleados.  La situación afecta a numerosos museos, incluyendo instituciones importantes como el Museo Nacional de Bellas Artes.  Aunque se afirma la intención de realizar concursos, la lentitud burocrática retrasa el proceso, dejando a muchos directores con cargos prorrogados y sin garantías de continuidad.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo trata directamente sobre la gestión de museos nacionales, los concursos para designar directores y la incertidumbre que esto genera en el ámbito cultural argentino.  Afecta directamente al funcionamiento y la estabilidad de importantes instituciones culturales."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "Shelter from the storms: queer sanctuaries – in pictures",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2025/jul/09/shelter-from-the-storms-queer-sanctuaries-in-pictures",
-      "fecha_obj": "2025-07-09T06:00:41+00:00",
-      "fecha_str": "09-07-2025 06:00 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Un hogar para personas mayores LGBTQ+ en Filipinas resiste a la adversidad, creando una comunidad solidaria y artística.",
-      "resumen": "El artículo presenta a los Golden Gays, una comunidad de personas mayores LGBTQ+ en Filipinas fundada en la década de 1970.  Inicialmente albergados en la casa del activista Justo Justo, tras su muerte en 2012 enfrentaron el desalojo y la falta de hogar.  Finalmente, en 2018, consiguieron un nuevo hogar en Manila.  Esta comunidad se mantiene a través de espectáculos y concursos, cuidándose mutuamente en la vejez.  La fotografía de Hannah Reyes Morales destaca la resiliencia y la unión de este grupo.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "La historia de los Golden Gays es relevante para la categoría 'Cultura Arte' por su dimensión social y artística.  La creación de una comunidad resiliente que utiliza el arte (espectáculos y concursos) para subsistir y mantener su identidad cultural es un testimonio cultural significativo."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "Building the Band review – Liam Payne’s controversial final show is the kind of reality TV that made him",
-      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/09/building-the-band-review-liam-payne-netflix-final-show-reality-tv",
-      "fecha_obj": "2025-07-09T04:00:42+00:00",
-      "fecha_str": "09-07-2025 04:00 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Liam Payne's póstumo reality show, Building the Band, busca crear la próxima gran banda pop, pero ¿a qué costo?",
-      "resumen": "Building the Band, un nuevo reality de Netflix, intenta revivir el formato de búsqueda de talentos, combinando elementos de otros shows como Love is Blind y The Voice.  Con la participación póstuma de Liam Payne como juez, el programa genera controversia por su lanzamiento tras su fallecimiento.  El show sigue a 50 cantantes que forman bandas, compitiendo por un premio de medio millón de dólares.  Aunque inicialmente respetuoso, el programa promete un desarrollo más dramático y competitivo a medida que avanza.  Su enfoque en bandas en la era del dominio de los solistas plantea interrogantes sobre su objetivo principal: crear estrellas o generar un espectáculo.",
-      "relevancia_score": 7,
-      "relevancia_justificacion": "El artículo trata sobre un programa de televisión que, si bien es un reality show, aborda aspectos de la industria musical, la creación de estrellas pop y el impacto cultural de este tipo de formatos.  La controversia en torno a la participación póstuma de Liam Payne también añade un elemento de interés cultural."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "Transaction review – ITV’s anarchic new sitcom dives right into the most taboo parts of trans life",
-      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/08/transaction-review-itv-sitcom-trans-life-jordan-gray",
-      "fecha_obj": "2025-07-08T21:35:31+00:00",
-      "fecha_str": "08-07-2025 21:35 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Transición, la nueva sitcom de ITV, explora con humor irreverente los tabúes de la vida trans.",
-      "resumen": "Transaction, protagonizada por Jordan Gray, presenta una comedia de situaciones con una protagonista trans, Liv, que desafía los estereotipos.  La trama se centra en las situaciones laborales y personales de Liv, incluyendo su relación con su compañero de piso y su trabajo en un supermercado envuelto en una controversia.  La serie mezcla humor clásico con temas delicados sobre la identidad trans, generando momentos tanto hilarantes como reflexivos.  Aunque la trama principal es sencilla y a veces predecible, el personaje de Liv y su humor irreverente destacan, dejando una impresión memorable.  Sin embargo, la serie se ve limitada por el formato tradicional de sitcom, lo que impide explorar a fondo las temáticas planteadas.",
-      "relevancia_score": 7,
-      "relevancia_justificacion": "La serie aborda temas de identidad de género y representación trans, relevantes para la cultura contemporánea.  Si bien la comedia es el género principal, el contenido toca aspectos sociales y culturales importantes."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "TV tonight: on the trail of the man accused of murder by mail",
-      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/09/tv-tonight-on-the-trail-of-the-man-accused-of-by-mail",
-      "fecha_obj": "2025-07-09T05:20:41+00:00",
-      "fecha_str": "09-07-2025 05:20 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Crimen por correo, búsqueda de nazis y casas difíciles de vender: la TV de esta noche.",
-      "resumen": "La programación televisiva incluye un documental sobre un hombre acusado de enviar veneno letal por correo, otro sobre un traficante de arte nazi y un programa sobre la venta de propiedades difíciles.  También se presentan un reality de negocios con emprendedoras, una comedia de situación sobrenatural y un especial sobre la serie Poldark.  La programación deportiva incluye un partido de fútbol femenino entre Inglaterra y Países Bajos.  Finalmente, se recomienda la película Don't Look Now por su atmósfera de terror.",
-      "relevancia_score": 3,
-      "relevancia_justificacion": "Si bien hay un documental sobre un traficante de arte nazi, la mayor parte de la programación se centra en otros temas, limitando su relevancia para la categoría 'Cultura Arte'."
+      "relevancia_justificacion": "Aunque el libro trata sobre la CIA, una institución estadounidense, su enfoque principal es político e histórico, no artístico o cultural. La relevancia para 'Cultura Arte' es baja, ya que no aborda directamente temas artísticos o culturales."
     },
     "categoria": "cultura_arte"
   }
