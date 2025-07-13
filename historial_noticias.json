@@ -1,369 +1,257 @@
 [
   {
     "info": {
-      "titulo": "EN DIRECT - Nouvelle-Zélande - France : malgré une grosse entame, les Bleus sont menés",
-      "link": "https://www.lefigaro.fr/sports/rugby/live/test-match/2025/946101/nouvelle-zelande-france",
-      "fecha_obj": "2025-07-12T07:18:03+00:00",
-      "fecha_str": "12-07-2025 07:18 UTC",
+      "titulo": "Gaza : au moins 27 morts dans des frappes israéliennes, selon la Défense civile",
+      "link": "https://www.lefigaro.fr/international/gaza-au-moins-27-morts-dans-des-frappes-israeliennes-selon-la-defense-civile-20250713",
+      "fecha_obj": "2025-07-13T07:04:11+00:00",
+      "fecha_str": "13-07-2025 07:04 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Francia busca una victoria improbable ante Nueva Zelanda, a pesar de un equipo joven.",
-      "resumen": "El artículo trata sobre el partido de rugby entre Francia y Nueva Zelanda.  A pesar de un buen comienzo, Francia se encuentra en desventaja.  El entrenador, Fabien Galthié, considera un triunfo improbable, aunque el equipo espera repetir la casi victoria de la semana pasada.  A pesar de la poca experiencia del equipo, mantienen la esperanza de un resultado favorable. El artículo destaca la dificultad del reto para Francia y la búsqueda de un resultado positivo contra un rival muy superior.",
+      "teaser_sentence": "Al menos 27 palestinos, incluyendo niños, murieron en ataques aéreos israelíes en Gaza.",
+      "resumen": "Ataques aéreos israelíes en Gaza causaron la muerte de al menos 27 palestinos, según la Defensa Civil.  Las víctimas incluyen niños y mujeres, y los ataques afectaron casas y campamentos de desplazados en varias zonas, incluyendo Gaza-ciudad, Nousseirat y Al-Mawassi.  La Defensa Civil detalla ataques específicos en diferentes localizaciones, reportando múltiples muertes en cada una.  Israel no ha comentado oficialmente sobre el incidente.  La verificación independiente de la información es difícil debido a las restricciones impuestas por Israel y las dificultades de acceso a Gaza.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El partido entre Francia y Nueva Zelanda es un evento deportivo internacional de gran relevancia, atrayendo la atención de aficionados de todo el mundo.  El artículo informa sobre un evento deportivo internacional de alto nivel."
+      "relevancia_justificacion": "El suceso es de gran relevancia internacional al involucrar un conflicto armado entre Israel y Palestina, con un alto número de víctimas civiles.  La noticia tiene impacto geopolítico y humanitario a escala global."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "\"¿Por qué desconectaste el combustible?\": la conversación entre los pilotos del avión de Air India poco antes del accidente el que murieron 260 personas",
-      "link": "https://www.bbc.com/mundo/articles/c1k8g1plg1vo",
-      "fecha_obj": "2025-07-12T07:01:25+00:00",
-      "fecha_str": "12-07-2025 07:01 UTC",
-      "source_name": "BBC Mundo"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Accidente aéreo Air India: Informe preliminar apunta a posible error humano en la desconexión del combustible.",
-      "resumen": "Un informe preliminar sobre el accidente del vuelo 171 de Air India, que causó 260 muertes, indica que los pilotos cambiaron los interruptores de combustible a \"corte\" poco después del despegue, provocando la pérdida de empuje de los motores.  Aunque uno de los motores comenzó a recuperarse antes del impacto, el informe no descarta un error humano, aunque no se determina quién accionó los interruptores.  Se descarta, de momento, un fallo mecánico en el avión o sus motores. La investigación continúa y se espera un informe final en un año, incluyendo análisis de combustible y grabadoras de vuelo.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El accidente de un avión internacional de Air India con numerosas víctimas mortales es una noticia de gran relevancia internacional por su impacto global y las implicaciones para la seguridad aérea."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "EN DIRECT - Un «État de la Nouvelle-Calédonie» sera inscrit dans la Constitution française",
-      "link": "https://www.lefigaro.fr/actualite-france/en-direct-nouvelle-caledonie-un-accord-historique-signe-a-bougival-20250712",
-      "fecha_obj": "2025-07-12T07:07:03+00:00",
-      "fecha_str": "12-07-2025 07:07 UTC",
+      "titulo": "Couvre-feu, arbitrage électronique, bouchons de champagne, canicule... Récit de 15 jours animés dans le Temple de Wimbledon",
+      "link": "https://www.lefigaro.fr/sports/tennis/wimbledon/couvre-feu-arbitrage-electronique-bouchons-de-champagne-canicule-15-jours-animes-dans-le-temple-de-wimbledon-20250713",
+      "fecha_obj": "2025-07-13T07:18:05+00:00",
+      "fecha_str": "13-07-2025 07:18 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Acuerdo histórico: Nueva Caledonia se integrará a la Constitución francesa, dejando atrás los referéndums de independencia.",
-      "resumen": "Se firmó un acuerdo histórico entre el gobierno francés y representantes de Nueva Caledonia que establece la inscripción de un \"Estado de Nueva Caledonia\" en la Constitución francesa.  Este acuerdo, firmado por el diputado no independentista Nicolas Metzdorf y el independentista Emmanuel Tjibaou, elimina futuros referéndums sobre la independencia, salvo uno para ratificar el acuerdo.  Se espera una ampliación del cuerpo electoral.  El acuerdo busca superar las consecuencias de las violentas protestas de mayo de 2024, que causaron daños significativos y 14 muertes, y priorizar la reconstrucción económica de la isla.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El acuerdo tiene una gran relevancia internacional por implicar un cambio constitucional en Francia y resolver un conflicto político de larga data en un territorio de ultramar.  Afecta las relaciones entre Francia y sus territorios dependientes y tiene implicaciones geopolíticas en la región del Pacífico."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Nouvelle-Calédonie : indépendantistes et non indépendantistes signent un accord «historique»",
-      "link": "https://www.lefigaro.fr/actualite-france/nouvelle-caledonie-independantistes-et-non-independantistes-signent-un-accord-historique-20250712",
-      "fecha_obj": "2025-07-12T07:06:48+00:00",
-      "fecha_str": "12-07-2025 07:06 UTC",
-      "source_name": "Le Figaro"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Independentistas y no independentistas de Nueva Caledonia firman un acuerdo histórico para un nuevo Estado dentro de Francia.",
-      "resumen": "Tras un intenso proceso de negociación en Bougival, Francia, representantes independentistas y no independentistas de Nueva Caledonia alcanzaron un acuerdo histórico para la creación de un \"Estado de Nueva Caledonia\" dentro de la República Francesa.  El acuerdo, que evita nuevos referéndums de independencia, contempla la creación de una nacionalidad calédoniana (con doble nacionalidad), una nueva distribución de escaños en el Congreso y la ampliación del cuerpo electoral provincial.  Se espera que el Parlamento francés constitucionalice el acuerdo, seguido de un referéndum local.  Este acuerdo llega tras las devastadoras protestas de mayo de 2024 y busca impulsar la concordia y el desarrollo económico de la isla.  El acuerdo implica concesiones mutuas y se considera un paso fundamental para el futuro de Nueva Caledonia.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El acuerdo tiene implicaciones internacionales al afectar el estatus político de un territorio dependiente de Francia, incluyendo la creación de una nueva nacionalidad y la posibilidad de reconocimiento internacional del nuevo Estado.  La resolución de un conflicto político prolongado en un territorio de ultramar también es de relevancia internacional."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Du plus soporifique au plus excitant, notre classement des éditions du Tour de France au 21e siècle",
-      "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/du-plus-soporifique-au-plus-excitant-notre-classement-des-editions-du-tour-de-france-au-21e-siecle-20250712",
-      "fecha_obj": "2025-07-12T06:52:32+00:00",
-      "fecha_str": "12-07-2025 06:52 UTC",
-      "source_name": "Le Figaro"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Ranking del Tour de France del siglo XXI: del más aburrido al más emocionante.",
-      "resumen": "El artículo de Le Figaro clasifica las diez ediciones del Tour de France del siglo XXI, desde la más soporífera a la más emocionante.  Se mencionan ediciones específicas como la de 2019 (emocionante por el factor francés), 2011 (con un guion inesperado) y 2022 (por la rivalidad Pogacar-Vingegaard). El texto destaca momentos memorables, victorias, rivalidades y la emoción que genera la carrera cada año, invitando a los lectores a recordar o descubrir estas ediciones a través de un diaporama.",
+      "teaser_sentence": "Wimbledon: 15 días de tradición, magia y sorpresas en el templo del tenis.",
+      "resumen": "El artículo describe la experiencia de asistir a Wimbledon durante 15 días, destacando la atmósfera única del torneo.  Menciona las tradiciones arraigadas, como el atuendo blanco de los jugadores y la ausencia de publicidad, que lo diferencian de otros Grand Slams.  Se mencionan detalles como el sonido particular de la pelota en la hierba, las icónicas fresas con nata, y la atmósfera especial del Centre Court.  A pesar de algunos cambios, las tradiciones mantienen la magia de Wimbledon.",
       "relevancia_score": 8,
-      "relevancia_justificacion": "El Tour de France es un evento deportivo internacional de gran relevancia, atrayendo a una audiencia global.  Su análisis y clasificación tienen interés internacional por su alcance y la repercusión mediática del evento."
+      "relevancia_justificacion": "El artículo trata sobre Wimbledon, un evento deportivo internacional de gran relevancia.  Su descripción de las tradiciones y la atmósfera del torneo lo hacen atractivo para una audiencia internacional, aunque la falta de acceso al contenido completo limita ligeramente la puntuación."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Discurso de Rosa Devés en la inauguración de la Gran Sala Sinfónica de la Universidad de Chile",
-      "link": "https://www.ciperchile.cl/2025/07/11/discurso-de-rosa-deves-en-la-inauguracion-de-la-gran-sala-sinfonica-de-la-universidad-de-chile/?utm_source=rss&utm_medium=rss&utm_campaign=discurso-de-rosa-deves-en-la-inauguracion-de-la-gran-sala-sinfonica-de-la-universidad-de-chile",
-      "fecha_obj": "2025-07-11T21:30:28+00:00",
-      "fecha_str": "11-07-2025 21:30 UTC",
-      "source_name": "CIPER Chile"
+      "titulo": "For Families of Air India Crash Victims, Report Brings No Closure",
+      "link": "https://www.nytimes.com/2025/07/13/world/asia/air-india-crash-report-victim-families.html",
+      "fecha_obj": "2025-07-13T07:16:33+00:00",
+      "fecha_str": "13-07-2025 07:16 UTC",
+      "source_name": "The New York Times World"
     },
     "resumen_datos": {
-      "teaser_sentence": "Inaugurada la Gran Sala Sinfónica Nacional de la Universidad de Chile, un hito para la cultura nacional.",
-      "resumen": "La rectora Rosa Devés inauguró la Gran Sala Sinfónica Nacional de la Universidad de Chile, un proyecto que culmina 85 años de esfuerzos para dotar a la Orquesta Sinfónica Nacional y al Coro Sinfónico de una sede adecuada.  La nueva infraestructura incluye salas de ensayo y dependencias para el CEAC.  El discurso destacó la colaboración de diversas autoridades, arquitectos e ingenieros, así como la memoria de figuras clave como Rodolfo Saglimbeni.  La obra, superando dificultades como el estallido social y la pandemia, simboliza la perseverancia y el valor de lo público, buscando la excelencia y la inclusión.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "La inauguración de una sala sinfónica nacional es un evento de gran importancia cultural para Chile, impactando a nivel nacional y promoviendo las artes.  El proyecto tuvo un largo desarrollo y superó diversas adversidades, reflejando la realidad nacional.  Su relevancia trasciende lo local, proyectándose a nivel nacional e internacional."
+      "teaser_sentence": "Informe sobre accidente Air India: falta de respuestas, familias sin cierre.",
+      "resumen": "Un informe preliminar sobre el accidente de un avión de Air India indica que el combustible se cortó a ambos motores segundos después del despegue, causando la pérdida de empuje antes de cruzar el perímetro del aeropuerto.  El informe, sin embargo, no explica cómo ni por qué se cortó el suministro de combustible, incluyendo solo un fragmento confuso de la conversación de la cabina donde los pilotos se preguntan mutuamente sobre la acción.  La investigación continúa, pero las familias de las víctimas expresan frustración por la falta de respuestas y exigen una investigación exhaustiva.  El señor Thakur, un familiar afectado, expresa su incredulidad ante la rapidez con la que se cortó el suministro de combustible, enfatizando el devastador impacto del accidente en numerosas familias.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El accidente aéreo involucra una aerolínea internacional y tiene un impacto global debido a la pérdida de vidas humanas.  La falta de respuestas y la continuación de la investigación mantienen la relevancia internacional."
     },
-    "categoria": "nacional"
+    "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "#Radar de CIPER: CMF investiga posible manipulación de fecha en contrato entre Blanco y Negro y DG Medios",
-      "link": "https://www.ciperchile.cl/2025/07/11/radar-de-ciper-cmf-investiga-posible-manipulacion-de-fecha-en-contrato-entre-blanco-y-negro-y-dg-medios/?utm_source=rss&utm_medium=rss&utm_campaign=radar-de-ciper-cmf-investiga-posible-manipulacion-de-fecha-en-contrato-entre-blanco-y-negro-y-dg-medios",
-      "fecha_obj": "2025-07-12T02:27:47+00:00",
-      "fecha_str": "12-07-2025 02:27 UTC",
-      "source_name": "CIPER Chile"
+      "titulo": "Adèle Yon: le phénomène littéraire complètement fou qui secoue la librairie",
+      "link": "https://www.lefigaro.fr/livres/adele-yon-le-phenomene-litteraire-completement-fou-qui-secoue-la-librairie-20250713",
+      "fecha_obj": "2025-07-13T06:54:50+00:00",
+      "fecha_str": "13-07-2025 06:54 UTC",
+      "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "La CMF investiga posible manipulación de fecha en contrato entre Blanco y Negro y DG Medios.",
-      "resumen": "CIPER informa que la Comisión para el Mercado Financiero (CMF) está investigando una posible manipulación de la fecha en un contrato entre Blanco y Negro y DG Medios.  Si bien el artículo no detalla el contenido específico del contrato ni las razones detrás de la sospecha de manipulación, la investigación de la CMF sugiere irregularidades que podrían tener implicaciones financieras significativas.  La investigación se centra en determinar si hubo un intento de engaño o incumplimiento de las regulaciones.  El artículo destaca la importancia de la transparencia en las transacciones financieras y el rol de la CMF en la fiscalización de los mercados.  La falta de detalles específicos en la noticia deja abierta la posibilidad de futuras revelaciones sobre el alcance de la investigación y sus consecuencias.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "La investigación de la CMF sobre una posible manipulación de contrato involucra a entidades relevantes del mercado financiero chileno, lo que tiene un impacto directo en la economía nacional y la confianza pública en las instituciones.  La potencial manipulación de fechas en un contrato es una irregularidad grave con implicaciones legales y financieras importantes."
+      "teaser_sentence": "Adèle Yon, desconocida hasta hace meses, arrasa con su libro \"Mon vrai nom est Elisabeth\", un éxito literario inesperado.",
+      "resumen": "El libro \"Mon vrai nom est Elisabeth\", de la joven Adèle Yon, una normalienne de 31 años hasta hace poco desconocida, se ha convertido en un éxito de ventas en Francia.  La obra, una mezcla de relato y ensayo sobre su tatarabuela, una mujer esquizofrénica y lobotomizada, ha vendido más de 85.000 ejemplares y ha sido traducida a varios idiomas. Su éxito contrasta con las lecturas ligeras típicas del verano, situándose por encima de autores best-seller como Joël Dicker y Franck Thilliez.  La crítica, tanto literaria como audiovisual, ha elogiado la obra, convirtiendo a Yon en un fenómeno literario.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El éxito editorial de una autora francesa desconocida hasta hace poco, con un libro que explora temas relevantes, tiene un interés internacional por su impacto en el mercado literario y por la naturaleza del libro mismo."
     },
-    "categoria": "nacional"
+    "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "CMF investiga posible manipulación de fecha en contrato entre Blanco y Negro y DG Medios",
-      "link": "https://www.ciperchile.cl/2025/07/11/cmf-investiga-posible-manipulacion-de-fecha-en-contrato-entre-blanco-y-negro-y-dg-medios/?utm_source=rss&utm_medium=rss&utm_campaign=cmf-investiga-posible-manipulacion-de-fecha-en-contrato-entre-blanco-y-negro-y-dg-medios",
-      "fecha_obj": "2025-07-11T20:32:19+00:00",
-      "fecha_str": "11-07-2025 20:32 UTC",
-      "source_name": "CIPER Chile"
+      "titulo": "Normandie : notre palmarès 2025 des villes et villages où s’installer à la retraite",
+      "link": "https://www.lefigaro.fr/actualite-france/normandie-notre-palmares-2025-des-villes-et-villages-ou-s-installer-a-la-retraite-20250712",
+      "fecha_obj": "2025-07-13T06:50:14+00:00",
+      "fecha_str": "13-07-2025 06:50 UTC",
+      "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "La CMF investiga posible manipulación de fecha en un contrato de Blanco y Negro, que afectó sus estados financieros.",
-      "resumen": "La Comisión para el Mercado Financiero (CMF) investiga la manipulación de la fecha de un contrato entre Blanco y Negro y DG Medios por $2 mil millones.  El contrato, inicialmente con una condición suspensiva, fue modificado para eliminar dicha condición, cambiando los estados financieros de Blanco y Negro de deficitarios a con utilidades.  La CMF investiga si la fecha de la modificación (septiembre 2024) es correcta, ya que existen antecedentes que sugieren que fue firmada en marzo de 2025, después de que el directorio conociera las objeciones de la auditora BDO.  Blanco y Negro niega irregularidades, mientras que la CMF mantiene reserva sobre la investigación.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "La investigación involucra a una sociedad anónima relevante en el fútbol chileno (Colo-Colo), una entidad fiscalizadora (CMF), y posibles irregularidades financieras que impactan en la percepción pública de la transparencia y gestión de empresas importantes."
+      "teaser_sentence": "Normandía: el paraíso para jubilarse, ¡encuentra tu pueblo ideal!",
+      "resumen": "El artículo de Le Figaro analiza 121 municipios normandos para identificar los mejores lugares para la jubilación, considerando factores como clima, cercanía al mar, precios inmobiliarios, servicios y comercios.  Se destaca la creciente población de jubilados en la región, especialmente en la costa.  La publicación compara localidades costeras y rurales, ofreciendo una guía para elegir el lugar perfecto para una jubilación tranquila.  El análisis se basa en 47 criterios, permitiendo a los lectores encontrar la opción que mejor se adapte a sus necesidades y preferencias. Se presenta el testimonio de una parisina que se mudó a la región y expresa su satisfacción con la calidad de vida.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien el artículo trata sobre un tema de interés para los lectores interesados en la jubilación y el estilo de vida en el extranjero, su alcance geográfico se limita a una región específica de Francia.  Por lo tanto, su relevancia internacional es moderada."
     },
-    "categoria": "nacional"
+    "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "No te pierdas el Taller “La ruta del gasto fiscal: ¿en qué se gasta la plata del Estado?”",
-      "link": "https://www.ciperchile.cl/2025/07/11/no-te-pierdas-el-taller-la-ruta-del-gasto-fiscal-en-que-se-gasta-la-plata-del-estado/?utm_source=rss&utm_medium=rss&utm_campaign=no-te-pierdas-el-taller-la-ruta-del-gasto-fiscal-en-que-se-gasta-la-plata-del-estado",
-      "fecha_obj": "2025-07-11T14:40:12+00:00",
-      "fecha_str": "11-07-2025 14:40 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Aprende a rastrear el gasto fiscal chileno: inscríbete al taller gratuito de CIPER.",
-      "resumen": "CIPER impartirá el taller \"La ruta del gasto fiscal\", el 24 de julio a las 19:00 hrs. vía Zoom.  La periodista Macarena Segovia enseñará a usar plataformas como Mercado Público, el Registro de Colaboradores del Estado y la Ley de Lobby para investigar el gasto público.  Los participantes aprenderán a buscar licitaciones, sueldos de funcionarios y la influencia de grupos de presión. El taller tiene cupos limitados y es de contribución voluntaria, con una referencia de $35.000. Los socios de +CIPER pueden inscribirse gratis.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El taller aborda un tema de interés nacional: la transparencia y rendición de cuentas del gasto público.  Su impacto en la ciudadanía es alto, al facilitar el acceso a información crucial para el control del Estado."
-    },
-    "categoria": "nacional"
-  },
-  {
-    "info": {
-      "titulo": "Defender al periodismo y la academia en tiempos de autoritarismo",
-      "link": "https://www.ciperchile.cl/2025/07/11/defender-al-periodismo-y-la-academia-en-tiempos-de-autoritarismo/?utm_source=rss&utm_medium=rss&utm_campaign=defender-al-periodismo-y-la-academia-en-tiempos-de-autoritarismo",
-      "fecha_obj": "2025-07-11T08:00:37+00:00",
-      "fecha_str": "11-07-2025 08:00 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "El autoritarismo ataca la ciencia y el periodismo; defenderlos es defender la democracia.",
-      "resumen": "El artículo alerta sobre el creciente peligro que enfrentan la ciencia y el periodismo bajo regímenes autoritarios.  Se cita el ejemplo de la administración Trump en Estados Unidos y la autocensura de académicos por temor a represalias.  La autora, editora asociada de Digital Journalism, destaca dos problemas principales: la influencia en las agendas de investigación y la censura/autocensura académica.  Se propone una defensa proactiva de estas disciplinas, incluyendo el replanteamiento de postulados epistemológicos, la investigación que fortalezca la democracia y el apoyo a los investigadores.",
-      "relevancia_score": 3,
-      "relevancia_justificacion": "Si bien el artículo discute temas de importancia global como la libertad de prensa y la investigación académica, su enfoque principal es internacional, con ejemplos de Estados Unidos. La relevancia nacional dependería de la aplicación de estos problemas al contexto específico de un país."
-    },
-    "categoria": "nacional"
-  },
-  {
-    "info": {
-      "titulo": "Yes, Israel’s plan for Rafah would be a crime – but international law has never protected Gaza | Raja Shehadeh",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/12/israel-rafah-plan-crime-international-law-palestinians",
-      "fecha_obj": "2025-07-12T05:00:02+00:00",
-      "fecha_str": "12-07-2025 05:00 UTC",
+      "titulo": "What if Ukraine falls? This is no longer a hypothetical question – and it must be answered urgently | Simon Tisdall",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/13/ukraine-europe-donald-trump-nato",
+      "fecha_obj": "2025-07-13T05:00:30+00:00",
+      "fecha_str": "13-07-2025 05:00 UTC",
       "source_name": "The Guardian Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Israel's plan for Rafah: a concentration camp and a crime against humanity, highlighting the failure of international law to protect Palestine.",
-      "resumen": "Raja Shehadeh's article condemns Israel's actions in Gaza, particularly the planned creation of a concentration camp in Rafah, as a crime against humanity.  He argues that international law has consistently failed to protect Palestinians, citing the lack of enforcement of resolutions and continued Western support for Israel.  Shehadeh highlights the systematic dispossession of Palestinians since 1948 and the ongoing violations in the West Bank, exemplified by the situation in Hebron. Despite this, he emphasizes Palestinian resilience and the belief that the truth about Israel's actions will eventually emerge, holding Israel and its allies accountable.",
+      "teaser_sentence": "La caída de Ucrania sería un fracaso estratégico para Occidente; ¿qué opciones quedan?",
+      "resumen": "El artículo analiza el posible colapso de Ucrania ante la ofensiva rusa, considerando las implicaciones estratégicas para Occidente.  Se destaca la falta de apoyo consistente, la escasez de recursos en Ucrania y la influencia negativa de figuras como Trump.  Se plantean dos escenarios: una guerra estancada o la caída de Ucrania, con consecuencias devastadoras para Europa.  Se propone una respuesta más firme de la OTAN, sanciones más severas a Rusia y la necesidad de presionar para la negociación, pero sobre todo, la necesidad de detener a Putin.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo es un ensayo de opinión que presenta un argumento claro y conciso sobre la situación en Gaza y la ineficacia del derecho internacional para proteger a los palestinos.  Expresa una opinión contundente, respaldada con ejemplos concretos y análisis de la situación política e histórica."
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre un tema de actualidad geopolítica, con análisis de diferentes perspectivas y propuestas de solución.  Se ajusta a la estructura de un ensayo de opinión, con una tesis clara, argumentos y conclusión."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "Young people don’t feel part of the EU – and they’re right | Francesco Grillo",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/12/young-people-eu-citizen-digital-age-erasmus-school",
-      "fecha_obj": "2025-07-12T04:00:00+00:00",
-      "fecha_str": "12-07-2025 04:00 UTC",
-      "source_name": "The Guardian Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "La UE enfrenta un déficit democrático: los jóvenes no se sienten representados, amenazando su futuro.",
-      "resumen": "El artículo analiza el déficit democrático de la UE, especialmente entre los jóvenes, quienes se sienten poco representados y prefieren identificarse como ciudadanos del mundo.  Se critica la falta de enfoque en la democracia en el informe Draghi, priorizando la integración y la defensa.  Se argumenta que la falta de participación ciudadana dificulta la consecución de objetivos como un presupuesto mayor o una defensa común.  Se proponen soluciones como un programa Erasmus obligatorio y gratuito, y una reforma del proceso presupuestario para mayor transparencia y participación ciudadana.  El autor concluye que la UE debe adaptarse a un contexto tecnológico radicalmente diferente para proteger la democracia.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre un tema de actualidad: el déficit democrático de la UE.  Se basa en datos, estudios y ejemplos concretos para sustentar su tesis, ofreciendo propuestas de solución.  Su estructura y estilo se ajustan a los parámetros de un ensayo de opinión."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "Governors, Use Your Clemency Powers",
-      "link": "https://www.nytimes.com/2025/07/11/opinion/clemency-pardon-governors-trump.html",
-      "fecha_obj": "2025-07-12T02:23:02+00:00",
-      "fecha_str": "12-07-2025 02:23 UTC",
+      "titulo": "‘He’s Nuts, Your Trump.’ Canada Unites Against America.",
+      "link": "https://www.nytimes.com/2025/07/13/opinion/canada-america-trump.html",
+      "fecha_obj": "2025-07-13T05:00:05+00:00",
+      "fecha_str": "13-07-2025 05:00 UTC",
       "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Gobernadores, usen su poder de clemencia para corregir la hiper-punitividad carcelaria.",
-      "resumen": "El artículo critica la falta de acción de los gobernadores estadounidenses en el uso del poder de clemencia, contrastándola con el uso excesivo e inapropiado de este poder por parte del presidente Trump.  Se argumenta que la clemencia es una herramienta crucial para abordar la crisis de encarcelamiento masivo y las disparidades raciales en las prisiones estatales.  Se destaca el gran número de solicitudes de clemencia pendientes en estados como Nueva York, donde la gobernadora Kathy Hochul ha otorgado muy pocas conmutaciones de penas. El autor insta a los gobernadores a utilizar este poder para rectificar sentencias excesivas y promover la justicia.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo presenta una opinión clara y argumentada sobre el uso (o falta de uso) del poder de clemencia por parte de los gobernadores.  Es un ensayo de opinión que analiza un problema social, ofrece soluciones y respalda sus argumentos con ejemplos concretos.  Cumple con todos los requisitos de un ensayo de opinión."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "Have Christians Finally Had It With Trump?",
-      "link": "https://www.nytimes.com/2025/07/11/opinion/trump-republicans-christians.html",
-      "fecha_obj": "2025-07-12T02:18:36+00:00",
-      "fecha_str": "12-07-2025 02:18 UTC",
-      "source_name": "The New York Times Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Hipocresía religiosa: ¿Han perdido los cristianos la fe en Trump?",
-      "resumen": "El artículo critica el uso instrumental de la Biblia por parte de la administración Trump, ejemplificado en la justificación de políticas controversiales con citas bíblicas fuera de contexto. Se contrasta este uso superficial con la postura del National Baptist Convention, que cita Salmos 82 para defender a los más vulnerables.  El autor argumenta que la administración utiliza la religión como mera apariencia, sin reflejar los valores de justicia y compasión que la Biblia promueve.  Se critica la utilización de pasajes bíblicos en campañas de reclutamiento de la patrulla fronteriza, considerandolo una afrenta a la fe cristiana.  El texto concluye que la verdadera fe cristiana implica acción y justicia social, no solo retórica religiosa.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre el uso político de la religión, con ejemplos concretos y análisis crítico.  Se ajusta perfectamente a la categoría de ensayo de opinión por su estructura, argumentación y perspectiva subjetiva."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "We Need to Learn to Love Tall Buildings",
-      "link": "https://www.nytimes.com/2025/07/11/opinion/shade-buildings-cities.html",
-      "fecha_obj": "2025-07-12T02:20:18+00:00",
-      "fecha_str": "12-07-2025 02:20 UTC",
-      "source_name": "The New York Times Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Las sombras de los edificios altos: ¿aliadas contra el calor extremo o enemigos del diseño urbano?",
-      "resumen": "Un artículo argumenta a favor de una reconsideración de la percepción negativa hacia los edificios altos en las ciudades.  Señala que, aunque pueden contribuir al efecto isla de calor, su sombra proporciona un alivio significativo durante las olas de calor extremas.  Citando a una experta en planificación urbana, el artículo destaca que la sombra puede reducir hasta un 30% la carga térmica.  Por lo tanto, se propone que, ante el aumento de las temperaturas, se debería priorizar el beneficio de la sombra que ofrecen los edificios altos para mitigar el impacto del calor en espacios públicos como parques y plazas.",
+      "teaser_sentence": "Canadá se une contra Trump: aranceles, insultos y un sentimiento anti-estadounidense creciente.",
+      "resumen": "El artículo describe la creciente indignación en Canadá hacia la administración Trump, provocada por los aranceles, las declaraciones sobre un posible 51° estado estadounidense y los insultos.  Esta hostilidad se manifiesta en un aumento del orgullo canadiense, el boicot a productos estadounidenses, la cancelación de viajes a Estados Unidos y una retórica antiamericana generalizada.  Incluso el Rey Carlos III expresó un apoyo velado a Canadá en su discurso. Las encuestas reflejan una caída drástica en la opinión favorable hacia Estados Unidos y un aumento significativo en la percepción de Estados Unidos como una amenaza para Canadá.",
       "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta una opinión clara y argumentada sobre un tema de interés público: la planificación urbana sostenible frente al cambio climático.  Utiliza datos y opiniones expertas para defender su postura, lo que lo hace adecuado para la categoría de 'Opinión Ensayo'."
+      "relevancia_justificacion": "El artículo presenta una opinión sobre las relaciones entre Canadá y Estados Unidos bajo la presidencia de Trump.  Expresa un sentimiento colectivo canadiense y analiza sus causas y consecuencias, lo que lo hace adecuado para un ensayo de opinión."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More",
-      "link": "https://www.wired.com/story/best-prime-day-laptop-deals-2025-3/",
-      "fecha_obj": "2025-07-12T01:00:51+00:00",
-      "fecha_str": "12-07-2025 01:00 UTC",
-      "source_name": "Wired"
+      "titulo": "Elon Musk’s Revenge Campaign",
+      "link": "https://www.nytimes.com/2025/07/12/opinion/third-party-elon-musk.html",
+      "fecha_obj": "2025-07-12T20:06:39+00:00",
+      "fecha_str": "12-07-2025 20:06 UTC",
+      "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Ofertas increíbles de Prime Day 2025 en laptops: ¡MacBooks, Chromebooks y más!",
-      "resumen": "El artículo analiza las mejores ofertas de laptops durante el Prime Day 2025.  Se destacan ofertas en MacBooks (MacBook Air M4 y M1), Surface Laptops (13.8 pulgadas y 13 pulgadas), Chromebooks (Acer Chromebook Plus 515 y Lenovo Chromebook Duet), y una opción económica, la Acer Chromebook CX15.  También incluye ofertas en accesorios como un soporte para laptop, un hub USB-C de Anker, un ratón Logitech, un teclado Logitech G Pro X TKL y un hub USB-C con ranura para SSD. Se aconseja precaución con laptops Windows por debajo de $300, recomendando Chromebooks como alternativa económica. El artículo guía al lector en la elección de una laptop según sus necesidades, considerando aspectos como rendimiento, batería, pantalla y puertos.",
+      "teaser_sentence": "Elon Musk's nuevo partido político: ¿una campaña de venganza o una alternativa viable?",
+      "resumen": "Michelle Cottle y David French discuten la viabilidad del nuevo partido político de Elon Musk, \"America Party\".  Si bien existe una \"mayoría exhausta\" insatisfecha con los dos partidos principales, los analistas dudan del éxito del proyecto de Musk debido a su impopularidad bipartidista y a la dificultad histórica de establecer partidos terceros en EE. UU.  Se debate si este movimiento es una respuesta a la frustración política de Musk o una estrategia calculada.  Aunque existe una demanda por alternativas, la falta de una plataforma política clara y la dificultad de construir una coalición unificada alrededor de un tono en lugar de una idea concreta, plantean serios desafíos.  La conversación también analiza la posibilidad de que los partidos existentes se reformulen en lugar de la emergencia de un nuevo partido exitoso.",
       "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo trata sobre tecnología, específicamente sobre ofertas de computadoras portátiles y accesorios, un tema de gran interés dentro de la categoría 'Ciencia y Tecnología'. La información es relevante y útil para los consumidores interesados en adquirir este tipo de productos."
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza profundamente la factibilidad de un nuevo partido político en el contexto del panorama político actual de Estados Unidos. Ofrece perspectivas contrastantes, argumentos sólidos y un análisis crítico de las posibilidades de éxito, lo que lo hace altamente relevante para la categoría."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Stop Building in Floodplains",
+      "link": "https://www.nytimes.com/2025/07/12/opinion/texas-floods.html",
+      "fecha_obj": "2025-07-12T18:59:57+00:00",
+      "fecha_str": "12-07-2025 18:59 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Debemos detener la construcción en llanuras de inundación para evitar tragedias como la del río Guadalupe.",
+      "resumen": "El artículo lamenta las devastadoras inundaciones recientes, especialmente la del río Guadalupe en Texas, y argumenta que la respuesta a emergencias, aunque importante, no es suficiente.  Señala el aumento en la frecuencia e intensidad de las inundaciones, citando ejemplos en Maryland y Kentucky.  La solución propuesta se centra en reducir la vulnerabilidad humana, principalmente evitando nuevas construcciones en llanuras de inundación y reubicando viviendas de zonas de alto riesgo.  Se enfatiza la importancia de proteger los espacios naturales que absorben el agua y la necesidad de políticas de zonificación adecuadas para limitar la construcción en áreas propensas a inundaciones, presentando esto como la opción más económica para prevenir daños futuros.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión clara y argumentada sobre la necesidad de cambiar las políticas de construcción para mitigar el riesgo de inundaciones.  Su enfoque es analítico y propone soluciones concretas, lo que lo convierte en un ensayo de opinión bien estructurado y relevante."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Trolling Democracy",
+      "link": "https://www.nytimes.com/2025/07/10/opinion/trolling-democracy.html",
+      "fecha_obj": "2025-07-12T18:13:18+00:00",
+      "fecha_str": "12-07-2025 18:13 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Groyper: ¿Rebelión juvenil o amenaza a la democracia?",
+      "resumen": "El artículo analiza el movimiento Groyper, liderado por Nick Fuentes, que utiliza tácticas de trolling y contenido atractivo para reclutar jóvenes, especialmente hombres, desilusionados con la política tradicional.  Su agenda, similar al nacionalismo populista, se centra en el resentimiento hacia las élites y promueve un nacionalismo nativista.  Los Groypers antagonizan a figuras conservadoras para impulsarlas hacia posiciones más extremistas, utilizando eventos como CPAC y participando en protestas como la del 6 de enero. Su éxito se debe a la capacidad de convertir una ideología tóxica en contenido digerible para la Generación Z, aprovechando las dinámicas de conflicto propias de internet.  El artículo destaca la preocupación por la influencia de este movimiento en la política estadounidense.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta un análisis profundo de un fenómeno político actual, ofreciendo una perspectiva crítica y argumentando sobre su impacto.  Su estructura, narrativa y análisis cualitativo lo hacen adecuado para un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Les grandes découvertes : 2013, la première lumière de l'Univers révélée",
+      "link": "https://www.sciencesetavenir.fr/espace/univers/les-grandes-decouvertes-2013-la-premiere-lumiere-de-l-univers-revelee_186735?xtor=RSS-9",
+      "fecha_obj": "2025-07-13T04:00:00+00:00",
+      "fecha_str": "13-07-2025 04:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La primera foto del universo, capturada por Planck, revela secretos sobre su composición y evolución.",
+      "resumen": "El artículo describe el fondo cósmico de microondas, la imagen más antigua del universo, obtenida por el satélite Planck. Esta imagen, que muestra el universo a los 380.000 años después del Big Bang, revela información crucial sobre su composición: 5% materia ordinaria, 27% materia oscura y 68% energía oscura.  Las variaciones de temperatura en la imagen, aunque mínimas, indican las concentraciones de materia que dieron origen a las galaxias.  El análisis de esta imagen también confirma la planitud del universo y permite la búsqueda de ondas gravitacionales primordiales.  En resumen, el fondo cósmico de microondas es una fuente invaluable de datos para comprender el origen y la evolución del universo.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre un descubrimiento científico de gran relevancia en cosmología y astrofísica, utilizando tecnología espacial avanzada para obtener y analizar datos.  Es altamente relevante para la categoría 'Ciencia y Tecnología' por su contenido científico, el uso de tecnología de punta y su impacto en la comprensión del universo."
     },
     "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "The 6 Best Prime Day Action Camera Deals for Thrill Seekers (2025)",
-      "link": "https://www.wired.com/gallery/prime-day-deals-on-action-cameras-2025-2/",
-      "fecha_obj": "2025-07-12T00:29:48+00:00",
-      "fecha_str": "12-07-2025 00:29 UTC",
-      "source_name": "Wired"
+      "titulo": "Planète 9 : après la théorie, l'heure de l'observation",
+      "link": "https://www.sciencesetavenir.fr/espace/systeme-solaire/apres-la-theorie-l-heure-de-l-observation_186783?xtor=RSS-9",
+      "fecha_obj": "2025-07-12T16:00:00+00:00",
+      "fecha_str": "12-07-2025 16:00 UTC",
+      "source_name": "Sciences et Avenir"
     },
     "resumen_datos": {
-      "teaser_sentence": "Ofertas increíbles de cámaras de acción en el Prime Day 2025 para aventureros.",
-      "resumen": "El artículo destaca las seis mejores ofertas de cámaras de acción disponibles durante el Prime Day 2025.  Se enfoca en cámaras versátiles aptas para diversos usos, desde viajes hasta deportes extremos.  La selección incluye opciones compactas ideales para llevar a cualquier parte y modelos robustos para actividades de alto impacto. Se menciona la actualización del artículo con la inclusión de la GoPro Hero 12 y la verificación de precios.  Se recomienda consultar otras ofertas del Prime Day para una mayor variedad de opciones.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo trata sobre tecnología, específicamente cámaras de acción, y sus ofertas en una fecha comercial relevante.  La alta puntuación se debe a su enfoque en un producto tecnológico y su relación con las tendencias de consumo."
+      "teaser_sentence": "El observatorio Vera-Rubin podría confirmar la existencia del Planeta 9, un gigante helado oculto en nuestro Sistema Solar.",
+      "resumen": "La posibilidad de un noveno planeta en nuestro sistema solar ha generado un debate entre los astrónomos.  Observaciones de objetos transneptunianos extremos (OTNE) sugieren la influencia gravitatoria de un cuerpo masivo, apodado \"Planeta 9\", aunque algunos cuestionan la significancia estadística de estas observaciones.  El nuevo observatorio Vera-Rubin, con su potente cámara,  iniciará observaciones en 2026, ofreciendo datos cruciales para confirmar o refutar la existencia del Planeta 9 y su posible origen,  que se estima se formó junto a Urano y Neptuno, siendo posteriormente desplazado por interacciones gravitacionales.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre un descubrimiento científico de gran relevancia en el campo de la astronomía, utilizando tecnología de punta para la observación espacial.  La búsqueda del Planeta 9 y el uso del observatorio Vera-Rubin son temas altamente relevantes para la categoría 'Ciencia y Tecnología'."
     },
     "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "14 Best Prime Day TV Deals for All Budgets (2025)",
-      "link": "https://www.wired.com/story/prime-day-tv-deals-july-2025-3/",
-      "fecha_obj": "2025-07-11T23:28:46+00:00",
-      "fecha_str": "11-07-2025 23:28 UTC",
+      "titulo": "20% Off HP Coupon Code | July 2025",
+      "link": "https://www.wired.com/story/hp-coupon-code/",
+      "fecha_obj": "2025-07-13T05:00:00+00:00",
+      "fecha_str": "13-07-2025 05:00 UTC",
       "source_name": "Wired"
     },
     "resumen_datos": {
-      "teaser_sentence": "Prime Day 2025: ¡Las mejores ofertas en televisores para todos los presupuestos!",
-      "resumen": "WIRED presenta su selección de las mejores ofertas de televisores durante el Prime Day 2025.  Se destacan modelos OLED de LG (series C y G), Samsung (S95D y QN90D), Sony (Bravia A95L y Bravia 8 II), TCL (QM6K y QM8K), Roku Pro Series y Panasonic Z95A. La guía incluye opciones para diferentes necesidades y presupuestos, considerando aspectos como calidad de imagen, rendimiento en juegos, brillo, y compatibilidad HDR.  Se ofrecen reseñas con puntuaciones y se recomienda revisar la lista constantemente, ya que las ofertas se actualizan.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "El artículo trata sobre tecnología de consumo (televisores),  analizando características técnicas, precios y marcas.  Su relevancia es alta en la categoría 'Ciencia y Tecnología', aunque se centra en un producto específico y no en avances científicos."
+      "teaser_sentence": "Ahorra hasta un 61% en tecnología HP: ¡Ofertas, cupones y descuentos para estudiantes y militares!",
+      "resumen": "El artículo detalla diversas promociones y descuentos de HP para julio de 2025.  Se destacan ofertas en monitores (HP Omen Transcend 32 y HP V27i G5), computadoras (EliteBook 860, ProBook, OmniBook Ultra Flip, ProBook 460 G11, EliteBook G11, Envy 17, Pavillion), y PCs para gaming (Victus, Omen).  Se ofrecen descuentos especiales para estudiantes, militares, personal de salud y primeros respondedores (40%),  un descuento de $20 para nuevos clientes con suscripción al newsletter y promociones adicionales como paquetes con impresoras y juegos gratis.  Las ofertas incluyen descuentos de hasta el 61% durante el Black Friday en julio y ofertas semanales rotativas.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo se centra en productos tecnológicos (computadoras, monitores, impresoras) y sus promociones, lo que lo hace altamente relevante para la categoría 'Ciencia y Tecnología'. La información sobre descuentos y ofertas es de interés para los consumidores de tecnología."
     },
     "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "Apocalypse in the Tropics to Clipse: the week in rave reviews",
-      "link": "https://www.theguardian.com/culture/2025/jul/12/apocalypse-in-the-tropics-to-clipse-the-week-in-rave-reviews",
-      "fecha_obj": "2025-07-12T05:00:04+00:00",
-      "fecha_str": "12-07-2025 05:00 UTC",
-      "source_name": "The Guardian Culture"
+      "titulo": "Timekettle T1 Handheld Translator Review: Global Offline Translation",
+      "link": "https://www.wired.com/review/timekettle-t1-handheld-translator/",
+      "fecha_obj": "2025-07-12T13:00:00+00:00",
+      "fecha_str": "12-07-2025 13:00 UTC",
+      "source_name": "Wired"
     },
     "resumen_datos": {
-      "teaser_sentence": "Reseñas de cine, música, libros y TV: desde documentales impactantes hasta álbumes esperados.",
-      "resumen": "El artículo presenta reseñas de diversas obras culturales, incluyendo los documentales 'Apocalypse in the Tropics' sobre el auge del fundamentalismo en Brasil, y 'Poisoned: Killer in the Post' sobre un caso de muertes por envenenamiento.  En cine, destacan 'The Other Way Around', una comedia española, y el clásico argentino 'Nine Queens'. En música, se elogia el regreso de Clipse con 'Let God Sort Em Out', y el nuevo álbum de Wet Leg, 'Moisturizer'.  Las reseñas de libros incluyen una colección de cuentos de Liadan Ní Chuinn y la autobiografía de Kevin Rowland. La variedad abarca desde dramas intensos hasta comedias y reflexiones sobre política y cultura.",
+      "teaser_sentence": "Traductor Timekettle T1: Traducción global en tiempo real, incluso sin conexión.",
+      "resumen": "El Timekettle T1 es un traductor portátil con una interfaz sencilla e intuitiva.  Su principal característica es la traducción simultánea con un sistema de botones de un solo clic para cada idioma, ofreciendo traducción de voz y texto.  Funciona con una tarjeta SIM global 4G para traducción online, pero también permite la traducción offline.  Su diseño compacto y fácil uso lo hacen una alternativa atractiva a las apps de traducción, aunque requiere pausas para una traducción óptima.",
       "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo cubre ampliamente diversas expresiones culturales: cine, música, literatura y televisión, ofreciendo reseñas detalladas y críticas. Su enfoque en la calidad artística y cultural de las obras lo hace altamente relevante para la categoría."
+      "relevancia_justificacion": "El artículo describe un dispositivo tecnológico innovador en el campo de la traducción, con características relevantes en ciencia y tecnología como la traducción en tiempo real, la conectividad 4G y la capacidad de funcionar sin conexión a internet."
     },
-    "categoria": "cultura_arte"
+    "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "How being crushed by a 14,000lb snowplough made Jeremy Renner a nicer person: ‘I’ve never been more vulnerable, open and loving’",
-      "link": "https://www.theguardian.com/film/2025/jul/12/jeremy-renner-snowplough-avengers-hawkeye",
-      "fecha_obj": "2025-07-12T06:00:06+00:00",
-      "fecha_str": "12-07-2025 06:00 UTC",
-      "source_name": "The Guardian Culture"
+      "titulo": "10 Best Android Phones of 2025, Tested and Reviewed",
+      "link": "https://www.wired.com/gallery/best-android-phones/",
+      "fecha_obj": "2025-07-12T12:07:00+00:00",
+      "fecha_str": "12-07-2025 12:07 UTC",
+      "source_name": "Wired"
     },
     "resumen_datos": {
-      "teaser_sentence": "Jeremy Renner, tras casi morir aplastado, encuentra un nuevo propósito en la vida y comparte su experiencia en un emotivo libro.",
-      "resumen": "Jeremy Renner, actor conocido por sus papeles en 'The Avengers' y 'Mission: Impossible', sufrió un accidente casi fatal al ser aplastado por una quitanieves.  Su experiencia cercana a la muerte, descrita en su libro 'My Next Breath', lo llevó a una profunda reflexión sobre la vida, la familia y la importancia de las relaciones humanas. El accidente transformó su perspectiva, haciéndolo más vulnerable, abierto y amoroso.  Renner aborda también en el libro las controversias de su vida personal, incluyendo su divorcio y las acusaciones en su contra, mostrando un arrepentimiento por su pasado y un deseo de cambio. Ahora, su enfoque principal se centra en su hija y en su fundación RennerVation, dedicada a ayudar a niños en riesgo.",
-      "relevancia_score": 7,
-      "relevancia_justificacion": "Si bien el artículo se centra en la vida personal del actor, su experiencia y el libro resultante tienen implicaciones culturales. La narrativa explora temas universales de mortalidad, redención y autodescubrimiento, conectando con la audiencia a un nivel emocional y ofreciendo una perspectiva sobre la fama y su impacto en la psique humana."
+      "teaser_sentence": "Los mejores teléfonos Android de 2025: análisis y reseñas de los modelos más destacados.",
+      "resumen": "El artículo revisa diez de los mejores teléfonos Android de 2025, incluyendo los Google Pixel 9, Samsung Galaxy S25 Edge, Nothing Phone (3a) y (3a) Pro, Samsung Galaxy S24 FE, Motorola Moto G Power 2025, Asus ROG Phone 9, y Minimal Phone.  Se destacan sus características, precios y puntos fuertes y débiles.  También se incluyen recomendaciones de accesorios como cargadores, protectores de pantalla y baterías portátiles. La reseña compara modelos de diferentes rangos de precios, desde opciones económicas hasta teléfonos insignia para jugadores. Se enfatiza la importancia de considerar las necesidades individuales al elegir un teléfono.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo se centra en la evaluación de teléfonos inteligentes Android, un tema altamente relevante dentro de la categoría 'Ciencia y Tecnología'.  Analiza aspectos técnicos, innovaciones y especificaciones de los dispositivos, ofreciendo una perspectiva informada al lector."
     },
-    "categoria": "cultura_arte"
+    "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "TV tonight: who was the real Jayne Mansfield? Her daughter tells all",
-      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/12/tv-tonight-jayne-mansfield-documentary",
-      "fecha_obj": "2025-07-12T05:15:01+00:00",
-      "fecha_str": "12-07-2025 05:15 UTC",
+      "titulo": "London artworks celebrating Windrush generation restored after vandalism",
+      "link": "https://www.theguardian.com/uk-news/2025/jul/13/london-artworks-celebrating-windrush-generation-restored-after-vandalism",
+      "fecha_obj": "2025-07-13T07:00:34+00:00",
+      "fecha_str": "13-07-2025 07:00 UTC",
       "source_name": "The Guardian Culture"
     },
     "resumen_datos": {
-      "teaser_sentence": "Descubre la verdadera Jayne Mansfield y la programación televisiva del día, desde documentales conmovedores hasta emocionantes partidos deportivos.",
-      "resumen": "El artículo presenta la programación televisiva del día, destacando el documental 'My Mom Jayne', que explora la vida de Jayne Mansfield más allá de su imagen de sex symbol, a través de los ojos de su hija.  También incluye información sobre la transmisión de 'Live Aid at 40', 'Love Island: Unseen Bits', episodios de 'Not Going Out' y 'Suspicion', y el documental 'From the Ground Up'.  En cuanto a cine, se recomiendan 'Oppenheimer' y 'A Man Called Otto'. Finalmente, se anuncia la cobertura deportiva de la Tour de France, Wimbledon, y partidos de cricket y rugby.",
-      "relevancia_score": 7,
-      "relevancia_justificacion": "Si bien el artículo abarca varios temas, la reseña de 'My Mom Jayne' y la mención de 'Oppenheimer' aportan un valor cultural significativo.  La programación deportiva y las comedias de situación disminuyen la relevancia exclusiva para la categoría 'Cultura y Arte'."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "Shark! Celebrity Infested Waters: I’m absolutely hooked by this cheeky, danger-packed reality show",
-      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/12/shark-celebrity-infested-waters-reality-show-lenny-henry-rachel-riley",
-      "fecha_obj": "2025-07-12T06:00:03+00:00",
-      "fecha_str": "12-07-2025 06:00 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Celebridades con miedo a los tiburones se enfrentan a sus terrores en un reality show lleno de acción y humor.",
-      "resumen": "El artículo reseña el programa \"Shark! Celebrity Infested Waters\", donde celebridades con fobia a los tiburones interactúan con ellos.  Se destaca el humor y la tensión generados por la experiencia, contrastando el deseo del público por ver el peligro con la necesidad del programa de educar sobre la importancia de los tiburones.  Se mencionan las reacciones de los participantes, especialmente la de Helen George, cuya experiencia de miedo genuino conmueve al autor. El artículo concluye que el programa satisface la necesidad humana de confrontar fuerzas abrumadoras, sin menospreciar la importancia de la protección marina.",
-      "relevancia_score": 4,
-      "relevancia_justificacion": "Si bien el artículo trata un programa de televisión, su enfoque principal es la reseña crítica del mismo y no un análisis profundo de aspectos culturales o artísticos. La mención de la cultura popular es tangencial a la evaluación del show."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "My cultural awakening: I joined Danny Wallace’s accidental positivity cult – and found the love of my life",
-      "link": "https://www.theguardian.com/culture/2025/jul/12/my-cultural-awakening-danny-wallace-join-me-book",
-      "fecha_obj": "2025-07-12T06:00:02+00:00",
-      "fecha_str": "12-07-2025 06:00 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Un grupo de positividad online une a dos personas, cambiando sus vidas para siempre.",
-      "resumen": "Tras no lograr entrar a la universidad, la autora descubre el libro \"Join Me\" de Danny Wallace, un proyecto que fomenta la positividad y actos de bondad.  A través de foros online y reuniones del grupo, conoce a su futuro esposo.  Inicialmente, una interacción torpe en un foro online evoluciona en una relación, matrimonio y familia.  La autora destaca el impacto positivo del grupo en su vida, encontrando el amor y una nueva dirección, dejando de lado su plan inicial de ir a la universidad.",
-      "relevancia_score": 4,
-      "relevancia_justificacion": "Si bien la historia tiene elementos culturales (la participación en un grupo en línea y el impacto en la vida de la autora), su enfoque principal es una historia personal de amor y superación, más que un análisis cultural o artístico."
+      "teaser_sentence": "Tras un ataque vandálico, obras de arte que celebran a la generación Windrush en Brixton son restauradas gracias a la solidaridad global.",
+      "resumen": "Una exhibición de retratos en Windrush Square, Brixton, conmemorando a la generación Windrush, fue vandalizada el 3 de julio.  Los retratos, parte de la exposición \"Windrush Untold Stories\", sufrieron daños por cortes y pintura.  La respuesta mundial fue abrumadora, con donaciones para la restauración a través de una campaña de GoFundMe.  A pesar de no alcanzar la meta, la restauración se completó con un préstamo, extendiendo la exhibición.  La policía arrestó a un sospechoso, aunque descartó inicialmente la motivación racial. La exhibición, un proyecto conjunto de grupos comunitarios, destaca la resiliencia y el legado de la generación Windrush.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata directamente sobre una exhibición de arte, su vandalismo y posterior restauración.  La historia destaca el valor cultural de la exposición y la respuesta comunitaria, encajando perfectamente en la categoría 'Cultura Arte'."
     },
     "categoria": "cultura_arte"
   }
