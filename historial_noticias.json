@@ -1,338 +1,258 @@
 [
   {
     "info": {
-      "titulo": "«Je suis déçu, mais je n’en ai pas fini avec lui» : Donald Trump exprime sa frustration envers Vladimir Poutine",
-      "link": "https://www.lefigaro.fr/international/je-suis-decu-mais-je-n-en-ai-pas-fini-avec-lui-donald-trump-exprime-sa-frustration-envers-vladimir-poutine-20250715",
-      "fecha_obj": "2025-07-15T06:49:24+00:00",
-      "fecha_str": "15-07-2025 06:49 UTC",
+      "titulo": "Guerre en Ukraine : au moins onze blessés dans des attaques russes nocturnes",
+      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-au-moins-onze-blesses-dans-des-attaques-russes-nocturnes-20250716",
+      "fecha_obj": "2025-07-16T07:17:06+00:00",
+      "fecha_str": "16-07-2025 07:17 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Trump expresa decepción con Putin, pero no descarta el diálogo, pese a las continuas agresiones rusas en Ucrania.",
-      "resumen": "En una entrevista exclusiva con la BBC, Donald Trump manifestó su decepción con Vladimir Putin por la guerra en Ucrania, a pesar de haber creído en la posibilidad de un acuerdo.  Si bien criticó duramente al presidente ruso y anunció el envío de nuevas armas a Ucrania, Trump aseguró que no ha terminado con el diálogo.  También reiteró su apoyo a la OTAN, describiéndola como fortalecida, y anunció una próxima visita de Estado a Reino Unido.  La entrevista sigue a una reunión con el secretario general de la OTAN, Mark Rutte, y una conferencia de prensa en la Casa Blanca donde Trump amenazó con imponer aranceles a los aliados de Rusia si no se logra un alto el fuego.",
+      "teaser_sentence": "Ataques rusos nocturnos dejan 11 heridos en Ucrania, impactando Vinnytsia, Kharkiv y Kryvyï Rig.",
+      "resumen": "Ataques aéreos rusos en varias regiones ucranianas dejaron al menos 11 heridos.  En Vinnytsia, 28 drones impactaron instalaciones industriales, dejando 7 heridos, dos con quemaduras graves.  Kharkiv reportó 3 heridos, y Kryvyï Rig, impactada por un misil y 28 drones Shahed, sufrió un herido grave, un adolescente de 17 años.  Estos ataques son parte de la ofensiva rusa iniciada en febrero de 2022, con ataques casi diarios a ciudades ucranianas.  El contexto incluye la reciente promesa de Estados Unidos de apoyo militar a Ucrania y un llamado a Rusia para que termine el conflicto.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "La noticia trata sobre las relaciones entre Estados Unidos y Rusia en el contexto de la guerra en Ucrania, un tema de máxima relevancia internacional.  Las declaraciones de Trump, incluyendo sus acciones y amenazas, tienen un impacto global significativo."
+      "relevancia_justificacion": "El artículo trata sobre un conflicto bélico internacional, reportando ataques de un país a otro, incluyendo víctimas civiles y la implicación de potencias mundiales.  Es altamente relevante para la categoría 'Internacional'."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "En Syrie, les forces gouvernementales syriennes commencent à entrer à Souweïda, dans le sud du pays",
-      "link": "https://www.lemonde.fr/international/article/2025/07/15/en-syrie-les-forces-gouvernementales-syriennes-vont-entrer-a-souweida-dans-le-sud-du-pays_6621334_3210.html",
-      "fecha_obj": "2025-07-15T06:39:52+00:00",
-      "fecha_str": "15-07-2025 06:39 UTC",
-      "source_name": "Le Monde International"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "El ejército sirio interviene en Souweida tras enfrentamientos entre druzos y beduinos, generando tensión con Israel.",
-      "resumen": "Las fuerzas gubernamentales sirias ingresaron a Souweida, ciudad del sur con mayoría drusa, tras dos días de enfrentamientos entre druzos y beduinos que dejaron un centenar de muertos.  Los enfrentamientos comenzaron tras el secuestro de un comerciante druso.  Los líderes druzos apoyaron la entrada del ejército, pidiendo a sus miembros que depusieran las armas.  Israel, tras realizar ataques aéreos contra fuerzas gubernamentales, advirtió que no permitirá la presencia militar en el sur de Siria, alegando la protección de la comunidad drusa.  La intervención militar se produce en un contexto de inestabilidad política tras el derrocamiento de Bashar al-Assad en diciembre de 2024.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata sobre un conflicto armado internacional en Siria, involucrando a fuerzas gubernamentales, grupos internos y un país extranjero (Israel).  La intervención militar, las consecuencias humanitarias y la implicación de un actor internacional lo hacen altamente relevante para la categoría 'Internacional'."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Australian Premier Albanese Meets China’s Xi in Beijing",
-      "link": "https://www.nytimes.com/2025/07/15/world/asia/china-australia-trade-security.html",
-      "fecha_obj": "2025-07-15T06:39:29+00:00",
-      "fecha_str": "15-07-2025 06:39 UTC",
+      "titulo": "Iceland Volcano Erupts Again but Doesn’t Threaten Towns",
+      "link": "https://www.nytimes.com/2025/07/16/world/europe/iceland-volcano-eruption.html",
+      "fecha_obj": "2025-07-16T07:06:32+00:00",
+      "fecha_str": "16-07-2025 07:06 UTC",
       "source_name": "The New York Times World"
     },
     "resumen_datos": {
-      "teaser_sentence": "Albanese visita China buscando fortalecer lazos comerciales, mientras equilibra presiones de EEUU.",
-      "resumen": "El primer ministro australiano, Anthony Albanese, se reunió con el líder chino, Xi Jinping, en Beijing.  Albanese busca fortalecer los lazos comerciales con China, principal socio comercial de Australia,  sin dejar de lado las presiones estadounidenses para contrarrestar la influencia militar china en la región Asia-Pacífico.  Ambos líderes expresaron su voluntad de mejorar las relaciones bilaterales.  Albanese también se reunió con el primer ministro Li Qiang y viajó con ejecutivos de sectores clave australianos,  destacando la importancia económica del encuentro. China importa aproximadamente un tercio de las exportaciones australianas.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "La reunión entre los líderes de Australia y China es un evento de alta relevancia internacional,  afectando las relaciones entre dos potencias importantes y el equilibrio geopolítico en la región Asia-Pacífico."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "En Cisjordanie, les chrétiens de Taybeh sont excédés par les violences des colons",
-      "link": "https://www.lefigaro.fr/international/en-cisjordanie-les-chretiens-de-taybeh-sont-excedes-par-les-violences-des-colons-20250715",
-      "fecha_obj": "2025-07-15T07:13:38+00:00",
-      "fecha_str": "15-07-2025 07:13 UTC",
-      "source_name": "Le Figaro"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Colonos israelíes atacan repetidamente Taybeh, el último pueblo cristiano de Cisjordania, destruyendo propiedades y amenazando la paz.",
-      "resumen": "El pueblo cristiano de Taybeh, en Cisjordanie, sufre ataques constantes por parte de colonos israelíes.  Estos ataques incluyen incendios criminales, destrucción de campos e intimidaciones.  Recientemente, un incendio afectó la iglesia de San Jorge y el cementerio. Representantes de diversas iglesias, incluyendo la griega ortodoxa, católica y otras, visitaron Taybeh para expresar su solidaridad y denunciar la violencia.  Describen la situación como un peligro para la seguridad y una profanación de lugares sagrados. La visita busca llamar la atención internacional sobre la situación y exigir el fin de las agresiones.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El conflicto entre israelíes y palestinos es un tema de relevancia internacional.  El ataque a un pueblo cristiano en Cisjordania destaca la complejidad del conflicto y sus implicaciones para la paz y la seguridad en la región."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "«Sous le choc» : les Aborigènes du détroit de Torres perdent un procès sur le climat contre le gouvernement australien",
-      "link": "https://www.lefigaro.fr/sciences/sous-le-choc-les-aborigenes-du-detroit-de-torres-perdent-un-proces-sur-le-climat-contre-le-gouvernement-australien-20250715",
-      "fecha_obj": "2025-07-15T07:07:49+00:00",
-      "fecha_str": "15-07-2025 07:07 UTC",
-      "source_name": "Le Figaro"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Aborígenes del estrecho de Torres pierden demanda climática contra Australia; gobierno criticado por objetivos insuficientes.",
-      "resumen": "Un grupo de aborígenes del estrecho de Torres perdió una demanda histórica contra el gobierno australiano por la inacción climática.  Tras cuatro años de litigio, la Corte Federal dictaminó que los objetivos de reducción de emisiones, aunque insuficientes según el juez, no causarían un aumento perceptible de la temperatura global.  A pesar de la derrota, el fallo critica al gobierno por no basar sus objetivos en la mejor evidencia científica disponible. La sentencia deja a los isleños, amenazados por la subida del mar, con incertidumbre sobre su futuro y desolación por la decisión judicial.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El caso tiene relevancia internacional por involucrar una demanda climática contra un gobierno, destacando la vulnerabilidad de poblaciones isleñas al cambio climático y la creciente presión legal sobre países para acciones climáticas más ambiciosas.  El impacto global del fallo y la crítica al gobierno australiano lo hacen relevante a nivel internacional."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Tren de Aragua en Chile: sistema financiero no emitió alertas preventivas por miles de operaciones para lavar dinero",
-      "link": "https://www.ciperchile.cl/2025/07/14/tren-de-aragua-en-chile-sistema-financiero-no-emitio-alertas-preventivas-por-miles-de-operaciones-para-lavar-dinero/?utm_source=rss&utm_medium=rss&utm_campaign=tren-de-aragua-en-chile-sistema-financiero-no-emitio-alertas-preventivas-por-miles-de-operaciones-para-lavar-dinero",
-      "fecha_obj": "2025-07-14T22:47:58+00:00",
-      "fecha_str": "14-07-2025 22:47 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "El Tren de Aragua lavó millones en Chile, pero el sistema financiero falló al no emitir alertas tempranas.",
-      "resumen": "Una investigación desmanteló una red de lavado de activos del Tren de Aragua en Chile, que movió más de US\\u002413.5 millones.  A pesar de miles de transacciones sospechosas, ningún banco emitió reportes, y la UAF solo actuó tras la investigación judicial.  Se identificaron 14 sociedades vinculadas a la red, muchas con un mismo contador chileno. El sistema financiero chileno presenta falencias: falta un registro único de beneficiarios finales, los contadores no reportan sospechas, y el levantamiento del secreto bancario es ineficiente. Especialistas señalan la necesidad de mejorar la prevención y detección de lavado de activos.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata sobre una investigación de lavado de dinero de una organización criminal en Chile, con implicaciones para el sistema financiero y la seguridad nacional.  Es de alta relevancia nacional por su impacto económico y en la seguridad pública."
-    },
-    "categoria": "nacional"
-  },
-  {
-    "info": {
-      "titulo": "Arancel al cobre, un nuevo desafío para Chile",
-      "link": "https://www.ciperchile.cl/2025/07/14/arancel-al-cobre-un-nuevo-desafio-para-chile/?utm_source=rss&utm_medium=rss&utm_campaign=arancel-al-cobre-un-nuevo-desafio-para-chile",
-      "fecha_obj": "2025-07-14T16:15:48+00:00",
-      "fecha_str": "14-07-2025 16:15 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Arancel estadounidense al cobre: ¿amenaza o oportunidad para la economía chilena?",
-      "resumen": "Un artículo de CIPER analiza el impacto del anunciado arancel del 50% al cobre impuesto por Estados Unidos. Si bien el impacto a corto plazo podría ser un alza transitoria en el precio y las exportaciones,  a mediano plazo se espera un ajuste a la baja de las importaciones estadounidenses y un encarecimiento de la cadena productiva en ese país.  El efecto en la economía chilena se considera acotado, aunque negativo, afectando principalmente la inversión minera.  El artículo debate la posibilidad de negociación con EE.UU., la influencia del acercamiento de Chile a los BRICS, y la necesidad de diversificación comercial para Chile ante la creciente incertidumbre global.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata un tema de vital importancia para la economía chilena, el impacto de una medida arancelaria estadounidense sobre su principal producto de exportación, afectando directamente al PIB, la inversión y las relaciones comerciales internacionales del país."
-    },
-    "categoria": "nacional"
-  },
-  {
-    "info": {
-      "titulo": "Blindaje Institucional: la necesaria y urgente agenda de integridad en seguridad pública ciudadana",
-      "link": "https://www.ciperchile.cl/2025/07/14/blindaje-institucional-la-necesaria-y-urgente-agenda-de-integridad-en-seguridad-publica-ciudadana/?utm_source=rss&utm_medium=rss&utm_campaign=blindaje-institucional-la-necesaria-y-urgente-agenda-de-integridad-en-seguridad-publica-ciudadana",
-      "fecha_obj": "2025-07-14T08:00:12+00:00",
-      "fecha_str": "14-07-2025 08:00 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "El crimen organizado penetra las instituciones chilenas, exigiendo un urgente blindaje institucional para proteger la seguridad pública.",
-      "resumen": "El artículo analiza la preocupante infiltración del narcotráfico en instituciones chilenas, como Aduanas, Carabineros y Gendarmería.  Se evidencia a través de reportes de CIPER y ejemplos concretos como la detención de funcionarios militares transportando drogas.  Los autores proponen un \"blindaje institucional\",  con medidas como fortalecer tecnológicamente a instituciones clave (SII, Ministerio Público, UAF), aprobar leyes para rastrear dinero ilícito,  incrementar la probidad de funcionarios municipales, y mejorar los sistemas de información estatales.  Se enfatiza la necesidad de controles cruzados y la prevención, más allá de medidas policiales o punitivas.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo aborda un problema crítico de seguridad nacional en Chile: la penetración del crimen organizado en las instituciones del Estado.  Su análisis y propuestas de solución son de vital importancia para la discusión pública y la política nacional."
-    },
-    "categoria": "nacional"
-  },
-  {
-    "info": {
-      "titulo": "Matrículas abiertas para el Diplomado de Periodismo de Investigación CIPER-UDP 2025",
-      "link": "https://www.ciperchile.cl/2025/07/14/matriculas-abiertas-para-el-diplomado-de-periodismo-de-investigacion-ciper-udp-2025-2/?utm_source=rss&utm_medium=rss&utm_campaign=matriculas-abiertas-para-el-diplomado-de-periodismo-de-investigacion-ciper-udp-2025-2",
-      "fecha_obj": "2025-07-14T20:47:22+00:00",
-      "fecha_str": "14-07-2025 20:47 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Diplomado de Periodismo de Investigación CIPER-UDP 2025: ¡Inscripciones abiertas! Domina las herramientas para investigar a fondo.",
-      "resumen": "El Diplomado de Periodismo de Investigación CIPER-UDP abre sus inscripciones para la versión 2025.  Se impartirá online, los lunes y viernes de 18:30 a 21:30 horas, desde el 8 de agosto de 2025 hasta el 5 de enero de 2026.  El programa, dictado por destacados académicos y periodistas, se centra en tres ejes:  herramientas de búsqueda avanzada, métodos de ciencias sociales aplicados al periodismo y un mapa del poder para comprender las relaciones entre los poderes públicos y privados.  La admisión requiere completar una ficha de postulación, enviar documentos y una carta de intención. El arancel es de $1.500.000 más matrícula de $150.000, con opciones de pago flexibles.  Se ofrecen descuentos sujetos a disponibilidad.",
+      "teaser_sentence": "Volcán islandés entra en erupción, pero no amenaza a las poblaciones cercanas.",
+      "resumen": "Un volcán hizo erupción en Islandia el miércoles por la mañana, marcando la duodécima erupción en cuatro años para un sistema volcánico cerca de Reikiavik.  A pesar de una columna de humo gris, la erupción emitió poca lava y no representó una amenaza para personas o infraestructura, según el secretario general de la Cruz Roja islandesa. La erupción comenzó a las 3:56 a.m., horas después de una serie de terremotos en la zona del cráter Sundhnukur, ubicado entre Grindavik y la Laguna Azul.  Las autoridades islandesas evacuaron preventivamente tanto Grindavik como la Laguna Azul antes de la erupción.",
       "relevancia_score": 8,
-      "relevancia_justificacion": "El diplomado se enfoca en el periodismo de investigación en Chile, un tema de relevancia nacional al abordar temas de transparencia, poder y relaciones entre el sector público y privado.  La formación de periodistas en estas áreas contribuye directamente al debate público y la fiscalización del poder en el país."
+      "relevancia_justificacion": "La erupción volcánica en Islandia es un evento geológico significativo con potencial impacto internacional debido al turismo y la geografía de la zona. Aunque no hubo daños, la noticia tiene relevancia global por su naturaleza inusual y la preocupación que genera."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Budget 2026 : le gouvernement prévoit 29 milliards d'euros d'augmentation des dépenses publiques",
+      "link": "https://www.lefigaro.fr/conjoncture/budget-2026-le-gouvernement-prevoit-29-milliards-d-euros-d-augmentation-des-depenses-publiques-20250716",
+      "fecha_obj": "2025-07-16T06:55:11+00:00",
+      "fecha_str": "16-07-2025 06:55 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Francia planea un aumento de 29 mil millones de euros en gasto público para 2026, a pesar de objetivos de ahorro.",
+      "resumen": "El gobierno francés proyecta un gasto público de 1722 mil millones de euros para 2026, un aumento de 29 mil millones respecto a 2025.  A pesar de este incremento, se considera un esfuerzo de moderación, ya que sin medidas de contención el gasto habría ascendido a 1752 mil millones.  El plan incluye aumentos en Defensa y algunas áreas, pero recortes en otras como solidaridad e inserción.  El gobierno busca un ahorro total de 43 mil millones a través de recortes y aumento de ingresos. La ministra de cuentas públicas lo define como un presupuesto de \"ralentización de gastos\".",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "La noticia afecta la economía de un país importante a nivel internacional, impactando políticas públicas y decisiones financieras a gran escala.  Su alcance trasciende las fronteras francesas."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Suppression de deux jours fériés : «Le premier ministre est très ouvert» sur les dates, déclare la ministre du Travail",
+      "link": "https://www.lefigaro.fr/conjoncture/en-direct-budget-2026-la-cure-budgetaire-draconienne-de-bayrou-deja-rejetee-par-les-oppositions-20250716",
+      "fecha_obj": "2025-07-16T07:07:03+00:00",
+      "fecha_str": "16-07-2025 07:07 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Francia busca 44.000 millones de euros en ahorros, incluyendo la posible supresión de festivos.",
+      "resumen": "El debate presupuestario en Francia incluye medidas para lograr 44.000 millones de euros en ahorros.  Charles de Courson, diputado y relator general del presupuesto, critica que 14.000 millones provengan del aumento de impuestos, incluyendo la posible eliminación de días festivos,  mientras que se prevén 20.000 millones adicionales en gastos (intereses de la deuda, defensa y contribuciones a la UE).  De Courson aboga por reducir el gasto público en lugar de aumentar los impuestos, sugiriendo medidas simbólicas como ajustes en los salarios de ministros y parlamentarios.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien la noticia se centra en la política interna francesa, las medidas económicas y presupuestarias de un país como Francia tienen repercusiones internacionales, especialmente en la Unión Europea."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "«Les joueurs s’entraînaient avec la peur au ventre» : pourquoi Dunkerque a vu son «sulfureux» entraîneur partir au bout de trois semaines",
+      "link": "https://www.lefigaro.fr/sports/football/les-joueurs-s-entrainaient-avec-la-peur-au-ventre-pourquoi-dunkerque-a-vu-son-sulfureux-entraineur-partir-au-bout-de-trois-semaines-20250716",
+      "fecha_obj": "2025-07-16T07:19:16+00:00",
+      "fecha_str": "16-07-2025 07:19 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El entrenador del USL Dunkerque dimitió tras tres semanas por su estilo de liderazgo 'sulfuroso' que atemorizó a los jugadores.",
+      "resumen": "Gonçalo Feio, entrenador del USL Dunkerque, renunció a su cargo tras solo tres semanas. Su estilo de liderazgo rígido y agresivo, contrastando con el de su predecesor, generó miedo y malestar entre los jugadores.  Feio, con experiencia en la Liga de Conferencia, alegó que la Ligue 2 no estaba a su nivel. Sin embargo, Demba Ba, director deportivo, admitió que el management de Feio fue un problema.  El ambiente tenso y la comunicación agresiva del entrenador llevaron a su rápida salida, dejando al club en busca de un nuevo entrenador antes del comienzo de la temporada.  Mientras tanto, Benjamin Rytlewski asumió el cargo interinamente.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien la noticia trata de un entrenador portugués, el impacto se limita al ámbito deportivo francés.  No tiene repercusiones geopolíticas o internacionales más allá del fútbol."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Contienda de competencia entre la justicia militar y civil: una historia en tres tiempos con cambios urgentes",
+      "link": "https://www.ciperchile.cl/2025/07/15/la-justicia-militar-una-historia-en-tres-tiempos-con-cambios-urgentes/?utm_source=rss&utm_medium=rss&utm_campaign=la-justicia-militar-una-historia-en-tres-tiempos-con-cambios-urgentes",
+      "fecha_obj": "2025-07-15T08:00:18+00:00",
+      "fecha_str": "15-07-2025 08:00 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La justicia militar chilena enfrenta cuestionamientos por su competencia en delitos comunes, especialmente ante la infiltración del crimen organizado.",
+      "resumen": "El artículo analiza la histórica contienda de competencia entre la justicia militar y civil en Chile, revisando casos emblemáticos desde la dictadura hasta la actualidad. Se critica la parcialidad de la justicia militar en investigar delitos cometidos por miembros de las Fuerzas Armadas, especialmente en casos de crímenes comunes y de corrupción.  Se destaca la importancia de que la justicia civil investigue estos casos para prevenir el avance del crimen organizado dentro de las instituciones, como se evidencia en recientes casos de tráfico de drogas en la FACH y otras ramas.  El artículo finaliza cuestionando la insistencia de las Fuerzas Armadas en mantener su competencia en delitos comunes, argumentando que un órgano externo es necesario para garantizar imparcialidad.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El tema aborda una problemática crucial del sistema judicial chileno, con implicaciones directas en la seguridad nacional, la lucha contra el crimen organizado y la transparencia institucional.  Afectan directamente a la ciudadanía y generan un debate público de gran importancia."
     },
     "categoria": "nacional"
   },
   {
     "info": {
-      "titulo": "Disabled people want to live a full life. Instead, we’re forced to scrap over our right to food and a wash | Frances Ryan",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/15/britain-disabled-people-right-food-politics",
-      "fecha_obj": "2025-07-15T05:00:47+00:00",
-      "fecha_str": "15-07-2025 05:00 UTC",
+      "titulo": "Teenage pregnancy rates are a barometer of Britain’s progress. The tale they now tell is not reassuring | Polly Toynbee",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/16/britain-legacy-austerity-teenage-pregnancy",
+      "fecha_obj": "2025-07-16T07:00:40+00:00",
+      "fecha_str": "16-07-2025 07:00 UTC",
       "source_name": "The Guardian Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Personas discapacitadas luchan por derechos básicos, no por lujos; es hora de priorizar su derecho a vivir, no solo sobrevivir.",
-      "resumen": "Frances Ryan denuncia la constante lucha de las personas discapacitadas en Reino Unido por sus derechos básicos, incluso para comer y asearse.  Critica el discurso político y mediático que minimiza sus necesidades y culpabiliza a los discapacitados por el gasto en prestaciones.  Señala cómo la narrativa dominante reduce la discapacidad a la dependencia económica, ignorando las ambiciones y el talento de este colectivo. Ryan aboga por un cambio de enfoque, pasando de la mera supervivencia a una vida plena, incluyendo mejoras en accesibilidad, empleo y un aumento de las prestaciones para cubrir los costes adicionales de la discapacidad.  Finaliza recalcando que la empatía genuina, no el miedo a la propia vulnerabilidad, debe impulsar el cambio.",
+      "teaser_sentence": "El aumento de embarazos adolescentes en Reino Unido refleja el fracaso de políticas sociales conservadoras.",
+      "resumen": "El artículo analiza el incremento de embarazos adolescentes en Inglaterra y Gales, atribuyéndolo a la eliminación de programas sociales implementados por el gobierno laborista.  Estos programas abordaban múltiples factores como la pobreza infantil, la educación sexual, el acceso a anticonceptivos y el apoyo a jóvenes.  Su eliminación, según la autora, ha revertido los avances logrados, dejando a Reino Unido rezagado respecto a otros países.  Se destaca la importancia de una intervención integral para reducir las tasas de embarazos adolescentes y la necesidad de proteger los programas sociales de futuras políticas regresivas.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo es un ensayo de opinión que expresa un punto de vista claro y argumentado sobre la situación de las personas discapacitadas en Reino Unido, con ejemplos concretos y una propuesta de cambio social."
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la relación entre políticas sociales y tasas de embarazo adolescente, con datos y ejemplos concretos.  Se enmarca perfectamente en la categoría de 'Opinión Ensayo' por su análisis crítico y perspectiva subjetiva sobre un tema de interés público."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "I’m a Genocide Scholar. I Know It When I See It.",
-      "link": "https://www.nytimes.com/2025/07/15/opinion/israel-gaza-holocaust-genocide-palestinians.html",
-      "fecha_obj": "2025-07-15T05:00:07+00:00",
-      "fecha_str": "15-07-2025 05:00 UTC",
-      "source_name": "The New York Times Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Experto en genocidio ve indicios de genocidio en la respuesta israelí a Hamas en Gaza.",
-      "resumen": "Un experto en genocidio argumenta que las acciones militares israelíes en Gaza tras el ataque de Hamas en octubre de 2023, incluyendo el desplazamiento forzado de un millón de palestinos de Rafah y la destrucción de la ciudad, constituyen evidencia de genocidio.  Señala declaraciones de líderes israelíes que prometieron un \"precio enorme\" y la transformación de partes de Gaza en \"escombros\", interpretando estas como indicativas de una intención genocida.  La destrucción sistemática de Rafah y las declaraciones que equiparan a los palestinos con \"animales humanos\" o que llaman a la \"aniquilación total\", junto con la privación de recursos esenciales, sustentan la tesis de un intento de hacer inhabitable la Franja de Gaza para su población palestina.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo presenta una opinión argumentada y fundamentada sobre un tema de gran relevancia política e histórica, con análisis de hechos y declaraciones de figuras públicas.  Se ajusta perfectamente a la categoría de 'Opinion Ensayo' por su carácter analítico y su perspectiva subjetiva sustentada en evidencia."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "We Will Regret Not Standing Up to This Venomous Cruelty",
-      "link": "https://www.nytimes.com/2025/07/14/opinion/immigration-trump-ice-raids.html",
-      "fecha_obj": "2025-07-15T02:16:48+00:00",
-      "fecha_str": "15-07-2025 02:16 UTC",
-      "source_name": "The New York Times Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "La crueldad antiinmigrante en Estados Unidos requiere una respuesta contundente.",
-      "resumen": "El artículo reflexiona sobre la creciente hostilidad antiinmigrante en Estados Unidos, comparando la ley de Arizona de 2008 con las actuales políticas de deportación.  El autor recuerda una carta de un lector que pedía su despido por criticar la ley de Arizona,  y la relaciona con el actual clima político. Describe escenas de detenciones violentas e injustas en Los Ángeles, donde la presencia militar y la federalización de la Guardia Nacional han generado un clima de terror entre la población inmigrante.  El autor lamenta la pasividad ante la situación y hace un llamado a la acción.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El texto es un ensayo de opinión que expresa una postura crítica ante la política migratoria estadounidense, presentando argumentos, ejemplos y una clara tesis.  Su estilo reflexivo y la inclusión de experiencias personales lo hacen adecuado para la categoría."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "Women born in East Germany have lived between two worlds. That’s why we’re shaking up art and politics | Carolin Würfel",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/15/east-germany-women-art-politics-gdr",
-      "fecha_obj": "2025-07-15T04:00:48+00:00",
-      "fecha_str": "15-07-2025 04:00 UTC",
+      "titulo": "Trump isn't a reliable ally – but Nato dollars can be more persuasive than Putin's propaganda | Rafael Behr",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/16/donald-trump-ukraine-russia-nato-valdimir-putin",
+      "fecha_obj": "2025-07-16T05:00:38+00:00",
+      "fecha_str": "16-07-2025 05:00 UTC",
       "source_name": "The Guardian Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Dos mujeres alemanas del este rompen barreras en el mundo del arte, desafiando narrativas y reclamando una mirada crítica a la historia.",
-      "resumen": "El artículo narra las trayectorias de Kathleen Reinhardt, curadora del Pabellón Alemán en la Bienal de Venecia 2026, y Lynn Rother, curadora de procedencia del MoMA, ambas originarias de la Alemania Oriental.  Ambas han enfrentado prejuicios tras la reunificación alemana, siendo vistas como \"otras\".  Sus experiencias les han dado una perspectiva única, cuestionando narrativas históricas simplificadas y las estructuras de poder en el mundo del arte.  Reinhardt, directora del Museo Georg Kolbe,  revela las complejas historias detrás de las obras, mientras que Rother investiga las prácticas cuestionables en la adquisición de piezas museísticas, exponiendo la discriminación sistemática contra las mujeres.  Sus historias ilustran cómo la experiencia de la Alemania Oriental se convierte en una herramienta para una mirada crítica y cuidadosa al pasado y al presente.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la importancia de las perspectivas marginadas en la construcción de narrativas históricas y en el mundo del arte.  Analiza la experiencia de dos mujeres, ofreciendo una perspectiva crítica y reflexiva sobre temas de identidad, género, poder e instituciones.  La estructura y el estilo se ajustan a un ensayo de opinión."
+      "teaser_sentence": "Trump, aliado impredecible, condiciona su apoyo a Ucrania al financiamiento de la OTAN.",
+      "resumen": "El artículo analiza la volátil postura de Trump respecto a la guerra en Ucrania. Inicialmente, propuso un acuerdo con Putin que implicaba ceder territorio ucraniano, mostrando indiferencia ante las atrocidades rusas.  Sin embargo, la negativa de Putin y la presión de Zelenskyy y la OTAN, que comprometieron un aumento en sus presupuestos de defensa, llevaron a Trump a un apoyo más firme a Ucrania, aunque condicionado al financiamiento europeo.  El autor destaca la inconsistencia de Trump y la estrategia de Putin, basada en el desgaste militar y la propaganda, enfatizando la importancia del frente económico y las sanciones contra Rusia.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente las posturas políticas de Trump y Putin en relación a la guerra en Ucrania, ofreciendo una perspectiva argumentada y reflexiva sobre las implicaciones geopolíticas del conflicto."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "There’s Still Hope for PEPFAR",
-      "link": "https://www.nytimes.com/2025/07/14/opinion/pepfar-hiv-foreign-aid.html",
-      "fecha_obj": "2025-07-15T02:54:10+00:00",
-      "fecha_str": "15-07-2025 02:54 UTC",
+      "titulo": "Mamdani for Mayor (if You Want to Help the Republicans)",
+      "link": "https://www.nytimes.com/2025/07/15/opinion/mamdani-mayor-republicans.html",
+      "fecha_obj": "2025-07-16T00:00:32+00:00",
+      "fecha_str": "16-07-2025 00:00 UTC",
       "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Recortes a PEPFAR amenazan vidas en Uganda; el Senado debe actuar.",
-      "resumen": "El artículo describe el impacto devastador que tendrían los recortes propuestos al programa PEPFAR en Uganda.  La visita del autor a una comunidad rural muestra la dependencia vital de los pacientes de VIH de los medicamentos proporcionados por el programa.  La administración Trump había congelado fondos, causando caos y miedo entre los beneficiarios.  El Senado debe votar antes del 18 de julio sobre un proyecto de ley que recortaría $900 millones para salud global, incluyendo $400 millones para PEPFAR, poniendo en riesgo 25 millones de vidas salvadas por el programa.",
+      "teaser_sentence": "Las propuestas socialistas de Mamdani perjudicarían a Nueva York, no la ayudarían.",
+      "resumen": "El artículo critica las propuestas de campaña de un candidato llamado Mamdani, argumentando que sus políticas, como la congelación de rentas y la propiedad pública de supermercados, son inviables y perjudiciales para Nueva York.  Señala que la congelación de rentas llevaría al deterioro de edificios y la huida de la clase media, mientras que otras propuestas exacerbarían problemas financieros existentes.  Además, critica su postura anti-corporaciones y anti-billonarios, argumentando que la salida de contribuyentes adinerados perjudicaría las finanzas de la ciudad.  En resumen, el artículo presenta un argumento en contra de las políticas de Mamdani, calificándolas de socialistas y perjudiciales para la economía de la ciudad.",
       "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta una opinión clara sobre la importancia de PEPFAR y la urgencia de evitar los recortes presupuestarios.  Se basa en una experiencia personal que refuerza la argumentación y apela a la acción del lector.  La estructura narrativa y el tono persuasivo lo hacen adecuado para un ensayo de opinión."
+      "relevancia_justificacion": "El artículo expresa una opinión clara y argumentada sobre las propuestas políticas de un candidato, encajando perfectamente en la categoría de 'Opinión Ensayo'.  Presenta una tesis, argumentos en contra y una conclusión, utilizando evidencia para apoyar sus afirmaciones."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "NZXT Discount Codes: 50% Off",
-      "link": "https://www.wired.com/story/nzxt-discount-code/",
-      "fecha_obj": "2025-07-15T05:10:00+00:00",
-      "fecha_str": "15-07-2025 05:10 UTC",
-      "source_name": "Wired"
+      "titulo": "America Is Unraveling Its Safety Net",
+      "link": "https://www.nytimes.com/2025/07/14/opinion/america-safety-net.html",
+      "fecha_obj": "2025-07-15T23:00:17+00:00",
+      "fecha_str": "15-07-2025 23:00 UTC",
+      "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Ahorra hasta un 50% en PCs y periféricos NZXT con códigos de descuento y ofertas especiales.",
-      "resumen": "NZXT ofrece importantes descuentos en sus productos, incluyendo un 50% de descuento en el primer mes de suscripción a NZXT Flex, su servicio de renta de PCs.  También hay ofertas diarias con ahorros de hasta $250 en PCs y accesorios, descuentos de hasta $150 en paquetes de periféricos, envío gratuito en pedidos superiores a $75 y descuentos exclusivos para miembros del NZXT Club.  La compañía destaca por sus gabinetes para PC, pero también ofrece otros productos como audífonos, ratones y más.  NZXT Flex es una opción atractiva para quienes buscan una configuración de juego sin un desembolso inicial significativo.",
+      "teaser_sentence": "La red de seguridad de Estados Unidos se desmorona, dejando a familias vulnerables en la incertidumbre.",
+      "resumen": "El artículo describe el impacto negativo de las nuevas leyes en el programa SNAP (cupones de alimentos) en Estados Unidos. Se critica la complejidad burocrática y el aumento de restricciones, que dificultan el acceso a la ayuda alimentaria para familias necesitadas.  Se destaca el trabajo abnegado de una trabajadora social, Ms. Bialecki, que observa un incremento significativo en la demanda de servicios y la desesperación de las personas afectadas. La pieza argumenta que estas medidas exacerban la desigualdad y debilitan la red de seguridad social, dejando a muchos sin recursos básicos.",
       "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo trata sobre una empresa de tecnología que vende componentes y periféricos para computadoras, incluyendo PCs completas y un servicio de suscripción.  Su enfoque en la tecnología gaming lo hace altamente relevante para la categoría 'Ciencia y Tecnología'."
+      "relevancia_justificacion": "El artículo presenta una opinión crítica sobre las políticas sociales estadounidenses, analizando sus consecuencias y ofreciendo una perspectiva subjetiva basada en experiencias reales.  Su enfoque argumentativo y la expresión de una clara postura lo hacen adecuado para la categoría de 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "What Do Conservatives Offer Universities?",
+      "link": "https://www.nytimes.com/2025/07/15/opinion/conservative-professors-viewpoint-diversity.html",
+      "fecha_obj": "2025-07-15T21:00:05+00:00",
+      "fecha_str": "15-07-2025 21:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Universidades buscan diversidad ideológica: ¿Basta el debate interno o se necesitan conservadores?",
+      "resumen": "El artículo analiza la propuesta de Harvard de incorporar profesores con perspectivas no progresistas.  Joyce Carol Oates critica la idea, argumentando que la diversidad ya existe en el debate académico interno. El autor contraargumenta que el contrarianismo es poco natural y la conformidad es común en entornos académicos homogéneos,  por lo que la simple presencia de opiniones disidentes no garantiza una exposición completa a diferentes perspectivas.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta un argumento opinativo sobre la necesidad de diversidad ideológica en las universidades,  analizando diferentes perspectivas y ofreciendo una justificación razonada.  Su estructura y enfoque lo hacen adecuado para la categoría de ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Des images inédites du Soleil éclairent les mystères de la météo spatiale",
+      "link": "https://www.sciencesetavenir.fr/sciences/des-images-inedites-du-soleil-eclairent-les-mysteres-de-la-meteo-spatiale_187167?xtor=RSS-18",
+      "fecha_obj": "2025-07-16T03:00:14+00:00",
+      "fecha_str": "16-07-2025 03:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Imágenes inéditas de la sonda Parker revelan detalles sin precedentes del Sol y su impacto en la meteorología espacial.",
+      "resumen": "La sonda solar Parker, en su aproximación más cercana al Sol, ha capturado imágenes espectaculares de la corona solar y las eyecciones de masa coronal (CME). Estas imágenes, las más cercanas jamás obtenidas, muestran detalles sin precedentes del viento solar y su estructura, crucial para comprender la meteorología espacial.  El estudio de estas CME, responsables de fenómenos como las auroras boreales, es fundamental para predecir y mitigar los efectos de las tormentas solares en las redes eléctricas, las comunicaciones y los satélites. La misión Parker, con un funcionamiento previsto por décadas, continuará proporcionando datos cruciales para la comprensión del Sol y su influencia en la Tierra.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta un avance científico significativo en la exploración espacial y la comprensión de fenómenos solares que impactan directamente en la tecnología terrestre. La información es relevante para la categoría 'Ciencia y Tecnología' por su impacto en la investigación espacial, la predicción de eventos meteorológicos espaciales y la protección de infraestructuras tecnológicas."
     },
     "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "Peacock Promo Code & Deals: 16% Off July 2025",
-      "link": "https://www.wired.com/story/peacock-promo-code/",
-      "fecha_obj": "2025-07-15T05:00:00+00:00",
-      "fecha_str": "15-07-2025 05:00 UTC",
+      "titulo": "ASML: Les réservations au-dessus des attentes au T2, pessimisme sur la croissance en 2026",
+      "link": "https://www.sciencesetavenir.fr/asml-les-reservations-au-dessus-des-attentes-au-t2-pessimisme-sur-la-croissance-en-2026_187170",
+      "fecha_obj": "2025-07-16T05:55:57+00:00",
+      "fecha_str": "16-07-2025 05:55 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "ASML supera expectativas en reservas del segundo trimestre, pero anticipa menor crecimiento para 2026.",
+      "resumen": "ASML, empresa líder en fabricación de equipos de litografía para la industria de semiconductores, ha anunciado resultados mejores de lo esperado para el segundo trimestre de 2024, mostrando un volumen de reservas superior a las previsiones.  Sin embargo, la compañía expresa cierto pesimismo respecto al crecimiento para 2026, sugiriendo una posible desaceleración en el sector.  Este anuncio refleja la compleja situación del mercado de semiconductores, que experimenta altibajos influenciados por factores económicos globales y la demanda fluctuante de chips.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia trata directamente sobre ASML, una empresa clave en la tecnología de semiconductores, un área fundamental dentro de la categoría 'Ciencia y Tecnología'. El impacto de sus proyecciones en el crecimiento futuro del sector es altamente relevante para la comprensión de las tendencias tecnológicas."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Au Tadjikistan, la capitale centrasiatique de l'abricot face à la crise climatique",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/au-tadjikistan-la-capitale-centrasiatique-de-l-abricot-face-a-la-crise-climatique_187168?xtor=RSS-15",
+      "fecha_obj": "2025-07-16T03:00:12+00:00",
+      "fecha_str": "16-07-2025 03:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El cambio climático amenaza la producción de albaricoques en Tayikistán, principal productor de Asia Central.",
+      "resumen": "El cultivo de albaricoques en Tayikistán, crucial para su economía, se ve amenazado por el cambio climático.  El aumento de temperaturas, cambios en las precipitaciones y eventos climáticos extremos, como heladas tardías e inviernos suaves, afectan la producción.  La escasez de agua, agravada por el uso intensivo del río Isfara compartido con países vecinos, es otro factor crítico.  Productores pequeños enfrentan dificultades para implementar soluciones como el riego por goteo, mientras que empresas más grandes buscan alternativas como el cultivo de ciruelas. La situación económica del país, uno de los más pobres de la ex URSS, dificulta la adaptación al cambio climático.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo trata sobre el impacto del cambio climático en la agricultura, un tema relevante para la ciencia y la tecnología, ya que involucra investigación climática, desarrollo de técnicas agrícolas y soluciones tecnológicas para la adaptación."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Chewy Promo Codes: $20 Off | July 2025",
+      "link": "https://www.wired.com/story/chewy-promo-code/",
+      "fecha_obj": "2025-07-16T05:00:00+00:00",
+      "fecha_str": "16-07-2025 05:00 UTC",
       "source_name": "Wired"
     },
     "resumen_datos": {
-      "teaser_sentence": "Ahorra hasta un 80% en Peacock: ¡películas, series y deportes en streaming a precios increíbles!",
-      "resumen": "Peacock, servicio de streaming de NBCUniversal, ofrece series, películas, noticias y deportes.  Existen planes Premium con mayor contenido, incluyendo canales como Hallmark y WWE.  Actualmente, hay ofertas especiales: 12 meses de Peacock Premium por $30 (ahorro del 16%), planes anuales con dos meses gratis, y descuentos para estudiantes, militares y docentes.  El artículo destaca la variedad de contenido, desde clásicos como Harry Potter hasta realities como Love Island, y la cobertura deportiva, incluyendo la NFL. Peacock se presenta como una opción económica y completa para el entretenimiento en streaming.",
+      "teaser_sentence": "Ahorra en Chewy con cupones y ofertas: ¡hasta 50% de descuento en comida, medicinas y más!",
+      "resumen": "El artículo describe las diversas promociones y códigos de descuento disponibles en Chewy, una tienda online de productos para mascotas.  Se destacan ofertas para nuevos clientes, como $20 de descuento en compras superiores a $49 con el código WELCOME, y envío gratuito en pedidos superiores a $35.  Para clientes recurrentes, hay códigos como GIFT20OFF para $20 de descuento en compras superiores a $49.  También se mencionan ofertas adicionales, como descuentos en autoship y promociones diarias.  Finalmente, se recomiendan algunos productos de tecnología para mascotas, como la caja de arena automática Litter-Robot 4 y un purificador de aire.",
       "relevancia_score": 3,
-      "relevancia_justificacion": "Si bien Peacock es un servicio de streaming que utiliza tecnología, el artículo se centra principalmente en sus ofertas y contenido, no en aspectos tecnológicos innovadores o avances científicos."
+      "relevancia_justificacion": "Si bien se mencionan algunos productos tecnológicos para mascotas, el artículo se centra principalmente en las ofertas y promociones de Chewy, una tienda online de productos para mascotas. La relevancia en ciencia y tecnología es baja porque no se profundiza en la tecnología de los productos mencionados."
     },
     "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "Toni at Random by Dana A Williams review – the editorial years of a literary great",
-      "link": "https://www.theguardian.com/books/2025/jul/15/toni-at-random-by-dana-a-williams-review-the-editorial-years-of-a-literary-great",
-      "fecha_obj": "2025-07-15T06:00:51+00:00",
-      "fecha_str": "15-07-2025 06:00 UTC",
-      "source_name": "The Guardian Culture"
+      "titulo": "Les enseignes de fast-food manquent de transparence sur les additifs, déplore l'UFC-Que Choisir",
+      "link": "https://www.sciencesetavenir.fr/sante/les-enseignes-de-fast-food-manquent-de-transparence-sur-les-additifs-deplore-l-ufc-que-choisir_187169?xtor=RSS-16",
+      "fecha_obj": "2025-07-16T03:00:10+00:00",
+      "fecha_str": "16-07-2025 03:00 UTC",
+      "source_name": "Sciences et Avenir"
     },
     "resumen_datos": {
-      "teaser_sentence": "Descubre la desconocida faceta editorial de Toni Morrison y su lucha por la representación afroamericana en la industria.",
-      "resumen": "El libro \"Toni at Random\" de Dana A. Williams explora la carrera editorial de Toni Morrison en Random House (1971-1983). Williams destaca cómo Morrison, guiada por un firme compromiso con el empoderamiento afroamericano, publicó obras clave de autores negros, desafiando las normas de una industria mayoritariamente blanca.  El texto analiza el contexto de los movimientos por los derechos civiles y el arte negro, mostrando cómo Morrison, con pasión y tenacidad, luchó por la excelencia literaria y la visibilidad de las voces negras, incluso enfrentándose a las presiones comerciales.  A pesar de los avances, el artículo señala que la falta de representación en la industria editorial persiste, haciendo de \"Toni at Random\" un llamado a la reflexión sobre la importancia de la inclusión.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata sobre la vida y obra de una figura literaria relevante, Toni Morrison, analizando su impacto en la cultura y el arte a través de su labor editorial y su lucha por la representación de la cultura afroamericana en la industria editorial.  Su alta relevancia para la categoría se justifica por el enfoque en la literatura, la historia del arte y la lucha por la diversidad cultural."
+      "teaser_sentence": "Restaurantes de comida rápida ocultan ingredientes; UFC-Que Choisir exige transparencia.",
+      "resumen": "La UFC-Que Choisir denunció la falta de transparencia de McDonald's, Burger King, KFC y Quick sobre los aditivos en sus productos.  Solo dos muestran el Nutri-Score.  La asociación destaca la opacidad en la lista de ingredientes, mostrando diferencias significativas entre la información en Francia y países como Suiza, donde se detallan más aditivos, algunos con posibles efectos negativos para la salud.  La UFC critica la falta de información nutricional completa y la poca claridad sobre alérgenos, especialmente en Quick y KFC.  Se exige a las autoridades europeas la obligatoriedad del Nutri-Score y listas completas de ingredientes.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "El tema principal es la regulación alimentaria y la transparencia de las empresas, no un avance científico o tecnológico.  La tecnología podría jugar un papel en el etiquetado digital, pero no es el foco central del artículo."
     },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "London arts centre to amplify global majority voices and ‘urgent questions’",
-      "link": "https://www.theguardian.com/culture/2025/jul/15/london-arts-centre-to-amplify-global-majority-voices-and-urgent-questions",
-      "fecha_obj": "2025-07-15T04:00:50+00:00",
-      "fecha_str": "15-07-2025 04:00 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Ibraaz, nuevo centro de arte londinense, amplifica voces de la mayoría global y fomenta el debate civil.",
-      "resumen": "Ibraaz, una institución artística londinense fundada por Lina Lazaar y financiada por la Kamel Lazaar Foundation, abrirá sus puertas en octubre.  Este espacio de 10,000 pies cuadrados en Fitzrovia busca promover el arte y los artistas de la mayoría global, fomentando un diálogo respetuoso sobre temas complejos.  Su primera exposición será \"Parliament of Ghosts\" de Ibrahim Mahama.  Ibraaz contará con una biblioteca, librería, programa de charlas y un café.  Lazaar destaca la importancia de la libertad de expresión y la necesidad de espacios que permitan debates difíciles, sin la agresión que caracteriza a gran parte del discurso político actual, especialmente ante la autocensura percibida en algunas instituciones culturales.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata directamente sobre la apertura de un nuevo centro de arte, su programación, financiación,  el contexto político-cultural en el que se crea y su misión artística.  Es altamente relevante para la categoría 'Cultura Arte'."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "Oi! la la: meet the new wave of French punks making noise",
-      "link": "https://www.theguardian.com/music/2025/jul/15/oi-french-punk-rancoeur-oi-boys-syndrome-81",
-      "fecha_obj": "2025-07-15T06:00:49+00:00",
-      "fecha_str": "15-07-2025 06:00 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Nueva ola del punk francés: Oi! se fusiona con coldwave, creando un sonido único y antifascista.",
-      "resumen": "Una nueva generación de bandas francesas de Oi! está fusionando el punk callejero con influencias post-punk y coldwave.  Bandas como Syndrome 81, Rancoeur y Oi Boys, experimentan con sintetizadores y ritmos electrónicos, creando un sonido melancólico y minimalista, a menudo descrito como \"Cold Oi!\".  A diferencia de sus predecesores británicos, estas bandas son abiertamente antifascistas.  Su éxito trasciende fronteras, atrayendo a seguidores internacionales que aprecian su sonido único y letras en francés.  Esta escena se basa en una rica historia del punk francés, desde bandas pioneras como Métal Urbain hasta grupos de los 80 como Komintern Sect, influenciadas por la industrialización y el descontento social.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo trata sobre un movimiento musical, sus orígenes, evolución e impacto cultural.  Analiza un fenómeno artístico relevante dentro de la escena punk internacional, con conexiones históricas y sociales. La puntuación es alta porque describe un aspecto específico de la cultura musical contemporánea."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "TV tonight: a nostalgic romance drama with a cracking soundtrack",
-      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/15/tv-tonight-mix-tape-transaction",
-      "fecha_obj": "2025-07-15T05:20:48+00:00",
-      "fecha_str": "15-07-2025 05:20 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Esta noche en TV: drama romántico, música de los 80, y un tiburón vengativo.",
-      "resumen": "La programación televisiva incluye 'Mix Tape', un drama romántico ambientado en 1989 y 2019, con una banda sonora excepcional.  También se presentan 'Bake Off: The Professionals', con un desafío de repostería alienígena; 'Chernobyl: The New Evidence', con acceso a archivos de la KGB; 'The Great British Sewing Bee'; y 'Cold Case', un programa de investigación criminal.  Por último, se ofrece una selección de películas, incluyendo las cuatro entregas de 'Tiburón' y el clásico británico 'Hell Is a City'.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "El artículo cubre varios programas de televisión y películas, incluyendo un drama romántico con una banda sonora destacada, un documental sobre Chernóbil, y clásicos del cine británico.  La variedad de contenido cultural justifica una alta puntuación."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "‘I needed to be locked up’: how Kavana went from 90s pop stardom to smoking crack in a skip – and bounced back",
-      "link": "https://www.theguardian.com/music/2025/jul/15/kavana-anthony-kavanagh-singer-career-work-addiction-sexuality",
-      "fecha_obj": "2025-07-15T04:00:48+00:00",
-      "fecha_str": "15-07-2025 04:00 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "De estrella pop a adicción: la cruda y divertida historia de Kavana en 'Pop Scars'.",
-      "resumen": "Anthony Kavanagh, conocido como Kavana, relata en sus memorias 'Pop Scars' su ascenso a la fama en los 90 y su posterior caída en la adicción.  Tras un éxito inicial con su versión de 'I Can Make You Feel Good', Kavana describe con humor negro su lucha contra el alcohol y las drogas, incluyendo episodios de sexo por dinero y consumo de crack.  La obra explora temas de soledad, presión de la industria musical, ocultamiento de su sexualidad y la dificultad de gestionar la fama.  Tras años de lucha y una rehabilitación exitosa, Kavana ha logrado la sobriedad y publica su libro como una forma de auto-aceptación y sanación.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "La historia de Kavana es relevante para la categoría 'Cultura Arte' porque explora la intersección entre la industria musical, la fama, la salud mental y la superación personal. Su relato ofrece una perspectiva íntima sobre las presiones y desafíos que enfrentan las celebridades, y su proceso de recuperación tiene un valor cultural e inspirador."
-    },
-    "categoria": "cultura_arte"
+    "categoria": "ciencia_tecnologia"
   }
 ]
