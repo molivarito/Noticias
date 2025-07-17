@@ -1,258 +1,338 @@
 [
   {
     "info": {
-      "titulo": "Guerre en Ukraine : au moins onze blessés dans des attaques russes nocturnes",
-      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-au-moins-onze-blesses-dans-des-attaques-russes-nocturnes-20250716",
-      "fecha_obj": "2025-07-16T07:17:06+00:00",
-      "fecha_str": "16-07-2025 07:17 UTC",
+      "titulo": "La justice française ordonne la libération du militant propalestinien Georges Ibrahim Abdallah le 25 juillet prochain",
+      "link": "https://www.lefigaro.fr/faits-divers/la-justice-francaise-ordonne-la-liberation-du-militant-propalestinien-georges-ibrahim-abdallah-le-25-juillet-prochain-20250717",
+      "fecha_obj": "2025-07-17T07:19:54+00:00",
+      "fecha_str": "17-07-2025 07:19 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Ataques rusos nocturnos dejan 11 heridos en Ucrania, impactando Vinnytsia, Kharkiv y Kryvyï Rig.",
-      "resumen": "Ataques aéreos rusos en varias regiones ucranianas dejaron al menos 11 heridos.  En Vinnytsia, 28 drones impactaron instalaciones industriales, dejando 7 heridos, dos con quemaduras graves.  Kharkiv reportó 3 heridos, y Kryvyï Rig, impactada por un misil y 28 drones Shahed, sufrió un herido grave, un adolescente de 17 años.  Estos ataques son parte de la ofensiva rusa iniciada en febrero de 2022, con ataques casi diarios a ciudades ucranianas.  El contexto incluye la reciente promesa de Estados Unidos de apoyo militar a Ucrania y un llamado a Rusia para que termine el conflicto.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata sobre un conflicto bélico internacional, reportando ataques de un país a otro, incluyendo víctimas civiles y la implicación de potencias mundiales.  Es altamente relevante para la categoría 'Internacional'."
+      "teaser_sentence": "Liberación de Georges Ibrahim Abdallah: tras 40 años preso, la justicia francesa ordena su excarcelación el 25 de julio.",
+      "resumen": "La justicia francesa ha ordenado la liberación del militante propalestiniano Georges Ibrahim Abdallah, condenado en 1987 por el asesinato de dos diplomáticos en París. Tras 40 años de prisión, Abdallah, de 74 años, recuperará su libertad el 25 de julio. La decisión fue tomada por la corte de apelaciones de París en una audiencia a puerta cerrada, en ausencia del propio Abdallah, quien se encuentra recluido en la prisión de Lannemezan.  La noticia ha generado un amplio debate, considerando la larga condena y la naturaleza de los crímenes por los que fue sentenciado.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El caso tiene relevancia internacional por la implicación de un militante propalestiniano, la larga duración de su encarcelamiento y la repercusión de la decisión judicial en el ámbito político y social tanto en Francia como en el mundo árabe."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Iceland Volcano Erupts Again but Doesn’t Threaten Towns",
-      "link": "https://www.nytimes.com/2025/07/16/world/europe/iceland-volcano-eruption.html",
-      "fecha_obj": "2025-07-16T07:06:32+00:00",
-      "fecha_str": "16-07-2025 07:06 UTC",
-      "source_name": "The New York Times World"
+      "titulo": "«Une insulte au peuple» : à Cuba, une ministre démissionne après avoir nié l’existence de mendiants sur l’île",
+      "link": "https://www.lefigaro.fr/international/une-insulte-au-peuple-a-cuba-une-ministre-demissionne-apres-avoir-nie-l-existence-de-mendiants-sur-l-ile-20250717",
+      "fecha_obj": "2025-07-17T07:12:23+00:00",
+      "fecha_str": "17-07-2025 07:12 UTC",
+      "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Volcán islandés entra en erupción, pero no amenaza a las poblaciones cercanas.",
-      "resumen": "Un volcán hizo erupción en Islandia el miércoles por la mañana, marcando la duodécima erupción en cuatro años para un sistema volcánico cerca de Reikiavik.  A pesar de una columna de humo gris, la erupción emitió poca lava y no representó una amenaza para personas o infraestructura, según el secretario general de la Cruz Roja islandesa. La erupción comenzó a las 3:56 a.m., horas después de una serie de terremotos en la zona del cráter Sundhnukur, ubicado entre Grindavik y la Laguna Azul.  Las autoridades islandesas evacuaron preventivamente tanto Grindavik como la Laguna Azul antes de la erupción.",
+      "teaser_sentence": "Ministra cubana renuncia tras negar la existencia de indigentes en medio de una crisis económica.",
+      "resumen": "La Ministra de Trabajo de Cuba, Marta Elena Feito Cabrera, renunció tras generar indignación al negar la existencia de mendigos en el país, atribuyendo a quienes rebuscan en la basura la búsqueda de \"dinero fácil\".  Sus declaraciones, calificadas de \"insulto al pueblo\" por activistas, desataron una inusual ola de críticas públicas en Cuba, donde la disidencia es reprimida.  La crisis económica, agravada por el embargo estadounidense, ha incrementado la pobreza y la escasez de alimentos, llevando a muchos cubanos a buscar comida en la basura.  Incluso el presidente Díaz-Canel criticó la falta de conexión con la realidad de la Ministra antes de su renuncia, aceptada por el partido comunista.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia tiene relevancia internacional por la inusual crítica pública al gobierno cubano, la dimisión de una figura gubernamental y el reflejo de la crisis económica del país, temas de interés global."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Irak : un incendie dans un centre commercial de Kout",
+      "link": "https://www.lemonde.fr/international/article/2025/07/17/irak-un-incendie-dans-un-centre-commercial-de-kout_6621697_3210.html",
+      "fecha_obj": "2025-07-17T07:08:36+00:00",
+      "fecha_str": "17-07-2025 07:08 UTC",
+      "source_name": "Le Monde International"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Incendio en centro comercial de Kout, Irak, deja al menos 55 muertos y decenas de heridos.",
+      "resumen": "Un incendio en el centro comercial Hyper Mall de Kout, Irak, causó al menos 55 muertes y numerosos heridos. El fuego, que comenzó en el primer piso, se declaró el miércoles por la noche y fue controlado horas después. Las causas aún se desconocen, pero se abrió una investigación.  El gobernador de Wasit declaró tres días de luto y anunció acciones legales contra el propietario del edificio. El incidente ha puesto de manifiesto las deficiencias en las normas de seguridad en la construcción iraquí, un problema agravado por las altas temperaturas estivales. Este suceso se suma a otros desastres similares ocurridos en Irak, como el incendio en una sala de bodas en 2023 y en un hospital en 2021.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El suceso es una tragedia de gran magnitud que ocurrió en Irak, un país con relevancia internacional.  La noticia reporta un número significativo de víctimas, una investigación en curso y destaca problemas de seguridad en el país.  Su impacto trasciende las fronteras locales."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Nintendo dévoile les acteurs du prochain film Legend of Zelda",
+      "link": "https://www.lefigaro.fr/cinema/nintendo-devoile-les-acteurs-du-prochain-film-legend-of-zelda-20250717",
+      "fecha_obj": "2025-07-17T07:18:57+00:00",
+      "fecha_str": "17-07-2025 07:18 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Bo Bragason y Benjamin Ainsworth protagonizarán la película de Zelda, ¡llegando en mayo de 2027!",
+      "resumen": "Nintendo anunció el reparto principal de su próxima película de Legend of Zelda: Bo Bragason interpretará a la Princesa Zelda y Benjamin Ainsworth a Link.  Dirigida por Wes Ball, la película, inicialmente prevista para marzo de 2027, se retrasó hasta mayo para asegurar la mejor calidad posible, según Shigeru Miyamoto.  Este proyecto sigue el éxito de la película de Super Mario Bros. y se espera que sea otro gran éxito de taquilla, considerando la popularidad de la franquicia Zelda, con más de 140 millones de juegos vendidos en todo el mundo. Bragason y Ainsworth son actores británicos con experiencia en cine y televisión.",
       "relevancia_score": 8,
-      "relevancia_justificacion": "La erupción volcánica en Islandia es un evento geológico significativo con potencial impacto internacional debido al turismo y la geografía de la zona. Aunque no hubo daños, la noticia tiene relevancia global por su naturaleza inusual y la preocupación que genera."
+      "relevancia_justificacion": "La noticia abarca una producción cinematográfica de una empresa japonesa con actores británicos, lo que la convierte en un evento de interés internacional. El éxito de la franquicia Zelda a nivel mundial también justifica su relevancia internacional."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Budget 2026 : le gouvernement prévoit 29 milliards d'euros d'augmentation des dépenses publiques",
-      "link": "https://www.lefigaro.fr/conjoncture/budget-2026-le-gouvernement-prevoit-29-milliards-d-euros-d-augmentation-des-depenses-publiques-20250716",
-      "fecha_obj": "2025-07-16T06:55:11+00:00",
-      "fecha_str": "16-07-2025 06:55 UTC",
+      "titulo": "«J’ai encore huit semaines» : les incroyables images de Thierry Ardisson à l’hôpital pour soigner son cancer",
+      "link": "https://tvmag.lefigaro.fr/programme-tv/actu-tele/j-ai-encore-huit-semaines-les-incroyables-images-de-thierry-ardisson-a-l-hopital-pour-soigner-son-cancer-20250717",
+      "fecha_obj": "2025-07-17T07:18:23+00:00",
+      "fecha_str": "17-07-2025 07:18 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Francia planea un aumento de 29 mil millones de euros en gasto público para 2026, a pesar de objetivos de ahorro.",
-      "resumen": "El gobierno francés proyecta un gasto público de 1722 mil millones de euros para 2026, un aumento de 29 mil millones respecto a 2025.  A pesar de este incremento, se considera un esfuerzo de moderación, ya que sin medidas de contención el gasto habría ascendido a 1752 mil millones.  El plan incluye aumentos en Defensa y algunas áreas, pero recortes en otras como solidaridad e inserción.  El gobierno busca un ahorro total de 43 mil millones a través de recortes y aumento de ingresos. La ministra de cuentas públicas lo define como un presupuesto de \"ralentización de gastos\".",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "La noticia afecta la economía de un país importante a nivel internacional, impactando políticas públicas y decisiones financieras a gran escala.  Su alcance trasciende las fronteras francesas."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Suppression de deux jours fériés : «Le premier ministre est très ouvert» sur les dates, déclare la ministre du Travail",
-      "link": "https://www.lefigaro.fr/conjoncture/en-direct-budget-2026-la-cure-budgetaire-draconienne-de-bayrou-deja-rejetee-par-les-oppositions-20250716",
-      "fecha_obj": "2025-07-16T07:07:03+00:00",
-      "fecha_str": "16-07-2025 07:07 UTC",
-      "source_name": "Le Figaro"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Francia busca 44.000 millones de euros en ahorros, incluyendo la posible supresión de festivos.",
-      "resumen": "El debate presupuestario en Francia incluye medidas para lograr 44.000 millones de euros en ahorros.  Charles de Courson, diputado y relator general del presupuesto, critica que 14.000 millones provengan del aumento de impuestos, incluyendo la posible eliminación de días festivos,  mientras que se prevén 20.000 millones adicionales en gastos (intereses de la deuda, defensa y contribuciones a la UE).  De Courson aboga por reducir el gasto público en lugar de aumentar los impuestos, sugiriendo medidas simbólicas como ajustes en los salarios de ministros y parlamentarios.",
+      "teaser_sentence": "Thierry Ardisson, en documental íntimo, revela su lucha contra el cáncer y su perspectiva ante la enfermedad.",
+      "resumen": "El documental \"La face cachée de l’homme en noir\", dirigido por Audrey Crespo-Mara, esposa de Thierry Ardisson, muestra la batalla del presentador contra el cáncer de hígado desde 2012.  Las cámaras siguen a Ardisson en el hospital, durante exámenes médicos e intervenciones, ofreciendo una visión íntima de su enfermedad.  A pesar del diagnóstico, que incluye nuevos nódulos en los pulmones, Ardisson mantiene una actitud positiva y afirma tener \"ocho semanas más\". El documental, emitido tras su fallecimiento, revela su personalidad y su lucha contra la enfermedad con un crudo realismo.",
       "relevancia_score": 7,
-      "relevancia_justificacion": "Si bien la noticia se centra en la política interna francesa, las medidas económicas y presupuestarias de un país como Francia tienen repercusiones internacionales, especialmente en la Unión Europea."
+      "relevancia_justificacion": "Si bien la noticia se centra en una figura pública francesa, su lucha contra el cáncer y su perspectiva ante la muerte tienen un interés humano universal que trasciende las fronteras nacionales, generando relevancia internacional."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "«Les joueurs s’entraînaient avec la peur au ventre» : pourquoi Dunkerque a vu son «sulfureux» entraîneur partir au bout de trois semaines",
-      "link": "https://www.lefigaro.fr/sports/football/les-joueurs-s-entrainaient-avec-la-peur-au-ventre-pourquoi-dunkerque-a-vu-son-sulfureux-entraineur-partir-au-bout-de-trois-semaines-20250716",
-      "fecha_obj": "2025-07-16T07:19:16+00:00",
-      "fecha_str": "16-07-2025 07:19 UTC",
-      "source_name": "Le Figaro"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "El entrenador del USL Dunkerque dimitió tras tres semanas por su estilo de liderazgo 'sulfuroso' que atemorizó a los jugadores.",
-      "resumen": "Gonçalo Feio, entrenador del USL Dunkerque, renunció a su cargo tras solo tres semanas. Su estilo de liderazgo rígido y agresivo, contrastando con el de su predecesor, generó miedo y malestar entre los jugadores.  Feio, con experiencia en la Liga de Conferencia, alegó que la Ligue 2 no estaba a su nivel. Sin embargo, Demba Ba, director deportivo, admitió que el management de Feio fue un problema.  El ambiente tenso y la comunicación agresiva del entrenador llevaron a su rápida salida, dejando al club en busca de un nuevo entrenador antes del comienzo de la temporada.  Mientras tanto, Benjamin Rytlewski asumió el cargo interinamente.",
-      "relevancia_score": 4,
-      "relevancia_justificacion": "Si bien la noticia trata de un entrenador portugués, el impacto se limita al ámbito deportivo francés.  No tiene repercusiones geopolíticas o internacionales más allá del fútbol."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Contienda de competencia entre la justicia militar y civil: una historia en tres tiempos con cambios urgentes",
-      "link": "https://www.ciperchile.cl/2025/07/15/la-justicia-militar-una-historia-en-tres-tiempos-con-cambios-urgentes/?utm_source=rss&utm_medium=rss&utm_campaign=la-justicia-militar-una-historia-en-tres-tiempos-con-cambios-urgentes",
-      "fecha_obj": "2025-07-15T08:00:18+00:00",
-      "fecha_str": "15-07-2025 08:00 UTC",
+      "titulo": "Desempleo y costos laborales: más allá del simplismo",
+      "link": "https://www.ciperchile.cl/2025/07/16/desempleo-y-costos-laborales-mas-alla-del-simplismo-una-mirada-critica-al-debate-actual/?utm_source=rss&utm_medium=rss&utm_campaign=desempleo-y-costos-laborales-mas-alla-del-simplismo-una-mirada-critica-al-debate-actual",
+      "fecha_obj": "2025-07-16T08:00:41+00:00",
+      "fecha_str": "16-07-2025 08:00 UTC",
       "source_name": "CIPER Chile"
     },
     "resumen_datos": {
-      "teaser_sentence": "La justicia militar chilena enfrenta cuestionamientos por su competencia en delitos comunes, especialmente ante la infiltración del crimen organizado.",
-      "resumen": "El artículo analiza la histórica contienda de competencia entre la justicia militar y civil en Chile, revisando casos emblemáticos desde la dictadura hasta la actualidad. Se critica la parcialidad de la justicia militar en investigar delitos cometidos por miembros de las Fuerzas Armadas, especialmente en casos de crímenes comunes y de corrupción.  Se destaca la importancia de que la justicia civil investigue estos casos para prevenir el avance del crimen organizado dentro de las instituciones, como se evidencia en recientes casos de tráfico de drogas en la FACH y otras ramas.  El artículo finaliza cuestionando la insistencia de las Fuerzas Armadas en mantener su competencia en delitos comunes, argumentando que un órgano externo es necesario para garantizar imparcialidad.",
+      "teaser_sentence": "El aumento del desempleo en Chile no se debe solo al alza del salario mínimo, revela un análisis más profundo.",
+      "resumen": "Un artículo de CIPER refuta la idea simplista de que el aumento del desempleo en Chile se deba únicamente al incremento del salario mínimo y la reducción de la jornada laboral.  Analizando datos de la Encuesta Nacional de Empleo (ENE), se demuestra que la destrucción de empleos informales, especialmente de trabajadores por cuenta propia, juega un rol crucial.  A pesar del crecimiento del empleo formal en el sector privado, este no compensa la pérdida de empleos informales. El autor argumenta que se necesitan políticas integrales, más allá de reducir salarios o eliminar protecciones laborales, para abordar el problema del desempleo, incluyendo la capacitación y la intermediación laboral.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El tema aborda una problemática crucial del sistema judicial chileno, con implicaciones directas en la seguridad nacional, la lucha contra el crimen organizado y la transparencia institucional.  Afectan directamente a la ciudadanía y generan un debate público de gran importancia."
+      "relevancia_justificacion": "El artículo analiza un problema económico clave en Chile, el desempleo,  con datos concretos y un impacto directo en la población nacional.  Su relevancia es máxima al discutir políticas laborales y macroeconómicas que afectan directamente al país."
     },
     "categoria": "nacional"
   },
   {
     "info": {
-      "titulo": "Teenage pregnancy rates are a barometer of Britain’s progress. The tale they now tell is not reassuring | Polly Toynbee",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/16/britain-legacy-austerity-teenage-pregnancy",
-      "fecha_obj": "2025-07-16T07:00:40+00:00",
-      "fecha_str": "16-07-2025 07:00 UTC",
+      "titulo": "High water bills, filthy rivers – and now drought. This is England's great artificial water crisis of 2025 | George Monbiot",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/17/water-bills-filthy-rivers-drought-water-crisis",
+      "fecha_obj": "2025-07-17T05:00:29+00:00",
+      "fecha_str": "17-07-2025 05:00 UTC",
       "source_name": "The Guardian Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "El aumento de embarazos adolescentes en Reino Unido refleja el fracaso de políticas sociales conservadoras.",
-      "resumen": "El artículo analiza el incremento de embarazos adolescentes en Inglaterra y Gales, atribuyéndolo a la eliminación de programas sociales implementados por el gobierno laborista.  Estos programas abordaban múltiples factores como la pobreza infantil, la educación sexual, el acceso a anticonceptivos y el apoyo a jóvenes.  Su eliminación, según la autora, ha revertido los avances logrados, dejando a Reino Unido rezagado respecto a otros países.  Se destaca la importancia de una intervención integral para reducir las tasas de embarazos adolescentes y la necesidad de proteger los programas sociales de futuras políticas regresivas.",
+      "teaser_sentence": "La privatización del agua en Inglaterra: un desastre anunciado que deja ríos sucios y bolsillos vacíos.",
+      "resumen": "El artículo critica duramente la privatización del sistema de agua en Inglaterra, argumentando que ha resultado en una falta de inversión, altos costos para los consumidores, ríos contaminados y una escasa resiliencia ante la sequía.  Señala que las empresas privadas han priorizado la extracción de beneficios para accionistas, en su mayoría extranjeros, sobre la mejora de la infraestructura.  A pesar de la opinión pública mayoritariamente a favor de la re-nacionalización, el gobierno se resiste, priorizando los intereses del capital privado sobre el bienestar público. El autor concluye que esta situación refleja una falla ideológica gubernamental que favorece la intervención privada por encima de la pública, incluso en crisis previsibles como la sequía.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la relación entre políticas sociales y tasas de embarazo adolescente, con datos y ejemplos concretos.  Se enmarca perfectamente en la categoría de 'Opinión Ensayo' por su análisis crítico y perspectiva subjetiva sobre un tema de interés público."
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente un tema de actualidad: la privatización del agua en Inglaterra y sus consecuencias negativas. Presenta argumentos, datos y opiniones para sustentar su postura, lo que lo hace un claro ejemplo de este género."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "Trump isn't a reliable ally – but Nato dollars can be more persuasive than Putin's propaganda | Rafael Behr",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/16/donald-trump-ukraine-russia-nato-valdimir-putin",
-      "fecha_obj": "2025-07-16T05:00:38+00:00",
-      "fecha_str": "16-07-2025 05:00 UTC",
+      "titulo": "Why has it taken a decade to exhume the bodies of the 800 dead babies of Tuam? | Caelainn Hogan",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/17/exhume-800-dead-babies-tuam-ireland-justice",
+      "fecha_obj": "2025-07-17T04:00:30+00:00",
+      "fecha_str": "17-07-2025 04:00 UTC",
       "source_name": "The Guardian Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Trump, aliado impredecible, condiciona su apoyo a Ucrania al financiamiento de la OTAN.",
-      "resumen": "El artículo analiza la volátil postura de Trump respecto a la guerra en Ucrania. Inicialmente, propuso un acuerdo con Putin que implicaba ceder territorio ucraniano, mostrando indiferencia ante las atrocidades rusas.  Sin embargo, la negativa de Putin y la presión de Zelenskyy y la OTAN, que comprometieron un aumento en sus presupuestos de defensa, llevaron a Trump a un apoyo más firme a Ucrania, aunque condicionado al financiamiento europeo.  El autor destaca la inconsistencia de Trump y la estrategia de Putin, basada en el desgaste militar y la propaganda, enfatizando la importancia del frente económico y las sanciones contra Rusia.",
+      "teaser_sentence": "Década de silencio sobre 800 bebés muertos en Tuam; la exhumación revela la negligencia estatal e institucional.",
+      "resumen": "El artículo de Caelainn Hogan relata la lucha de más de una década para exhumar los restos de 800 bebés fallecidos en una institución irlandesa para madres solteras en Tuam.  A pesar de que las autoridades conocían la existencia de una fosa común en terrenos de la institución desde hace tiempo, la exhumación solo comenzó recientemente gracias a la perseverancia de activistas y sobrevivientes. El texto critica la falta de acción por parte de la Iglesia y el Estado, la minimización de la tragedia por parte de las investigaciones oficiales, y la persistencia de la injusticia para las víctimas y sus familias.  El caso de Tuam expone un sistema de abusos sistemáticos en instituciones similares a lo largo del mundo, destacando la necesidad de justicia y verdad para las víctimas.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente las posturas políticas de Trump y Putin en relación a la guerra en Ucrania, ofreciendo una perspectiva argumentada y reflexiva sobre las implicaciones geopolíticas del conflicto."
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente un evento histórico, ofreciendo una perspectiva personal y argumentando sobre la responsabilidad del Estado y la Iglesia en la tragedia.  Presenta una narrativa convincente con datos, testimonios y contexto histórico, defendiendo una postura clara sobre la injusticia y la necesidad de justicia."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "Mamdani for Mayor (if You Want to Help the Republicans)",
-      "link": "https://www.nytimes.com/2025/07/15/opinion/mamdani-mayor-republicans.html",
-      "fecha_obj": "2025-07-16T00:00:32+00:00",
-      "fecha_str": "16-07-2025 00:00 UTC",
+      "titulo": "Trump Is Winning the Battle to Undermine Democracy",
+      "link": "https://www.nytimes.com/2025/07/15/opinion/trump-authoritarianism-republican-party-democracy.html",
+      "fecha_obj": "2025-07-16T22:24:33+00:00",
+      "fecha_str": "16-07-2025 22:24 UTC",
       "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Las propuestas socialistas de Mamdani perjudicarían a Nueva York, no la ayudarían.",
-      "resumen": "El artículo critica las propuestas de campaña de un candidato llamado Mamdani, argumentando que sus políticas, como la congelación de rentas y la propiedad pública de supermercados, son inviables y perjudiciales para Nueva York.  Señala que la congelación de rentas llevaría al deterioro de edificios y la huida de la clase media, mientras que otras propuestas exacerbarían problemas financieros existentes.  Además, critica su postura anti-corporaciones y anti-billonarios, argumentando que la salida de contribuyentes adinerados perjudicaría las finanzas de la ciudad.  En resumen, el artículo presenta un argumento en contra de las políticas de Mamdani, calificándolas de socialistas y perjudiciales para la economía de la ciudad.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo expresa una opinión clara y argumentada sobre las propuestas políticas de un candidato, encajando perfectamente en la categoría de 'Opinión Ensayo'.  Presenta una tesis, argumentos en contra y una conclusión, utilizando evidencia para apoyar sus afirmaciones."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "America Is Unraveling Its Safety Net",
-      "link": "https://www.nytimes.com/2025/07/14/opinion/america-safety-net.html",
-      "fecha_obj": "2025-07-15T23:00:17+00:00",
-      "fecha_str": "15-07-2025 23:00 UTC",
-      "source_name": "The New York Times Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "La red de seguridad de Estados Unidos se desmorona, dejando a familias vulnerables en la incertidumbre.",
-      "resumen": "El artículo describe el impacto negativo de las nuevas leyes en el programa SNAP (cupones de alimentos) en Estados Unidos. Se critica la complejidad burocrática y el aumento de restricciones, que dificultan el acceso a la ayuda alimentaria para familias necesitadas.  Se destaca el trabajo abnegado de una trabajadora social, Ms. Bialecki, que observa un incremento significativo en la demanda de servicios y la desesperación de las personas afectadas. La pieza argumenta que estas medidas exacerban la desigualdad y debilitan la red de seguridad social, dejando a muchos sin recursos básicos.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta una opinión crítica sobre las políticas sociales estadounidenses, analizando sus consecuencias y ofreciendo una perspectiva subjetiva basada en experiencias reales.  Su enfoque argumentativo y la expresión de una clara postura lo hacen adecuado para la categoría de 'Opinión Ensayo'."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "What Do Conservatives Offer Universities?",
-      "link": "https://www.nytimes.com/2025/07/15/opinion/conservative-professors-viewpoint-diversity.html",
-      "fecha_obj": "2025-07-15T21:00:05+00:00",
-      "fecha_str": "15-07-2025 21:00 UTC",
-      "source_name": "The New York Times Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Universidades buscan diversidad ideológica: ¿Basta el debate interno o se necesitan conservadores?",
-      "resumen": "El artículo analiza la propuesta de Harvard de incorporar profesores con perspectivas no progresistas.  Joyce Carol Oates critica la idea, argumentando que la diversidad ya existe en el debate académico interno. El autor contraargumenta que el contrarianismo es poco natural y la conformidad es común en entornos académicos homogéneos,  por lo que la simple presencia de opiniones disidentes no garantiza una exposición completa a diferentes perspectivas.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta un argumento opinativo sobre la necesidad de diversidad ideológica en las universidades,  analizando diferentes perspectivas y ofreciendo una justificación razonada.  Su estructura y enfoque lo hacen adecuado para la categoría de ensayo de opinión."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "Des images inédites du Soleil éclairent les mystères de la météo spatiale",
-      "link": "https://www.sciencesetavenir.fr/sciences/des-images-inedites-du-soleil-eclairent-les-mysteres-de-la-meteo-spatiale_187167?xtor=RSS-18",
-      "fecha_obj": "2025-07-16T03:00:14+00:00",
-      "fecha_str": "16-07-2025 03:00 UTC",
-      "source_name": "Sciences et Avenir"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Imágenes inéditas de la sonda Parker revelan detalles sin precedentes del Sol y su impacto en la meteorología espacial.",
-      "resumen": "La sonda solar Parker, en su aproximación más cercana al Sol, ha capturado imágenes espectaculares de la corona solar y las eyecciones de masa coronal (CME). Estas imágenes, las más cercanas jamás obtenidas, muestran detalles sin precedentes del viento solar y su estructura, crucial para comprender la meteorología espacial.  El estudio de estas CME, responsables de fenómenos como las auroras boreales, es fundamental para predecir y mitigar los efectos de las tormentas solares en las redes eléctricas, las comunicaciones y los satélites. La misión Parker, con un funcionamiento previsto por décadas, continuará proporcionando datos cruciales para la comprensión del Sol y su influencia en la Tierra.",
+      "teaser_sentence": "Expertos advierten que la democracia estadounidense está en grave peligro bajo el gobierno de Trump, aunque la lucha aún no está perdida.",
+      "resumen": "Diversos académicos y analistas políticos expresan su preocupación por el declive de la democracia estadounidense durante el segundo mandato de Trump.  Señalan la erosión de las instituciones, el aumento de los costos de oponerse al gobierno, y la creación de un sistema de \"siquifancia competitiva\" donde la lealtad a Trump prima sobre el interés público.  Aunque algunos consideran que se ha establecido una autocracia, otros mantienen la esperanza de que la sociedad civil pueda revertir esta tendencia.  El artículo destaca la rapidez e intensidad de este retroceso democrático, comparándolo con casos similares en otros países, y enfatiza la debilidad inesperada de las instituciones estadounidenses para resistir.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo presenta un avance científico significativo en la exploración espacial y la comprensión de fenómenos solares que impactan directamente en la tecnología terrestre. La información es relevante para la categoría 'Ciencia y Tecnología' por su impacto en la investigación espacial, la predicción de eventos meteorológicos espaciales y la protección de infraestructuras tecnológicas."
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada y fundamentada con evidencia de expertos sobre el estado de la democracia estadounidense bajo el gobierno de Trump, lo que lo hace altamente relevante para la categoría 'Ensayo de Opinión'."
     },
-    "categoria": "ciencia_tecnologia"
+    "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "ASML: Les réservations au-dessus des attentes au T2, pessimisme sur la croissance en 2026",
-      "link": "https://www.sciencesetavenir.fr/asml-les-reservations-au-dessus-des-attentes-au-t2-pessimisme-sur-la-croissance-en-2026_187170",
-      "fecha_obj": "2025-07-16T05:55:57+00:00",
-      "fecha_str": "16-07-2025 05:55 UTC",
-      "source_name": "Sciences et Avenir"
+      "titulo": "Trump Is Doing Something No One Wants",
+      "link": "https://www.nytimes.com/2025/07/17/opinion/trump-lula-brazil-brics.html",
+      "fecha_obj": "2025-07-17T05:00:05+00:00",
+      "fecha_str": "17-07-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "ASML supera expectativas en reservas del segundo trimestre, pero anticipa menor crecimiento para 2026.",
-      "resumen": "ASML, empresa líder en fabricación de equipos de litografía para la industria de semiconductores, ha anunciado resultados mejores de lo esperado para el segundo trimestre de 2024, mostrando un volumen de reservas superior a las previsiones.  Sin embargo, la compañía expresa cierto pesimismo respecto al crecimiento para 2026, sugiriendo una posible desaceleración en el sector.  Este anuncio refleja la compleja situación del mercado de semiconductores, que experimenta altibajos influenciados por factores económicos globales y la demanda fluctuante de chips.",
+      "teaser_sentence": "Trump's antagonismo hacia BRICS perjudica a Brasil y fortalece a Lula.",
+      "resumen": "El artículo analiza la postura hostil de Trump hacia el grupo BRICS, especialmente hacia Brasil.  A pesar de que BRICS es un bloque con miembros que a veces se oponen a Estados Unidos, su accionar es moderado.  Brasil, un miembro clave, mantiene fuertes lazos comerciales con Estados Unidos y no desea alienarlo. La agresividad de Trump, en lugar de ayudar a la oposición brasileña, ha generado un efecto contrario, fortaleciendo el apoyo a Lula.  El artículo argumenta que la decisión de Trump es políticamente contraproducente.",
       "relevancia_score": 9,
-      "relevancia_justificacion": "La noticia trata directamente sobre ASML, una empresa clave en la tecnología de semiconductores, un área fundamental dentro de la categoría 'Ciencia y Tecnología'. El impacto de sus proyecciones en el crecimiento futuro del sector es altamente relevante para la comprensión de las tendencias tecnológicas."
+      "relevancia_justificacion": "El artículo presenta una opinión clara sobre las acciones de Trump y sus consecuencias, analizando las relaciones internacionales y las implicaciones políticas.  Su análisis es profundo y sustentado en hechos, lo que lo hace adecuado para un ensayo de opinión."
     },
-    "categoria": "ciencia_tecnologia"
+    "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "Au Tadjikistan, la capitale centrasiatique de l'abricot face à la crise climatique",
-      "link": "https://www.sciencesetavenir.fr/nature-environnement/au-tadjikistan-la-capitale-centrasiatique-de-l-abricot-face-a-la-crise-climatique_187168?xtor=RSS-15",
-      "fecha_obj": "2025-07-16T03:00:12+00:00",
-      "fecha_str": "16-07-2025 03:00 UTC",
+      "titulo": "The Epstein Story Is Both Conspiracy Theory and Genuine Scandal",
+      "link": "https://www.nytimes.com/2025/07/16/opinion/epstein-trump-scandal.html",
+      "fecha_obj": "2025-07-16T22:47:49+00:00",
+      "fecha_str": "16-07-2025 22:47 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El caso Epstein: ¿conspiración o escándalo real? Un análisis de la paranoia moderna.",
+      "resumen": "El artículo explora la narrativa del caso Epstein, argumentando que se encuentra en la intersección entre una genuina historia de escándalo y una teoría conspirativa.  Señala cómo la falta de significado completo alimenta la especulación, atrayendo a quienes buscan control en un mundo caótico.  Se compara con otras teorías conspirativas, mostrando cómo la historia de Epstein se ha convertido en un mito moderno, reflejando la desconfianza hacia las élites y la búsqueda de explicaciones sencillas a eventos complejos.  El autor destaca la flexibilidad de la narrativa conspirativa, adaptable a diferentes niveles de creencia, desde la existencia de una red de pedofilia poderosa hasta la simple impunidad de los ricos.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta un análisis de opinión sobre un tema controversial, ofreciendo una perspectiva crítica sobre la naturaleza de las teorías conspirativas y su resonancia en la sociedad actual.  Su estructura argumentativa y análisis reflexivo lo ubican firmemente dentro de la categoría de ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Des recherches sur l'embryon trop restreintes ? Une avancée scientique majeure interpelle",
+      "link": "https://www.sciencesetavenir.fr/sciences/des-recherches-sur-l-embryon-trop-restreintes-une-avancee-scientique-majeure-interpelle_187188?xtor=RSS-18",
+      "fecha_obj": "2025-07-16T21:00:05+00:00",
+      "fecha_str": "16-07-2025 21:00 UTC",
       "source_name": "Sciences et Avenir"
     },
     "resumen_datos": {
-      "teaser_sentence": "El cambio climático amenaza la producción de albaricoques en Tayikistán, principal productor de Asia Central.",
-      "resumen": "El cultivo de albaricoques en Tayikistán, crucial para su economía, se ve amenazado por el cambio climático.  El aumento de temperaturas, cambios en las precipitaciones y eventos climáticos extremos, como heladas tardías e inviernos suaves, afectan la producción.  La escasez de agua, agravada por el uso intensivo del río Isfara compartido con países vecinos, es otro factor crítico.  Productores pequeños enfrentan dificultades para implementar soluciones como el riego por goteo, mientras que empresas más grandes buscan alternativas como el cultivo de ciruelas. La situación económica del país, uno de los más pobres de la ex URSS, dificulta la adaptación al cambio climático.",
-      "relevancia_score": 7,
-      "relevancia_justificacion": "El artículo trata sobre el impacto del cambio climático en la agricultura, un tema relevante para la ciencia y la tecnología, ya que involucra investigación climática, desarrollo de técnicas agrícolas y soluciones tecnológicas para la adaptación."
+      "teaser_sentence": "Bebés sanos gracias a un revolucionario trasplante de mitocondrias; un avance científico con implicaciones éticas.",
+      "resumen": "Un estudio publicado en el New England Journal of Medicine muestra resultados alentadores sobre el don de mitocondrias para prevenir enfermedades mitocondriales hereditarias.  En el Reino Unido, 8 de 20 mujeres dieron a luz a niños sanos tras este procedimiento, aunque algunos presentaron complicaciones.  Si bien el avance es significativo, genera debate ético sobre la manipulación genética y la regulación de estas prácticas, contrastando la permisividad británica con la prohibición en países como Francia y Estados Unidos.  La discusión se centra en el balance entre los beneficios para la salud y los riesgos potenciales a largo plazo.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre un importante avance científico-médico, la manipulación genética y sus implicaciones éticas, temas centrales en la categoría 'Ciencia y Tecnología'"
     },
     "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "Chewy Promo Codes: $20 Off | July 2025",
-      "link": "https://www.wired.com/story/chewy-promo-code/",
-      "fecha_obj": "2025-07-16T05:00:00+00:00",
-      "fecha_str": "16-07-2025 05:00 UTC",
+      "titulo": "More VMware cloud partners axed as Broadcom launches new invite-only program",
+      "link": "https://arstechnica.com/information-technology/2025/07/more-vmware-cloud-partners-axed-as-broadcom-launches-new-invite-only-program/",
+      "fecha_obj": "2025-07-16T22:20:33+00:00",
+      "fecha_str": "16-07-2025 22:20 UTC",
+      "source_name": "Ars Technica"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Broadcom elimina socios de VMware, afectando a pymes que usan tecnología VMware en la nube.",
+      "resumen": "Broadcom, tras adquirir VMware, está reduciendo drásticamente el número de partners.  Un nuevo programa de socios para proveedores de servicios en la nube (CSPs)  es solo por invitación, dejando fuera a muchas empresas, especialmente pymes.  Los CSPs excluidos deben cesar operaciones el 31 de octubre, obligando a sus clientes a buscar nuevos proveedores, con posibles retrasos, costos adicionales y riesgos de migración.  Un programa de marca blanca para CSPs más pequeños también se cierra, agravando la situación.  Esta reducción de partners genera incertidumbre e impacto financiero para numerosas empresas que dependen de la tecnología VMware.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre cambios significativos en el ecosistema tecnológico de VMware tras su adquisición, afectando directamente a empresas que usan sus servicios en la nube.  Esto tiene implicaciones para la industria tecnológica y sus clientes."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "2026 Mercedes-Benz CLA feels like a real car, not a science experiment",
+      "link": "https://arstechnica.com/cars/2025/07/2026-mercedes-benz-cla-feels-like-a-real-car-not-a-science-experiment/",
+      "fecha_obj": "2025-07-16T22:01:37+00:00",
+      "fecha_str": "16-07-2025 22:01 UTC",
+      "source_name": "Ars Technica"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El Mercedes-Benz CLA 2026: un EV con tecnología de punta y autonomía de hasta 792 km.",
+      "resumen": "El Mercedes-Benz CLA 2026 marca un cambio en la estrategia de vehículos eléctricos de Mercedes, ofreciendo un modelo principal con tecnología EQ.  Este vehículo, disponible en versiones de uno o dos motores, presenta una arquitectura de 800 voltios con una autonomía estimada de hasta 792 km (WLTP).  La versión de dos motores y tracción total 4Matic ofrece 349 hp.  Se destaca su carga rápida de 320 kW (10-80% en 22 minutos) y la inclusión de conectores SAE J-1772 y NACS.  Si bien aún no se confirma la autonomía EPA, se espera que supere las 400 millas. El CLA se posiciona como un vehículo eléctrico moderno y eficiente, pero sin ser un auto de alto rendimiento.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo describe un nuevo vehículo eléctrico con innovaciones tecnológicas significativas como la arquitectura de 800 voltios, la carga rápida y la incorporación de dos tipos de conectores.  Su impacto en la industria automotriz y la tecnología de vehículos eléctricos lo hacen altamente relevante para la categoría Ciencia y Tecnología."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Squarespace Promo Codes: 50% Off | July 2025",
+      "link": "https://www.wired.com/story/squarespace-promo-code/",
+      "fecha_obj": "2025-07-17T05:00:00+00:00",
+      "fecha_str": "17-07-2025 05:00 UTC",
       "source_name": "Wired"
     },
     "resumen_datos": {
-      "teaser_sentence": "Ahorra en Chewy con cupones y ofertas: ¡hasta 50% de descuento en comida, medicinas y más!",
-      "resumen": "El artículo describe las diversas promociones y códigos de descuento disponibles en Chewy, una tienda online de productos para mascotas.  Se destacan ofertas para nuevos clientes, como $20 de descuento en compras superiores a $49 con el código WELCOME, y envío gratuito en pedidos superiores a $35.  Para clientes recurrentes, hay códigos como GIFT20OFF para $20 de descuento en compras superiores a $49.  También se mencionan ofertas adicionales, como descuentos en autoship y promociones diarias.  Finalmente, se recomiendan algunos productos de tecnología para mascotas, como la caja de arena automática Litter-Robot 4 y un purificador de aire.",
-      "relevancia_score": 3,
-      "relevancia_justificacion": "Si bien se mencionan algunos productos tecnológicos para mascotas, el artículo se centra principalmente en las ofertas y promociones de Chewy, una tienda online de productos para mascotas. La relevancia en ciencia y tecnología es baja porque no se profundiza en la tecnología de los productos mencionados."
+      "teaser_sentence": "Ahorra hasta un 50% en Squarespace: ¡códigos promocionales, descuentos para estudiantes y más!",
+      "resumen": "Squarespace ofrece una plataforma intuitiva para crear sitios web, tanto personales como comerciales.  El artículo detalla varias maneras de ahorrar dinero, incluyendo un 10% de descuento con el código WIRED10, descuentos del 28% al 36% al optar por planes anuales, un 50% para estudiantes y un 20% para usuarios de Squarespace Circle.  También destaca la prueba gratuita de 14 días, la integración de comercio electrónico y la nueva herramienta de creación de sitios web con IA, Blueprint AI.  En resumen, el artículo promueve Squarespace y sus diversas opciones de ahorro.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Squarespace es una plataforma tecnológica que utiliza IA para facilitar la creación de sitios web. Aunque el enfoque principal es el marketing y las ofertas, la integración de la IA y la naturaleza tecnológica de la plataforma justifican una puntuación de 7."
     },
     "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "Les enseignes de fast-food manquent de transparence sur les additifs, déplore l'UFC-Que Choisir",
-      "link": "https://www.sciencesetavenir.fr/sante/les-enseignes-de-fast-food-manquent-de-transparence-sur-les-additifs-deplore-l-ufc-que-choisir_187169?xtor=RSS-16",
-      "fecha_obj": "2025-07-16T03:00:10+00:00",
-      "fecha_str": "16-07-2025 03:00 UTC",
+      "titulo": "Toujours bien sucré, mais différemment: Coca-Cola passe au sucre de canne, se réjouit Trump",
+      "link": "https://www.sciencesetavenir.fr/sante/toujours-bien-sucre-mais-differemment-coca-cola-passe-au-sucre-de-canne-se-rejouit-trump_187189?xtor=RSS-16",
+      "fecha_obj": "2025-07-16T21:51:18+00:00",
+      "fecha_str": "16-07-2025 21:51 UTC",
       "source_name": "Sciences et Avenir"
     },
     "resumen_datos": {
-      "teaser_sentence": "Restaurantes de comida rápida ocultan ingredientes; UFC-Que Choisir exige transparencia.",
-      "resumen": "La UFC-Que Choisir denunció la falta de transparencia de McDonald's, Burger King, KFC y Quick sobre los aditivos en sus productos.  Solo dos muestran el Nutri-Score.  La asociación destaca la opacidad en la lista de ingredientes, mostrando diferencias significativas entre la información en Francia y países como Suiza, donde se detallan más aditivos, algunos con posibles efectos negativos para la salud.  La UFC critica la falta de información nutricional completa y la poca claridad sobre alérgenos, especialmente en Quick y KFC.  Se exige a las autoridades europeas la obligatoriedad del Nutri-Score y listas completas de ingredientes.",
+      "teaser_sentence": "Coca-Cola cambia a azúcar de caña en EE.UU. tras anuncio de Trump.",
+      "resumen": "El presidente Trump anunció que Coca-Cola cambiará el jarabe de maíz de alta fructosa por azúcar de caña en su producción estadounidense.  Aunque Coca-Cola usa azúcar de caña en Europa, en EE.UU. utilizaba el jarabe de maíz.  Esta decisión podría afectar a los productores de maíz del Midwest.  Estudios recientes no muestran diferencias significativas en salud entre ambos edulcorantes, aunque el jarabe de maíz aumenta un marcador inflamatorio.  El cambio se produce a pesar de que Trump consume Coca-Cola Light, endulzada con aspartame, considerado posiblemente cancerígeno por la OMS. La empresa agradeció el anuncio del presidente.",
       "relevancia_score": 3,
-      "relevancia_justificacion": "El tema principal es la regulación alimentaria y la transparencia de las empresas, no un avance científico o tecnológico.  La tecnología podría jugar un papel en el etiquetado digital, pero no es el foco central del artículo."
+      "relevancia_justificacion": "Si bien la noticia menciona aspectos de la producción industrial y la salud, la relevancia para 'Ciencia y Tecnología' es baja. El foco principal es político y económico, con implicaciones indirectas en la salud."
     },
     "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Humble peasants … or an odyssey of sex and death? The Millet masterpiece that electrified modern art",
+      "link": "https://www.theguardian.com/artanddesign/2025/jul/17/angelus-millet-life-on-the-land-national-gallery-london-modern-art",
+      "fecha_obj": "2025-07-17T04:00:30+00:00",
+      "fecha_str": "17-07-2025 04:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El Angelus de Millet: una obra maestra que ha cautivado a artistas como Dalí y Van Gogh, desatando interpretaciones desde la piedad hasta la muerte.",
+      "resumen": "El artículo explora la fascinación que ha generado \"El Angelus\" de Jean-François Millet, desde su popularidad inicial hasta las interpretaciones surrealistas de Dalí, quien vio en él símbolos sexuales y trágicos.  Van Gogh, por su parte, lo admiró profundamente, viendo en él una representación poética y religiosa de la vida campesina.  El texto analiza la obra como reflejo de la vida rural, la condición de los campesinos, y la capacidad de una obra de arte para trascender su significado literal, generando múltiples interpretaciones según la perspectiva del observador. Se destaca la influencia de Millet en Van Gogh, visible en obras como \"Los comedores de patatas\". El artículo concluye reflexionando sobre el poder misterioso y perdurable del arte.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo analiza profundamente una obra de arte icónica, explorando su historia, impacto en otros artistas y diversas interpretaciones, lo que lo hace altamente relevante para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "‘No barriers to entry’: George the Poet reframes art world for young people with immersive exhibition",
+      "link": "https://www.theguardian.com/culture/2025/jul/17/no-barriers-to-entry-george-the-poet-reframes-art-world-for-young-people-with-immersive-exhibition",
+      "fecha_obj": "2025-07-16T23:01:22+00:00",
+      "fecha_str": "16-07-2025 23:01 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "George the Poet usa instalaciones inmersivas para acercar el arte clásico a jóvenes, rompiendo barreras de acceso.",
+      "resumen": "George the Poet, en colaboración con jóvenes de la unidad de reducción de violencia del alcalde de Londres, presenta una exhibición inmersiva que reinterpreta obras maestras como 'El Grito' de Munch y 'La Gran Ola' de Hokusai.  La iniciativa busca contrarrestar la exclusión histórica de ciertos grupos en el mundo del arte.  Una investigación revela que dos tercios de los jóvenes desean más acceso al arte, considerando las galerías intimidantes y el arte histórico irrelevante.  George the Poet argumenta que el arte amplía horizontes y fomenta la salud mental, beneficiando tanto a los jóvenes como a las instituciones artísticas, que deben adaptarse a las nuevas generaciones.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata directamente sobre una exhibición de arte, la accesibilidad al arte para jóvenes, y el impacto social del arte.  Es altamente relevante para la categoría 'Cultura Arte' por su enfoque en la inclusión, la innovación en la presentación artística y el análisis de la relación entre arte y sociedad."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "‘I can’t believe not everyone catastrophises!’: Liz Stokes of Kiwi band the Beths on anxiety, ambition and being anti-optimisation",
+      "link": "https://www.theguardian.com/music/2025/jul/17/beths-band-liz-stokes-interview-straight-line-was-a-lie",
+      "fecha_obj": "2025-07-17T07:00:31+00:00",
+      "fecha_str": "17-07-2025 07:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Liz Stokes de The Beths reflexiona sobre la ansiedad, la ambición y el rechazo a la optimización en su nuevo álbum.",
+      "resumen": "En una entrevista, Liz Stokes, líder de la banda neozelandesa The Beths, habla sobre su cuarto álbum, \"Straight Line Was a Lie\", inspirado en las inundaciones en Auckland y su lucha contra la ansiedad y el diagnóstico de la enfermedad de Graves.  El álbum refleja su viaje personal, desde la medicación que la ayudó y luego la dejó insensible, hasta la importancia de la comunicación en la banda y su relación con su madre. Stokes aborda la presión de la optimización y la aceptación de la vida como un proceso de mantenimiento continuo.  El nuevo disco y la gira prometen una exploración honesta de las emociones y la búsqueda de una conexión más auténtica.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre una banda musical, su nuevo álbum y las experiencias personales de la cantante que inspiran su música. Esto lo relaciona directamente con la música, un componente clave de la cultura y el arte."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Untamed review – Eric Bana’s national park thriller is as beautiful as it is totally predictable",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/17/untamed-review-eric-bana-national-park-thriller-netflix",
+      "fecha_obj": "2025-07-17T07:00:32+00:00",
+      "fecha_str": "17-07-2025 07:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Agente especial resuelve un crimen en Yosemite, pero ¿a qué costo?",
+      "resumen": "Untamed, thriller protagonizado por Eric Bana, presenta a un agente especial que investiga la muerte de una joven escaladora en el Parque Nacional Yosemite.  La trama, aunque predecible, se desarrolla en un entorno visualmente atractivo.  El agente, con métodos poco ortodoxos, desentraña una conspiración mayor.  La crítica destaca la belleza de las locaciones y la actuación de Bana, pero critica la falta de originalidad y la representación estereotipada de los personajes femeninos. La serie se describe como un thriller de acción clásico, con elementos de drama rural, pero con un desarrollo narrativo poco innovador.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien la reseña menciona aspectos estéticos y la ambientación en un parque nacional, el enfoque principal es la trama policial y la crítica de la serie de televisión.  La relevancia para 'Cultura Arte' es baja, ya que no se centra en el análisis artístico o cultural de la obra."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: inside Donald Trump’s relationship with Vladimir Putin",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/17/tv-tonight-inside-donald-trumps-relationship-with-vladimir-putin",
+      "fecha_obj": "2025-07-17T05:20:29+00:00",
+      "fecha_str": "17-07-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: desde Trump y Putin hasta la comedia británica, ¡hay algo para todos!",
+      "resumen": "La programación televisiva de esta noche ofrece una variedad de opciones.  'Dispatches' investiga la relación entre Trump y Putin. 'Supercruising' muestra la vida a bordo de cruceros de lujo. 'The Great Fire of London' recrea la experiencia del gran incendio. 'The Walking Dead: Dead City' continúa con Negan. 'Outrageous' narra la vida turbulenta de las hermanas Mitford. Finalmente, 'Such Brave Girls' concluye con una comedia sobre la maternidad.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien 'Outrageous' toca la vida de las hermanas Mitford, un tema cultural, la mayoría de la programación se centra en política, historia o entretenimiento general, no específicamente en arte o cultura."
+    },
+    "categoria": "cultura_arte"
   }
 ]
