@@ -1,1 +1,354 @@
-[]
+[
+  {
+    "info": {
+      "titulo": "En direct, guerre en Ukraine : des bombardements russes ont visé plusieurs quartiers de Kiev avant une visite du ministre des affaires étrangères français",
+      "link": "https://www.lemonde.fr/international/live/2025/07/21/en-direct-guerre-en-ukraine-des-bombardements-russes-visent-plusieurs-quartiers-de-kiev-avant-une-visite-du-ministre-des-affaires-etrangeres-francais_6622319_3210.html",
+      "fecha_obj": "2025-07-21T07:13:17+00:00",
+      "fecha_str": "21-07-2025 07:13 UTC",
+      "source_name": "Le Monde International"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ataques rusos sorprenden a Kiev antes de la visita del ministro francés, dejando un muerto y varios heridos.",
+      "resumen": "Kiev sufrió un nuevo ataque aéreo ruso con drones y misiles, causando un muerto y siete heridos.  Los ataques, que ocurrieron la noche del 20 al 21 de julio, dañaron infraestructuras como una estación de metro, justo antes de la visita prevista del ministro francés de Asuntos Exteriores.  Estos ataques contrastan con el ambiente festivo del fin de semana, marcado por la victoria de Usyk y el Atlas Festival, un gran evento musical que incluyó la actuación de The Rasmus, su primer concierto en Kiev desde 2022.  A pesar de las alertas aéreas, el festival y la celebración de la victoria deportiva continuaron.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre un conflicto internacional, un ataque a la capital de un país en guerra por parte de otro país.  La visita de un ministro de asuntos exteriores de un país importante añade relevancia internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Landslides and Floods Kill 18 in South Korea",
+      "link": "https://www.nytimes.com/2025/07/21/world/asia/south-korea-floods-death-toll.html",
+      "fecha_obj": "2025-07-21T07:09:37+00:00",
+      "fecha_str": "21-07-2025 07:09 UTC",
+      "source_name": "The New York Times World"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Lluvias torrenciales en Corea del Sur causan al menos 18 muertes por inundaciones y deslizamientos.",
+      "resumen": "Intensas lluvias en Corea del Sur han provocado al menos 18 muertes y varios desaparecidos. Deslizamientos de tierra e inundaciones arrasaron casas, vehículos y ganado, principalmente en la provincia de Sancheong, donde cayeron más de 30 centímetros de lluvia en un solo día.  Las autoridades emitieron alertas a los residentes, pero la magnitud del desastre superó las previsiones.  Equipos de rescate trabajan para encontrar a los desaparecidos y el número de víctimas podría aumentar.  Las provincias del sur y oeste del país fueron las más afectadas por las precipitaciones, que comenzaron el miércoles anterior.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El suceso es una tragedia natural de gran escala que ha causado numerosas víctimas mortales en Corea del Sur, un país internacionalmente reconocido.  La noticia tiene un impacto global por la magnitud del desastre y la pérdida de vidas humanas."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Stellantis annonce une perte nette de 2,3 milliards d'euros au premier semestre 2025",
+      "link": "https://www.lefigaro.fr/societes/stellantis-annonce-une-perte-nette-de-2-3-milliards-d-euros-au-premier-semestre-2025-20250721",
+      "fecha_obj": "2025-07-21T07:03:43+00:00",
+      "fecha_str": "21-07-2025 07:03 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Stellantis anuncia pérdidas netas de 2,3 mil millones de euros en el primer semestre de 2025, debido a aranceles y reestructuración.",
+      "resumen": "Stellantis reportó pérdidas netas de 2,3 mil millones de euros en el primer semestre de 2025, una caída significativa respecto al beneficio de 5,6 mil millones en el mismo periodo de 2024.  La disminución se atribuye a la reducción de ventas en Europa y Estados Unidos, la suspensión temporal de producción por aranceles estadounidenses, y cargas relacionadas con la cancelación de programas y depreciación de plataformas.  Aunque el volumen de vehículos cayó un 6%, Stellantis espera mejoras en el segundo semestre gracias a nuevas medidas de eficiencia y productos.  La incertidumbre sobre los aranceles llevó a la suspensión de las previsiones financieras en abril.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia afecta a una empresa multinacional con impacto global, reportando pérdidas significativas y decisiones estratégicas con repercusiones internacionales en el sector automotriz."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "«Je ne suis pas indispensable à ce débat» : qui est Éléonore Pattery, l’étudiante à l’origine de la pétition contre la loi Duplomb ?",
+      "link": "https://www.lefigaro.fr/actualite-france/je-ne-suis-pas-indispensable-a-ce-debat-qui-est-eleonore-pattery-l-etudiante-a-l-origine-de-la-petition-contre-la-loi-duplomb-20250721",
+      "fecha_obj": "2025-07-21T07:21:40+00:00",
+      "fecha_str": "21-07-2025 07:21 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Petición contra la ley Duplomb supera el millón de firmas, impulsada por una estudiante francesa que prefiere el anonimato.",
+      "resumen": "Éléonore Pattery, una estudiante francesa de 23 años, creó una petición contra la ley Duplomb, que permite la reintroducción de un pesticida prohibido en Francia.  La petición, que superó el millón de firmas, ha sido ampliamente difundida en redes sociales y apoyada por figuras políticas.  Pattery, quien cursa un máster en medio ambiente, ha decidido mantenerse discreta, considerando que otras voces ya representan su postura.  A pesar del éxito de la petición, la ley no será revisada, aunque la presidenta de la Asamblea Nacional ha mostrado interés en un debate público.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien la noticia se centra en Francia, la petición y el debate sobre el pesticida tienen implicaciones internacionales, dado que la sustancia está permitida en otros países europeos.  El tema de la regulación de pesticidas y su impacto ambiental trasciende fronteras."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Stupéfiants : un homme de 19 ans tué par balle à Blagnac, près de Toulouse",
+      "link": "https://www.lefigaro.fr/faits-divers/stupefiants-un-homme-de-19-ans-tue-par-balle-a-blagnac-pres-de-toulouse-20250721",
+      "fecha_obj": "2025-07-21T07:09:51+00:00",
+      "fecha_str": "21-07-2025 07:09 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Joven de 19 años muere baleado en Blagnac, Francia, en un incidente relacionado con tráfico de drogas.",
+      "resumen": "Un hombre de 19 años, con antecedentes en tráfico de drogas, falleció tras recibir disparos en Blagnac, cerca de Toulouse.  Los servicios de emergencia inicialmente respondieron a una llamada por herida de arma blanca, pero descubrieron que se trataba de heridas de bala.  A pesar de los esfuerzos de policías y bomberos, el joven murió en el lugar. La policía indica que la muerte fue consecuencia de una pelea entre varias personas vinculada al narcotráfico.  Aproximadamente dos horas después del incidente, dos sospechosos fueron detenidos.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien es un suceso local, la violencia relacionada con el narcotráfico tiene implicaciones internacionales al ser un problema global.  La detención de sospechosos añade un elemento de interés internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Salmoneras recibieron $28.598 millones en subsidios mientras infringieron derechos laborales",
+      "link": "https://www.ciperchile.cl/2025/07/21/salmoneras-recibieron-28-598-millones-en-subsidios-mientras-infringieron-derechos-laborales/?utm_source=rss&utm_medium=rss&utm_campaign=salmoneras-recibieron-28-598-millones-en-subsidios-mientras-infringieron-derechos-laborales",
+      "fecha_obj": "2025-07-21T07:00:41+00:00",
+      "fecha_str": "21-07-2025 07:00 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Salmoneras chilenas recibieron millones en subsidios a pesar de reiteradas infracciones laborales.",
+      "resumen": "Un reportaje revela que empresas salmoneras chilenas recibieron más de $67 mil millones en subsidios estatales entre 2004 y 2023, a pesar de acumular miles de multas por infringir derechos laborales.  A pesar de una ley de 2013 que condicionaba los subsidios a la ausencia de condenas judiciales por prácticas antisindicales, la redacción ambigua permitió que las empresas recibieran fondos incluso tras sanciones administrativas.  El artículo detalla casos específicos de empresas como Aquachile, Invermar, Cermaq Chile, Nova Austral y Salmones Antártica, mostrando la magnitud de las infracciones y los subsidios recibidos.  Se cuestiona la eficiencia de estos subsidios, considerando las altas ganancias de la industria y la falta de evaluaciones del gasto público.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo aborda un tema de significativa relevancia nacional: el uso de fondos públicos, la industria salmonera (un pilar económico importante), las prácticas laborales y la fiscalización del Estado. La investigación revela irregularidades que afectan el interés público."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "¿»Permisología» o permisividad? El verdadero nudo del modelo extractivo chileno",
+      "link": "https://www.ciperchile.cl/2025/07/20/permisologia-o-permisividad-el-verdadero-nudo-del-modelo-extractivo-chileno/?utm_source=rss&utm_medium=rss&utm_campaign=permisologia-o-permisividad-el-verdadero-nudo-del-modelo-extractivo-chileno",
+      "fecha_obj": "2025-07-20T08:00:58+00:00",
+      "fecha_str": "20-07-2025 08:00 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El debate sobre la \"permisología\" en Chile esconde una lucha por la sostenibilidad ambiental y la democracia.",
+      "resumen": "El artículo critica la narrativa que responsabiliza a la \"permisología\" (tramitación ambiental) por el bajo crecimiento económico de Chile.  Se argumenta que la baja tasa de rechazo de proyectos ambientales (2.2%) desmiente la idea de una excesiva burocracia.  En cambio, se señala la debilidad de los mecanismos de cumplimiento y la presión para flexibilizar las regulaciones.  El texto defiende la necesidad de una regulación más fuerte, participación ciudadana efectiva, y un Estado garante del bien común, en contraposición a un modelo extractivo que prioriza el crecimiento económico por sobre la sostenibilidad ambiental y social.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo analiza un tema crucial para la política nacional chilena: el conflicto entre desarrollo económico y protección ambiental,  debatiendo políticas públicas, crecimiento económico y participación ciudadana.  Su impacto y relevancia son indiscutiblemente nacionales."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Desafíos para el progresismo post-primarias: ¿cómo se abordará la crisis hídrica?",
+      "link": "https://www.ciperchile.cl/2025/07/20/desafios-para-el-progresismo-post-primarias-como-se-abordara-la-crisis-hidrica/?utm_source=rss&utm_medium=rss&utm_campaign=desafios-para-el-progresismo-post-primarias-como-se-abordara-la-crisis-hidrica",
+      "fecha_obj": "2025-07-20T08:00:42+00:00",
+      "fecha_str": "20-07-2025 08:00 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La crisis hídrica chilena exige un programa concreto del progresismo: ¿qué proponen Jara y sus antecesores?",
+      "resumen": "Tras las primarias presidenciales del progresismo chileno, la falta de un programa detallado de Jeannette Jara preocupa, especialmente en la crucial temática de la crisis hídrica.  El artículo analiza las propuestas de los candidatos previos – Tohá, Winter y Mulet – encontrando convergencias en la vinculación entre la crisis hídrica y el cambio climático, así como en la necesidad de fortalecer la gestión de cuencas.  Si bien Jara plantea un \"nuevo pacto con la naturaleza\",  carece de detalles concretos. El texto argumenta que la integración de las ideas de los excandidatos, incluyendo enfoques ecosistémicos y la mejora de la gobernanza hídrica, es crucial para construir un programa creíble y eficaz para enfrentar este desafío nacional.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La crisis hídrica es un problema nacional de máxima urgencia en Chile, afectando la economía, el medio ambiente y la población.  El artículo analiza directamente las propuestas de los principales actores políticos para abordarla, lo que le otorga una relevancia nacional indiscutible."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Tesorería exige a salmoneras devolver $183 millones, pero no denuncia posible fraude al fisco como exige la ley",
+      "link": "https://www.ciperchile.cl/2025/07/21/tesoreria-exige-a-salmoneras-devolver-183-millones-pero-no-denuncia-posible-fraude-al-fisco-como-exige-la-ley/?utm_source=rss&utm_medium=rss&utm_campaign=tesoreria-exige-a-salmoneras-devolver-183-millones-pero-no-denuncia-posible-fraude-al-fisco-como-exige-la-ley",
+      "fecha_obj": "2025-07-21T07:02:41+00:00",
+      "fecha_str": "21-07-2025 07:02 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Salmoneras devolvieron $183 millones por subsidios ilegales, pero Tesorería omitió denunciar posible fraude al fisco.",
+      "resumen": "Una investigación revela que 13 empresas salmoneras recibieron $183 millones en subsidios estatales de manera ilegal entre 2014 y 2023, incumpliendo requisitos de la Ley 19.853 sobre residencia y salarios de trabajadores.  A pesar de la recuperación de los fondos, la Tesorería General de la República no denunció a las empresas al Ministerio Público por posible fraude al fisco, a pesar de que la ley lo exige.  El artículo destaca la omisión de la Tesorería y el posible dolo de las empresas, considerando que la información entregada por las empresas se asume como verdadera hasta que se demuestre lo contrario.  El monto total de subsidios a la industria salmonera entre 2019 y 2023 se estima en al menos $21.180 millones.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La investigación involucra una gran cantidad de dinero público, irregularidades en el uso de subsidios estatales, y la posible comisión de un delito por parte de empresas importantes.  Afecta directamente al erario nacional y a la transparencia en la administración pública, siendo de alta relevancia para la categoría 'Nacional'."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Why the antagonism over the rise in autism diagnoses? It’s actually good news | Gina Rippon",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/21/rise-autism-diagnoses-neurodiversity",
+      "fecha_obj": "2025-07-21T05:00:10+00:00",
+      "fecha_str": "21-07-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El aumento de diagnósticos de autismo no es una mala noticia, sino una corrección necesaria para apoyar a quienes lo necesitan.",
+      "resumen": "El artículo de Gina Rippon cuestiona la narrativa negativa sobre el aumento de diagnósticos de autismo.  Rippon argumenta que este incremento refleja una mejor comprensión del autismo, incluyendo a grupos previamente marginados como mujeres y niñas, y no una \"medicalización\" innecesaria.  A diferencia de las preocupaciones sobre el sobrediagnóstico en enfermedades físicas, un diagnóstico de autismo a menudo es positivo, brindando comprensión, apoyo y acceso a recursos.  Rippon critica la visión que minimiza el autismo y rechaza la idea de que el diagnóstico sea un proceso fácilmente manipulable, destacando su complejidad y la necesidad de reconocer la diversidad humana.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que presenta un argumento claro y bien sustentado sobre un tema controvertido: el aumento de diagnósticos de autismo.  Expresa la opinión de la autora con evidencia y ejemplos,  analizando diferentes perspectivas y refutando argumentos contrarios."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "The Tories are on the brink of annihilation in Wales – and it holds a lesson for Westminster politicians | Will Hayward",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/21/tories-wales-westminster-politicians-nigel-farage-opposition",
+      "fecha_obj": "2025-07-21T07:00:12+00:00",
+      "fecha_str": "21-07-2025 07:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El fracaso de los conservadores en Gales augura un desastre para el partido en Westminster.",
+      "resumen": "El artículo analiza el declive del partido conservador en Gales como una advertencia para Kemi Badenoch.  Su estrategia, similar a la de Reform, está fallando.  La falta de apoyo entre jóvenes, la incompetencia mostrada en eventos y la incapacidad de ofrecer alternativas creíbles al gobierno laborista, los están llevando a una posible aniquilación electoral.  Su incapacidad para definir un liderazgo claro en Gales, con tres líderes distintos, refleja la crisis interna.  El autor destaca la falta de propuestas concretas, especialmente en temas cruciales como el NHS, y la dependencia de una retórica similar a la de Nigel Farage, que ahuyenta a los votantes.  El ejemplo galés sirve como una premonición de lo que podría ocurrir al partido en el Reino Unido si Badenoch no cambia de rumbo.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza un caso político específico (el declive de los conservadores en Gales) para extraer conclusiones y ofrecer una advertencia al partido en el Reino Unido.  Presenta un argumento claro, con ejemplos concretos y datos, para apoyar su tesis.  La estructura y el estilo son propios de un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Two days less holiday? France is up in arms but my sympathy is limited",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/21/two-days-less-holiday-france-is-up-in-arms-but-my-sympathy-is-limited",
+      "fecha_obj": "2025-07-21T04:00:09+00:00",
+      "fecha_str": "21-07-2025 04:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Francia enfrenta una crisis fiscal, y la propuesta de recortar feriados desata la polémica.",
+      "resumen": "El gobierno francés, liderado por François Bayrou, propone eliminar dos feriados para reducir el déficit público, generando fuertes críticas de izquierda y derecha.  Las medidas incluyen una congelación salarial en el sector público y una leve erosión del nivel de vida.  A pesar de un alto gasto público y deuda nacional, la oposición rechaza las medidas, proponiendo soluciones poco realistas como gravar a los ricos o recortar beneficios a inmigrantes.  El autor critica la falta de realismo y la resistencia al cambio, advirtiendo sobre una posible crisis financiera si no se toman medidas estructurales.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la situación fiscal francesa y las reacciones políticas a las medidas de austeridad propuestas.  Analiza las posturas de diferentes actores políticos y ofrece una crítica a la falta de realismo en el debate público, cumpliendo con los requisitos de un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "The Poet Who Advocated Radical Tenderness",
+      "link": "https://www.nytimes.com/2025/07/20/opinion/andrea-gibson-poetry.html",
+      "fecha_obj": "2025-07-21T02:00:08+00:00",
+      "fecha_str": "21-07-2025 02:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Andrea, poeta y activista, abogó por la ternura radical como antídoto contra la división y el aislamiento.",
+      "resumen": "El artículo describe la vida y obra de Andrea, una poeta que, tras un diagnóstico de cáncer incurable, se dedicó a difundir mensajes de esperanza y ternura a través de sus poemas y redes sociales.  Su poesía, como en \"How The Worst Day of My Life Became the Best\" y \"MAGA Hat in the Chemo Room\", exploraba la complejidad de las emociones humanas y la necesidad de conexión.  Andrea instaba a vivir plenamente a pesar del miedo a la pérdida, un mensaje que resonó profundamente en sus seguidores.  Su muerte generó un gran impacto, mostrando la influencia de su mensaje de ternura radical como forma de activismo contra la división y la desconfianza.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión sobre la vida y el legado de Andrea, analizando su obra y su mensaje de ternura como una forma de activismo.  Su impacto y relevancia se discuten, lo que lo convierte en un ensayo de opinión bien argumentado."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Dictionaries Are Better Than Artificial Intelligence",
+      "link": "https://www.nytimes.com/2025/07/20/opinion/dictionary-ai-spelling-writing.html",
+      "fecha_obj": "2025-07-21T00:35:29+00:00",
+      "fecha_str": "21-07-2025 00:35 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Diccionarios vs. IA: ¿Herramientas que facilitan o que limitan la originalidad en la escritura?",
+      "resumen": "El artículo argumenta que los diccionarios son superiores a la inteligencia artificial en la escritura, ya que fomentan la originalidad y la toma de decisiones conscientes por parte del escritor.  A diferencia de las herramientas de autocorrección e IA, que automatizan la escritura, los diccionarios proveen conocimiento léxico y contextual, permitiendo al escritor elegir con precisión las palabras y su uso.  Se destaca la función de los diccionarios en la estandarización y evolución del lenguaje, reflejando y moldeando simultáneamente su uso por diferentes poblaciones.  En esencia, los diccionarios otorgan al escritor el control y la responsabilidad sobre su expresión, a diferencia de la IA que lo limita.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión clara y argumentada sobre la comparación entre el uso de diccionarios y la IA en la escritura.  Su estructura y contenido se ajustan perfectamente al formato de un ensayo de opinión, analizando un tema específico y ofreciendo una postura fundamentada."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "PODCAST. Sixième Science, épisode 170 : l’hypertension artérielle, ce tueur silencieux",
+      "link": "https://www.sciencesetavenir.fr/decouvrir/podcast-sixieme-science-episode-170-l-hypertension-arterielle-ce-tueur-silencieux-qui-touche-un-francais-sur-trois_186302?xtor=RSS-27",
+      "fecha_obj": "2025-07-21T06:00:00+00:00",
+      "fecha_str": "21-07-2025 06:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La hipertensión arterial, un asesino silencioso, afecta a millones;  ¿conoces tus cifras? Escucha Sixième Science.",
+      "resumen": "El podcast Sixième Science aborda la hipertensión arterial, un problema grave que afecta a más de un tercio de los adultos en Francia.  A menudo asintomática, causa millones de muertes anuales.  El artículo destaca la falta de detección y tratamiento adecuado, con médicos que a veces recetan tratamientos inadecuados o realizan mediciones poco fiables. Se enfatiza la importancia de la automedición en casa y la adopción de medidas higiénico-dietéticas para controlar la presión arterial.  Existen tratamientos eficaces, incluyendo la combinación de fármacos, pero la clave está en la detección temprana y un seguimiento adecuado.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo trata un tema de salud con base científica, discutiendo tratamientos y estadísticas.  Aunque no se centra en tecnología específica, la información médica se presenta con rigor científico y es relevante para la salud pública."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "My 9 Favorite Pickleball Paddles From 3 Years of Testing (2025)",
+      "link": "https://www.wired.com/gallery/best-pickleball-paddles/",
+      "fecha_obj": "2025-07-20T15:06:00+00:00",
+      "fecha_str": "20-07-2025 15:06 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Nuevas palas de pádel con núcleo de espuma: mayor durabilidad y confort.",
+      "resumen": "El artículo revisa dos nuevas palas de pádel con núcleo de espuma: la Diadem BluCore y la Selkirk Labs 008. La BluCore, con núcleo de espuma de celda cerrada y cara de fibra de carbono aramida, ofrece mayor durabilidad, amortiguación y un punto dulce amplio, aunque requiere adaptación. La Selkirk Labs 008, con núcleo de espuma y cara de fibra de carbono T700, presenta un tacto más tradicional y un punto dulce más pequeño pero potente, aunque su durabilidad es menor.  Ambas palas son evaluadas positivamente, destacando la superior durabilidad de la Diadem BluCore gracias a su innovador material.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien el artículo menciona materiales y tecnología en la fabricación de las palas, su enfoque principal es la reseña de productos deportivos, no un avance científico o tecnológico."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Orages et inondation: levée des vigilances orange sur l'ensemble du territoire",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/orages-et-inondation-levee-des-vigilances-orange-sur-l-ensemble-du-territoire_187236?xtor=RSS-15",
+      "fecha_obj": "2025-07-21T04:24:22+00:00",
+      "fecha_str": "21-07-2025 04:24 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Fuertes tormentas en Francia dejan un muerto y varios heridos; alerta naranja desactivada.",
+      "resumen": "Un episodio de fuertes tormentas en el sureste de Francia causó la muerte de una persona y varios heridos.  En Saône-et-Loire, una persona falleció al caer de un tejado mientras lo reparaba debido a los daños causados por la tormenta, y otra resultó gravemente herida en circunstancias similares.  En Savoie, dos personas sufrieron heridas graves y tres leves tras la caída de un árbol sobre su vehículo.  Météo-France levantó la alerta naranja en todos los departamentos afectados después de que las tormentas, con fuertes lluvias, granizo, actividad eléctrica intensa y fuertes vientos, disminuyeran.  Los daños incluyeron numerosas viviendas con techos dañados o desprendidos.",
+      "relevancia_score": 2,
+      "relevancia_justificacion": "El artículo describe un evento meteorológico severo.  Si bien la meteorología utiliza tecnología para la predicción, el foco principal es el evento natural y sus consecuencias, no un avance tecnológico."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "‘Queer people were living, loving, suffering, surviving – but invisible’: west Africa’s groundbreaking gay novel 20 years on",
+      "link": "https://www.theguardian.com/global-development/2025/jul/21/west-africa-gay-novel-jude-dibia-walking-with-shadows",
+      "fecha_obj": "2025-07-21T04:00:10+00:00",
+      "fecha_str": "21-07-2025 04:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "20 años después, la novela nigeriana \"Walking With Shadows\" sigue siendo un faro de esperanza para la literatura queer africana.",
+      "resumen": "Publicada en 2005, \"Walking With Shadows\" de Jude Dibia, fue la primera novela nigeriana en situar a un personaje gay en el centro de la trama.  Su publicación enfrentó una fuerte resistencia, con rechazo de editores y consecuencias personales para Dibia, quien tuvo que abandonar Nigeria.  A pesar del rechazo inicial, la novela abrió camino para otras obras queer en África occidental, inspirando a autores como Chinelo Okparanta y Chike Frankie Edozien.  La obra se convirtió en un símbolo de visibilidad y resistencia, demostrando el poder de la literatura para desafiar las normas sociales y dar voz a las experiencias marginadas.  A pesar de los desafíos, Dibia se siente orgulloso del impacto de su novela y espera que continúe siendo relevante como un testimonio del pasado y un recordatorio del costo del silencio.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre una novela que ha tenido un impacto significativo en la literatura y la cultura africana, específicamente en la representación de la comunidad LGBTQ+.  Su lucha contra la censura y su papel en la creación de un nuevo canon literario lo hacen altamente relevante para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "‘It can bring you to tears’: is this the world’s most beautiful sounding nightclub?",
+      "link": "https://www.theguardian.com/music/2025/jul/21/open-ground-wuppertal-germany-nightclub-second-world-war-bunker",
+      "fecha_obj": "2025-07-21T05:00:09+00:00",
+      "fecha_str": "21-07-2025 05:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Open Ground: el club alemán con la mejor acústica del mundo, una experiencia auditiva única.",
+      "resumen": "Open Ground, un club en Wuppertal (Alemania), se ha convertido en un referente mundial por su excepcional calidad de sonido. Fundado por Markus Riedel y Mark Ernestus, ambos con amplia experiencia en la industria musical, el club destaca por su diseño acústico impecable, gracias a un tratamiento especial de las paredes y al uso de potentes altavoces Funktion-One F132.  La inversión en acústica, a diferencia de lo habitual en la industria, se priorizó sobre la iluminación, buscando el bienestar del artista y el público.  El resultado es una experiencia inmersiva que prioriza la salud auditiva y ofrece una atmósfera única, donde incluso se considera que el sonido es tan bueno que no se necesitan drogas.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre un club nocturno que destaca por su diseño acústico e implicaciones culturales.  La historia toca aspectos relevantes de la cultura musical electrónica, la innovación en diseño de espacios y la importancia de la experiencia sensorial en el arte, más allá de lo visual."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "‘I’d had 28 years of depression – now it was gone’: Comic Paul Foot on three seconds that changed his life",
+      "link": "https://www.theguardian.com/culture/2025/jul/21/id-had-28-years-of-depression-now-it-was-gone-comic-paul-foot-on-three-seconds-that-changed-his-life",
+      "fecha_obj": "2025-07-21T04:01:08+00:00",
+      "fecha_str": "21-07-2025 04:01 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Tras 28 años de depresión, el humorista Paul Foot encuentra la alegría en tres segundos; su historia inspira y sorprende.",
+      "resumen": "Paul Foot, un comediante británico, sufrió 28 años de depresión y ansiedad derivada de un abuso sexual infantil reprimido.  En 2022, experimentó una repentina y profunda transformación durante un viaje en auto, liberándose de su sufrimiento.  Este cambio radical lo llevó a crear \"Dissolve\", un espectáculo que combina comedia y revelaciones personales sobre su experiencia.  El show explora temas como el perdón, la búsqueda de la felicidad y el impacto de la salud mental en la vida de un artista. Foot destaca la importancia de la terapia y la autoaceptación en su proceso de sanación, mostrando cómo la comedia puede ser un vehículo para la catarsis y la conexión humana.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo trata sobre un artista y su proceso creativo profundamente influenciado por su experiencia con la salud mental. La creación de su show, \"Dissolve\", es un evento cultural relevante y su historia tiene un valor artístico y humano."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "BBC targets adults in the latest adventure for its top dog Bluey",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/21/bbc-targets-adults-in-the-latest-adventure-for-its-top-dog-bluey",
+      "fecha_obj": "2025-07-21T04:00:10+00:00",
+      "fecha_str": "21-07-2025 04:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Bluey, el perro azul más popular del mundo, se convierte en una marca lifestyle para todas las edades.",
+      "resumen": "El éxito de Bluey, una serie infantil australiana, ha generado para la BBC más de 2.160 millones de libras en ventas.  Su popularidad trasciende la audiencia infantil, expandiéndose a adultos jóvenes a través de plataformas digitales como YouTube y TikTok, acumulando millones de suscriptores y visualizaciones.  La BBC Studios busca consolidar a Bluey como una marca lifestyle, con productos que van desde artículos para bebés hasta experiencias inmersivas,  aprovechando su atractivo tanto para niños como para adultos, quienes valoran su narrativa emotiva y relatable.  A pesar del éxito, la BBC se muestra selectiva con las colaboraciones para evitar la sobreexposición de la marca.  Una película está prevista para 2027 y Disney ya anunció su inclusión en sus parques.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo analiza el fenómeno cultural de Bluey, su impacto en la industria del entretenimiento y su expansión como marca.  Si bien no se centra exclusivamente en aspectos artísticos, la serie en sí misma es una obra creativa y su éxito refleja tendencias culturales significativas."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: hurrah for the return of Diane Morgan’s hapless heroine",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/21/tv-tonight-hurrah-for-the-return-of-diane-morgans-hapless-heroine",
+      "fecha_obj": "2025-07-21T05:20:10+00:00",
+      "fecha_str": "21-07-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: desde tiburones con famosos hasta la hilarante Mandy, ¡hay opciones para todos!",
+      "resumen": "La programación televisiva de esta noche ofrece una variada selección de programas.  'Mandy' regresa con Diane Morgan en una nueva temporada donde busca trabajo.  Michael Mosley explora la longevidad en 'Secrets of the Superagers'. 'Human' continúa su exploración de la evolución humana.  'Shark! Celebrity Infested Waters' muestra a celebridades nadando con tiburones.  'The Couple Next Door' prosigue su trama de suspenso. Finalmente, 'Secrets of the Hells Angels' ofrece una mirada al interior de este club de motociclistas.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien algunos programas podrían tener elementos culturales (como la exploración de la evolución humana), la mayoría se centra en el entretenimiento y la realidad, no en el arte en sí mismo."
+    },
+    "categoria": "cultura_arte"
+  }
+]
