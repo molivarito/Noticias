@@ -1,353 +1,337 @@
 [
   {
     "info": {
-      "titulo": "En direct, guerre en Ukraine : des bombardements russes ont visé plusieurs quartiers de Kiev avant une visite du ministre des affaires étrangères français",
-      "link": "https://www.lemonde.fr/international/live/2025/07/21/en-direct-guerre-en-ukraine-des-bombardements-russes-visent-plusieurs-quartiers-de-kiev-avant-une-visite-du-ministre-des-affaires-etrangeres-francais_6622319_3210.html",
-      "fecha_obj": "2025-07-21T07:13:17+00:00",
-      "fecha_str": "21-07-2025 07:13 UTC",
-      "source_name": "Le Monde International"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Ataques rusos sorprenden a Kiev antes de la visita del ministro francés, dejando un muerto y varios heridos.",
-      "resumen": "Kiev sufrió un nuevo ataque aéreo ruso con drones y misiles, causando un muerto y siete heridos.  Los ataques, que ocurrieron la noche del 20 al 21 de julio, dañaron infraestructuras como una estación de metro, justo antes de la visita prevista del ministro francés de Asuntos Exteriores.  Estos ataques contrastan con el ambiente festivo del fin de semana, marcado por la victoria de Usyk y el Atlas Festival, un gran evento musical que incluyó la actuación de The Rasmus, su primer concierto en Kiev desde 2022.  A pesar de las alertas aéreas, el festival y la celebración de la victoria deportiva continuaron.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata sobre un conflicto internacional, un ataque a la capital de un país en guerra por parte de otro país.  La visita de un ministro de asuntos exteriores de un país importante añade relevancia internacional."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Landslides and Floods Kill 18 in South Korea",
-      "link": "https://www.nytimes.com/2025/07/21/world/asia/south-korea-floods-death-toll.html",
-      "fecha_obj": "2025-07-21T07:09:37+00:00",
-      "fecha_str": "21-07-2025 07:09 UTC",
-      "source_name": "The New York Times World"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Lluvias torrenciales en Corea del Sur causan al menos 18 muertes por inundaciones y deslizamientos.",
-      "resumen": "Intensas lluvias en Corea del Sur han provocado al menos 18 muertes y varios desaparecidos. Deslizamientos de tierra e inundaciones arrasaron casas, vehículos y ganado, principalmente en la provincia de Sancheong, donde cayeron más de 30 centímetros de lluvia en un solo día.  Las autoridades emitieron alertas a los residentes, pero la magnitud del desastre superó las previsiones.  Equipos de rescate trabajan para encontrar a los desaparecidos y el número de víctimas podría aumentar.  Las provincias del sur y oeste del país fueron las más afectadas por las precipitaciones, que comenzaron el miércoles anterior.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El suceso es una tragedia natural de gran escala que ha causado numerosas víctimas mortales en Corea del Sur, un país internacionalmente reconocido.  La noticia tiene un impacto global por la magnitud del desastre y la pérdida de vidas humanas."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Stellantis annonce une perte nette de 2,3 milliards d'euros au premier semestre 2025",
-      "link": "https://www.lefigaro.fr/societes/stellantis-annonce-une-perte-nette-de-2-3-milliards-d-euros-au-premier-semestre-2025-20250721",
-      "fecha_obj": "2025-07-21T07:03:43+00:00",
-      "fecha_str": "21-07-2025 07:03 UTC",
+      "titulo": "La France demande que la presse «puisse accéder à Gaza pour montrer ce qu'il s'y passe», déclare Jean-Noël Barrot",
+      "link": "https://www.lefigaro.fr/international/la-france-demande-l-acces-a-gaza-pour-la-presse-pour-montrer-ce-qu-il-s-y-passe-declare-jean-noel-barrot-20250722",
+      "fecha_obj": "2025-07-22T07:09:57+00:00",
+      "fecha_str": "22-07-2025 07:09 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Stellantis anuncia pérdidas netas de 2,3 mil millones de euros en el primer semestre de 2025, debido a aranceles y reestructuración.",
-      "resumen": "Stellantis reportó pérdidas netas de 2,3 mil millones de euros en el primer semestre de 2025, una caída significativa respecto al beneficio de 5,6 mil millones en el mismo periodo de 2024.  La disminución se atribuye a la reducción de ventas en Europa y Estados Unidos, la suspensión temporal de producción por aranceles estadounidenses, y cargas relacionadas con la cancelación de programas y depreciación de plataformas.  Aunque el volumen de vehículos cayó un 6%, Stellantis espera mejoras en el segundo semestre gracias a nuevas medidas de eficiencia y productos.  La incertidumbre sobre los aranceles llevó a la suspensión de las previsiones financieras en abril.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "La noticia afecta a una empresa multinacional con impacto global, reportando pérdidas significativas y decisiones estratégicas con repercusiones internacionales en el sector automotriz."
+      "teaser_sentence": "Francia exige acceso a Gaza para la prensa, denunciando la situación crítica de periodistas y pidiendo un cese al fuego inmediato.",
+      "resumen": "El ministro francés de Exteriores, Jean-Noël Barrot, declaró que Francia demanda el acceso de la prensa libre e independiente a Gaza para mostrar la situación humanitaria tras 21 meses de guerra.  Señaló la situación crítica de varios colaboradores de la AFP,  condenando la extensión de la ofensiva israelí y calificándola de 'deplorable'. Barrot instó a un cese al fuego inmediato, la liberación de rehenes y el acceso sin trabas de ayuda humanitaria.  Expresó la preocupación por la posible muerte por inanición de periodistas en Gaza y la esperanza de sacar a algunos colaboradores en las próximas semanas.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata directamente sobre la situación internacional en Gaza, incluyendo declaraciones oficiales de un gobierno extranjero sobre el conflicto, la crisis humanitaria, y el acceso a la información.  Es altamente relevante para la categoría 'Internacional'."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "«Je ne suis pas indispensable à ce débat» : qui est Éléonore Pattery, l’étudiante à l’origine de la pétition contre la loi Duplomb ?",
-      "link": "https://www.lefigaro.fr/actualite-france/je-ne-suis-pas-indispensable-a-ce-debat-qui-est-eleonore-pattery-l-etudiante-a-l-origine-de-la-petition-contre-la-loi-duplomb-20250721",
-      "fecha_obj": "2025-07-21T07:21:40+00:00",
-      "fecha_str": "21-07-2025 07:21 UTC",
+      "titulo": "Violences sexuelles, nourriture avariée... Le Venezuela dénonce des «tortures» infligées à ses ressortissants dans une prison au Salvador",
+      "link": "https://www.lefigaro.fr/international/violences-sexuelles-nourriture-avariee-le-venezuela-denonce-des-tortures-infligees-a-ses-ressortissants-dans-une-prison-au-salvador-20250722",
+      "fecha_obj": "2025-07-22T07:06:55+00:00",
+      "fecha_str": "22-07-2025 07:06 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Petición contra la ley Duplomb supera el millón de firmas, impulsada por una estudiante francesa que prefiere el anonimato.",
-      "resumen": "Éléonore Pattery, una estudiante francesa de 23 años, creó una petición contra la ley Duplomb, que permite la reintroducción de un pesticida prohibido en Francia.  La petición, que superó el millón de firmas, ha sido ampliamente difundida en redes sociales y apoyada por figuras políticas.  Pattery, quien cursa un máster en medio ambiente, ha decidido mantenerse discreta, considerando que otras voces ya representan su postura.  A pesar del éxito de la petición, la ley no será revisada, aunque la presidenta de la Asamblea Nacional ha mostrado interés en un debate público.",
-      "relevancia_score": 7,
-      "relevancia_justificacion": "Si bien la noticia se centra en Francia, la petición y el debate sobre el pesticida tienen implicaciones internacionales, dado que la sustancia está permitida en otros países europeos.  El tema de la regulación de pesticidas y su impacto ambiental trasciende fronteras."
+      "teaser_sentence": "Venezuela acusa a Bukele de torturar a 252 venezolanos en una prisión salvadoreña y anuncia una investigación.",
+      "resumen": "Venezuela denunció la tortura de 252 de sus ciudadanos en una prisión salvadoreña, tras su expulsión de Estados Unidos.  El gobierno venezolano inició una investigación contra el presidente Bukele por crímenes de lesa humanidad, incluyendo alegatos de violencia sexual, reclusión inhumana y falta de atención médica.  Los venezolanos fueron repatriados tras un acuerdo con EE.UU. que implicó la liberación de ciudadanos estadounidenses detenidos en Venezuela.  El evento ha generado tensión entre ambos países, con Venezuela calificando las acciones de Bukele como \"maniobras\" para impedir la liberación de sus ciudadanos.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre un conflicto internacional entre Venezuela y El Salvador, involucrando a Estados Unidos, con acusaciones de crímenes contra la humanidad, lo que lo hace altamente relevante para la categoría 'Internacional'."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Stupéfiants : un homme de 19 ans tué par balle à Blagnac, près de Toulouse",
-      "link": "https://www.lefigaro.fr/faits-divers/stupefiants-un-homme-de-19-ans-tue-par-balle-a-blagnac-pres-de-toulouse-20250721",
-      "fecha_obj": "2025-07-21T07:09:51+00:00",
-      "fecha_str": "21-07-2025 07:09 UTC",
+      "titulo": "Yémen : les Houthis revendiquent une attaque de missile visant l'aéroport Ben Gourion près de Tel-Aviv",
+      "link": "https://www.lefigaro.fr/international/yemen-les-houthis-revendiquent-une-attaque-de-missile-visant-l-aeroport-ben-gourion-pres-de-tel-aviv-20250722",
+      "fecha_obj": "2025-07-22T07:02:59+00:00",
+      "fecha_str": "22-07-2025 07:02 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Joven de 19 años muere baleado en Blagnac, Francia, en un incidente relacionado con tráfico de drogas.",
-      "resumen": "Un hombre de 19 años, con antecedentes en tráfico de drogas, falleció tras recibir disparos en Blagnac, cerca de Toulouse.  Los servicios de emergencia inicialmente respondieron a una llamada por herida de arma blanca, pero descubrieron que se trataba de heridas de bala.  A pesar de los esfuerzos de policías y bomberos, el joven murió en el lugar. La policía indica que la muerte fue consecuencia de una pelea entre varias personas vinculada al narcotráfico.  Aproximadamente dos horas después del incidente, dos sospechosos fueron detenidos.",
-      "relevancia_score": 7,
-      "relevancia_justificacion": "Si bien es un suceso local, la violencia relacionada con el narcotráfico tiene implicaciones internacionales al ser un problema global.  La detención de sospechosos añade un elemento de interés internacional."
+      "teaser_sentence": "Los hutíes yemeníes atacan el aeropuerto Ben Gurión con un misil, Israel lo intercepta.",
+      "resumen": "Los rebeldes hutíes de Yemen, apoyados por Irán, reivindicaron un ataque con misiles contra el aeropuerto Ben Gurión cerca de Tel Aviv.  El ejército israelí confirmó la interceptación de un misil lanzado desde Yemen, horas después de realizar ataques aéreos contra un puerto controlado por los hutíes. El portavoz militar huti, Yahya Saree, declaró que el ataque se realizó con un misil balístico hipersónico.  El incidente eleva las tensiones en la región, destacando la escalada del conflicto yemení y su impacto internacional.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El evento involucra un ataque a un aeropuerto israelí desde Yemen, con implicaciones geopolíticas significativas y cobertura internacional.  Es un conflicto de relevancia internacional con actores regionales e implicaciones globales."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Salmoneras recibieron $28.598 millones en subsidios mientras infringieron derechos laborales",
-      "link": "https://www.ciperchile.cl/2025/07/21/salmoneras-recibieron-28-598-millones-en-subsidios-mientras-infringieron-derechos-laborales/?utm_source=rss&utm_medium=rss&utm_campaign=salmoneras-recibieron-28-598-millones-en-subsidios-mientras-infringieron-derechos-laborales",
-      "fecha_obj": "2025-07-21T07:00:41+00:00",
-      "fecha_str": "21-07-2025 07:00 UTC",
-      "source_name": "CIPER Chile"
+      "titulo": "Embarrassée par l’affaire Epstein, la Maison-Blanche poursuit ses représailles contre le Wall Street Journal",
+      "link": "https://www.lefigaro.fr/flash-actu/la-maison-blanche-poursuit-ses-represailles-contre-le-wall-street-journal-20250722",
+      "fecha_obj": "2025-07-22T07:15:05+00:00",
+      "fecha_str": "22-07-2025 07:15 UTC",
+      "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Salmoneras chilenas recibieron millones en subsidios a pesar de reiteradas infracciones laborales.",
-      "resumen": "Un reportaje revela que empresas salmoneras chilenas recibieron más de $67 mil millones en subsidios estatales entre 2004 y 2023, a pesar de acumular miles de multas por infringir derechos laborales.  A pesar de una ley de 2013 que condicionaba los subsidios a la ausencia de condenas judiciales por prácticas antisindicales, la redacción ambigua permitió que las empresas recibieran fondos incluso tras sanciones administrativas.  El artículo detalla casos específicos de empresas como Aquachile, Invermar, Cermaq Chile, Nova Austral y Salmones Antártica, mostrando la magnitud de las infracciones y los subsidios recibidos.  Se cuestiona la eficiencia de estos subsidios, considerando las altas ganancias de la industria y la falta de evaluaciones del gasto público.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo aborda un tema de significativa relevancia nacional: el uso de fondos públicos, la industria salmonera (un pilar económico importante), las prácticas laborales y la fiscalización del Estado. La investigación revela irregularidades que afectan el interés público."
-    },
-    "categoria": "nacional"
-  },
-  {
-    "info": {
-      "titulo": "¿»Permisología» o permisividad? El verdadero nudo del modelo extractivo chileno",
-      "link": "https://www.ciperchile.cl/2025/07/20/permisologia-o-permisividad-el-verdadero-nudo-del-modelo-extractivo-chileno/?utm_source=rss&utm_medium=rss&utm_campaign=permisologia-o-permisividad-el-verdadero-nudo-del-modelo-extractivo-chileno",
-      "fecha_obj": "2025-07-20T08:00:58+00:00",
-      "fecha_str": "20-07-2025 08:00 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "El debate sobre la \"permisología\" en Chile esconde una lucha por la sostenibilidad ambiental y la democracia.",
-      "resumen": "El artículo critica la narrativa que responsabiliza a la \"permisología\" (tramitación ambiental) por el bajo crecimiento económico de Chile.  Se argumenta que la baja tasa de rechazo de proyectos ambientales (2.2%) desmiente la idea de una excesiva burocracia.  En cambio, se señala la debilidad de los mecanismos de cumplimiento y la presión para flexibilizar las regulaciones.  El texto defiende la necesidad de una regulación más fuerte, participación ciudadana efectiva, y un Estado garante del bien común, en contraposición a un modelo extractivo que prioriza el crecimiento económico por sobre la sostenibilidad ambiental y social.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo analiza un tema crucial para la política nacional chilena: el conflicto entre desarrollo económico y protección ambiental,  debatiendo políticas públicas, crecimiento económico y participación ciudadana.  Su impacto y relevancia son indiscutiblemente nacionales."
-    },
-    "categoria": "nacional"
-  },
-  {
-    "info": {
-      "titulo": "Desafíos para el progresismo post-primarias: ¿cómo se abordará la crisis hídrica?",
-      "link": "https://www.ciperchile.cl/2025/07/20/desafios-para-el-progresismo-post-primarias-como-se-abordara-la-crisis-hidrica/?utm_source=rss&utm_medium=rss&utm_campaign=desafios-para-el-progresismo-post-primarias-como-se-abordara-la-crisis-hidrica",
-      "fecha_obj": "2025-07-20T08:00:42+00:00",
-      "fecha_str": "20-07-2025 08:00 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "La crisis hídrica chilena exige un programa concreto del progresismo: ¿qué proponen Jara y sus antecesores?",
-      "resumen": "Tras las primarias presidenciales del progresismo chileno, la falta de un programa detallado de Jeannette Jara preocupa, especialmente en la crucial temática de la crisis hídrica.  El artículo analiza las propuestas de los candidatos previos – Tohá, Winter y Mulet – encontrando convergencias en la vinculación entre la crisis hídrica y el cambio climático, así como en la necesidad de fortalecer la gestión de cuencas.  Si bien Jara plantea un \"nuevo pacto con la naturaleza\",  carece de detalles concretos. El texto argumenta que la integración de las ideas de los excandidatos, incluyendo enfoques ecosistémicos y la mejora de la gobernanza hídrica, es crucial para construir un programa creíble y eficaz para enfrentar este desafío nacional.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "La crisis hídrica es un problema nacional de máxima urgencia en Chile, afectando la economía, el medio ambiente y la población.  El artículo analiza directamente las propuestas de los principales actores políticos para abordarla, lo que le otorga una relevancia nacional indiscutible."
-    },
-    "categoria": "nacional"
-  },
-  {
-    "info": {
-      "titulo": "Tesorería exige a salmoneras devolver $183 millones, pero no denuncia posible fraude al fisco como exige la ley",
-      "link": "https://www.ciperchile.cl/2025/07/21/tesoreria-exige-a-salmoneras-devolver-183-millones-pero-no-denuncia-posible-fraude-al-fisco-como-exige-la-ley/?utm_source=rss&utm_medium=rss&utm_campaign=tesoreria-exige-a-salmoneras-devolver-183-millones-pero-no-denuncia-posible-fraude-al-fisco-como-exige-la-ley",
-      "fecha_obj": "2025-07-21T07:02:41+00:00",
-      "fecha_str": "21-07-2025 07:02 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Salmoneras devolvieron $183 millones por subsidios ilegales, pero Tesorería omitió denunciar posible fraude al fisco.",
-      "resumen": "Una investigación revela que 13 empresas salmoneras recibieron $183 millones en subsidios estatales de manera ilegal entre 2014 y 2023, incumpliendo requisitos de la Ley 19.853 sobre residencia y salarios de trabajadores.  A pesar de la recuperación de los fondos, la Tesorería General de la República no denunció a las empresas al Ministerio Público por posible fraude al fisco, a pesar de que la ley lo exige.  El artículo destaca la omisión de la Tesorería y el posible dolo de las empresas, considerando que la información entregada por las empresas se asume como verdadera hasta que se demuestre lo contrario.  El monto total de subsidios a la industria salmonera entre 2019 y 2023 se estima en al menos $21.180 millones.",
+      "teaser_sentence": "Trump excluye al Wall Street Journal de su viaje a Escocia tras artículo sobre Epstein.",
+      "resumen": "La Casa Blanca, bajo la presidencia de Donald Trump, retiró al Wall Street Journal de la lista de periodistas que cubrirían su viaje a Escocia.  Esto se debe a la publicación de un artículo que detallaba la relación entre Trump y Jeffrey Epstein.  Trump ya había demandado al periódico por difamación tras la publicación.  Esta acción se suma a otras tomadas por la Casa Blanca contra medios de comunicación, incluyendo la exclusión de la Associated Press del grupo de periodistas que cubre al presidente.  La muerte de Epstein ha generado teorías conspirativas y la demanda de una lista de sus clientes, algo que el FBI ha negado.",
       "relevancia_score": 9,
-      "relevancia_justificacion": "La investigación involucra una gran cantidad de dinero público, irregularidades en el uso de subsidios estatales, y la posible comisión de un delito por parte de empresas importantes.  Afecta directamente al erario nacional y a la transparencia en la administración pública, siendo de alta relevancia para la categoría 'Nacional'."
+      "relevancia_justificacion": "El artículo trata sobre acciones de la administración Trump contra un medio estadounidense importante, con implicaciones internacionales por la figura pública de Trump y la cobertura global de la noticia."
     },
-    "categoria": "nacional"
+    "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Why the antagonism over the rise in autism diagnoses? It’s actually good news | Gina Rippon",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/21/rise-autism-diagnoses-neurodiversity",
-      "fecha_obj": "2025-07-21T05:00:10+00:00",
-      "fecha_str": "21-07-2025 05:00 UTC",
-      "source_name": "The Guardian Opinion"
+      "titulo": "Barack Obama menotté et jeté en prison par le FBI : quand Donald Trump partage des images surréalistes générées par IA",
+      "link": "https://www.lefigaro.fr/international/barack-obama-menotte-et-jete-en-prison-par-le-fbi-quand-donald-trump-partage-des-images-surrealistes-generees-par-ia-20250722",
+      "fecha_obj": "2025-07-22T07:16:15+00:00",
+      "fecha_str": "22-07-2025 07:16 UTC",
+      "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "El aumento de diagnósticos de autismo no es una mala noticia, sino una corrección necesaria para apoyar a quienes lo necesitan.",
-      "resumen": "El artículo de Gina Rippon cuestiona la narrativa negativa sobre el aumento de diagnósticos de autismo.  Rippon argumenta que este incremento refleja una mejor comprensión del autismo, incluyendo a grupos previamente marginados como mujeres y niñas, y no una \"medicalización\" innecesaria.  A diferencia de las preocupaciones sobre el sobrediagnóstico en enfermedades físicas, un diagnóstico de autismo a menudo es positivo, brindando comprensión, apoyo y acceso a recursos.  Rippon critica la visión que minimiza el autismo y rechaza la idea de que el diagnóstico sea un proceso fácilmente manipulable, destacando su complejidad y la necesidad de reconocer la diversidad humana.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo es un ensayo de opinión que presenta un argumento claro y bien sustentado sobre un tema controvertido: el aumento de diagnósticos de autismo.  Expresa la opinión de la autora con evidencia y ejemplos,  analizando diferentes perspectivas y refutando argumentos contrarios."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "The Tories are on the brink of annihilation in Wales – and it holds a lesson for Westminster politicians | Will Hayward",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/21/tories-wales-westminster-politicians-nigel-farage-opposition",
-      "fecha_obj": "2025-07-21T07:00:12+00:00",
-      "fecha_str": "21-07-2025 07:00 UTC",
-      "source_name": "The Guardian Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "El fracaso de los conservadores en Gales augura un desastre para el partido en Westminster.",
-      "resumen": "El artículo analiza el declive del partido conservador en Gales como una advertencia para Kemi Badenoch.  Su estrategia, similar a la de Reform, está fallando.  La falta de apoyo entre jóvenes, la incompetencia mostrada en eventos y la incapacidad de ofrecer alternativas creíbles al gobierno laborista, los están llevando a una posible aniquilación electoral.  Su incapacidad para definir un liderazgo claro en Gales, con tres líderes distintos, refleja la crisis interna.  El autor destaca la falta de propuestas concretas, especialmente en temas cruciales como el NHS, y la dependencia de una retórica similar a la de Nigel Farage, que ahuyenta a los votantes.  El ejemplo galés sirve como una premonición de lo que podría ocurrir al partido en el Reino Unido si Badenoch no cambia de rumbo.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza un caso político específico (el declive de los conservadores en Gales) para extraer conclusiones y ofrecer una advertencia al partido en el Reino Unido.  Presenta un argumento claro, con ejemplos concretos y datos, para apoyar su tesis.  La estructura y el estilo son propios de un ensayo de opinión."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "Two days less holiday? France is up in arms but my sympathy is limited",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/21/two-days-less-holiday-france-is-up-in-arms-but-my-sympathy-is-limited",
-      "fecha_obj": "2025-07-21T04:00:09+00:00",
-      "fecha_str": "21-07-2025 04:00 UTC",
-      "source_name": "The Guardian Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Francia enfrenta una crisis fiscal, y la propuesta de recortar feriados desata la polémica.",
-      "resumen": "El gobierno francés, liderado por François Bayrou, propone eliminar dos feriados para reducir el déficit público, generando fuertes críticas de izquierda y derecha.  Las medidas incluyen una congelación salarial en el sector público y una leve erosión del nivel de vida.  A pesar de un alto gasto público y deuda nacional, la oposición rechaza las medidas, proponiendo soluciones poco realistas como gravar a los ricos o recortar beneficios a inmigrantes.  El autor critica la falta de realismo y la resistencia al cambio, advirtiendo sobre una posible crisis financiera si no se toman medidas estructurales.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la situación fiscal francesa y las reacciones políticas a las medidas de austeridad propuestas.  Analiza las posturas de diferentes actores políticos y ofrece una crítica a la falta de realismo en el debate público, cumpliendo con los requisitos de un ensayo de opinión."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "The Poet Who Advocated Radical Tenderness",
-      "link": "https://www.nytimes.com/2025/07/20/opinion/andrea-gibson-poetry.html",
-      "fecha_obj": "2025-07-21T02:00:08+00:00",
-      "fecha_str": "21-07-2025 02:00 UTC",
-      "source_name": "The New York Times Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Andrea, poeta y activista, abogó por la ternura radical como antídoto contra la división y el aislamiento.",
-      "resumen": "El artículo describe la vida y obra de Andrea, una poeta que, tras un diagnóstico de cáncer incurable, se dedicó a difundir mensajes de esperanza y ternura a través de sus poemas y redes sociales.  Su poesía, como en \"How The Worst Day of My Life Became the Best\" y \"MAGA Hat in the Chemo Room\", exploraba la complejidad de las emociones humanas y la necesidad de conexión.  Andrea instaba a vivir plenamente a pesar del miedo a la pérdida, un mensaje que resonó profundamente en sus seguidores.  Su muerte generó un gran impacto, mostrando la influencia de su mensaje de ternura radical como forma de activismo contra la división y la desconfianza.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta una opinión sobre la vida y el legado de Andrea, analizando su obra y su mensaje de ternura como una forma de activismo.  Su impacto y relevancia se discuten, lo que lo convierte en un ensayo de opinión bien argumentado."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "Dictionaries Are Better Than Artificial Intelligence",
-      "link": "https://www.nytimes.com/2025/07/20/opinion/dictionary-ai-spelling-writing.html",
-      "fecha_obj": "2025-07-21T00:35:29+00:00",
-      "fecha_str": "21-07-2025 00:35 UTC",
-      "source_name": "The New York Times Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Diccionarios vs. IA: ¿Herramientas que facilitan o que limitan la originalidad en la escritura?",
-      "resumen": "El artículo argumenta que los diccionarios son superiores a la inteligencia artificial en la escritura, ya que fomentan la originalidad y la toma de decisiones conscientes por parte del escritor.  A diferencia de las herramientas de autocorrección e IA, que automatizan la escritura, los diccionarios proveen conocimiento léxico y contextual, permitiendo al escritor elegir con precisión las palabras y su uso.  Se destaca la función de los diccionarios en la estandarización y evolución del lenguaje, reflejando y moldeando simultáneamente su uso por diferentes poblaciones.  En esencia, los diccionarios otorgan al escritor el control y la responsabilidad sobre su expresión, a diferencia de la IA que lo limita.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta una opinión clara y argumentada sobre la comparación entre el uso de diccionarios y la IA en la escritura.  Su estructura y contenido se ajustan perfectamente al formato de un ensayo de opinión, analizando un tema específico y ofreciendo una postura fundamentada."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "PODCAST. Sixième Science, épisode 170 : l’hypertension artérielle, ce tueur silencieux",
-      "link": "https://www.sciencesetavenir.fr/decouvrir/podcast-sixieme-science-episode-170-l-hypertension-arterielle-ce-tueur-silencieux-qui-touche-un-francais-sur-trois_186302?xtor=RSS-27",
-      "fecha_obj": "2025-07-21T06:00:00+00:00",
-      "fecha_str": "21-07-2025 06:00 UTC",
-      "source_name": "Sciences et Avenir"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "La hipertensión arterial, un asesino silencioso, afecta a millones;  ¿conoces tus cifras? Escucha Sixième Science.",
-      "resumen": "El podcast Sixième Science aborda la hipertensión arterial, un problema grave que afecta a más de un tercio de los adultos en Francia.  A menudo asintomática, causa millones de muertes anuales.  El artículo destaca la falta de detección y tratamiento adecuado, con médicos que a veces recetan tratamientos inadecuados o realizan mediciones poco fiables. Se enfatiza la importancia de la automedición en casa y la adopción de medidas higiénico-dietéticas para controlar la presión arterial.  Existen tratamientos eficaces, incluyendo la combinación de fármacos, pero la clave está en la detección temprana y un seguimiento adecuado.",
+      "teaser_sentence": "Trump comparte video IA mostrando el arresto ficticio de Obama, avivando su rivalidad.",
+      "resumen": "Donald Trump difundió un video generado por IA en Truth Social que muestra la arrestación ficticia de Barack Obama en la Casa Blanca.  La pieza, originalmente de TikTok, incluye imágenes de Obama y Biden diciendo \"nadie está por encima de la ley\", seguidas de una representación de Obama siendo arrestado por el FBI mientras Trump observa sonriendo.  El video resalta la larga rivalidad entre ambos, que incluye afirmaciones pasadas de Trump sobre la ciudadanía de Obama y recientes cambios en la ubicación del retrato de Obama en la Casa Blanca. La publicación ha generado más de 31.000 likes en Truth Social.",
       "relevancia_score": 8,
-      "relevancia_justificacion": "El artículo trata un tema de salud con base científica, discutiendo tratamientos y estadísticas.  Aunque no se centra en tecnología específica, la información médica se presenta con rigor científico y es relevante para la salud pública."
+      "relevancia_justificacion": "La noticia involucra a dos expresidentes de Estados Unidos, un tema de gran interés internacional.  La difusión de desinformación a través de IA y la persistencia de la rivalidad política entre figuras clave también tienen relevancia global."
     },
-    "categoria": "ciencia_tecnologia"
+    "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "My 9 Favorite Pickleball Paddles From 3 Years of Testing (2025)",
-      "link": "https://www.wired.com/gallery/best-pickleball-paddles/",
-      "fecha_obj": "2025-07-20T15:06:00+00:00",
-      "fecha_str": "20-07-2025 15:06 UTC",
+      "titulo": "Contribuciones, el impuesto al talento: la segregación invisible que expulsa a los nuevos profesionales",
+      "link": "https://www.ciperchile.cl/2025/07/22/contribuciones-el-impuesto-al-talento-la-segregacion-invisible-que-expulsa-a-los-nuevos-profesionales/?utm_source=rss&utm_medium=rss&utm_campaign=contribuciones-el-impuesto-al-talento-la-segregacion-invisible-que-expulsa-a-los-nuevos-profesionales",
+      "fecha_obj": "2025-07-22T07:10:20+00:00",
+      "fecha_str": "22-07-2025 07:10 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El impuesto a la propiedad en Chile expulsa a profesionales emergentes, agravando la desigualdad.",
+      "resumen": "El artículo critica el sistema de contribuciones (impuesto territorial) en Chile, argumentando que funciona como un \"impuesto al talento\", forzando a profesionales de clase media a abandonar sus viviendas en barrios en desarrollo debido al rápido aumento del avalúo fiscal.  Esto genera segregación urbana y frena la movilidad social.  Se propone anclar las contribuciones al valor de compra inicial, ajustado solo por inflación, para permitir una planificación a largo plazo y evitar el desplazamiento de los residentes.  Estudios de simulación y ejemplos internacionales respaldan la necesidad de esta reforma para construir ciudades más inclusivas.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El tema aborda una problemática económica y social crucial en Chile, con impacto directo en la política habitacional, la desigualdad y la movilidad social.  Es un asunto de debate nacional con implicaciones políticas y económicas relevantes."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Cortes de luz: compensaciones para los clientes son financiadas por los mismos usuarios",
+      "link": "https://www.ciperchile.cl/2025/07/21/cortes-de-luz-compensaciones-para-los-clientes-son-financiadas-por-los-mismos-usuarios/?utm_source=rss&utm_medium=rss&utm_campaign=cortes-de-luz-compensaciones-para-los-clientes-son-financiadas-por-los-mismos-usuarios",
+      "fecha_obj": "2025-07-21T21:57:37+00:00",
+      "fecha_str": "21-07-2025 21:57 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Los usuarios financian las compensaciones por cortes de luz a través de cargos ocultos en sus facturas.",
+      "resumen": "Un estudio revela que los clientes de 21 de las 26 empresas distribuidoras de electricidad en Chile financian, sin saberlo, las compensaciones por cortes de luz.  Un cargo del 0.52% del valor total de la factura, no detallado en la boleta, cubre estas indemnizaciones. Este costo se incluyó en el Valor Agregado de Distribución (VAD) tras un retraso de 42 meses en su reajuste, debido a desacuerdos entre la CNE y las empresas.  El Panel de Expertos cuestionó este traspaso de costos a los usuarios.  Tras un gran apagón en agosto de 2024, la mayoría de las empresas aplicaron las compensaciones, excepto Enel.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El tema afecta directamente a millones de consumidores chilenos, involucra a empresas de gran envergadura y organismos reguladores, y desenmascara una práctica cuestionable en el cobro de servicios básicos."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Carta abierta en respuesta al informe “Impacto de la Reforma Educacional del 2015” escrito por el Dr. en Economía Miguel Lorca Espinoza del OCEC UDP",
+      "link": "https://www.ciperchile.cl/2025/07/21/carta-abierta-en-respuesta-al-informe-impacto-de-la-reforma-educacional-del-2015-escrito-por-el-dr-en-economia-miguel-lorca-espinoza-del-ocec-udp/?utm_source=rss&utm_medium=rss&utm_campaign=carta-abierta-en-respuesta-al-informe-impacto-de-la-reforma-educacional-del-2015-escrito-por-el-dr-en-economia-miguel-lorca-espinoza-del-ocec-udp",
+      "fecha_obj": "2025-07-21T13:58:27+00:00",
+      "fecha_str": "21-07-2025 13:58 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Carta abierta cuestiona el informe sobre el impacto de la Reforma Educacional del 2015, señalando omisiones metodológicas y contextuales.",
+      "resumen": "Una carta abierta critica el informe del Dr. Lorca Espinoza sobre la Reforma Educacional de 2015, argumentando que atribuye erróneamente la caída de resultados SIMCE solo a la reforma. Señala la omisión de factores como la pandemia, la inclusión de estudiantes psicodivergentes, la reducción de la cobertura curricular y el sesgo de género.  Critica la comparación con colegios privados y la falta de análisis comparativo internacional y desagregado por nivel socioeconómico.  Se cuestiona la metodología y se propone un nuevo estudio con períodos y metodologías comparables para una evaluación más justa y contextualizada de la reforma.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo analiza una reforma educacional nacional, sus impactos y las metodologías utilizadas para evaluarla, siendo un tema de gran interés y debate público en Chile."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Even the Tories now admit that our electoral system is toxic. When will Labour have the guts to fix it? | Polly Toynbee",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/22/britain-electoral-system-tories-labour-first-past-the-post",
+      "fecha_obj": "2025-07-22T06:00:46+00:00",
+      "fecha_str": "22-07-2025 06:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El sistema electoral británico está roto y necesita reforma urgente para evitar un gobierno impopular.",
+      "resumen": "Polly Toynbee argumenta que el sistema electoral británico 'first-past-the-post' es tóxico y necesita una reforma urgente.  A pesar de que el Partido Laborista se benefició de este sistema en las últimas elecciones, la autora insta a Keir Starmer a priorizar el interés nacional sobre el partidista e implementar un sistema proporcional o, al menos, el voto alternativo.  Diversas figuras políticas, incluso conservadores, reconocen la necesidad de cambio ante la posibilidad de un gobierno de Nigel Farage con un apoyo popular minoritario.  La autora destaca el apoyo público creciente a la representación proporcional y la necesidad de actuar antes de una catástrofe democrática.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente el sistema electoral británico, ofreciendo argumentos y propuestas para su reforma.  Expresa una postura clara y fundamentada, respaldada por datos y opiniones de expertos, lo que lo hace altamente relevante para la categoría."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "The Perverse Economics of Assisted Suicide",
+      "link": "https://www.nytimes.com/2025/07/22/opinion/assisted-suicide-economics.html",
+      "fecha_obj": "2025-07-22T05:00:04+00:00",
+      "fecha_str": "22-07-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La eutanasia asistida: ¿ahorro estatal o puerta a la discriminación?",
+      "resumen": "El artículo analiza las implicaciones económicas y éticas de la eutanasia asistida (MAID), particularmente en Canadá, donde la eliminación de requisitos previos ha llevado a que jóvenes y personas con pocos recursos la elijan.  Se argumenta que la socialización de la salud crea incentivos perversos para que el estado, responsable de su cuidado y regulación de su muerte, promueva la MAID como una medida de ahorro de costes.  Ejemplos de políticos y funcionarios que plantean el ahorro económico como un argumento a favor de la MAID ilustran la preocupación del autor.  El artículo concluye que el sistema privatizado de salud de EE. UU. es menos vulnerable a estos incentivos, mientras que en países con sistemas de salud socializados, el peligro moral es mayor.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre las consecuencias económicas y éticas de la eutanasia asistida, respaldada con ejemplos y análisis, lo que lo convierte en un ensayo de opinión completo y relevante."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "I’m a writer from the Balkans. Why do people assume I only know about war and tragedy? | Ana Schnabl",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/22/balkans-writer-war-tragedy-english-readers-books",
+      "fecha_obj": "2025-07-22T04:00:45+00:00",
+      "fecha_str": "22-07-2025 04:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Escritores balcánicos: ¿víctimas o narradores? Rompiendo estereotipos en la literatura.",
+      "resumen": "Ana Schnabl, escritora balcánica, relata su experiencia en una conferencia estadounidense donde percibió un sesgo en la industria editorial. Los editores priorizan historias que reflejen el trauma y la tragedia de la región, perpetuando estereotipos. Schnabl critica esta visión limitada, argumentando que se ignora la diversidad de voces y experiencias balcánicas más allá de la guerra y la pobreza.  Señala que se rechazan historias universales si no están teñidas de un exotismo regional, limitando la representación de los Balcanes a un único y reduccionista narrativa.  A pesar de algunos ejemplos positivos, la autora reclama una mayor apertura a la diversidad de historias de la región.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que expresa un punto de vista crítico sobre la representación de los Balcanes en la literatura, ofreciendo una perspectiva personal y argumentando con ejemplos concretos.  Su estructura, estilo y contenido se ajustan perfectamente a la categoría."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "The Coldplay Concert Shame Is Something to Celebrate",
+      "link": "https://www.nytimes.com/2025/07/21/opinion/coldplay-affair-trump.html",
+      "fecha_obj": "2025-07-22T01:39:25+00:00",
+      "fecha_str": "22-07-2025 01:39 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La vergüenza, un concepto rescatado en la era de la desvergüenza política.",
+      "resumen": "El artículo celebra la vergüenza pública de algunos individuos como contrapunto a la falta de responsabilidad en la política actual.  Se critica la actitud de congresistas que aprueban medidas consideradas perjudiciales, priorizando el poder y el miedo al presidente Trump sobre el bienestar ciudadano.  Se utiliza la renuncia de Byron como ejemplo positivo, contrastándola con la falta de responsabilidad de figuras como Trump,  cuyas acciones y acusaciones de mala conducta son mencionadas. El autor argumenta que la vergüenza, a pesar de ser negativa, resulta reconfortante en un contexto de impunidad.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El texto expresa una opinión clara y argumentada sobre la situación política actual, utilizando ejemplos concretos y análisis crítico.  Se ajusta perfectamente a la categoría de 'Opinion Ensayo' por su naturaleza subjetiva, reflexiva y argumentativa."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Trump, Epstein and a Stinging SCOTUS Dissent",
+      "link": "https://www.nytimes.com/2025/07/19/opinion/epstein-investigation-trump-supreme-court.html",
+      "fecha_obj": "2025-07-21T22:08:10+00:00",
+      "fecha_str": "21-07-2025 22:08 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El cambio de opinión de Trump sobre la investigación Epstein divide a MAGA y genera controversia sobre el poder presidencial.",
+      "resumen": "El podcast analiza la semana del gobierno Trump, dividida entre la victoria judicial que permite al presidente desmantelar la educación y la controversia por la investigación Epstein. Trump pide dejar el caso, lo que causa desconcierto en sus seguidores.  Algunos ven una conspiración global, otros una estrategia para desviar la atención.  La Corte Suprema, sin explicaciones, permite el despido masivo en Educación, generando críticas por falta de transparencia y posible abuso de poder.  El podcast concluye con comentarios sobre la situación política y momentos de alegría personal.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta opiniones diversas sobre temas políticos relevantes, analizando las consecuencias de las acciones de Trump y la actuación de la Corte Suprema.  Su estructura y análisis lo acercan a un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "15% Off Dell Coupon Codes | July 2025",
+      "link": "https://www.wired.com/story/dell-coupon-code/",
+      "fecha_obj": "2025-07-22T05:10:00+00:00",
+      "fecha_str": "22-07-2025 05:10 UTC",
       "source_name": "Wired"
     },
     "resumen_datos": {
-      "teaser_sentence": "Nuevas palas de pádel con núcleo de espuma: mayor durabilidad y confort.",
-      "resumen": "El artículo revisa dos nuevas palas de pádel con núcleo de espuma: la Diadem BluCore y la Selkirk Labs 008. La BluCore, con núcleo de espuma de celda cerrada y cara de fibra de carbono aramida, ofrece mayor durabilidad, amortiguación y un punto dulce amplio, aunque requiere adaptación. La Selkirk Labs 008, con núcleo de espuma y cara de fibra de carbono T700, presenta un tacto más tradicional y un punto dulce más pequeño pero potente, aunque su durabilidad es menor.  Ambas palas son evaluadas positivamente, destacando la superior durabilidad de la Diadem BluCore gracias a su innovador material.",
-      "relevancia_score": 3,
-      "relevancia_justificacion": "Si bien el artículo menciona materiales y tecnología en la fabricación de las palas, su enfoque principal es la reseña de productos deportivos, no un avance científico o tecnológico."
-    },
-    "categoria": "ciencia_tecnologia"
-  },
-  {
-    "info": {
-      "titulo": "Orages et inondation: levée des vigilances orange sur l'ensemble du territoire",
-      "link": "https://www.sciencesetavenir.fr/nature-environnement/orages-et-inondation-levee-des-vigilances-orange-sur-l-ensemble-du-territoire_187236?xtor=RSS-15",
-      "fecha_obj": "2025-07-21T04:24:22+00:00",
-      "fecha_str": "21-07-2025 04:24 UTC",
-      "source_name": "Sciences et Avenir"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Fuertes tormentas en Francia dejan un muerto y varios heridos; alerta naranja desactivada.",
-      "resumen": "Un episodio de fuertes tormentas en el sureste de Francia causó la muerte de una persona y varios heridos.  En Saône-et-Loire, una persona falleció al caer de un tejado mientras lo reparaba debido a los daños causados por la tormenta, y otra resultó gravemente herida en circunstancias similares.  En Savoie, dos personas sufrieron heridas graves y tres leves tras la caída de un árbol sobre su vehículo.  Météo-France levantó la alerta naranja en todos los departamentos afectados después de que las tormentas, con fuertes lluvias, granizo, actividad eléctrica intensa y fuertes vientos, disminuyeran.  Los daños incluyeron numerosas viviendas con techos dañados o desprendidos.",
-      "relevancia_score": 2,
-      "relevancia_justificacion": "El artículo describe un evento meteorológico severo.  Si bien la meteorología utiliza tecnología para la predicción, el foco principal es el evento natural y sus consecuencias, no un avance tecnológico."
-    },
-    "categoria": "ciencia_tecnologia"
-  },
-  {
-    "info": {
-      "titulo": "‘Queer people were living, loving, suffering, surviving – but invisible’: west Africa’s groundbreaking gay novel 20 years on",
-      "link": "https://www.theguardian.com/global-development/2025/jul/21/west-africa-gay-novel-jude-dibia-walking-with-shadows",
-      "fecha_obj": "2025-07-21T04:00:10+00:00",
-      "fecha_str": "21-07-2025 04:00 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "20 años después, la novela nigeriana \"Walking With Shadows\" sigue siendo un faro de esperanza para la literatura queer africana.",
-      "resumen": "Publicada en 2005, \"Walking With Shadows\" de Jude Dibia, fue la primera novela nigeriana en situar a un personaje gay en el centro de la trama.  Su publicación enfrentó una fuerte resistencia, con rechazo de editores y consecuencias personales para Dibia, quien tuvo que abandonar Nigeria.  A pesar del rechazo inicial, la novela abrió camino para otras obras queer en África occidental, inspirando a autores como Chinelo Okparanta y Chike Frankie Edozien.  La obra se convirtió en un símbolo de visibilidad y resistencia, demostrando el poder de la literatura para desafiar las normas sociales y dar voz a las experiencias marginadas.  A pesar de los desafíos, Dibia se siente orgulloso del impacto de su novela y espera que continúe siendo relevante como un testimonio del pasado y un recordatorio del costo del silencio.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata sobre una novela que ha tenido un impacto significativo en la literatura y la cultura africana, específicamente en la representación de la comunidad LGBTQ+.  Su lucha contra la censura y su papel en la creación de un nuevo canon literario lo hacen altamente relevante para la categoría 'Cultura Arte'."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "‘It can bring you to tears’: is this the world’s most beautiful sounding nightclub?",
-      "link": "https://www.theguardian.com/music/2025/jul/21/open-ground-wuppertal-germany-nightclub-second-world-war-bunker",
-      "fecha_obj": "2025-07-21T05:00:09+00:00",
-      "fecha_str": "21-07-2025 05:00 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Open Ground: el club alemán con la mejor acústica del mundo, una experiencia auditiva única.",
-      "resumen": "Open Ground, un club en Wuppertal (Alemania), se ha convertido en un referente mundial por su excepcional calidad de sonido. Fundado por Markus Riedel y Mark Ernestus, ambos con amplia experiencia en la industria musical, el club destaca por su diseño acústico impecable, gracias a un tratamiento especial de las paredes y al uso de potentes altavoces Funktion-One F132.  La inversión en acústica, a diferencia de lo habitual en la industria, se priorizó sobre la iluminación, buscando el bienestar del artista y el público.  El resultado es una experiencia inmersiva que prioriza la salud auditiva y ofrece una atmósfera única, donde incluso se considera que el sonido es tan bueno que no se necesitan drogas.",
+      "teaser_sentence": "Ahorra hasta un 600$ en portátiles y monitores Dell; ¡ofertas especiales para estudiantes y militares!",
+      "resumen": "Dell ofrece descuentos significativos en sus productos durante su evento de regreso a clases.  Se destacan ofertas como hasta $250 de descuento en monitores Alienware y Ultrasharp, hasta $400 en portátiles Inspiron, $600 en XPS y hasta $300 en desktops.  Hay cupones de 15% de descuento con códigos promocionales,  10% adicional para estudiantes (con verificación de correo .edu) y 5% para militares y empleados.  Además, el programa Dell Rewards ofrece hasta un 9% de reembolso en compras y financiamiento con bonificaciones.  El artículo detalla cómo usar los códigos promocionales y resalta las ofertas en portátiles XPS y Alienware.",
       "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo trata sobre un club nocturno que destaca por su diseño acústico e implicaciones culturales.  La historia toca aspectos relevantes de la cultura musical electrónica, la innovación en diseño de espacios y la importancia de la experiencia sensorial en el arte, más allá de lo visual."
+      "relevancia_justificacion": "El artículo se centra en ofertas y promociones de productos tecnológicos de Dell, una empresa importante en el sector. La información sobre descuentos, especificaciones de productos y programas de fidelización es altamente relevante para la categoría Ciencia y Tecnología."
     },
-    "categoria": "cultura_arte"
+    "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "‘I’d had 28 years of depression – now it was gone’: Comic Paul Foot on three seconds that changed his life",
-      "link": "https://www.theguardian.com/culture/2025/jul/21/id-had-28-years-of-depression-now-it-was-gone-comic-paul-foot-on-three-seconds-that-changed-his-life",
-      "fecha_obj": "2025-07-21T04:01:08+00:00",
-      "fecha_str": "21-07-2025 04:01 UTC",
-      "source_name": "The Guardian Culture"
+      "titulo": "AT&T Promo Code: Get a Gift Card Worth Up to $200",
+      "link": "https://www.wired.com/story/att-promo-code/",
+      "fecha_obj": "2025-07-22T05:30:00+00:00",
+      "fecha_str": "22-07-2025 05:30 UTC",
+      "source_name": "Wired"
     },
     "resumen_datos": {
-      "teaser_sentence": "Tras 28 años de depresión, el humorista Paul Foot encuentra la alegría en tres segundos; su historia inspira y sorprende.",
-      "resumen": "Paul Foot, un comediante británico, sufrió 28 años de depresión y ansiedad derivada de un abuso sexual infantil reprimido.  En 2022, experimentó una repentina y profunda transformación durante un viaje en auto, liberándose de su sufrimiento.  Este cambio radical lo llevó a crear \"Dissolve\", un espectáculo que combina comedia y revelaciones personales sobre su experiencia.  El show explora temas como el perdón, la búsqueda de la felicidad y el impacto de la salud mental en la vida de un artista. Foot destaca la importancia de la terapia y la autoaceptación en su proceso de sanación, mostrando cómo la comedia puede ser un vehículo para la catarsis y la conexión humana.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "El artículo trata sobre un artista y su proceso creativo profundamente influenciado por su experiencia con la salud mental. La creación de su show, \"Dissolve\", es un evento cultural relevante y su historia tiene un valor artístico y humano."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "BBC targets adults in the latest adventure for its top dog Bluey",
-      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/21/bbc-targets-adults-in-the-latest-adventure-for-its-top-dog-bluey",
-      "fecha_obj": "2025-07-21T04:00:10+00:00",
-      "fecha_str": "21-07-2025 04:00 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Bluey, el perro azul más popular del mundo, se convierte en una marca lifestyle para todas las edades.",
-      "resumen": "El éxito de Bluey, una serie infantil australiana, ha generado para la BBC más de 2.160 millones de libras en ventas.  Su popularidad trasciende la audiencia infantil, expandiéndose a adultos jóvenes a través de plataformas digitales como YouTube y TikTok, acumulando millones de suscriptores y visualizaciones.  La BBC Studios busca consolidar a Bluey como una marca lifestyle, con productos que van desde artículos para bebés hasta experiencias inmersivas,  aprovechando su atractivo tanto para niños como para adultos, quienes valoran su narrativa emotiva y relatable.  A pesar del éxito, la BBC se muestra selectiva con las colaboraciones para evitar la sobreexposición de la marca.  Una película está prevista para 2027 y Disney ya anunció su inclusión en sus parques.",
+      "teaser_sentence": "Ahorra hasta \\u0024200 en AT&T: Promociones para internet, planes móviles y descuentos exclusivos.",
+      "resumen": "El artículo detalla las promociones de AT&T, incluyendo hasta \\u0024200 al contratar internet de fibra –con código SUMMER50–, descuentos para clientes existentes al agrupar servicios, ofertas para profesionales, estudiantes y militares, y un ahorro anual de más de \\u0024800 al contratar cuatro líneas ilimitadas.  Además, menciona descuentos de empleadores, intercambio de teléfonos y una prueba gratuita de 30 días.  Finalmente, sugiere aprovechar las ofertas de Cyber Monday.",
       "relevancia_score": 7,
-      "relevancia_justificacion": "El artículo analiza el fenómeno cultural de Bluey, su impacto en la industria del entretenimiento y su expansión como marca.  Si bien no se centra exclusivamente en aspectos artísticos, la serie en sí misma es una obra creativa y su éxito refleja tendencias culturales significativas."
+      "relevancia_justificacion": "El artículo trata sobre ofertas de un proveedor de tecnología, lo que lo hace relevante. Sin embargo, el enfoque principal son las promociones comerciales, no avances tecnológicos."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "10% Off Canon Promo Code & Coupons",
+      "link": "https://www.wired.com/story/canon-promo-code/",
+      "fecha_obj": "2025-07-22T05:20:00+00:00",
+      "fecha_str": "22-07-2025 05:20 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Canon ofrece descuentos de hasta $500 en cámaras, impresoras y más; ¡aprovecha las ofertas!",
+      "resumen": "El artículo detalla las promociones de Canon, incluyendo descuentos significativos en cámaras EOS R3, R5 C, R6 Mark II y R10, así como en lentes, impresoras y consumibles.  Se destacan ofertas especiales para profesionales y estudiantes a través del programa Canon Professional Service, con descuentos adicionales y acceso a reparaciones con tarifas reducidas.  También se promueven ofertas en cámaras y lentes reacondicionadas con garantía, ofreciendo ahorros considerables.  Finalmente, se incluyen descuentos en impresoras y tinta, incluyendo envío gratuito en muchos productos.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo se centra en productos tecnológicos (cámaras, impresoras) y sus promociones.  Si bien no hay avances científicos, la relevancia radica en el impacto tecnológico de los productos y las estrategias de marketing en el sector."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Ben Shahn Retrospective Misses Key Element of the Artist’s Legacy",
+      "link": "https://hyperallergic.com/1028907/ben-shahn-retrospective-jewish-museum-misses-key-element-of-the-artist-legacy/",
+      "fecha_obj": "2025-07-21T21:34:58+00:00",
+      "fecha_str": "21-07-2025 21:34 UTC",
+      "source_name": "Hyperallergic"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Retrospectiva de Ben Shahn en el Museo Judío: ¿un artista solitario o parte de una comunidad profética?",
+      "resumen": "El artículo analiza la retrospectiva de Ben Shahn, 'On Nonconformity', criticando su enfoque en el artista como un individuo aislado, ignorando su participación en comunidades políticas y artísticas.  Se destaca la omisión de sus murales del New Deal y su contexto histórico, mostrando una visión incompleta de su legado.  La reseña argumenta que Shahn fue parte de una 'comunidad profética' de artistas judíos izquierdistas, y que comprender este contexto es crucial para apreciar su obra y su influencia. Se critica la presentación del artista como un 'no conformista' solitario, minimizando su activismo político y su conexión con movimientos sociales.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es una crítica extensa de una exposición de arte, analizando la obra y el legado de un artista importante del siglo XX, Ben Shahn.  Profundiza en aspectos culturales, políticos y artísticos, siendo altamente relevante para la categoría 'Cultura Arte'."
     },
     "categoria": "cultura_arte"
   },
   {
     "info": {
-      "titulo": "TV tonight: hurrah for the return of Diane Morgan’s hapless heroine",
-      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/21/tv-tonight-hurrah-for-the-return-of-diane-morgans-hapless-heroine",
-      "fecha_obj": "2025-07-21T05:20:10+00:00",
-      "fecha_str": "21-07-2025 05:20 UTC",
+      "titulo": "Adiós a Jorge Aulicino: La voz singular que marcó la poesía y el periodismo cultural argentino",
+      "link": "https://www.clarin.com/cultura/adios-jorge-aulicino-voz-singular-marco-poesia-periodismo-cultural-argentino_0_vG7CGdGa4r.html",
+      "fecha_obj": "2025-07-21T21:32:59+00:00",
+      "fecha_str": "21-07-2025 21:32 UTC",
+      "source_name": "Revista Ñ – Clarín Cultura"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Adiós a Jorge Aulicino: poeta, periodista y traductor argentino singular, una voz que marcó la cultura.",
+      "resumen": "Jorge Aulicino (1949-2023), figura destacada de la poesía y el periodismo cultural argentino, falleció recientemente.  Su obra poética se caracterizó por una búsqueda de precisión y un juego con la representación, alejándose del sentimentalismo.  Influenciado por autores norteamericanos e italianos, y con un pasado familiar italiano, Aulicino también fue un reconocido traductor, culminando con su versión de La Divina Comedia.  Su trayectoria periodística en Clarín, incluyendo su labor en la revista Ñ, enriqueció su perspectiva poética y le permitió desarrollar una mirada crítica sobre la sociedad y la historia.  Formó parte de talleres literarios influyentes y mantuvo amistades duraderas con otros escritores, dejando un legado significativo en la literatura y el periodismo argentino.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata la vida y obra de una figura relevante en la poesía y el periodismo cultural argentinos, aportando información valiosa para la comprensión del panorama cultural del país.  Su impacto en la literatura y el periodismo cultural justifica una puntuación máxima."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Why Does Elon Musk Have Such a Straight View of Antiquity?",
+      "link": "https://hyperallergic.com/1029023/why-does-elon-musk-have-such-a-straight-view-of-antiquity/",
+      "fecha_obj": "2025-07-21T21:48:08+00:00",
+      "fecha_str": "21-07-2025 21:48 UTC",
+      "source_name": "Hyperallergic"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Elon Musk's invocación a la Batalla de Leuctra ignora el papel crucial de la Banda Sagrada, compuesta por parejas de amantes guerreros.",
+      "resumen": "El artículo analiza la recurrente invocación de Elon Musk a la antigüedad grecorromana, particularmente su mención de la Batalla de Leuctra y la táctica militar de Epaminondas.  Se critica la omisión por parte de Musk y otros conservadores del rol fundamental de la Banda Sagrada Tebana, una unidad militar compuesta por parejas de hombres amantes, en la victoria tebana.  El texto destaca la ironía de Musk, quien se presenta como un intelectual conservador, ignorando el contexto LGBTQ+ de la historia.  Se argumenta que esta omisión refleja un sesgo selectivo, presente también en iniciativas conservadoras como el Classic Learning Test, que promueven una visión parcial y heteronormativa de la antigüedad.  El artículo concluye que la apropiación de la historia antigua por figuras como Musk sirve para reforzar una masculinidad conservadora y una visión distorsionada del pasado.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo explora la intersección entre la cultura clásica, la historia LGBTQ+ y la apropiación política de la historia antigua.  Analiza la representación de la antigüedad en la cultura popular y su influencia en la construcción de narrativas políticas, lo que lo relaciona directamente con la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: more top-notch tunes in romantic drama Mix Tape",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/22/tv-tonight-mix-tape-james-gunn",
+      "fecha_obj": "2025-07-22T05:20:45+00:00",
+      "fecha_str": "22-07-2025 05:20 UTC",
       "source_name": "The Guardian Culture"
     },
     "resumen_datos": {
-      "teaser_sentence": "Esta noche en TV: desde tiburones con famosos hasta la hilarante Mandy, ¡hay opciones para todos!",
-      "resumen": "La programación televisiva de esta noche ofrece una variada selección de programas.  'Mandy' regresa con Diane Morgan en una nueva temporada donde busca trabajo.  Michael Mosley explora la longevidad en 'Secrets of the Superagers'. 'Human' continúa su exploración de la evolución humana.  'Shark! Celebrity Infested Waters' muestra a celebridades nadando con tiburones.  'The Couple Next Door' prosigue su trama de suspenso. Finalmente, 'Secrets of the Hells Angels' ofrece una mirada al interior de este club de motociclistas.",
-      "relevancia_score": 3,
-      "relevancia_justificacion": "Si bien algunos programas podrían tener elementos culturales (como la exploración de la evolución humana), la mayoría se centra en el entretenimiento y la realidad, no en el arte en sí mismo."
+      "teaser_sentence": "Drama, repostería, costas británicas y casos de asesinato: ¡una noche llena de emociones en la TV!",
+      "resumen": "La programación televisiva ofrece una variada selección: el drama romántico 'Mix Tape' explora una relación conmovedora; 'Bake Off: The Professionals' presenta un desafío de repostería; 'Coastal Adventures' recorre la costa británica; 'My Life Is Murder' resuelve un caso en una empresa de aceite de coco; 'Cold Case' investiga un asesinato de 1991; 'Creature Commandos' muestra una serie animada para adultos; y la película 'Women Talking' aborda un tema delicado en una comunidad menonita.  También se incluye la transmisión de un partido de cricket femenino y las semifinales del Euro 2025 femenino.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "La programación incluye la película 'Women Talking', que se centra en un tema social relevante y la reseña de la serie animada 'Creature Commandos', ambas con elementos culturales. Sin embargo, la mayor parte del contenido se centra en otros géneros, reduciendo la puntuación."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "How “Coldplaygate” Became the Meme of the Summer",
+      "link": "https://hyperallergic.com/1028939/how-coldplaygate-became-the-meme-of-the-summer/",
+      "fecha_obj": "2025-07-21T22:00:04+00:00",
+      "fecha_str": "21-07-2025 22:00 UTC",
+      "source_name": "Hyperallergic"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Amante descubierto en concierto Coldplay: el 'Coldplaygate' se vuelve viral.",
+      "resumen": "Un video del 'kiss cam' en un concierto de Coldplay expuso un posible romance extramarital entre el CEO de Astronomer, Andy Byron, y la jefa de RRHH, Kristin Cabot.  La reacción avergonzada de la pareja se volvió viral, generando el meme del verano, \"Coldplaygate\". Byron renunció a su cargo y Cabot eliminó su perfil de LinkedIn. El incidente inspiró innumerables memes, comparaciones con otros escándalos, y hasta un videojuego.  El evento se convirtió en un fenómeno cultural, con recreaciones artísticas y debates sobre vigilancia y la cultura corporativa.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien el artículo menciona recreaciones artísticas de \"El Grito\" de Munch, la relevancia principal reside en el aspecto viral del evento y su impacto en la cultura popular, más que en el análisis del arte en sí mismo."
     },
     "categoria": "cultura_arte"
   }
