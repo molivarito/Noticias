@@ -1,353 +1,353 @@
 [
   {
     "info": {
-      "titulo": "Chinese Hackers Are Exploiting Flaws in Widely Used Software, Microsoft Says",
-      "link": "https://www.nytimes.com/2025/07/23/world/asia/chinese-hackers-microsoft-sharepoint.html",
-      "fecha_obj": "2025-07-23T07:17:31+00:00",
-      "fecha_str": "23-07-2025 07:17 UTC",
+      "titulo": "A Timeline of the Latest Conflict Between Cambodia and Thailand",
+      "link": "https://www.nytimes.com/2025/07/24/world/asia/cambodia-thailand-conflict-timeline.html",
+      "fecha_obj": "2025-07-24T07:01:38+00:00",
+      "fecha_str": "24-07-2025 07:01 UTC",
       "source_name": "The New York Times World"
     },
     "resumen_datos": {
-      "teaser_sentence": "Hackers chinos explotan vulnerabilidades en software de Microsoft, afectando a gobiernos y empresas.",
-      "resumen": "Microsoft ha denunciado que grupos de hackers chinos, patrocinados por el estado, están explotando vulnerabilidades en su software SharePoint.  Al menos dos grupos, Linen Typhoon y Violet Typhoon, conocidos por Microsoft desde hace años, y un tercer actor, Storm-2603, con alta probabilidad de ser chino, están implicados. Los ataques buscan infiltrarse en sistemas informáticos de organizaciones y personal de sectores como gobierno, defensa, derechos humanos, educación superior, medios de comunicación y servicios financieros y sanitarios en EE. UU., Europa y Asia Oriental.  Microsoft ha identificado y está trabajando en solucionar las vulnerabilidades.",
+      "teaser_sentence": "Choque fronterizo entre Camboya y Tailandia: escalada de tensión y crisis diplomática.",
+      "resumen": "Las disputas fronterizas entre Camboya y Tailandia, con raíces en un mapa colonial de 1907, han escalado recientemente.  Tras enfrentamientos militares con víctimas civiles, las tensiones se agudizaron con la muerte de un soldado camboyano en mayo de 2025.  Una llamada telefónica entre la primera ministra tailandesa Paetongtarn Shinawatra y el líder camboyano Hun Sen, en la que la primera adoptó un tono considerado controvertido, provocó una crisis política interna en Tailandia, llevando a la suspensión de Paetongtarn.  La situación culminó con la degradación de las relaciones diplomáticas entre ambos países tras un incidente con minas terrestres.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El incidente involucra a actores estatales chinos, afecta a múltiples países y sectores, y tiene implicaciones geopolíticas y de seguridad internacional de gran envergadura."
+      "relevancia_justificacion": "El conflicto involucra a dos países, resultando en muertes, crisis diplomáticas y tensiones internacionales.  Es un evento de relevancia geopolítica en el sudeste asiático."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Tuvalu : plus de 80% des habitants cherchent à obtenir un visa climatique en Australie",
-      "link": "https://www.lefigaro.fr/flash-actu/tuvalu-plus-de-80-des-habitants-cherchent-a-obtenir-un-visa-climatique-en-australie-20250723",
-      "fecha_obj": "2025-07-23T07:10:06+00:00",
-      "fecha_str": "23-07-2025 07:10 UTC",
+      "titulo": "Russie : un avion de ligne avec 49 personnes à bord «a disparu des radars», le fuselage en flammes retrouvé",
+      "link": "https://www.lefigaro.fr/international/russie-un-avion-de-ligne-avec-49-personnes-a-bord-a-disparu-des-radars-le-fuselage-en-flammes-retrouve-20250724",
+      "fecha_obj": "2025-07-24T07:15:32+00:00",
+      "fecha_str": "24-07-2025 07:15 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "El 82% de los habitantes de Tuvalu buscan visas australianas por el cambio climático.",
-      "resumen": "Un informe revela que más del 80% de la población de Tuvalu, un archipiélago del Pacífico amenazado por la subida del nivel del mar, ha solicitado visas australianas bajo un tratado de 2024.  Un total de 8.750 tuvaluanos se han registrado para la primera fase del programa, representando el 82% de los 10.643 habitantes del archipiélago. Esta migración masiva se debe a la creciente amenaza que representa la subida del nivel del mar para la existencia misma de Tuvalu, obligando a sus habitantes a buscar refugio en otros países.  La cifra destaca la urgencia de la crisis climática y sus consecuencias para las poblaciones vulnerables.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "La noticia trata sobre migración internacional causada por el cambio climático, un tema de gran relevancia global."
+      "teaser_sentence": "Avión Antonov-24 desaparece en Rusia; 49 personas a bordo, fuselaje encontrado en llamas.",
+      "resumen": "Un avión Antonov-24 con 49 personas a bordo desapareció de los radares durante un vuelo entre Blagovechtchensk y Tynda, en la región rusa de Amur.  El gobernador Vasili Orlov confirmó el incidente a través de Telegram.  Posteriormente, el Ministerio de Situaciones de Emergencia informó que un helicóptero Mi-8 localizó el fuselaje del avión en llamas.  Aún no se conocen las causas del accidente ni la situación de los pasajeros y la tripulación.  Se espera más información.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El suceso es una noticia de gran impacto que involucra una tragedia aérea en Rusia, un país con relevancia internacional.  La desaparición de un avión con numerosos pasajeros es un evento que genera interés global y preocupación."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "A Long, Overdue Reporting Trip Through Syria",
-      "link": "https://www.nytimes.com/2025/07/23/world/middleeast/a-long-overdue-reporting-trip-through-syria.html",
-      "fecha_obj": "2025-07-23T07:00:18+00:00",
-      "fecha_str": "23-07-2025 07:00 UTC",
-      "source_name": "The New York Times World"
+      "titulo": "En Argentine, à trois mois des législatives, Javier Milei pris dans une crise de gouvernance",
+      "link": "https://www.lemonde.fr/international/article/2025/07/24/en-argentine-a-trois-mois-des-legislatives-javier-milei-pris-dans-une-crise-de-gouvernance_6623431_3210.html",
+      "fecha_obj": "2025-07-24T07:11:48+00:00",
+      "fecha_str": "24-07-2025 07:11 UTC",
+      "source_name": "Le Monde International"
     },
     "resumen_datos": {
-      "teaser_sentence": "Tras el fin de la guerra en Siria, un corresponsal del New York Times recorre el país devastado, documentando la destrucción y el sufrimiento.",
-      "resumen": "Tras más de una década cubriendo la guerra civil siria desde el Líbano, un corresponsal del New York Times pudo finalmente acceder a todo el país después de la caída del régimen de Bashar al-Assad.  El artículo describe el viaje del corresponsal, mostrando la inmensa destrucción y pérdida causada por el conflicto.  Se destaca la escala de la tragedia, con más de medio millón de muertos y una devastación generalizada que requerirá décadas y cuantiosos recursos para reconstruir. El acceso a zonas previamente inaccesibles permitió al corresponsal reunirse con sirios con quienes solo había interactuado online, y presenciar de primera mano la magnitud del daño.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata directamente sobre un conflicto bélico relevante a nivel internacional, sus consecuencias humanitarias y la situación política de un país en el Medio Oriente, cubriendo aspectos políticos, sociales y humanitarios de gran importancia global."
+      "teaser_sentence": "A tres meses de elecciones, el gobierno de Milei en Argentina enfrenta una crisis de gobernabilidad tras la pérdida de poderes legislativos.",
+      "resumen": "El presidente argentino Javier Milei, enfrenta dificultades a tres meses de las elecciones legislativas de octubre.  Tras la finalización de sus poderes especiales para legislar por decreto, el Senado aprobó leyes contrarias a sus planes, incluyendo aumentos de pensiones y medidas para personas con discapacidad.  Milei, autodenominado ultraliberal, afirma que todo marcha según su plan, mientras la oposición lo contradice.  Esta situación genera una crisis de gobernabilidad en el país, con el gobierno enfrentando fuertes presiones políticas antes de los comicios.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La nota cubre una crisis política en Argentina, un país relevante en el contexto internacional de Latinoamérica.  El desafío al gobierno de Milei y las implicaciones políticas a corto plazo (elecciones) la hacen altamente relevante para la categoría 'Internacional'."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "MMA: Ciryl Gane a rendez-vous avec l’histoire en octobre pour décrocher la ceinture mondiale des poids lourds",
-      "link": "https://www.lefigaro.fr/sports/mma/mma-ciryl-gane-a-rendez-vous-avec-l-histoire-en-octobre-pour-decrocher-la-ceinture-mondiale-des-poids-lourds-20250723",
-      "fecha_obj": "2025-07-23T07:00:30+00:00",
-      "fecha_str": "23-07-2025 07:00 UTC",
+      "titulo": "Formule 1 : Alpine, des promesses à la dure réalité de la piste ... Récit d’une chute spectaculaire",
+      "link": "https://www.lefigaro.fr/sports/formule-1/formule-1-alpine-des-promesses-a-la-dure-realite-de-la-piste-recit-d-une-chute-spectaculaire-20250724",
+      "fecha_obj": "2025-07-24T07:01:44+00:00",
+      "fecha_str": "24-07-2025 07:01 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Ciryl Gane busca la gloria: tercera oportunidad por el título mundial de peso pesado UFC.",
-      "resumen": "Ciryl Gane, de 35 años, tendrá una tercera oportunidad de ganar el campeonato de peso pesado de UFC el 25 de octubre en Abu Dhabi contra Tom Aspinall.  Gane ha perdido previamente contra Francis Ngannou y Jon Jones, quien recientemente se retiró dejando el título vacante. Aspinall, de 32 años, fue promovido a campeón unificado y defenderá el cinturón por primera vez en este combate.  Será la primera vez que Gane y Aspinall se enfrenten, con un récord de 13-2 para Gane y 15-3 para Aspinall. El evento, UFC 321, ha sido anunciado por la UFC en redes sociales.",
+      "teaser_sentence": "El desplome de Alpine F1: de grandes promesas a la última posición, una historia de inestabilidad y malas decisiones.",
+      "resumen": "El artículo analiza el declive del equipo Alpine de Fórmula 1, desde su cuarta posición en 2022 hasta el último lugar en 2025.  Se atribuye la caída a la alta rotación de personal clave (Abiteboul, Budkowski, Szafnauer, Rossi, Famin, etc.), la mala gestión de pilotos (Alonso, Piastri, Ocon, Doohan, Colapinto), y la decisión de abandonar el motor Renault por el de Mercedes.  La inestabilidad interna, la presión por resultados a corto plazo, y la falta de una estrategia a largo plazo contribuyeron al fracaso.  El futuro de Alpine es incierto, con la posibilidad de una venta si no se logra una mejora significativa con el nuevo motor.",
       "relevancia_score": 8,
-      "relevancia_justificacion": "El evento deportivo es de relevancia internacional al ser un combate de UFC por el título mundial de peso pesado, involucrando a un peleador francés y uno británico. La UFC tiene una audiencia global."
+      "relevancia_justificacion": "El artículo trata sobre un equipo de Fórmula 1, un deporte de alcance internacional. El análisis de su fracaso involucra decisiones empresariales y deportivas globales, con implicaciones financieras y de imagen a nivel mundial."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Tour de France : «Allez Valentin, pour les livres d’histoire», la vidéo fabuleuse dans la voiture suiveuse de Paret-Peintre à l’arrivée au Ventoux",
-      "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-allez-valentin-pour-les-livres-d-histoire-la-video-fabuleuse-dans-la-voiture-suiveuse-de-paret-peintre-a-l-arrivee-du-ventoux-20250723",
-      "fecha_obj": "2025-07-23T06:57:34+00:00",
-      "fecha_str": "23-07-2025 06:57 UTC",
+      "titulo": "Tarn-et-Garonne : une enfant de 12 ans poignarde sa mère à la gorge",
+      "link": "https://www.lefigaro.fr/faits-divers/tarn-et-garonne-une-enfant-de-12-ans-poignarde-sa-mere-a-la-gorge-a-montauban-20250724",
+      "fecha_obj": "2025-07-24T07:17:02+00:00",
+      "fecha_str": "24-07-2025 07:17 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Victoria emocionante de Paret-Peintre en el Mont Ventoux: ¡un momento para la historia del Tour de France!",
-      "resumen": "Valentin Paret-Peintre logró una victoria inesperada y emotiva en la etapa 16 del Tour de France, conquistando el mítico Mont Ventoux.  Su triunfo, el quinto para un francés en este emblemático puerto, desató escenas de euforia en su equipo, Soudal Quick-Step. Un video muestra al director deportivo, Davide Bramati, visiblemente emocionado y en lágrimas, alentando a Paret-Peintre con la frase \"Allez Valentin, pour les livres d’histoire\" en los metros finales de la carrera, mientras luchaba contra Healy. La escena captura la intensidad y la belleza del deporte, inmortalizando un momento inolvidable en la historia del ciclismo.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "La victoria de un ciclista francés en una etapa icónica del Tour de France es una noticia relevante a nivel internacional, atrayendo la atención de aficionados al ciclismo en todo el mundo.  El evento tiene un impacto mediático considerable."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Declaración de la CNE sobre el reportaje de las compensaciones por cortes de electricidad y respuesta de CIPER",
-      "link": "https://www.ciperchile.cl/2025/07/22/declaracion-de-la-cne-sobre-el-reportaje-de-las-compensaciones-por-cortes-de-electricidad-y-respuesta-de-ciper/?utm_source=rss&utm_medium=rss&utm_campaign=declaracion-de-la-cne-sobre-el-reportaje-de-las-compensaciones-por-cortes-de-electricidad-y-respuesta-de-ciper",
-      "fecha_obj": "2025-07-22T18:36:22+00:00",
-      "fecha_str": "22-07-2025 18:36 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "CNE desmiente que las tarifas eléctricas financien compensaciones por cortes de luz, rechazando las acusaciones de CIPER.",
-      "resumen": "La Comisión Nacional de Energía (CNE) respondió a un reportaje de CIPER que afirmaba que las compensaciones por cortes de luz se financian con las tarifas eléctricas. La CNE aclaró que las tarifas no incluyen cargos para este fin, y que el parámetro técnico mencionado por CIPER se usa en el diseño de un modelo teórico, sin relación directa con los costos reales o compensaciones pagadas.  La metodología tarifaria fue discutida con las empresas, y la decisión de la CNE evitó un alza significativa en las tarifas,  estimada en un 37% adicional, o cerca de un 80% considerando la inflación.  Según la CNE, su decisión evitó que los consumidores pagaran aproximadamente US$1.000 millones adicionales.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "La noticia involucra a una entidad gubernamental clave (CNE) en la regulación de un servicio básico (electricidad) y tiene implicaciones directas en el bolsillo de los consumidores chilenos.  El debate sobre el alza de tarifas y la transparencia en su cálculo es de gran interés nacional."
-    },
-    "categoria": "nacional"
-  },
-  {
-    "info": {
-      "titulo": "Perdiendo la inocencia: carta de un padre desempleado con una hija con TEA",
-      "link": "https://www.ciperchile.cl/2025/07/22/perdiendo-la-inocencia-carta-de-un-padre-desempleado-con-una-hija-con-tea/?utm_source=rss&utm_medium=rss&utm_campaign=perdiendo-la-inocencia-carta-de-un-padre-desempleado-con-una-hija-con-tea",
-      "fecha_obj": "2025-07-22T17:45:01+00:00",
-      "fecha_str": "22-07-2025 17:45 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Padre desempleado denuncia indiferencia gubernamental ante la falta de oportunidades laborales para cuidadores de personas con TEA.",
-      "resumen": "Un padre de una hija con TEA nivel 3 relata su lucha por encontrar trabajo compatible con sus responsabilidades como cuidador.  Tras dos años y medio de desempleo, ha intentado infructuosamente obtener apoyo de autoridades chilenas a través de solicitudes de audiencia.  A pesar de las promesas iniciales,  ha encontrado indiferencia e indolencia,  con los ministerios rechazando en su mayoría sus solicitudes de diálogo.  Critica la falta de políticas públicas que permitan la conciliación familiar y laboral para cuidadores de personas con discapacidad, denunciando una falla en la representación democrática y el acceso a un trabajo digno.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo aborda un problema social relevante a nivel nacional en Chile: la falta de apoyo a las familias cuidadoras de personas con discapacidad y la dificultad para conciliar vida laboral y familiar.  La denuncia de indiferencia gubernamental y la falta de políticas públicas adecuadas tiene un impacto nacional y genera un debate sobre la inclusión y los derechos de las personas con discapacidad."
-    },
-    "categoria": "nacional"
-  },
-  {
-    "info": {
-      "titulo": "Look at the rise of measles in England and ask yourself: have we learned a single thing from Covid?  | Frances Ryan",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/23/england-measles-covid-vaccines-herd-immunity",
-      "fecha_obj": "2025-07-23T07:00:45+00:00",
-      "fecha_str": "23-07-2025 07:00 UTC",
-      "source_name": "The Guardian Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "El resurgimiento del sarampión en Inglaterra revela la falla en aprender de la pandemia de Covid-19.",
-      "resumen": "El aumento de casos de sarampión en Inglaterra, con un niño fallecido, refleja la falta de aprendizaje de la pandemia de Covid-19.  A pesar de existir una vacuna segura y eficaz (MMR), la baja cobertura vacunal, en parte por la fatiga pandémica y desconfianza en las autoridades, deja a muchos niños vulnerables.  El artículo critica la falta de inversión en campañas de salud pública, la disminución de la vacunación en general (gripe, VPH), y la inacción ante la desinformación. Se destaca la necesidad de una acción colectiva para lograr la inmunidad colectiva, reconociendo que la \"elección personal\" tiene consecuencias para la sociedad. El autor lamenta la falta de inversión en programas de alcance comunitario y la disminución de la financiación para la salud pública.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo expresa una opinión clara sobre la respuesta del gobierno británico a la amenaza del sarampión, comparándola con la pandemia de Covid-19.  Es un ensayo argumentativo que analiza las causas y consecuencias de la situación, ofreciendo una crítica fundamentada y propuestas implícitas para mejorar la salud pública."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "Want to import toxic chemicals into Britain with scant scrutiny? Labour says: go right ahead | George Monbiot",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/23/britain-toxic-chemicals-labour-tory-brexit-regulations",
-      "fecha_obj": "2025-07-23T05:00:44+00:00",
-      "fecha_str": "23-07-2025 05:00 UTC",
-      "source_name": "The Guardian Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Gobierno Laborista británico relaja regulaciones químicas, priorizando beneficios empresariales sobre salud pública.",
-      "resumen": "El artículo critica la decisión del gobierno laborista británico de relajar las regulaciones sobre productos químicos, permitiendo la importación de sustancias aprobadas en países con estándares inferiores a los del Reino Unido.  Esta medida, impulsada por presiones empresariales, se considera una regresión en materia de salud pública y ambiental.  El autor argumenta que esta decisión contradice las promesas electorales del partido y representa una amenaza para la salud de la población y el medio ambiente, comparándola con la desregulación impulsada por la extrema derecha del partido conservador.  La falta de transparencia y la opacidad del proceso de consulta preocupan al autor, quien ve en esta acción una subordinación de la política a los intereses corporativos.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente una decisión política, presentando argumentos, evidencia y una postura clara.  Cumple con los requisitos de un ensayo de opinión al expresar una perspectiva subjetiva respaldada por razonamientos y ejemplos."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "The Coldplay Concert Shame Is Something to Celebrate",
-      "link": "https://www.nytimes.com/2025/07/21/opinion/coldplay-affair-trump.html",
-      "fecha_obj": "2025-07-23T01:07:08+00:00",
-      "fecha_str": "23-07-2025 01:07 UTC",
-      "source_name": "The New York Times Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "La vergüenza, un concepto olvidado, resurge como símbolo de esperanza en tiempos de descaro político.",
-      "resumen": "El artículo celebra la vergüenza pública mostrada por algunos individuos tras acciones inapropiadas, contrastándola con la falta de pudor de líderes políticos que aprueban medidas dañinas.  Se utiliza el ejemplo de la renuncia de Byron como acto de contrición, oponiéndolo a la impunidad de figuras como Trump.  El autor argumenta que la vergüenza debería ser un factor determinante en la conducta política, especialmente frente a decisiones que afectan negativamente a la población, como los recortes a programas sociales. Se critica la sumisión de algunos políticos ante Trump,  destacando la hipocresía de quienes eliminan la cobertura médica para millones mientras protegen la suya propia.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo expresa una opinión clara y argumentada sobre la importancia de la vergüenza en la política actual, utilizando ejemplos concretos y análisis críticos. Se encuadra perfectamente en la categoría de ensayo de opinión."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "The Perverse Economics of Assisted Suicide",
-      "link": "https://www.nytimes.com/2025/07/22/opinion/assisted-suicide-economics.html",
-      "fecha_obj": "2025-07-23T01:05:26+00:00",
-      "fecha_str": "23-07-2025 01:05 UTC",
-      "source_name": "The New York Times Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "La eutanasia asistida: ¿ahorro estatal o puerta a la eliminación de los más vulnerables?",
-      "resumen": "El artículo analiza las implicaciones económicas y éticas de la eutanasia asistida (MAID) en Canadá y otros países.  Al eliminar el requisito de enfermedad terminal inminente, el programa MAID se ha extendido a jóvenes y personas con necesidades de atención a largo plazo.  Esto genera preocupación sobre posibles incentivos perversos para que el estado reduzca costos al promover la eutanasia, especialmente en sistemas de salud socializados. Se mencionan ejemplos de individuos que sintieron presión para optar por la MAID debido a la falta de recursos o atención adecuada. El artículo argumenta que la combinación de financiación de atención médica y regulación de la muerte genera un conflicto de intereses, donde el ahorro económico podría prevalecer sobre el bienestar del paciente.  Se cita evidencia de estudios y declaraciones de funcionarios gubernamentales que sugieren un interés financiero en la expansión de la MAID.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre las consecuencias económicas y morales de la eutanasia asistida, ofreciendo ejemplos concretos y datos que sustentan su postura crítica.  Se ajusta perfectamente a la categoría de 'Opinión Ensayo' por su naturaleza analítica, perspectiva crítica y presentación de argumentos con evidencia."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "Trump Is Building a Machine to Disappear People",
-      "link": "https://www.nytimes.com/2025/07/23/opinion/migration-deportation-sudan-trump.html",
-      "fecha_obj": "2025-07-23T06:08:29+00:00",
-      "fecha_str": "23-07-2025 06:08 UTC",
-      "source_name": "The New York Times Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "La política de deportación de Trump crea una nueva clase de exiliados usados como moneda de cambio internacional.",
-      "resumen": "El gobierno de Trump está deportando a migrantes a países terceros, a menudo inestables, como parte de una estrategia más amplia de influencia diplomática y geopolítica.  Miles de personas han sido enviadas a países de América Latina y África, incluso cuando sus países de origen se niegan a aceptarlos.  Esta práctica, aunque no es completamente nueva, se diferencia por su escala y alcance, creando una situación de exilio sin precedentes para los deportados.  El artículo destaca el uso de estas poblaciones vulnerables como herramientas de negociación en las relaciones internacionales, generando una nueva clase de exiliados sin esperanza de retorno a sus países de origen o a los Estados Unidos.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta una crítica a la política migratoria de la administración Trump, ofreciendo una perspectiva analítica y argumentativa sobre sus implicaciones éticas y geopolíticas.  Su enfoque es opinativo y reflexivo, ideal para un ensayo de opinión."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "Aux îles Cook, les riches profondeurs du Pacifique aiguisent les appétits",
-      "link": "https://www.sciencesetavenir.fr/nature-environnement/aux-iles-cook-les-riches-profondeurs-du-pacifique-aiguisent-les-appetits_187270?xtor=RSS-15",
-      "fecha_obj": "2025-07-23T03:00:24+00:00",
-      "fecha_str": "23-07-2025 03:00 UTC",
-      "source_name": "Sciences et Avenir"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Islas Cook: ¿riqueza minera o daño ambiental irreversible en el Pacífico?",
-      "resumen": "Las Islas Cook, en el Pacífico Sur, han abierto sus aguas a la exploración minera de nódulos polimetálicos, ricos en minerales para baterías y electrónica.  La empresa Moana Minerals, con derechos de exploración en 20.000 km², busca iniciar la explotación antes de 2030, a pesar de las preocupaciones ambientales.  La población local teme la contaminación de su océano y la explotación por intereses extranjeros.  Mientras la Autoridad Internacional de los Fondos Marinos debate regulaciones, la iniciativa genera controversia, con algunos calificándola de 'rueda hacia el oro' y otros de 'locura ambiental'.  El debate se centra en el equilibrio entre el potencial económico y la protección de un ecosistema aún poco conocido.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "El artículo trata sobre la exploración minera en aguas profundas, un tema de relevancia científica y tecnológica por las implicaciones ambientales y el desarrollo de nuevas tecnologías de extracción.  La controversia entre desarrollo económico y preservación ambiental también lo relaciona con la tecnología y su impacto social."
-    },
-    "categoria": "ciencia_tecnologia"
-  },
-  {
-    "info": {
-      "titulo": "Pérou: découverte d'une fresque murale vieille de plus de 3.000 ans",
-      "link": "https://www.sciencesetavenir.fr/sciences/perou-decouverte-d-une-fresque-murale-vieille-de-plus-de-3-000-ans_187271?xtor=RSS-18",
-      "fecha_obj": "2025-07-23T02:49:13+00:00",
-      "fecha_str": "23-07-2025 02:49 UTC",
-      "source_name": "Sciences et Avenir"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Descubierta en Perú una impactante fresque prehispánica de más de 3000 años.",
-      "resumen": "Arqueólogos peruanos anunciaron el hallazgo de una impresionante fresque mural prehispánica de más de 3000 años en el sitio arqueológico Huaca Yolanda, ubicado a 580 km al norte de Lima.  La fresque, de más de cinco metros de largo y dos de alto, muestra una iconografía única en la arqueología peruana, con imágenes de peces, estrellas, redes de pesca y plantas.  Según Ana Cecilia Mauricio, directora de la excavación,  este descubrimiento revela la riqueza histórica y cultural del pueblo peruano y presenta características sin precedentes. La fresque se encontraba en el interior de un templo dentro del sitio arqueológico.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "El descubrimiento de una fresque de más de 3000 años de antigüedad es un hallazgo arqueológico significativo que aporta información valiosa sobre las culturas prehispánicas peruanas y sus conocimientos.  Su relevancia científica radica en el estudio de la iconografía, técnicas artísticas y la comprensión de la historia y cultura de la región.  Aunque no se relaciona directamente con la tecnología moderna, su impacto en la historia y la comprensión del pasado humano lo hace relevante para la categoría."
-    },
-    "categoria": "ciencia_tecnologia"
-  },
-  {
-    "info": {
-      "titulo": "Dans le Gers, un centre de désalcoolisation de vin pour s'adapter au marché",
-      "link": "https://www.sciencesetavenir.fr/nutrition/dans-le-gers-un-centre-de-desalcoolisation-de-vin-pour-s-adapter-au-marche_187261?xtor=RSS-28",
-      "fecha_obj": "2025-07-23T06:00:00+00:00",
-      "fecha_str": "23-07-2025 06:00 UTC",
-      "source_name": "Sciences et Avenir"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Chai Sobre: el futuro del vino es sin alcohol, innovando con tecnología de destilación a frío.",
-      "resumen": "El Chai Sobre, en Gers, Francia, es una nueva planta de desalcoholización de vino, impulsada por la disminución del consumo de alcohol y el auge del mercado de vinos sin alcohol.  Emplea una innovadora técnica de destilación a frío que preserva los aromas mientras elimina el alcohol.  Esta iniciativa, resultado de la colaboración entre la start-up Moderato y el grupo Vivadour, busca responder a las nuevas tendencias de consumo, especialmente entre los jóvenes. La planta, con una producción actual de 6.000 hectolitres, proyecta un crecimiento exponencial, aprovechando el potencial de un mercado global en expansión que se espera alcance 5 billones de dólares en 2032. La desalcoholización requiere ajustes, como la adición de azúcar para compensar la acidez.",
-      "relevancia_score": 7,
-      "relevancia_justificacion": "El artículo describe una innovación tecnológica en la industria vitivinícola: una nueva técnica de desalcoholización. Si bien no es una tecnología de punta en el sentido de la informática o la medicina, la aplicación de la destilación a frío para preservar los aromas es un avance tecnológico relevante en el sector alimentario."
-    },
-    "categoria": "ciencia_tecnologia"
-  },
-  {
-    "info": {
-      "titulo": "Un désastre climatique inconstitutionnel? De jeunes Américains saisissent la justice",
-      "link": "https://www.sciencesetavenir.fr/nature-environnement/un-desastre-climatique-inconstitutionnel-de-jeunes-americains-saisissent-la-justice_187273?xtor=RSS-15",
-      "fecha_obj": "2025-07-23T03:00:25+00:00",
-      "fecha_str": "23-07-2025 03:00 UTC",
-      "source_name": "Sciences et Avenir"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Jóvenes demandan a Trump por políticas climáticas inconstitucionales, argumentando violación de derechos fundamentales.",
-      "resumen": "Un grupo de jóvenes estadounidenses, liderados por Eva Lighthiser, demandan al estado de Montana por considerar que las políticas climáticas de la administración Trump violan sus derechos constitucionales.  Argumentan que la promoción de combustibles fósiles agrava el cambio climático, afectando su futuro y bienestar.  El caso se basa en el Quinto Enmienda,  y busca que se reconozca el derecho a un ambiente sano como fundamental.  Si bien han habido éxitos previos a nivel local, la batalla legal se anticipa difícil, enfrentando una Corte Suprema conservadora.  La demanda se enmarca en una serie de litigios sobre el cambio climático a nivel global,  generando un debate sobre el alcance del poder judicial en temas ambientales.",
-      "relevancia_score": 7,
-      "relevancia_justificacion": "El artículo trata sobre un litigio que involucra las políticas climáticas y sus consecuencias, un tema con implicaciones científicas y tecnológicas. La discusión sobre el cambio climático, las energías fósiles y las renovables, y la búsqueda de soluciones tecnológicas para mitigarlo, lo conectan con la categoría. Sin embargo, el enfoque principal es el aspecto legal y político."
-    },
-    "categoria": "ciencia_tecnologia"
-  },
-  {
-    "info": {
-      "titulo": "TDAH: essor des psychostimulants en France, entre rattrapage et prudence",
-      "link": "https://www.sciencesetavenir.fr/sante/tdah-essor-des-psychostimulants-en-france-entre-rattrapage-et-prudence_187272?xtor=RSS-16",
-      "fecha_obj": "2025-07-23T03:00:06+00:00",
-      "fecha_str": "23-07-2025 03:00 UTC",
-      "source_name": "Sciences et Avenir"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "El uso de psychostimulantes para tratar el TDAH crece en Francia, generando debate entre beneficios y riesgos.",
-      "resumen": "El artículo analiza el aumento significativo en la prescripción de medicamentos psychostimulantes, como el metilfenidato (Ritalina), para tratar el TDAH en Francia.  Si bien se reconoce su eficacia,  existe preocupación por un posible sobrediagnóstico y derivas, como ocurre en Estados Unidos.  Se discuten los beneficios reportados por pacientes, junto a los efectos secundarios y la necesidad de un seguimiento adecuado.  La reciente llegada de la lisdexamfetamina ofrece una nueva opción terapéutica, pero también genera recelos por su asociación con las anfetaminas.  El texto destaca la falta de datos a largo plazo sobre el uso y el abuso de estos medicamentos en Francia,  y la importancia de tratamientos complementarios como la psicoeducación.",
-      "relevancia_score": 7,
-      "relevancia_justificacion": "El artículo trata sobre avances en el tratamiento de un trastorno neurológico,  con implicaciones en la salud pública y la investigación farmacológica.  Si bien no se centra en tecnología propiamente dicha,  la discusión sobre nuevos medicamentos y su impacto en la sociedad lo relaciona con la ciencia y la salud."
-    },
-    "categoria": "ciencia_tecnologia"
-  },
-  {
-    "info": {
-      "titulo": "A world blown upside down: my Arles photo festival picks",
-      "link": "https://www.theguardian.com/artanddesign/2025/jul/23/arles-photo-festival-kikuji-kawada-nan-goldin",
-      "fecha_obj": "2025-07-23T06:00:44+00:00",
-      "fecha_str": "23-07-2025 06:00 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Rencontres d'Arles 2025: un festival fotográfico que refleja la historia y la actualidad a través de diversas perspectivas.",
-      "resumen": "El festival Rencontres d'Arles 2025 presenta diversas exposiciones fotográficas relevantes.  Se destaca la obra de Kikuji Kawada, mostrando sus series sobre Hiroshima y Nagasaki, y los eventos del 11-S.  También se exhibe un homenaje a Yves Saint Laurent, con imágenes icónicas de grandes fotógrafos de moda.  Otras exposiciones incluyen la arquitectura modernista brasileña, y el trabajo de Diana Markosian sobre su relación con su padre.  Finalmente, la muestra de Nan Goldin, con su estilo crudo e íntimo, aborda temas de amor, pérdida y adicción, además de su activismo social.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata exclusivamente sobre un festival de fotografía de gran importancia cultural, mostrando diversas exposiciones que abarcan historia, moda, arquitectura y activismo social a través de la fotografía. Su contenido es altamente relevante para la categoría 'Cultura Arte'."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "Burlesque: The Musical review – Christina Aguilera movie gets a gloriously ‘dirrty’ makeover",
-      "link": "https://www.theguardian.com/stage/2025/jul/22/burlesque-the-musical-review-christina-aguilera",
-      "fecha_obj": "2025-07-22T22:59:35+00:00",
-      "fecha_str": "22-07-2025 22:59 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Burlesque: El musical, una explosiva adaptación con más brillo, descaro y talento que nunca.",
-      "resumen": "Esta adaptación musical de la película de 2010 supera las expectativas.  Con un reparto estelar liderado por Orfeh y Jess Folley, la obra ofrece una versión más atrevida y contemporánea, con nuevas canciones de Aguilera, Sia y otros.  La coreografía es impactante, el vestuario deslumbrante y el humor irreverente.  Aunque la trama es algo irregular, la energía, el espectáculo y el descaro compensan con creces, creando una experiencia inolvidable para los amantes del género.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata sobre una adaptación musical de una película,  analizando aspectos como la música, la coreografía, el vestuario y la actuación. Todos estos elementos son inherentes a la categoría 'Cultura Arte',  además de proporcionar una crítica detallada de la producción."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "La obra digital de Messi y Refik Anadol se subasta en Christie’s por 1,87 millones de dólares",
-      "link": "https://www.clarin.com/cultura/obra-digital-messi-refik-anadol-subasta-christies-187-millones-dolares_0_10vUt0pbSk.html",
-      "fecha_obj": "2025-07-22T22:28:29+00:00",
-      "fecha_str": "22-07-2025 22:28 UTC",
-      "source_name": "Revista Ñ – Clarín Cultura"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Obra digital de Messi's gol legendario subastada por $1.87 millones, beneficiando a UNICEF.",
-      "resumen": "Una obra de arte digital inmersiva, \"Living Memory: Messi – A Goal in Life\", creada por Refik Anadol en colaboración con Lionel Messi, fue subastada por Christie's por 1.87 millones de dólares.  La pieza utiliza inteligencia artificial y datos biométricos del gol de Messi en la final de la Champions League 2009 para recrear la experiencia multisensorial del momento.  Los fondos recaudados se destinarán a la Inter Miami CF Foundation y su alianza con UNICEF para mejorar la educación en América Latina y el Caribe.  Tanto Messi como Anadol celebraron el éxito de la subasta, destacando el valor artístico y el impacto social de la obra.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "La noticia trata directamente sobre una obra de arte digital, su creación, subasta y el impacto cultural y social de la misma.  Es altamente relevante para la categoría 'Cultura Arte' por su enfoque en el arte digital, la colaboración artística y la filantropía."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "Norma Morandini: \"Mi vida se confunde con la vida del país\"",
-      "link": "https://www.clarin.com/cultura/norma-morandini-vida-confunde-vida-pais_0_bLUr4ApLRv.html",
-      "fecha_obj": "2025-07-22T23:00:00+00:00",
-      "fecha_str": "22-07-2025 23:00 UTC",
-      "source_name": "Revista Ñ – Clarín Cultura"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Norma Morandini presenta 'Decir adiós', un ensayo que reflexiona sobre la muerte y el duelo en la Argentina.",
-      "resumen": "En su nuevo libro, \"Decir adiós\", Norma Morandini reflexiona sobre la muerte y la ausencia de rituales en la Argentina, especialmente en relación con hechos trágicos de la historia reciente.  El ensayo aborda la muerte de sus hermanos desaparecidos durante la dictadura, las víctimas de Malvinas, Cromañón, la AMIA y el COVID, cuestionando la falta de homenajes adecuados.  Morandini, periodista y política, vincula su vida personal con la historia del país, utilizando el libro como un proceso de cierre y entendimiento.  El texto se presenta como un ensayo que busca generar una reflexión sobre el duelo, la memoria y la construcción de una democracia que supere su pasado violento.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "El artículo trata sobre un nuevo libro de una figura pública argentina que combina elementos de la política, la historia y la memoria colectiva.  La reflexión sobre el duelo y la memoria lo relaciona con la cultura y el arte, aunque no se centra directamente en obras artísticas."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "TV tonight: a depressing look at how TikTok Shop is making us spend",
-      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/23/tv-tonight-secrets-of-tiktok-shop-untold-pearl-harbor-world-on-fire",
-      "fecha_obj": "2025-07-23T05:20:43+00:00",
-      "fecha_str": "23-07-2025 05:20 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Guía de programación televisiva: desde el impacto de TikTok Shop hasta dramas históricos y estrenos cinematográficos.",
-      "resumen": "El artículo presenta una guía de programación televisiva que incluye diversos programas.  Se destaca un documental sobre el impacto de TikTok Shop en los hábitos de consumo, mostrando cómo influye en las compras. También se mencionan otros programas como 'Can’t Sell, Must Sell', un reality sobre remodelaciones; 'Side Hustlers', un programa de emprendedores; y 'Bookish', un drama de misterio.  En cuanto a películas, se reseña 'Tin Soldier', protagonizada por Scott Eastwood, Jamie Foxx y Robert De Niro, y se recomienda la adaptación de 'Emma' de Jane Austen. Finalmente, se incluye información sobre un partido de cricket en vivo.",
+      "teaser_sentence": "Niña de 12 años apuñala a su madre en Francia tras discusión sobre educación.",
+      "resumen": "Una niña de 12 años apuñaló a su madre en la garganta en Montauban, Francia. El incidente ocurrió después de una discusión sobre educación, donde la niña, aparentemente molesta por que su madre no quería dormir con ella, escondió un cuchillo y atacó a su madre.  La víctima sufrió heridas pero no corre peligro. La niña, aunque demasiado joven para ser detenida, fue interrogada y se determinó que tenía discernimiento.  El caso está siendo investigado por un juez de instrucción, quien decidirá las medidas educativas para la menor.",
       "relevancia_score": 4,
-      "relevancia_justificacion": "Si bien incluye la reseña de la adaptación cinematográfica de 'Emma' y el programa 'Bookish', que tienen relación con la cultura, la mayor parte del artículo se centra en otros temas como reality shows, documentales y deportes.  Por lo tanto, su relevancia para la categoría 'Cultura Arte' es limitada."
+      "relevancia_justificacion": "Si bien el suceso es una noticia relevante por su naturaleza impactante, su alcance geográfico se limita a Francia.  No tiene implicaciones internacionales de gran magnitud."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Reducción de edad y endurecimiento de penas en la responsabilidad penal adolescente: reflexiones para el debate social",
+      "link": "https://www.ciperchile.cl/2025/07/23/reduccion-de-edad-y-endurecimiento-de-penas-en-la-responsabilidad-penal-adolescente-reflexiones-para-el-debate-social/?utm_source=rss&utm_medium=rss&utm_campaign=reduccion-de-edad-y-endurecimiento-de-penas-en-la-responsabilidad-penal-adolescente-reflexiones-para-el-debate-social",
+      "fecha_obj": "2025-07-23T20:11:41+00:00",
+      "fecha_str": "23-07-2025 20:11 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Reducir la edad de responsabilidad penal juvenil: ¿solución o fracaso anunciado?",
+      "resumen": "El artículo analiza la propuesta de rebajar la edad de responsabilidad penal en Chile, considerando la evidencia que muestra la ineficacia de la prisión para adolescentes.  Se argumenta que la delincuencia juvenil se origina en contextos de vulnerabilidad, pobreza y exclusión social, creando un \"efecto barrio\" que normaliza la ilegalidad.  Se critica la idea de mano dura, proponiendo en cambio fortalecer la educación como herramienta de reinserción social, ofreciendo alternativas a la vida en el gueto. El autor enfatiza la necesidad de comprender las realidades sociales que llevan a los jóvenes a la delincuencia antes de implementar medidas punitivas.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El tema de la responsabilidad penal juvenil y la delincuencia es de alta relevancia nacional en Chile, dado el debate político actual y la preocupación ciudadana por la seguridad.  El artículo aborda un problema social crucial con datos e investigaciones relevantes para el contexto chileno."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Lota: una ciudad patrimonial en riesgo",
+      "link": "https://www.ciperchile.cl/2025/07/23/lota-una-ciudad-patrimonial-en-riesgo/?utm_source=rss&utm_medium=rss&utm_campaign=lota-una-ciudad-patrimonial-en-riesgo",
+      "fecha_obj": "2025-07-23T20:28:05+00:00",
+      "fecha_str": "23-07-2025 20:28 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El patrimonio industrial de Lota, en riesgo de colapso, necesita urgente acción gubernamental.",
+      "resumen": "La carta al director lamenta el estado de deterioro del patrimonio histórico de Lota, Chile, a pesar de ser una ciudad emblemática del patrimonio industrial minero mundial.  Monumentos históricos nacionales como la Central Hidroeléctrica de Chivilingo y el Teatro del Sindicato Minero N°6 se encuentran en ruinas, a pesar de los anuncios y convenios que no se traducen en acciones concretas.  Si bien existe un Plan Lota con aspiraciones a la lista de Patrimonio Mundial de la Unesco, la falta de presupuesto y acción efectiva amenaza con perder no solo edificios, sino también la historia, dignidad y futuro de la comunidad.  El autor urge a priorizar la protección del patrimonio de Lota.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El tema abarca la preservación del patrimonio nacional, un asunto de interés para todo Chile.  La situación de Lota refleja problemas de gestión y presupuesto en la protección de monumentos históricos a nivel nacional."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Columbia’s Administrators Are Fooling Themselves",
+      "link": "https://www.nytimes.com/2025/07/23/opinion/trump-columbia-deal-professor.html",
+      "fecha_obj": "2025-07-24T02:55:37+00:00",
+      "fecha_str": "24-07-2025 02:55 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Trump's broken promises mirror history's absolutist monarchs, undermining his credibility and ability to make deals.",
+      "resumen": "El artículo traza un paralelo entre la incapacidad de los monarcas absolutistas para cumplir sus promesas financieras y la situación actual con la administración Trump.  Se argumenta que, al igual que Carlos II y Jacobo II, Trump, al debilitar los controles sobre su poder, ha creado un problema de compromiso, haciendo que los acuerdos sean poco fiables.  Esto se ilustra con ejemplos de incumplimiento de acuerdos con diversos actores, desde países aliados hasta empleados federales.  La lección histórica de la Gloriosa Revolución, donde la supremacía parlamentaria resolvió problemas similares, se presenta como una advertencia contra la falta de restricciones al poder ejecutivo.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada con evidencia histórica, analizando las consecuencias de las acciones de Trump y su impacto en la credibilidad de sus acuerdos.  Su estructura y enfoque lo califican como un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "The World Must See Gaza’s Starvation",
+      "link": "https://www.nytimes.com/2025/07/24/opinion/gaza-hunger-children-rescue.html",
+      "fecha_obj": "2025-07-24T05:39:54+00:00",
+      "fecha_str": "24-07-2025 05:39 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El bloqueo a Gaza causa hambruna masiva; niños mueren de inanición mientras el mundo observa.",
+      "resumen": "Un gerente de nutrición del Comité Internacional de Rescate describe la crisis alimentaria catastrófica en Gaza.  Casi medio millón de personas sufren inseguridad alimentaria extrema, con aproximadamente 100.000 niños y mujeres padeciendo desnutrición aguda grave. El bloqueo de ayuda israelí, aunque oficialmente finalizado, dificulta la distribución de alimentos y asistencia médica, exacerbando la situación.  La violencia continua y las restricciones de acceso impiden que las organizaciones humanitarias lleguen a las familias necesitadas, dejando a los niños al borde de la inanición. El autor describe escenas desgarradoras de niños desnutridos y la impotencia ante la falta de recursos y la violencia constante.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión contundente sobre la situación humanitaria en Gaza, basada en la experiencia directa del autor.  Describe la crisis con detalles emotivos, lo que lo hace adecuado para un ensayo de opinión que busca concientizar al lector sobre la urgencia del problema."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "With Cleverly centre stage, the Tories have a new look – but that isn’t the same as a plan | Martin Kettle",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/24/james-cleverly-tories-kemi-badenoch",
+      "fecha_obj": "2025-07-24T05:00:02+00:00",
+      "fecha_str": "24-07-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El regreso de Cleverly al gabinete conservador británico: ¿un cambio estratégico o mera apariencia?",
+      "resumen": "El artículo analiza el reciente reajuste en el gabinete conservador británico, donde el regreso de James Cleverly al frente del partido es el evento principal.  Cleverly representa una corriente conservadora más tradicional y pragmática, opuesta a la deriva populista de la actual líder, Kemi Badenoch.  Su incorporación se interpreta como un posible giro estratégico hacia el centro-derecha, alejándose del electorado de Reform UK y buscando recuperar votos de clase media. Sin embargo, el autor duda de la efectividad de este cambio, considerando que el partido está muy debilitado y que Badenoch aún prioriza la confrontación cultural sobre la estrategia política.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta un análisis profundo y argumentado de la situación política del partido conservador británico, ofreciendo una opinión clara sobre las implicaciones del cambio en el gabinete. Se encuadra perfectamente en la categoría de 'Opinión Ensayo' por su análisis interpretativo y su perspectiva crítica."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Nine Questions About the Epstein Case That Actually Need Answers",
+      "link": "https://www.nytimes.com/2025/07/23/opinion/epstein-files-fbi-trump.html",
+      "fecha_obj": "2025-07-23T21:57:41+00:00",
+      "fecha_str": "23-07-2025 21:57 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El caso Epstein: ¿Quién financió sus crímenes y tenía vínculos con agencias de inteligencia?",
+      "resumen": "El artículo explora nueve preguntas sin respuesta sobre el caso Jeffrey Epstein, centrándose en dos cruciales: la fuente de su riqueza y sus posibles conexiones con agencias de inteligencia.  A pesar de su fortuna estimada en $600 millones, el origen de su dinero y cómo financió su red de tráfico sexual durante dos décadas permanece oscuro.  Las transferencias bancarias por casi $1.1 mil millones encontradas por el senador Wyden sugieren una operación compleja.  Además, la declaración de Alexander Acosta sobre Epstein \"perteneciendo a inteligencia\" genera sospechas sobre posibles vínculos con agencias de espionaje. El artículo argumenta que los archivos del FBI podrían arrojar luz sobre estos misterios.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo presenta una opinión basada en hechos, analizando las preguntas sin respuesta del caso Epstein.  Su enfoque investigativo y la búsqueda de explicaciones lo hacen relevante como ensayo de opinión, aunque carece de una tesis argumentativa explícita."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "The Political Legacy of Jerry Garcia",
+      "link": "https://www.nytimes.com/2025/07/20/opinion/jerry-garcia-politics.html",
+      "fecha_obj": "2025-07-24T00:10:02+00:00",
+      "fecha_str": "24-07-2025 00:10 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El legado de Jerry Garcia: un músico multimillonario que buscó la libertad, más allá de la política.",
+      "resumen": "El artículo explora el legado de Jerry Garcia, líder de Grateful Dead, quien a pesar de su fortuna y su influencia en la contracultura estadounidense, evitó involucrarse directamente en la política.  Garcia, fallecido hace casi 30 años,  es recordado por su enfoque singular en la vida y el arte, representando una búsqueda de la libertad personal.  Su música y su vida se perciben como una exploración de la libertad,  un ideal que resonó con la generación de la contracultura.  Aunque fue testigo y parte de momentos históricos, mantuvo una distancia de campañas y candidatos, priorizando una vida sencilla y la búsqueda de un progreso humano colectivo.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo presenta una interpretación del legado de Garcia, ofreciendo una perspectiva analítica sobre su vida y su relación con la política.  Si bien no es un ensayo argumentativo tradicional, la valoración de su figura y la exploración de su impacto cultural lo acercan a la categoría de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "STMicroelectronics: Croissance attendue du chiffre d'affaires au 3e trimestre, dépasse les attentes au 2e trimestre",
+      "link": "https://www.sciencesetavenir.fr/stmicroelectronics-croissance-attendue-du-chiffre-d-affaires-au-3e-trimestre-depasse-les-attentes-au-2e-trimestre_187294",
+      "fecha_obj": "2025-07-24T05:55:19+00:00",
+      "fecha_str": "24-07-2025 05:55 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "STMicroelectronics supera expectativas, crecimiento previsto para el tercer trimestre.",
+      "resumen": "STMicroelectronics anunció resultados financieros positivos.  El segundo trimestre superó las expectativas, mostrando un crecimiento en el volumen de negocios.  La compañía anticipa que esta tendencia positiva continuará en el tercer trimestre, con un crecimiento adicional en sus ingresos.  Este reporte financiero destaca el buen desempeño de la empresa en el sector tecnológico, impulsado probablemente por la alta demanda de sus productos.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "STMicroelectronics es una empresa de semiconductores, un sector clave en la ciencia y la tecnología. El reporte financiero refleja el estado del mercado tecnológico y la innovación en el sector."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Americans Are Obsessed With Watching Short Video Dramas From China",
+      "link": "https://www.wired.com/story/china-reel-short-dramas-video-social-media/",
+      "fecha_obj": "2025-07-24T07:00:00+00:00",
+      "fecha_str": "24-07-2025 07:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Miniseries chinas cortas conquistan Hollywood: ¡millones de usuarios enganchados!",
+      "resumen": "Las miniseries chinas cortas, o duanju, están experimentando un éxito rotundo en el mercado internacional.  Plataformas como ReelShort han alcanzado millones de usuarios y generado cientos de millones de dólares en ingresos a través de suscripciones y pagos por episodio.  Su éxito se debe a su formato vertical, episodios cortos con giros constantes, y su aparición en redes sociales.  A pesar de sus tramas a veces clichés, su producción profesional y la escasez de contenido en el mercado occidental tras huelgas en Hollywood, han contribuido a su rápida expansión, incluso diversificándose en otros géneros.  ReelShort, por ahora, apuesta por actores y guionistas humanos en lugar de inteligencia artificial.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo trata sobre el éxito de una industria del entretenimiento digital, mostrando la innovación en formatos (vídeos cortos verticales), modelos de negocio (in-app purchases) y su impacto global.  Si bien no se centra en avances tecnológicos específicos, la rápida expansión y el uso de plataformas digitales son relevantes para la ciencia y la tecnología."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Le chef d'une île du Vanuatu se dit \"très impressionné\" par l'avis de la CIJ",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/le-chef-d-une-ile-du-vanuatu-se-dit-tres-impressionne-par-l-avis-de-la-cij_187293?xtor=RSS-15",
+      "fecha_obj": "2025-07-24T02:57:47+00:00",
+      "fecha_str": "24-07-2025 02:57 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La CIJ dictamina sobre responsabilidad climática; líder de Vanuatu, impactado por la decisión.",
+      "resumen": "El jefe de la isla Ambrym, Vanuatu, expresó su satisfacción por la opinión consultiva de la CIJ sobre la responsabilidad de los Estados en materia climática.  La CIJ concluyó que los Estados que violan sus obligaciones climáticas podrían ser responsables de pagar reparaciones a los países más afectados.  Ambrym sufrió tres devastadores ciclones en 2023, causando daños significativos a las cosechas, bosques y medicinas tradicionales.  El líder destaca el impacto continuo del cambio climático en su isla, incluyendo la erosión costera y cambios en las mareas. La decisión de la CIJ representa una victoria para Vanuatu y otros países vulnerables al cambio climático.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo trata sobre el cambio climático y la decisión legal internacional al respecto, conectando con la ciencia del clima y la tecnología usada para monitorearlo y modelarlo.  Si bien no se centra en avances tecnológicos específicos, la relevancia es alta por el impacto científico y las implicaciones tecnológicas en la mitigación y adaptación al cambio climático."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "OPmobility: Hausse de la marge opérationnelle au 1er semestre avec les mesures de réduction des coûts",
+      "link": "https://www.sciencesetavenir.fr/opmobility-hausse-de-la-marge-operationnelle-au-1er-semestre-avec-les-mesures-de-reduction-des-couts_187295",
+      "fecha_obj": "2025-07-24T06:11:43+00:00",
+      "fecha_str": "24-07-2025 06:11 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "OPmobility aumenta su margen operativo en el primer semestre gracias a la reducción de costos.",
+      "resumen": "El artículo informa sobre los resultados financieros del primer semestre de OPmobility, destacando un aumento en el margen operativo.  Este incremento se atribuye a las medidas de reducción de costos implementadas por la empresa.  Si bien el artículo no proporciona detalles específicos sobre las medidas tomadas o las cifras exactas del aumento del margen, enfatiza el éxito de estas estrategias en la mejora de la rentabilidad de OPmobility.  La noticia se presenta con un llamado a la suscripción o aceptación de publicidad para el acceso completo al contenido.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien se trata de una empresa del sector tecnológico, la noticia se centra en aspectos financieros y de gestión empresarial, no en avances científicos o tecnológicos concretos. La relevancia es baja en cuanto a innovación tecnológica."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Fibromyalgie : la HAS émet une première recommandation officielle",
+      "link": "https://www.sciencesetavenir.fr/sante/os-et-muscles/fibromyalgie-la-has-emet-une-premiere-recommandation-officielle-pour-cette-maladie-touchant-2-millions-de-francais_187280?xtor=RSS-16",
+      "fecha_obj": "2025-07-24T06:00:00+00:00",
+      "fecha_str": "24-07-2025 06:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La HAS emite su primera recomendación oficial para mejorar el diagnóstico y tratamiento de la fibromyalgia.",
+      "resumen": "La Haute Autorité de Santé (HAS) en Francia publicó su primera recomendación oficial sobre la fibromialgia, una enfermedad crónica que afecta a cerca del 2% de la población francesa.  El documento se centra en mejorar el proceso de diagnóstico, que actualmente carece de pruebas biológicas o radiológicas concluyentes,  basándose en un examen clínico exhaustivo y cuestionarios de evaluación como el FIRST.  La HAS destaca la importancia de la escucha activa del paciente y recomienda como primer tratamiento la actividad física regular y suave,  diferenciando la estrategia terapéutica de la médicamentosa.  En septiembre de 2025 se publicará un documento adicional con ejemplos de ejercicios.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien el artículo trata un tema de salud, la información se centra en las recomendaciones médicas y no en avances científicos o tecnológicos. La relevancia en ciencia y tecnología es baja, ya que no presenta descubrimientos o innovaciones tecnológicas."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Best of the fest: 10 of the best shows to catch at this year’s Edinburgh fringe",
+      "link": "https://www.theguardian.com/stage/2025/jul/24/best-edinburgh-fringe-comedy-shows-frankie-monroe-desiree-birch-josie-long-chonkers",
+      "fecha_obj": "2025-07-24T07:00:03+00:00",
+      "fecha_str": "24-07-2025 07:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Diez espectáculos imperdibles en el Festival Fringe de Edimburgo: comedia, música y mucho más.",
+      "resumen": "El artículo destaca diez espectáculos sobresalientes del Festival Fringe de Edimburgo.  Se presentan comediantes como Joe Kent-Walters con su personaje Frankie Monroe, Jain Edwards con su show \"She-Devil\", y Heidi Regan con \"Jekyll and Heidi\".  También se incluyen artistas como Mr. Chonkers, Desiree Burch, Leila Navabi, Josie Long, Luke McQueen, Sam Nicoresti y Alice Cockayne, cada uno ofreciendo un estilo único: desde comedia surrealista hasta musical y teatro.  Los temas abarcan desde experiencias personales como la maternidad y el diagnóstico médico hasta reflexiones sobre la sociedad, la identidad y la política.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre eventos culturales de artes escénicas (comedia, teatro, música),  centrándose en un festival de renombre internacional. Su relevancia es alta por la información sobre espectáculos y artistas, y su impacto cultural."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Who needs a car? Los Angeles by foot – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2025/jul/24/who-needs-a-car-los-angeles-by-foot-in-pictures",
+      "fecha_obj": "2025-07-24T06:00:02+00:00",
+      "fecha_str": "24-07-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Los Ángeles a pie: una serie fotográfica explora la ciudad más allá del automóvil.",
+      "resumen": "El artículo presenta la serie fotográfica \"North North South\" de la artista iraní-americana Ayda Gragossian.  En lugar de usar un coche, Gragossian recorrió a pie diferentes zonas de Los Ángeles, una ciudad típicamente asociada al transporte automovilístico.  Sus fotografías capturan la fragmentación y constante evolución de la ciudad, ofreciendo una perspectiva diferente a la habitual, centrada en la experiencia peatonal. La serie, publicada por GOST, invita a una reinterpretación de Los Ángeles, mostrando su complejidad y contrastes desde una perspectiva íntima y personal.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La serie fotográfica explora la ciudad de Los Ángeles desde una perspectiva artística, mostrando una visión personal y creativa de la urbe. Se centra en el trabajo de una artista y su publicación, lo que lo hace altamente relevante para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Inter Alia review – Rosamund Pike rules in searing legal drama from Prima Facie team",
+      "link": "https://www.theguardian.com/stage/2025/jul/24/inter-alia-review-lyttelton-theatre-london-rosamund-pike-suzie-miller",
+      "fecha_obj": "2025-07-23T23:01:50+00:00",
+      "fecha_str": "23-07-2025 23:01 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Rosamund Pike brilla en 'Inter Alia', drama legal que explora la justicia desde una perspectiva femenina.",
+      "resumen": "Inter Alia, secuela de Prima Facie, presenta a Rosamund Pike como una jueza cuyo mundo se desmorona tras una acusación cercana.  La obra, dirigida por Justin Martin, contrasta con Prima Facie al mostrar el sistema legal desde la perspectiva de la víctima. Pike ofrece una actuación física e intensa, mostrando la lucha de una mujer que intenta equilibrar su vida profesional y personal. La obra explora temas como la justicia, la maternidad, y las presiones sociales sobre las mujeres exitosas. Aunque la obra pierde algo de ritmo en su tramo final,  se mantiene como una crítica incisiva del sistema judicial y una mirada incómoda a la crianza en la actualidad. ",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La obra es una pieza teatral con una actriz reconocida, dirigida por un director destacado, y aborda temas relevantes de la sociedad actual, lo que la hace altamente relevante para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Drayton and Mackenzie by Alexander Starritt review – a warmly comic saga of male friendship",
+      "link": "https://www.theguardian.com/books/2025/jul/24/drayton-and-mackenzie-by-alexander-starritt-review-a-warmly-comic-saga-of-male-friendship",
+      "fecha_obj": "2025-07-24T06:00:59+00:00",
+      "fecha_str": "24-07-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Dos consultores crean una empresa de energía verde, llena de comedia, amistad y giros inesperados.",
+      "resumen": "La novela \"Drayton and Mackenzie\" de Alexander Starritt sigue a dos consultores de McKinsey que abandonan sus trabajos para crear una empresa de energía renovable.  La historia, ambientada entre el 9/11 y la pandemia de Covid, es una saga cómica que explora su amistad y sus desafíos empresariales.  La narrativa alterna entre la perspectiva de los protagonistas y figuras reales como Mario Draghi y Elon Musk, añadiendo contexto histórico y político.  A pesar de la trama centrada en la tecnología y el medio ambiente, el foco principal reside en la relación entre los personajes, su crecimiento personal y la importancia de la amistad, culminando en un emotivo final.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "La novela es una obra literaria que se centra en la amistad, el emprendimiento y la superación de obstáculos, temas relevantes para la cultura.  La mención de figuras públicas y el contexto histórico-político amplían su conexión con la cultura contemporánea."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: a film about the Southport attack and the riots that followed",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/24/tv-tonight-one-day-in-southport-outrageous",
+      "fecha_obj": "2025-07-24T05:20:01+00:00",
+      "fecha_str": "24-07-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: documentales, dramas y comedias, desde los disturbios de Southport hasta la vida de los Mitford.",
+      "resumen": "La programación televisiva de esta noche ofrece una variada selección de programas.  'One Day in Southport' es un documental sobre los disturbios tras un ataque en la ciudad. 'Unforgivable' presenta un drama sobre un abusador sexual. 'Mr Bigstuff' continúa con la comedia sobre hermanos. 'Outrageous', finaliza la serie sobre las hermanas Mitford, insinuando una segunda temporada. 'The Blitz With Rob Rinder & Ruth Goodman' examina el impacto de la guerra según la clase social. Finalmente, 'The Walking Dead: Dead City' continúa la aventura zombi en Nueva York.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien 'Outrageous' se centra en las hermanas Mitford y podría considerarse relevante para la cultura, el resto de la programación se centra en eventos contemporáneos o dramas, con una menor conexión con las artes."
     },
     "categoria": "cultura_arte"
   }
