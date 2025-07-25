@@ -1,129 +1,193 @@
 [
   {
     "info": {
-      "titulo": "A Timeline of the Latest Conflict Between Cambodia and Thailand",
-      "link": "https://www.nytimes.com/2025/07/24/world/asia/cambodia-thailand-conflict-timeline.html",
-      "fecha_obj": "2025-07-24T07:01:38+00:00",
-      "fecha_str": "24-07-2025 07:01 UTC",
-      "source_name": "The New York Times World"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Choque fronterizo entre Camboya y Tailandia: escalada de tensión y crisis diplomática.",
-      "resumen": "Las disputas fronterizas entre Camboya y Tailandia, con raíces en un mapa colonial de 1907, han escalado recientemente.  Tras enfrentamientos militares con víctimas civiles, las tensiones se agudizaron con la muerte de un soldado camboyano en mayo de 2025.  Una llamada telefónica entre la primera ministra tailandesa Paetongtarn Shinawatra y el líder camboyano Hun Sen, en la que la primera adoptó un tono considerado controvertido, provocó una crisis política interna en Tailandia, llevando a la suspensión de Paetongtarn.  La situación culminó con la degradación de las relaciones diplomáticas entre ambos países tras un incidente con minas terrestres.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El conflicto involucra a dos países, resultando en muertes, crisis diplomáticas y tensiones internacionales.  Es un evento de relevancia geopolítica en el sudeste asiático."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Russie : un avion de ligne avec 49 personnes à bord «a disparu des radars», le fuselage en flammes retrouvé",
-      "link": "https://www.lefigaro.fr/international/russie-un-avion-de-ligne-avec-49-personnes-a-bord-a-disparu-des-radars-le-fuselage-en-flammes-retrouve-20250724",
-      "fecha_obj": "2025-07-24T07:15:32+00:00",
-      "fecha_str": "24-07-2025 07:15 UTC",
-      "source_name": "Le Figaro"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Avión Antonov-24 desaparece en Rusia; 49 personas a bordo, fuselaje encontrado en llamas.",
-      "resumen": "Un avión Antonov-24 con 49 personas a bordo desapareció de los radares durante un vuelo entre Blagovechtchensk y Tynda, en la región rusa de Amur.  El gobernador Vasili Orlov confirmó el incidente a través de Telegram.  Posteriormente, el Ministerio de Situaciones de Emergencia informó que un helicóptero Mi-8 localizó el fuselaje del avión en llamas.  Aún no se conocen las causas del accidente ni la situación de los pasajeros y la tripulación.  Se espera más información.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El suceso es una noticia de gran impacto que involucra una tragedia aérea en Rusia, un país con relevancia internacional.  La desaparición de un avión con numerosos pasajeros es un evento que genera interés global y preocupación."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "En Argentine, à trois mois des législatives, Javier Milei pris dans une crise de gouvernance",
-      "link": "https://www.lemonde.fr/international/article/2025/07/24/en-argentine-a-trois-mois-des-legislatives-javier-milei-pris-dans-une-crise-de-gouvernance_6623431_3210.html",
-      "fecha_obj": "2025-07-24T07:11:48+00:00",
-      "fecha_str": "24-07-2025 07:11 UTC",
+      "titulo": "République démocratique du Congo : Joseph Kabila jugé pour « crimes contre la paix »",
+      "link": "https://www.lemonde.fr/afrique/article/2025/07/25/republique-democratique-du-congo-joseph-kabila-juge-pour-crimes-contre-la-paix_6623775_3212.html",
+      "fecha_obj": "2025-07-25T07:18:05+00:00",
+      "fecha_str": "25-07-2025 07:18 UTC",
       "source_name": "Le Monde International"
     },
     "resumen_datos": {
-      "teaser_sentence": "A tres meses de elecciones, el gobierno de Milei en Argentina enfrenta una crisis de gobernabilidad tras la pérdida de poderes legislativos.",
-      "resumen": "El presidente argentino Javier Milei, enfrenta dificultades a tres meses de las elecciones legislativas de octubre.  Tras la finalización de sus poderes especiales para legislar por decreto, el Senado aprobó leyes contrarias a sus planes, incluyendo aumentos de pensiones y medidas para personas con discapacidad.  Milei, autodenominado ultraliberal, afirma que todo marcha según su plan, mientras la oposición lo contradice.  Esta situación genera una crisis de gobernabilidad en el país, con el gobierno enfrentando fuertes presiones políticas antes de los comicios.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "La nota cubre una crisis política en Argentina, un país relevante en el contexto internacional de Latinoamérica.  El desafío al gobierno de Milei y las implicaciones políticas a corto plazo (elecciones) la hacen altamente relevante para la categoría 'Internacional'."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Formule 1 : Alpine, des promesses à la dure réalité de la piste ... Récit d’une chute spectaculaire",
-      "link": "https://www.lefigaro.fr/sports/formule-1/formule-1-alpine-des-promesses-a-la-dure-realite-de-la-piste-recit-d-une-chute-spectaculaire-20250724",
-      "fecha_obj": "2025-07-24T07:01:44+00:00",
-      "fecha_str": "24-07-2025 07:01 UTC",
-      "source_name": "Le Figaro"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "El desplome de Alpine F1: de grandes promesas a la última posición, una historia de inestabilidad y malas decisiones.",
-      "resumen": "El artículo analiza el declive del equipo Alpine de Fórmula 1, desde su cuarta posición en 2022 hasta el último lugar en 2025.  Se atribuye la caída a la alta rotación de personal clave (Abiteboul, Budkowski, Szafnauer, Rossi, Famin, etc.), la mala gestión de pilotos (Alonso, Piastri, Ocon, Doohan, Colapinto), y la decisión de abandonar el motor Renault por el de Mercedes.  La inestabilidad interna, la presión por resultados a corto plazo, y la falta de una estrategia a largo plazo contribuyeron al fracaso.  El futuro de Alpine es incierto, con la posibilidad de una venta si no se logra una mejora significativa con el nuevo motor.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "El artículo trata sobre un equipo de Fórmula 1, un deporte de alcance internacional. El análisis de su fracaso involucra decisiones empresariales y deportivas globales, con implicaciones financieras y de imagen a nivel mundial."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Tarn-et-Garonne : une enfant de 12 ans poignarde sa mère à la gorge",
-      "link": "https://www.lefigaro.fr/faits-divers/tarn-et-garonne-une-enfant-de-12-ans-poignarde-sa-mere-a-la-gorge-a-montauban-20250724",
-      "fecha_obj": "2025-07-24T07:17:02+00:00",
-      "fecha_str": "24-07-2025 07:17 UTC",
-      "source_name": "Le Figaro"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Niña de 12 años apuñala a su madre en Francia tras discusión sobre educación.",
-      "resumen": "Una niña de 12 años apuñaló a su madre en la garganta en Montauban, Francia. El incidente ocurrió después de una discusión sobre educación, donde la niña, aparentemente molesta por que su madre no quería dormir con ella, escondió un cuchillo y atacó a su madre.  La víctima sufrió heridas pero no corre peligro. La niña, aunque demasiado joven para ser detenida, fue interrogada y se determinó que tenía discernimiento.  El caso está siendo investigado por un juez de instrucción, quien decidirá las medidas educativas para la menor.",
-      "relevancia_score": 4,
-      "relevancia_justificacion": "Si bien el suceso es una noticia relevante por su naturaleza impactante, su alcance geográfico se limita a Francia.  No tiene implicaciones internacionales de gran magnitud."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Reducción de edad y endurecimiento de penas en la responsabilidad penal adolescente: reflexiones para el debate social",
-      "link": "https://www.ciperchile.cl/2025/07/23/reduccion-de-edad-y-endurecimiento-de-penas-en-la-responsabilidad-penal-adolescente-reflexiones-para-el-debate-social/?utm_source=rss&utm_medium=rss&utm_campaign=reduccion-de-edad-y-endurecimiento-de-penas-en-la-responsabilidad-penal-adolescente-reflexiones-para-el-debate-social",
-      "fecha_obj": "2025-07-23T20:11:41+00:00",
-      "fecha_str": "23-07-2025 20:11 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Reducir la edad de responsabilidad penal juvenil: ¿solución o fracaso anunciado?",
-      "resumen": "El artículo analiza la propuesta de rebajar la edad de responsabilidad penal en Chile, considerando la evidencia que muestra la ineficacia de la prisión para adolescentes.  Se argumenta que la delincuencia juvenil se origina en contextos de vulnerabilidad, pobreza y exclusión social, creando un \"efecto barrio\" que normaliza la ilegalidad.  Se critica la idea de mano dura, proponiendo en cambio fortalecer la educación como herramienta de reinserción social, ofreciendo alternativas a la vida en el gueto. El autor enfatiza la necesidad de comprender las realidades sociales que llevan a los jóvenes a la delincuencia antes de implementar medidas punitivas.",
+      "teaser_sentence": "Joseph Kabila, expresidente congoleño, enfrenta juicio por crímenes contra la paz, acusado de complicidad con el M23.",
+      "resumen": "El expresidente congoleño Joseph Kabila es juzgado por la  Alta Corte Militar por \"crímenes contra la paz\",  acusado de complicidad con el grupo armado M23.  A pesar de vivir en el extranjero, se le acusa de participación en un movimiento insurrecional,  homicidio, traición, y otros crímenes.  Kabila, que gozaba de inmunidad como ex jefe de Estado,  la perdió tras una votación en el Senado.  El juicio se basa en un testimonio que afirma una conversación entre Kabila y el M23 sobre un plan para asesinar al presidente Tshisekedi. Kabila niega formalmente una alianza con el M23, pero admite compartir el objetivo de derrocar a Tshisekedi.  El contexto es la violencia en el este del Congo, donde el M23 ha tomado el control de ciudades importantes, a pesar de un reciente acuerdo de cese al fuego entre el gobierno y el grupo.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El tema de la responsabilidad penal juvenil y la delincuencia es de alta relevancia nacional en Chile, dado el debate político actual y la preocupación ciudadana por la seguridad.  El artículo aborda un problema social crucial con datos e investigaciones relevantes para el contexto chileno."
+      "relevancia_justificacion": "El juicio a un expresidente por crímenes de lesa humanidad y su implicancia en un conflicto armado regional lo convierten en una noticia de alta relevancia internacional."
     },
-    "categoria": "nacional"
+    "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Lota: una ciudad patrimonial en riesgo",
-      "link": "https://www.ciperchile.cl/2025/07/23/lota-una-ciudad-patrimonial-en-riesgo/?utm_source=rss&utm_medium=rss&utm_campaign=lota-una-ciudad-patrimonial-en-riesgo",
-      "fecha_obj": "2025-07-23T20:28:05+00:00",
-      "fecha_str": "23-07-2025 20:28 UTC",
+      "titulo": "Reconnaissance d’un État palestinien par la France : le Crif dénonce «un danger politique»",
+      "link": "https://www.lefigaro.fr/international/reconnaissance-d-un-etat-palestinien-par-la-france-le-crif-denonce-une-faute-morale-et-un-danger-politique-20250725",
+      "fecha_obj": "2025-07-25T07:17:40+00:00",
+      "fecha_str": "25-07-2025 07:17 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Macron reconoce Estado palestino; Crif denuncia \"faute morale\" y riesgo político.",
+      "resumen": "El anuncio del presidente francés Emmanuel Macron de reconocer el Estado de Palestina en septiembre ante la ONU ha generado controversia.  El Crif (Consejo Representativo de las Instituciones Judías de Francia) lo calificó como una \"faute morale\", una \"erreur diplomatique\" y un \"danger politique\".  El Crif argumenta que esta decisión, sin condiciones previas, será interpretada como una victoria por Hamas, recompensando el terrorismo del 7 de octubre.  Además, temen que esta medida obstaculice futuras negociaciones y que sea aprovechada por grupos antisémites en Francia.  El Crif enfatiza que exigir condiciones mínimas para el reconocimiento no implica rechazar un Estado palestino, sino buscar una paz justa y duradera.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La noticia trata sobre una decisión política internacional de gran importancia, con implicaciones geopolíticas y consecuencias para el conflicto israelo-palestino.  Afectará las relaciones internacionales y la política interna de Francia."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "At Least 16 People Dead as Thailand’s Clashes With Cambodia Enter Second Day",
+      "link": "https://www.nytimes.com/2025/07/25/world/asia/thailand-cambodia-border-death-toll.html",
+      "fecha_obj": "2025-07-25T07:13:26+00:00",
+      "fecha_str": "25-07-2025 07:13 UTC",
+      "source_name": "The New York Times World"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Choques fronterizos entre Tailandia y Camboya dejan al menos 16 muertos.",
+      "resumen": "Los enfrentamientos entre Tailandia y Camboya en su frontera continúan por segundo día, dejando un saldo de al menos 16 muertos: 15 civiles y un soldado tailandés, además de una víctima fatal en Camboya.  Los combates, los más sangrientos en una década, comenzaron con disparos en la provincia camboyana de Oddar Meanchey y obligaron a civiles en la provincia tailandesa de Surin a evacuar.  El Ministerio de Defensa camboyano afirma que Tailandia disparó contra siete puntos de su territorio.  A pesar de la gravedad de la situación, ambos países no muestran señales de ceder.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El conflicto armado entre dos países, con víctimas mortales, es un evento de gran relevancia internacional.  La noticia reporta un conflicto bélico activo con consecuencias humanitarias, lo que justifica una puntuación máxima."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "«Victoire morale», «Enfin!», «cadeau au Hamas»... La future reconnaissance d’un État palestinien par la France fracture la classe politique",
+      "link": "https://www.lefigaro.fr/politique/victoire-morale-enfin-cadeau-au-hamas-la-future-reconnaissance-d-un-etat-palestinien-par-la-france-fracture-la-classe-politique-20250724",
+      "fecha_obj": "2025-07-25T07:12:43+00:00",
+      "fecha_str": "25-07-2025 07:12 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Macron anuncia el reconocimiento de Palestina, generando controversia en la política francesa.",
+      "resumen": "El presidente francés, Emmanuel Macron, anunció el reconocimiento del Estado de Palestina para septiembre, en la Asamblea General de la ONU.  Esta decisión, enmarcada en la búsqueda de una paz justa y duradera en Oriente Próximo, ha generado una fuerte división en la clase política francesa. Mientras la izquierda, aunque con matices, celebra la medida, la derecha la critica duramente, acusándola de ser inoportuna y de favorecer al Hamas. La coalición gubernamental permanece mayoritariamente en silencio, reflejando la incomodidad que genera la decisión de Macron.  El anuncio se produce en medio de la compleja situación humanitaria en Gaza.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La noticia trata sobre una decisión política internacional de gran relevancia, con implicaciones geopolíticas y humanitarias en Oriente Próximo, generando un debate a nivel global."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Reconnaissance d’un État palestinien par la France : «Emmanuel Macron est aujourd’hui félicité par ceux qui ont déclenché» le 7 Octobre, fustige François-Xavier Bellamy",
+      "link": "https://www.lefigaro.fr/politique/emmanuel-macron-voulait-organiser-une-coalition-anti-hamas-aujourd-hui-il-est-felicite-par-ceux-qui-ont-declenche-le-7-octobre-fustige-francois-xavier-bellamy-20250725",
+      "fecha_obj": "2025-07-25T07:12:16+00:00",
+      "fecha_str": "25-07-2025 07:12 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Macron reconoce el Estado de Palestina, decisión criticada por Bellamy por ser contraproducente e impulsada por el 7 de octubre.",
+      "resumen": "François-Xavier Bellamy, eurodiputado francés, critica duramente la decisión de Emmanuel Macron de reconocer el Estado de Palestina en septiembre.  Bellamy argumenta que la decisión contradice declaraciones previas de Macron, que condicionó la misma a la liberación de rehenes, la expulsión de Hamas, el reconocimiento de Israel por países árabes y el restablecimiento de la autoridad palestina; ninguna de estas condiciones se ha cumplido.  El eurodiputado considera la decisión inútil o contraproducente, incluso peligrosa para civiles, y la vincula directamente con los sucesos del 7 de octubre,  fecha en la que Hamas atacó Israel.  Bellamy señala que la felicitación de Hamas a Macron evidencia que la decisión podría alentar el terrorismo.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La noticia trata sobre una decisión política internacional de gran relevancia, con implicaciones geopolíticas en Oriente Medio y consecuencias para la política exterior francesa.  Afecta directamente las relaciones internacionales entre Francia, Palestina e Israel, siendo un tema de gran interés para la comunidad internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Modificación de la Ley Lafkenche: un acto de discriminación racial",
+      "link": "https://www.ciperchile.cl/2025/07/24/modificacion-de-la-ley-lafkenche-un-acto-de-discriminacion-racial/?utm_source=rss&utm_medium=rss&utm_campaign=modificacion-de-la-ley-lafkenche-un-acto-de-discriminacion-racial",
+      "fecha_obj": "2025-07-24T08:00:49+00:00",
+      "fecha_str": "24-07-2025 08:00 UTC",
       "source_name": "CIPER Chile"
     },
     "resumen_datos": {
-      "teaser_sentence": "El patrimonio industrial de Lota, en riesgo de colapso, necesita urgente acción gubernamental.",
-      "resumen": "La carta al director lamenta el estado de deterioro del patrimonio histórico de Lota, Chile, a pesar de ser una ciudad emblemática del patrimonio industrial minero mundial.  Monumentos históricos nacionales como la Central Hidroeléctrica de Chivilingo y el Teatro del Sindicato Minero N°6 se encuentran en ruinas, a pesar de los anuncios y convenios que no se traducen en acciones concretas.  Si bien existe un Plan Lota con aspiraciones a la lista de Patrimonio Mundial de la Unesco, la falta de presupuesto y acción efectiva amenaza con perder no solo edificios, sino también la historia, dignidad y futuro de la comunidad.  El autor urge a priorizar la protección del patrimonio de Lota.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "El tema abarca la preservación del patrimonio nacional, un asunto de interés para todo Chile.  La situación de Lota refleja problemas de gestión y presupuesto en la protección de monumentos históricos a nivel nacional."
+      "teaser_sentence": "Modificaciones a Ley Lafkenche: retroceso en derechos indígenas y discriminación racial.",
+      "resumen": "El artículo critica la modificación de la Ley Lafkenche en Chile, argumentando que limita los derechos de los pueblos originarios y constituye un acto de discriminación racial.  Se denuncia la falta de consulta indígena, la propagación de discursos estigmatizantes por parte de senadores y gremios, y la ausencia de evidencia que respalde las acusaciones contra las comunidades.  La modificación se considera regresiva y contraria a estándares internacionales, violando el Convenio 169 de la OIT y la Convención Internacional sobre la Eliminación de Todas las Formas de Discriminación Racial. El autor destaca la pasividad gubernamental ante esta situación de hostilidad y discriminación.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La modificación de una ley que afecta directamente a los pueblos originarios de Chile es un tema de gran relevancia nacional, con implicaciones políticas, sociales y legales de primer orden."
     },
     "categoria": "nacional"
   },
   {
     "info": {
-      "titulo": "Columbia’s Administrators Are Fooling Themselves",
-      "link": "https://www.nytimes.com/2025/07/23/opinion/trump-columbia-deal-professor.html",
-      "fecha_obj": "2025-07-24T02:55:37+00:00",
-      "fecha_str": "24-07-2025 02:55 UTC",
+      "titulo": "Tribunal retiene indemnización por $18 millones a estrecho colaborador de Codina que demandó a Puente Alto por daño moral",
+      "link": "https://www.ciperchile.cl/2025/07/24/tribunal-retiene-indemnizacion-por-18-millones-a-estrecho-colaborador-de-codina-que-demando-a-puente-alto-por-dano-moral/?utm_source=rss&utm_medium=rss&utm_campaign=tribunal-retiene-indemnizacion-por-18-millones-a-estrecho-colaborador-de-codina-que-demando-a-puente-alto-por-dano-moral",
+      "fecha_obj": "2025-07-24T22:01:23+00:00",
+      "fecha_str": "24-07-2025 22:01 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Tribunal bloquea indemnización millonaria a colaborador de Codina, involucrado en caso de corrupción.",
+      "resumen": "Christian Gore, estrecho colaborador del exalcalde de Puente Alto Germán Codina, recibió una indemnización de $18 millones tras demandar por daño moral a la municipalidad.  Sin embargo, el pago fue retenido por el Tribunal a petición del Consejo de Defensa del Estado y la fiscalía, debido a la investigación del Caso Luminarias, donde Gore está acusado de cohecho.  La indemnización se cuestiona por la corta duración de su contrato y por la coincidencia con las elecciones municipales.  Además, Gore enfrenta un juicio de cuentas por condonación indebida de multas por $75 millones.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El caso involucra a un ex-alto funcionario público, corrupción, uso de fondos públicos y tiene implicaciones políticas a nivel nacional.  La investigación judicial y la magnitud de las sumas involucradas lo hacen altamente relevante para la categoría 'Nacional'."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Mal servicio eléctrico en la Región de Los Lagos",
+      "link": "https://www.ciperchile.cl/2025/07/24/mal-servicio-electrico-en-la-region-de-los-lagos/?utm_source=rss&utm_medium=rss&utm_campaign=mal-servicio-electrico-en-la-region-de-los-lagos",
+      "fecha_obj": "2025-07-24T08:00:49+00:00",
+      "fecha_str": "24-07-2025 08:00 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Los Lagos sufre constantes cortes de luz, afectando a comunidades rurales y urbanas, con autoridades inertes.",
+      "resumen": "La carta al director denuncia la pésima calidad del servicio eléctrico en la Región de Los Lagos, ejemplificando con múltiples casos de cortes prolongados en diversas localidades, afectando a agricultores, comerciantes y población en general.  Se critica la falta de respuesta de las autoridades regionales y empresas eléctricas como Saesa y Crell, a pesar del impacto en la economía y la vida de las personas.  Se destaca la paradoja de que los usuarios financian las compensaciones por cortes, mientras las autoridades regionales permanecen pasivas, en contraste con la reacción ante cortes en Santiago. El artículo enfatiza la necesidad de una acción urgente por parte de las autoridades.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El problema del suministro eléctrico afecta a una región completa, impactando la economía y la vida de miles de personas.  Su alcance regional y la inacción gubernamental lo convierten en un tema de relevancia nacional."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Trump is fighting to kill off DEI – and the corporate cowardice over Gaza shows he’s winning | Jinan Younis",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/25/donald-trump-dei-corporate-cowardice-gaza-israel",
+      "fecha_obj": "2025-07-25T05:00:50+00:00",
+      "fecha_str": "25-07-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La hipocresía corporativa sobre Gaza expone la farsa de la DEI, priorizando el lucro sobre la justicia.",
+      "resumen": "Jinan Younis critica la inacción corporativa ante la crisis en Gaza, contrastándola con la respuesta a la invasión de Ucrania.  Empresas con agendas DEI se mantienen silenciosas, incluso beneficiándose del conflicto, mientras censuran a empleados que se pronuncian.  Younis argumenta que la DEI auténtica debe integrar valores como la justicia y la dignidad, cuestionando su significado actual si se permite la complicidad con atrocidades.  Señala ejemplos de empleados que desafían la apatía corporativa, ofreciendo esperanza para una DEI con verdadero impacto.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente un tema relevante: la hipocresía corporativa en temas de derechos humanos y la ineficacia de las políticas de DEI.  Presenta argumentos, ejemplos y una conclusión clara, encajando perfectamente en la categoría."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "My life has been hell since mafia bosses blamed me for their downfall. Finally, justice has been done | Roberto Saviano",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/25/mafia-bosses-italy-justice-court-protection",
+      "fecha_obj": "2025-07-25T04:00:48+00:00",
+      "fecha_str": "25-07-2025 04:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "17 años después, la justicia condena a jefes mafiosos por amenazas contra el periodista Roberto Saviano.",
+      "resumen": "El periodista Roberto Saviano obtuvo una victoria legal tras 17 años. Un tribunal italiano condenó al jefe mafioso Francesco Bidognetti y a su abogado por amenazas relacionadas con la mafia en su contra.  La amenaza, hecha pública en 2008 durante un juicio, responsabilizaba a Saviano y a otra periodista por la posible condena de Bidognetti.  Este acto sin precedentes destaca la percepción de la mafia sobre el periodismo de investigación como una amenaza a su poder.  Saviano, quien vive bajo protección policial, reflexiona sobre las consecuencias personales de su trabajo, incluyendo el aislamiento y la pérdida de libertad, mientras reafirma su compromiso con el periodismo de investigación a pesar de los riesgos.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que expone la experiencia personal del autor con la mafia italiana, su lucha por la justicia y las consecuencias de su trabajo como periodista de investigación.  Combina narrativa personal con análisis político y social, reflejando una opinión clara y fundamentada."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "America Will Come to Regret Selling A.I. Chips to China",
+      "link": "https://www.nytimes.com/2025/07/24/opinion/ai-chips-nvidia-china.html",
+      "fecha_obj": "2025-07-25T01:35:22+00:00",
+      "fecha_str": "25-07-2025 01:35 UTC",
       "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Trump's broken promises mirror history's absolutist monarchs, undermining his credibility and ability to make deals.",
-      "resumen": "El artículo traza un paralelo entre la incapacidad de los monarcas absolutistas para cumplir sus promesas financieras y la situación actual con la administración Trump.  Se argumenta que, al igual que Carlos II y Jacobo II, Trump, al debilitar los controles sobre su poder, ha creado un problema de compromiso, haciendo que los acuerdos sean poco fiables.  Esto se ilustra con ejemplos de incumplimiento de acuerdos con diversos actores, desde países aliados hasta empleados federales.  La lección histórica de la Gloriosa Revolución, donde la supremacía parlamentaria resolvió problemas similares, se presenta como una advertencia contra la falta de restricciones al poder ejecutivo.",
+      "teaser_sentence": "Vender chips de IA a China: ¿un error estratégico de EE.UU. que pone en riesgo su dominio tecnológico y seguridad nacional?",
+      "resumen": "El artículo critica la decisión de la administración Trump de permitir la venta de chips de IA avanzados de Nvidia a China.  Esta acción se considera un grave error estratégico, ya que cede el control de la cadena de suministro global de computación, esencial para el desarrollo de la IA.  China depende en gran medida de estos chips para su desarrollo militar y tecnológico, y su adquisición permitiría a su ecosistema de IA, y por ende a su gobierno, superar a Estados Unidos en áreas críticas como las operaciones militares y el desarrollo de drones.  El autor argumenta que esta decisión prioriza las ganancias a corto plazo de una empresa sobre la seguridad nacional y el dominio estadounidense en IA.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo presenta una opinión argumentada con evidencia histórica, analizando las consecuencias de las acciones de Trump y su impacto en la credibilidad de sus acuerdos.  Su estructura y enfoque lo califican como un ensayo de opinión."
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre una decisión política con implicaciones geopolíticas y tecnológicas de gran envergadura.  Su estructura, tono y contenido se ajustan perfectamente a la categoría de 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "To End the War in Ukraine, Trump Needs Real Negotiations",
+      "link": "https://www.nytimes.com/2025/07/25/opinion/ukraine-war-negotiations-trump.html",
+      "fecha_obj": "2025-07-25T05:09:14+00:00",
+      "fecha_str": "25-07-2025 05:09 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Trump necesita negociaciones reales para acabar con la guerra en Ucrania, apoyándose en un equipo profesional.",
+      "resumen": "El artículo argumenta que para lograr la paz en Ucrania, Trump debe delegar en un equipo de negociadores profesionales, siguiendo modelos históricos como la diplomacia de Kissinger.  Si bien Trump ha impulsado conversaciones entre Rusia y Ucrania,  un alto el fuego sigue siendo difícil de alcanzar debido a las posturas de Putin y Zelensky. Se propone un acuerdo marco inicial, como el ejemplo de Colombia con las FARC, para generar confianza y facilitar un cese al fuego, abriendo camino a negociaciones detalladas posteriores.  El artículo destaca la necesidad de paciencia y una estrategia diplomática profesional para un proceso de paz exitoso.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El texto presenta una opinión argumentada sobre la resolución del conflicto en Ucrania, ofreciendo una propuesta concreta y respaldada en ejemplos históricos.  Su estructura y enfoque analítico lo clasifican claramente como un ensayo de opinión."
     },
     "categoria": "opinion_ensayo"
   },
@@ -131,223 +195,111 @@
     "info": {
       "titulo": "The World Must See Gaza’s Starvation",
       "link": "https://www.nytimes.com/2025/07/24/opinion/gaza-hunger-children-rescue.html",
-      "fecha_obj": "2025-07-24T05:39:54+00:00",
-      "fecha_str": "24-07-2025 05:39 UTC",
+      "fecha_obj": "2025-07-25T01:19:11+00:00",
+      "fecha_str": "25-07-2025 01:19 UTC",
       "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "El bloqueo a Gaza causa hambruna masiva; niños mueren de inanición mientras el mundo observa.",
-      "resumen": "Un gerente de nutrición del Comité Internacional de Rescate describe la crisis alimentaria catastrófica en Gaza.  Casi medio millón de personas sufren inseguridad alimentaria extrema, con aproximadamente 100.000 niños y mujeres padeciendo desnutrición aguda grave. El bloqueo de ayuda israelí, aunque oficialmente finalizado, dificulta la distribución de alimentos y asistencia médica, exacerbando la situación.  La violencia continua y las restricciones de acceso impiden que las organizaciones humanitarias lleguen a las familias necesitadas, dejando a los niños al borde de la inanición. El autor describe escenas desgarradoras de niños desnutridos y la impotencia ante la falta de recursos y la violencia constante.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta una opinión contundente sobre la situación humanitaria en Gaza, basada en la experiencia directa del autor.  Describe la crisis con detalles emotivos, lo que lo hace adecuado para un ensayo de opinión que busca concientizar al lector sobre la urgencia del problema."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "With Cleverly centre stage, the Tories have a new look – but that isn’t the same as a plan | Martin Kettle",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/24/james-cleverly-tories-kemi-badenoch",
-      "fecha_obj": "2025-07-24T05:00:02+00:00",
-      "fecha_str": "24-07-2025 05:00 UTC",
-      "source_name": "The Guardian Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "El regreso de Cleverly al gabinete conservador británico: ¿un cambio estratégico o mera apariencia?",
-      "resumen": "El artículo analiza el reciente reajuste en el gabinete conservador británico, donde el regreso de James Cleverly al frente del partido es el evento principal.  Cleverly representa una corriente conservadora más tradicional y pragmática, opuesta a la deriva populista de la actual líder, Kemi Badenoch.  Su incorporación se interpreta como un posible giro estratégico hacia el centro-derecha, alejándose del electorado de Reform UK y buscando recuperar votos de clase media. Sin embargo, el autor duda de la efectividad de este cambio, considerando que el partido está muy debilitado y que Badenoch aún prioriza la confrontación cultural sobre la estrategia política.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta un análisis profundo y argumentado de la situación política del partido conservador británico, ofreciendo una opinión clara sobre las implicaciones del cambio en el gabinete. Se encuadra perfectamente en la categoría de 'Opinión Ensayo' por su análisis interpretativo y su perspectiva crítica."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "Nine Questions About the Epstein Case That Actually Need Answers",
-      "link": "https://www.nytimes.com/2025/07/23/opinion/epstein-files-fbi-trump.html",
-      "fecha_obj": "2025-07-23T21:57:41+00:00",
-      "fecha_str": "23-07-2025 21:57 UTC",
-      "source_name": "The New York Times Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "El caso Epstein: ¿Quién financió sus crímenes y tenía vínculos con agencias de inteligencia?",
-      "resumen": "El artículo explora nueve preguntas sin respuesta sobre el caso Jeffrey Epstein, centrándose en dos cruciales: la fuente de su riqueza y sus posibles conexiones con agencias de inteligencia.  A pesar de su fortuna estimada en $600 millones, el origen de su dinero y cómo financió su red de tráfico sexual durante dos décadas permanece oscuro.  Las transferencias bancarias por casi $1.1 mil millones encontradas por el senador Wyden sugieren una operación compleja.  Además, la declaración de Alexander Acosta sobre Epstein \"perteneciendo a inteligencia\" genera sospechas sobre posibles vínculos con agencias de espionaje. El artículo argumenta que los archivos del FBI podrían arrojar luz sobre estos misterios.",
+      "teaser_sentence": "El hambre extrema en Gaza, agravada por el bloqueo, amenaza la vida de miles de niños.",
+      "resumen": "Un gerente de nutrición del Comité Internacional de Rescate describe la crisis alimentaria catastrófica en Gaza.  El bloqueo de ayuda humanitaria israelí desde marzo ha provocado un aumento drástico del hambre, especialmente entre niños pequeños.  Casi medio millón de gazatíes sufren inseguridad alimentaria, con aproximadamente 100.000 niños y mujeres padeciendo desnutrición aguda grave. El relato personal del autor, que incluye la imagen de un niño desnutrido, subraya la urgencia de la situación y la necesidad de ayuda humanitaria inmediata.",
       "relevancia_score": 8,
-      "relevancia_justificacion": "El artículo presenta una opinión basada en hechos, analizando las preguntas sin respuesta del caso Epstein.  Su enfoque investigativo y la búsqueda de explicaciones lo hacen relevante como ensayo de opinión, aunque carece de una tesis argumentativa explícita."
+      "relevancia_justificacion": "El artículo presenta una opinión implícita sobre la situación humanitaria en Gaza, criticando indirectamente las consecuencias del bloqueo.  Aunque no es un ensayo formal de opinión, el testimonio directo y la descripción vívida de la crisis sirven como un llamado a la acción y un argumento contundente para la intervención humanitaria."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "The Political Legacy of Jerry Garcia",
-      "link": "https://www.nytimes.com/2025/07/20/opinion/jerry-garcia-politics.html",
-      "fecha_obj": "2025-07-24T00:10:02+00:00",
-      "fecha_str": "24-07-2025 00:10 UTC",
-      "source_name": "The New York Times Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "El legado de Jerry Garcia: un músico multimillonario que buscó la libertad, más allá de la política.",
-      "resumen": "El artículo explora el legado de Jerry Garcia, líder de Grateful Dead, quien a pesar de su fortuna y su influencia en la contracultura estadounidense, evitó involucrarse directamente en la política.  Garcia, fallecido hace casi 30 años,  es recordado por su enfoque singular en la vida y el arte, representando una búsqueda de la libertad personal.  Su música y su vida se perciben como una exploración de la libertad,  un ideal que resonó con la generación de la contracultura.  Aunque fue testigo y parte de momentos históricos, mantuvo una distancia de campañas y candidatos, priorizando una vida sencilla y la búsqueda de un progreso humano colectivo.",
-      "relevancia_score": 7,
-      "relevancia_justificacion": "El artículo presenta una interpretación del legado de Garcia, ofreciendo una perspectiva analítica sobre su vida y su relación con la política.  Si bien no es un ensayo argumentativo tradicional, la valoración de su figura y la exploración de su impacto cultural lo acercan a la categoría de opinión."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "STMicroelectronics: Croissance attendue du chiffre d'affaires au 3e trimestre, dépasse les attentes au 2e trimestre",
-      "link": "https://www.sciencesetavenir.fr/stmicroelectronics-croissance-attendue-du-chiffre-d-affaires-au-3e-trimestre-depasse-les-attentes-au-2e-trimestre_187294",
-      "fecha_obj": "2025-07-24T05:55:19+00:00",
-      "fecha_str": "24-07-2025 05:55 UTC",
-      "source_name": "Sciences et Avenir"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "STMicroelectronics supera expectativas, crecimiento previsto para el tercer trimestre.",
-      "resumen": "STMicroelectronics anunció resultados financieros positivos.  El segundo trimestre superó las expectativas, mostrando un crecimiento en el volumen de negocios.  La compañía anticipa que esta tendencia positiva continuará en el tercer trimestre, con un crecimiento adicional en sus ingresos.  Este reporte financiero destaca el buen desempeño de la empresa en el sector tecnológico, impulsado probablemente por la alta demanda de sus productos.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "STMicroelectronics es una empresa de semiconductores, un sector clave en la ciencia y la tecnología. El reporte financiero refleja el estado del mercado tecnológico y la innovación en el sector."
-    },
-    "categoria": "ciencia_tecnologia"
-  },
-  {
-    "info": {
-      "titulo": "Americans Are Obsessed With Watching Short Video Dramas From China",
-      "link": "https://www.wired.com/story/china-reel-short-dramas-video-social-media/",
-      "fecha_obj": "2025-07-24T07:00:00+00:00",
-      "fecha_str": "24-07-2025 07:00 UTC",
+      "titulo": "The Age-Checked Internet Has Arrived",
+      "link": "https://www.wired.com/story/the-age-checked-internet-has-arrived/",
+      "fecha_obj": "2025-07-25T06:00:00+00:00",
+      "fecha_str": "25-07-2025 06:00 UTC",
       "source_name": "Wired"
     },
     "resumen_datos": {
-      "teaser_sentence": "Miniseries chinas cortas conquistan Hollywood: ¡millones de usuarios enganchados!",
-      "resumen": "Las miniseries chinas cortas, o duanju, están experimentando un éxito rotundo en el mercado internacional.  Plataformas como ReelShort han alcanzado millones de usuarios y generado cientos de millones de dólares en ingresos a través de suscripciones y pagos por episodio.  Su éxito se debe a su formato vertical, episodios cortos con giros constantes, y su aparición en redes sociales.  A pesar de sus tramas a veces clichés, su producción profesional y la escasez de contenido en el mercado occidental tras huelgas en Hollywood, han contribuido a su rápida expansión, incluso diversificándose en otros géneros.  ReelShort, por ahora, apuesta por actores y guionistas humanos en lugar de inteligencia artificial.",
-      "relevancia_score": 7,
-      "relevancia_justificacion": "El artículo trata sobre el éxito de una industria del entretenimiento digital, mostrando la innovación en formatos (vídeos cortos verticales), modelos de negocio (in-app purchases) y su impacto global.  Si bien no se centra en avances tecnológicos específicos, la rápida expansión y el uso de plataformas digitales son relevantes para la ciencia y la tecnología."
-    },
-    "categoria": "ciencia_tecnologia"
-  },
-  {
-    "info": {
-      "titulo": "Le chef d'une île du Vanuatu se dit \"très impressionné\" par l'avis de la CIJ",
-      "link": "https://www.sciencesetavenir.fr/nature-environnement/le-chef-d-une-ile-du-vanuatu-se-dit-tres-impressionne-par-l-avis-de-la-cij_187293?xtor=RSS-15",
-      "fecha_obj": "2025-07-24T02:57:47+00:00",
-      "fecha_str": "24-07-2025 02:57 UTC",
-      "source_name": "Sciences et Avenir"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "La CIJ dictamina sobre responsabilidad climática; líder de Vanuatu, impactado por la decisión.",
-      "resumen": "El jefe de la isla Ambrym, Vanuatu, expresó su satisfacción por la opinión consultiva de la CIJ sobre la responsabilidad de los Estados en materia climática.  La CIJ concluyó que los Estados que violan sus obligaciones climáticas podrían ser responsables de pagar reparaciones a los países más afectados.  Ambrym sufrió tres devastadores ciclones en 2023, causando daños significativos a las cosechas, bosques y medicinas tradicionales.  El líder destaca el impacto continuo del cambio climático en su isla, incluyendo la erosión costera y cambios en las mareas. La decisión de la CIJ representa una victoria para Vanuatu y otros países vulnerables al cambio climático.",
-      "relevancia_score": 7,
-      "relevancia_justificacion": "El artículo trata sobre el cambio climático y la decisión legal internacional al respecto, conectando con la ciencia del clima y la tecnología usada para monitorearlo y modelarlo.  Si bien no se centra en avances tecnológicos específicos, la relevancia es alta por el impacto científico y las implicaciones tecnológicas en la mitigación y adaptación al cambio climático."
-    },
-    "categoria": "ciencia_tecnologia"
-  },
-  {
-    "info": {
-      "titulo": "OPmobility: Hausse de la marge opérationnelle au 1er semestre avec les mesures de réduction des coûts",
-      "link": "https://www.sciencesetavenir.fr/opmobility-hausse-de-la-marge-operationnelle-au-1er-semestre-avec-les-mesures-de-reduction-des-couts_187295",
-      "fecha_obj": "2025-07-24T06:11:43+00:00",
-      "fecha_str": "24-07-2025 06:11 UTC",
-      "source_name": "Sciences et Avenir"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "OPmobility aumenta su margen operativo en el primer semestre gracias a la reducción de costos.",
-      "resumen": "El artículo informa sobre los resultados financieros del primer semestre de OPmobility, destacando un aumento en el margen operativo.  Este incremento se atribuye a las medidas de reducción de costos implementadas por la empresa.  Si bien el artículo no proporciona detalles específicos sobre las medidas tomadas o las cifras exactas del aumento del margen, enfatiza el éxito de estas estrategias en la mejora de la rentabilidad de OPmobility.  La noticia se presenta con un llamado a la suscripción o aceptación de publicidad para el acceso completo al contenido.",
-      "relevancia_score": 4,
-      "relevancia_justificacion": "Si bien se trata de una empresa del sector tecnológico, la noticia se centra en aspectos financieros y de gestión empresarial, no en avances científicos o tecnológicos concretos. La relevancia es baja en cuanto a innovación tecnológica."
-    },
-    "categoria": "ciencia_tecnologia"
-  },
-  {
-    "info": {
-      "titulo": "Fibromyalgie : la HAS émet une première recommandation officielle",
-      "link": "https://www.sciencesetavenir.fr/sante/os-et-muscles/fibromyalgie-la-has-emet-une-premiere-recommandation-officielle-pour-cette-maladie-touchant-2-millions-de-francais_187280?xtor=RSS-16",
-      "fecha_obj": "2025-07-24T06:00:00+00:00",
-      "fecha_str": "24-07-2025 06:00 UTC",
-      "source_name": "Sciences et Avenir"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "La HAS emite su primera recomendación oficial para mejorar el diagnóstico y tratamiento de la fibromyalgia.",
-      "resumen": "La Haute Autorité de Santé (HAS) en Francia publicó su primera recomendación oficial sobre la fibromialgia, una enfermedad crónica que afecta a cerca del 2% de la población francesa.  El documento se centra en mejorar el proceso de diagnóstico, que actualmente carece de pruebas biológicas o radiológicas concluyentes,  basándose en un examen clínico exhaustivo y cuestionarios de evaluación como el FIRST.  La HAS destaca la importancia de la escucha activa del paciente y recomienda como primer tratamiento la actividad física regular y suave,  diferenciando la estrategia terapéutica de la médicamentosa.  En septiembre de 2025 se publicará un documento adicional con ejemplos de ejercicios.",
-      "relevancia_score": 4,
-      "relevancia_justificacion": "Si bien el artículo trata un tema de salud, la información se centra en las recomendaciones médicas y no en avances científicos o tecnológicos. La relevancia en ciencia y tecnología es baja, ya que no presenta descubrimientos o innovaciones tecnológicas."
-    },
-    "categoria": "ciencia_tecnologia"
-  },
-  {
-    "info": {
-      "titulo": "Best of the fest: 10 of the best shows to catch at this year’s Edinburgh fringe",
-      "link": "https://www.theguardian.com/stage/2025/jul/24/best-edinburgh-fringe-comedy-shows-frankie-monroe-desiree-birch-josie-long-chonkers",
-      "fecha_obj": "2025-07-24T07:00:03+00:00",
-      "fecha_str": "24-07-2025 07:00 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Diez espectáculos imperdibles en el Festival Fringe de Edimburgo: comedia, música y mucho más.",
-      "resumen": "El artículo destaca diez espectáculos sobresalientes del Festival Fringe de Edimburgo.  Se presentan comediantes como Joe Kent-Walters con su personaje Frankie Monroe, Jain Edwards con su show \"She-Devil\", y Heidi Regan con \"Jekyll and Heidi\".  También se incluyen artistas como Mr. Chonkers, Desiree Burch, Leila Navabi, Josie Long, Luke McQueen, Sam Nicoresti y Alice Cockayne, cada uno ofreciendo un estilo único: desde comedia surrealista hasta musical y teatro.  Los temas abarcan desde experiencias personales como la maternidad y el diagnóstico médico hasta reflexiones sobre la sociedad, la identidad y la política.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo trata sobre eventos culturales de artes escénicas (comedia, teatro, música),  centrándose en un festival de renombre internacional. Su relevancia es alta por la información sobre espectáculos y artistas, y su impacto cultural."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "Who needs a car? Los Angeles by foot – in pictures",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2025/jul/24/who-needs-a-car-los-angeles-by-foot-in-pictures",
-      "fecha_obj": "2025-07-24T06:00:02+00:00",
-      "fecha_str": "24-07-2025 06:00 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Los Ángeles a pie: una serie fotográfica explora la ciudad más allá del automóvil.",
-      "resumen": "El artículo presenta la serie fotográfica \"North North South\" de la artista iraní-americana Ayda Gragossian.  En lugar de usar un coche, Gragossian recorrió a pie diferentes zonas de Los Ángeles, una ciudad típicamente asociada al transporte automovilístico.  Sus fotografías capturan la fragmentación y constante evolución de la ciudad, ofreciendo una perspectiva diferente a la habitual, centrada en la experiencia peatonal. La serie, publicada por GOST, invita a una reinterpretación de Los Ángeles, mostrando su complejidad y contrastes desde una perspectiva íntima y personal.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "La serie fotográfica explora la ciudad de Los Ángeles desde una perspectiva artística, mostrando una visión personal y creativa de la urbe. Se centra en el trabajo de una artista y su publicación, lo que lo hace altamente relevante para la categoría 'Cultura Arte'."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "Inter Alia review – Rosamund Pike rules in searing legal drama from Prima Facie team",
-      "link": "https://www.theguardian.com/stage/2025/jul/24/inter-alia-review-lyttelton-theatre-london-rosamund-pike-suzie-miller",
-      "fecha_obj": "2025-07-23T23:01:50+00:00",
-      "fecha_str": "23-07-2025 23:01 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Rosamund Pike brilla en 'Inter Alia', drama legal que explora la justicia desde una perspectiva femenina.",
-      "resumen": "Inter Alia, secuela de Prima Facie, presenta a Rosamund Pike como una jueza cuyo mundo se desmorona tras una acusación cercana.  La obra, dirigida por Justin Martin, contrasta con Prima Facie al mostrar el sistema legal desde la perspectiva de la víctima. Pike ofrece una actuación física e intensa, mostrando la lucha de una mujer que intenta equilibrar su vida profesional y personal. La obra explora temas como la justicia, la maternidad, y las presiones sociales sobre las mujeres exitosas. Aunque la obra pierde algo de ritmo en su tramo final,  se mantiene como una crítica incisiva del sistema judicial y una mirada incómoda a la crianza en la actualidad. ",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "La obra es una pieza teatral con una actriz reconocida, dirigida por un director destacado, y aborda temas relevantes de la sociedad actual, lo que la hace altamente relevante para la categoría 'Cultura Arte'."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "Drayton and Mackenzie by Alexander Starritt review – a warmly comic saga of male friendship",
-      "link": "https://www.theguardian.com/books/2025/jul/24/drayton-and-mackenzie-by-alexander-starritt-review-a-warmly-comic-saga-of-male-friendship",
-      "fecha_obj": "2025-07-24T06:00:59+00:00",
-      "fecha_str": "24-07-2025 06:00 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Dos consultores crean una empresa de energía verde, llena de comedia, amistad y giros inesperados.",
-      "resumen": "La novela \"Drayton and Mackenzie\" de Alexander Starritt sigue a dos consultores de McKinsey que abandonan sus trabajos para crear una empresa de energía renovable.  La historia, ambientada entre el 9/11 y la pandemia de Covid, es una saga cómica que explora su amistad y sus desafíos empresariales.  La narrativa alterna entre la perspectiva de los protagonistas y figuras reales como Mario Draghi y Elon Musk, añadiendo contexto histórico y político.  A pesar de la trama centrada en la tecnología y el medio ambiente, el foco principal reside en la relación entre los personajes, su crecimiento personal y la importancia de la amistad, culminando en un emotivo final.",
+      "teaser_sentence": "La verificación de edad online llega para proteger a menores, pero ¿a qué costo para la privacidad?",
+      "resumen": "Nuevas leyes en Reino Unido y otros países exigen verificación de edad en sitios web con contenido para adultos o dañino para menores.  Se utilizan métodos como escaneo facial y verificación de identidad.  Si bien la intención es proteger a los niños,  expertos advierten sobre implicaciones negativas para la privacidad y el acceso anónimo a la información, incluyendo temas como salud sexual y LGBTQ+.  Plataformas como Pornhub y redes sociales ya implementan estas medidas,  generando debate sobre el equilibrio entre seguridad infantil y libertades individuales.  La verificación de edad, aunque presente en algunas plataformas desde hace años, se está expandiendo rápidamente a nivel global.",
       "relevancia_score": 8,
-      "relevancia_justificacion": "La novela es una obra literaria que se centra en la amistad, el emprendimiento y la superación de obstáculos, temas relevantes para la cultura.  La mención de figuras públicas y el contexto histórico-político amplían su conexión con la cultura contemporánea."
+      "relevancia_justificacion": "El artículo trata sobre el desarrollo y la implementación de nuevas tecnologías para la verificación de edad online, un tema estrechamente relacionado con la ciencia y la tecnología.  Analiza las implicaciones de estas tecnologías en la privacidad y el acceso a la información, aspectos relevantes para la discusión sobre la ética en el desarrollo tecnológico."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "NordVPN Coupon and Discount Codes: 76% Off",
+      "link": "https://www.wired.com/story/nordvpn-coupon/",
+      "fecha_obj": "2025-07-25T05:00:00+00:00",
+      "fecha_str": "25-07-2025 05:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ahorra hasta un 76% en NordVPN: ¡Protege tu privacidad con ofertas exclusivas!",
+      "resumen": "NordVPN ofrece descuentos significativos en sus planes, especialmente en sus suscripciones de 2 años, llegando hasta un 76% de rebaja y un bono de hasta $50 en tarjeta de regalo de Amazon.  Existen diferentes opciones de planes, desde mensuales hasta anuales y bianuales, con precios que disminuyen según la duración del compromiso. Además de las ofertas temporales, hay descuentos para estudiantes, militares y otros colectivos, y un programa de referidos que premia a los usuarios por recomendar el servicio.  NordVPN destaca la importancia de usar una VPN para proteger la privacidad online, especialmente en redes públicas.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo trata sobre NordVPN, un servicio de red privada virtual (VPN),  tecnología relevante en el ámbito de la ciencia y la tecnología por su relación con la seguridad informática, la privacidad en línea y el acceso a contenido geobloqueado."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Paramount Has a $1.5 Billion ‘South Park’ Problem",
+      "link": "https://www.wired.com/story/paramount-has-a-south-park-problem/",
+      "fecha_obj": "2025-07-24T23:13:39+00:00",
+      "fecha_str": "24-07-2025 23:13 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Paramount enfrenta una crisis de 1.5 billones de dólares tras el episodio de South Park que satiriza a Trump.",
+      "resumen": "El estreno de la temporada 27 de South Park, que se burla de Trump y de Paramount por ceder a sus demandas, ha generado controversia.  Esto ocurre justo cuando Paramount se fusiona con Skydance y enfrenta críticas por un acuerdo con Trump.  La Casa Blanca ha desestimado el episodio, mientras que la FCC apoya la fusión.  La situación pone a Paramount en una posición difícil, con estrellas como Colbert expresando su hostilidad hacia la compañía y el presidente. El episodio, a pesar de su contenido controvertido, ha generado debate sobre la libertad de expresión y la influencia política en los medios.",
+      "relevancia_score": 2,
+      "relevancia_justificacion": "El artículo se centra en una disputa política y empresarial relacionada con la televisión, con poca o ninguna conexión con avances científicos o tecnológicos."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "‘It was a buddy movie – and then they kissed’: Stephen Frears and Hanif Kureishi on My Beautiful Laundrette at 40",
+      "link": "https://www.theguardian.com/film/2025/jul/25/stephen-frears-and-hanif-kureishi-on-my-beautiful-laundrette-at-40",
+      "fecha_obj": "2025-07-25T07:00:51+00:00",
+      "fecha_str": "25-07-2025 07:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "40 años de 'My Beautiful Laundrette': Frears y Kureishi recuerdan el rodaje de esta joya cinematográfica.",
+      "resumen": "El artículo conmemora el 40 aniversario de la película 'My Beautiful Laundrette', con entrevistas a su director Stephen Frears y guionista Hanif Kureishi.  Se discuten aspectos de la producción, como la elección de Daniel Day-Lewis, la inspiración autobiográfica de Kureishi y la influencia de Frears en el guion. La película, una comedia dramática que explora temas de raza, clase, sexualidad y Thatcherismo, se destaca por su atrevimiento y vigencia, especialmente en el contexto actual de hostilidad hacia la comunidad LGBTQ+.  Su éxito inesperado, pasando de una película para televisión a un clásico de culto, se analiza junto al impacto en las carreras de sus creadores.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre una película icónica, su creación y legado cultural.  Analiza aspectos artísticos, sociales y políticos de la obra, ubicándola dentro de un contexto histórico y cultural relevante."
     },
     "categoria": "cultura_arte"
   },
   {
     "info": {
-      "titulo": "TV tonight: a film about the Southport attack and the riots that followed",
-      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/24/tv-tonight-one-day-in-southport-outrageous",
-      "fecha_obj": "2025-07-24T05:20:01+00:00",
-      "fecha_str": "24-07-2025 05:20 UTC",
+      "titulo": "‘He spoke up for me when I was in prison’: Anthrax, Lamb of God, Rick Wakeman and more share memories of Ozzy Osbourne",
+      "link": "https://www.theguardian.com/music/2025/jul/25/he-spoke-up-for-me-when-i-was-in-prison-anthrax-lamb-of-god-rick-wakeman-and-more-share-memories-of-ozzy-osbourne",
+      "fecha_obj": "2025-07-25T04:00:49+00:00",
+      "fecha_str": "25-07-2025 04:00 UTC",
       "source_name": "The Guardian Culture"
     },
     "resumen_datos": {
-      "teaser_sentence": "Esta noche en TV: documentales, dramas y comedias, desde los disturbios de Southport hasta la vida de los Mitford.",
-      "resumen": "La programación televisiva de esta noche ofrece una variada selección de programas.  'One Day in Southport' es un documental sobre los disturbios tras un ataque en la ciudad. 'Unforgivable' presenta un drama sobre un abusador sexual. 'Mr Bigstuff' continúa con la comedia sobre hermanos. 'Outrageous', finaliza la serie sobre las hermanas Mitford, insinuando una segunda temporada. 'The Blitz With Rob Rinder & Ruth Goodman' examina el impacto de la guerra según la clase social. Finalmente, 'The Walking Dead: Dead City' continúa la aventura zombi en Nueva York.",
-      "relevancia_score": 4,
-      "relevancia_justificacion": "Si bien 'Outrageous' se centra en las hermanas Mitford y podría considerarse relevante para la cultura, el resto de la programación se centra en eventos contemporáneos o dramas, con una menor conexión con las artes."
+      "teaser_sentence": "Múltiples artistas rinden tributo a Ozzy Osbourne, recordando su legado e influencia en el heavy metal.",
+      "resumen": "El artículo recopila testimonios de músicos influidos por Ozzy Osbourne, desde su infancia hasta su último concierto.  Artistas como Brann Dailor (Mastodon), Lita Ford, y muchos más, comparten anécdotas personales y profesionales con Osbourne, destacando su carisma,  influencia en el heavy metal y su capacidad para conectar con la audiencia. Se enfatiza su autenticidad, su impacto en la escena musical y su capacidad para trascender las barreras generacionales.  El artículo también toca su relación con Sharon Osbourne y su lucha contra las adicciones.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo se centra en la figura de Ozzy Osbourne, un ícono cultural del rock y el heavy metal.  Aborda su influencia artística, su legado musical, y su impacto en la cultura popular, aspectos relevantes para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "The Bad Guys 2 review – gang of cuddly animal criminals get pulled back in for one last heist",
+      "link": "https://www.theguardian.com/film/2025/jul/25/the-bad-guys-2-review-gang-of-cuddly-animal-criminals-get-pulled-back-in-for-one-last-heist",
+      "fecha_obj": "2025-07-24T23:01:42+00:00",
+      "fecha_str": "24-07-2025 23:01 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Los 'Bad Guys' regresan en una secuela más divertida y emocionante, aunque con opiniones divididas.",
+      "resumen": "La reseña de 'The Bad Guys 2' destaca una mejora con respecto a la primera película.  Más rápida, divertida y relajada, la trama sigue a la pandilla de animales criminales que, tras un cambio de vida, se ven envueltos en un nuevo caso.  La película incluye una persecución al estilo de Bond, el regreso del villano favorito, el Profesor Marmalade, y un mensaje sobre la amistad.  Aunque la reseña adulta es positiva, una niña de cinco años, fanática de la primera película, mostró menos entusiasmo.  La secuela mantiene el humor y la energía, incluyendo incluso chistes para adultos.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien es una película animada, la reseña analiza aspectos cinematográficos y de guion,  además de su recepción por el público, aspectos relevantes para la cultura y el arte. Su impacto cultural como película infantil también es un factor a considerar."
     },
     "categoria": "cultura_arte"
   }
