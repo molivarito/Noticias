@@ -1,1 +1,370 @@
-[]
+[
+  {
+    "info": {
+      "titulo": "Shooting at Bangkok Market Leaves 3 Dead, News Outlets Report",
+      "link": "https://www.nytimes.com/2025/07/28/world/asia/bangkok-shooting-market.html",
+      "fecha_obj": "2025-07-28T07:19:28+00:00",
+      "fecha_str": "28-07-2025 07:19 UTC",
+      "source_name": "The New York Times World"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Tiroteo en mercado de Bangkok deja tres muertos y un suicida.",
+      "resumen": "Un tiroteo en el popular mercado Or Tor Kor de Bangkok, Tailandia, dejó un saldo de tres personas muertas.  Según reportes de medios tailandeses como Thai PBS y The Bangkok Post, un individuo abrió fuego en el mercado, causando pánico entre los presentes antes de suicidarse.  La policía tailandesa ha iniciado una investigación, aunque aún no hay declaraciones oficiales disponibles. El incidente ocurrió el lunes y el mercado, frecuentado por turistas, se encuentra en el distrito de Chatuchak.  La información aún es preliminar y la investigación está en curso.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El suceso es una noticia internacional relevante por la violencia armada, el número de víctimas mortales y el impacto potencial en el turismo en Bangkok, una ciudad global."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Aéronautique, automobile, pharmacie, luxe... Les gagnants et les perdants de l’accord douanier entre l’Europe et les États-Unis",
+      "link": "https://www.lefigaro.fr/economie/aeronautique-automobile-pharmacie-luxe-les-gagnants-et-les-perdants-de-l-accord-douanier-entre-l-europe-et-les-etats-unis-20250727",
+      "fecha_obj": "2025-07-28T07:14:31+00:00",
+      "fecha_str": "28-07-2025 07:14 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Acuerdo UE-EEUU: sectores como la aeronáutica se libran de aranceles, mientras otros sufren tasas del 15%.",
+      "resumen": "La Unión Europea y Estados Unidos alcanzaron un acuerdo que reduce los aranceles comerciales.  Si bien la mayoría de los productos europeos tendrán un arancel del 15% al entrar en Estados Unidos, sectores clave como la aeronáutica, los semiconductores y los medicamentos genéricos están exentos.  Este acuerdo evita la imposición de aranceles del 30% a productos europeos.  Más de 2000 empresas francesas se veían afectadas por los aranceles estadounidenses, y este acuerdo les brinda un respiro, aunque el impacto varía según el sector y su margen de beneficio.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El acuerdo comercial entre la UE y EEUU tiene una gran relevancia internacional al afectar el comercio entre dos grandes bloques económicos, impactando diversos sectores y empresas."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Charente : au moins un mort et quatre disparus dans l’incendie d’un gîte accueillant des adultes handicapés",
+      "link": "https://www.lefigaro.fr/faits-divers/charente-au-moins-un-mort-et-quatre-disparus-dans-un-incendie-dans-un-gite-accueillant-des-adultes-handicapes-20250728",
+      "fecha_obj": "2025-07-28T07:13:39+00:00",
+      "fecha_str": "28-07-2025 07:13 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Incendio mortal en un gîte para discapacitados en Charente, Francia: un muerto y cuatro desaparecidos.",
+      "resumen": "Un incendio en un gîte de Charente, Francia, que albergaba a personas con discapacidades, ha causado la muerte de una persona y la desaparición de cuatro más.  El fuego, que comenzó alrededor de las 4:30 am, destruyó 300 m² del edificio, un antiguo cuerpo de granja adaptado para personas con discapacidad.  Doce residentes con discapacidad y la pareja que dirigía el gîte estaban dentro.  Se cree que el incendio fue causado por un fallo eléctrico.  Se desplegaron importantes recursos de bomberos para controlar las llamas. Este trágico suceso recuerda a otro incendio similar en 2022 que causó múltiples muertes.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien es una noticia local francesa, la magnitud del suceso (víctimas mortales y desaparecidos), la implicación de personas con discapacidad y el paralelismo con un suceso similar anterior le otorgan relevancia internacional.  El impacto humano trasciende las fronteras regionales."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "«On paie 262 euros un fauteuil qui en vaut 90»: pourquoi le gouvernement veut s’attaquer au serpent de mer de la commande publique",
+      "link": "https://www.lefigaro.fr/conjoncture/on-paie-262-euros-un-fauteuil-qui-en-vaut-90-pourquoi-le-gouvernement-veut-s-attaquer-au-serpent-de-mer-de-la-commande-publique-20250728",
+      "fecha_obj": "2025-07-28T07:22:06+00:00",
+      "fecha_str": "28-07-2025 07:22 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La opaca compra pública francesa, un gasto de hasta 400 mil millones de euros, necesita urgente reforma.",
+      "resumen": "El sistema de compras públicas en Francia, que asciende a entre 83 y 400 mil millones de euros anuales, es criticado por su complejidad, lentitud y sobrecostes.  François Bayrou ha pedido una reforma para agilizar el proceso y reducir los gastos.  El artículo destaca ejemplos de sobreprecios excesivos, como la compra de un sillón por 262 euros cuando su valor real es de 90 euros.  La reforma busca aliviar la carga para los ayuntamientos y fomentar la eficiencia en el gasto público, un problema que afecta a la gestión de las entidades públicas y a las empresas.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien la gestión de fondos públicos es un tema importante, el enfoque está en Francia.  Tiene relevancia internacional por la problemática de la gestión pública eficiente, pero su impacto global es limitado.  El tema es más relevante a nivel nacional que internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Anne de Guigné: «La pétition contre la loi Duplomb ou le principe de précaution vingt ans plus tard»",
+      "link": "https://www.lefigaro.fr/conjoncture/anne-de-guigne-la-petition-contre-la-loi-duplomb-ou-le-principe-de-precaution-vingt-ans-plus-tard-20250727",
+      "fecha_obj": "2025-07-28T07:15:19+00:00",
+      "fecha_str": "28-07-2025 07:15 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La polémica ley Duplomb reabre el debate sobre el principio de precaución en Francia, veinte años después.",
+      "resumen": "El artículo analiza la controversia en torno a la ley Duplomb, que propone la reintroducción del insecticida acetamiprid.  Si bien estudios científicos sugieren una baja peligrosidad para humanos y efectos limitados en abejas, la oposición se aferra a la incertidumbre.  La petición contra la ley critica su impacto en la salud pública, el medio ambiente y la seguridad alimentaria. El texto destaca cómo este debate ilustra la evolución del principio de precaución en las últimas dos décadas, mostrando la dificultad de conciliar la evidencia científica con las preocupaciones sociales y políticas.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien la ley Duplomb es un tema francés, su debate sobre el principio de precaución y el uso de pesticidas tiene implicaciones internacionales en la regulación de productos agroquímicos y la protección del medio ambiente. Sin embargo, su alcance geográfico es limitado, justificando una puntuación baja."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Contribuciones pendientes, moral selectiva: el delicado arte de evadir la evasión",
+      "link": "https://www.ciperchile.cl/2025/07/27/contribuciones-pendientes-moral-selectiva-el-delicado-arte-de-evadir-la-evasion/?utm_source=rss&utm_medium=rss&utm_campaign=contribuciones-pendientes-moral-selectiva-el-delicado-arte-de-evadir-la-evasion",
+      "fecha_obj": "2025-07-27T08:00:50+00:00",
+      "fecha_str": "27-07-2025 08:00 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Director del SII cesado por evadir impuestos: ¿falta de ética o reflejo de una cultura nacional?",
+      "resumen": "El artículo analiza la destitución del director del Servicio de Impuestos Internos (SII) de Chile, Javier Etcheberry, por no pagar contribuciones de su propiedad durante nueve años.  Critica la falta de coherencia entre su discurso público sobre cumplimiento tributario y su accionar privado, calificándolo como un 'colapso simbólico'.  Se cuestiona la permisividad social ante este tipo de situaciones y se enfatiza la importancia de la ejemplaridad en los líderes públicos. El autor argumenta que el caso refleja una problemática nacional de doble estándar y la normalización de la evasión, instando a una mayor exigencia de coherencia entre el discurso y la práctica.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El tema involucra a una alta autoridad del gobierno chileno y una problemática nacional de gran impacto: la evasión de impuestos y la confianza en las instituciones.  Es un asunto de interés público con consecuencias políticas y sociales relevantes para el país."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Martin Gusinde: el europeo que nos hizo conocer a los yaganes",
+      "link": "https://www.ciperchile.cl/2025/07/27/martin-gusinde-el-europeo-que-nos-hizo-conocer-a-los-yaganes/?utm_source=rss&utm_medium=rss&utm_campaign=martin-gusinde-el-europeo-que-nos-hizo-conocer-a-los-yaganes",
+      "fecha_obj": "2025-07-27T07:59:32+00:00",
+      "fecha_str": "27-07-2025 07:59 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El legado de Martin Gusinde: un etnólogo europeo que dedicó su vida a preservar la cultura yagán.",
+      "resumen": "El artículo destaca la figura de Martin Gusinde, etnólogo que documentó la cultura yagán a inicios del siglo XX.  Su incansable labor, plasmada en informes y colecciones, impulsó la creación del Museo Antropológico Martin Gusinde (hoy Museo Territorial Yagán Usi). A pesar de los esfuerzos, la preservación del patrimonio yagán requiere mayor atención gubernamental, incluyendo el acceso de la comunidad a las investigaciones de Gusinde.  El artículo también resalta una exposición itinerante, \"Gusinde: Historia de una Huella\", que busca difundir su legado y promover la integración cultural.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre un personaje clave en la antropología chilena y la preservación del patrimonio cultural de los pueblos originarios, tema de gran relevancia nacional.  Además, aborda la problemática de la preservación cultural y el acceso a la información, asuntos de interés público."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Denuncia por cobros abusivos y no respuesta de la autoridad",
+      "link": "https://www.ciperchile.cl/2025/07/27/denuncia-por-cobros-abusivos-y-no-respuesta-de-la-autoridad/?utm_source=rss&utm_medium=rss&utm_campaign=denuncia-por-cobros-abusivos-y-no-respuesta-de-la-autoridad",
+      "fecha_obj": "2025-07-27T08:00:33+00:00",
+      "fecha_str": "27-07-2025 08:00 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Aumento abusivo de 600% en renta de concesión estatal afecta a adulto mayor, sin respuesta de autoridades.",
+      "resumen": "Mario Hernán Castillo Pinto, adulto mayor de 76 años, denuncia un aumento excesivo en la renta de su terreno concesionado por el Estado en Mejillones.  El cobro pasó de $912.796 a $6.552.840 entre 2015 y 2025, un incremento de más del 600%.  A pesar de solicitar una rebaja al Ministerio de Defensa en noviembre de 2022, no ha recibido respuesta.  Castillo argumenta que este alza es injustificada, considerando sus bajos ingresos de jubilación y el alto costo de la salud.  El caso refleja una situación de vulnerabilidad para adultos mayores y una posible falta de respuesta institucional ante solicitudes ciudadanas.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El caso involucra una problemática que afecta a un ciudadano común, exponiendo una posible falla en la gestión estatal y la vulnerabilidad de los adultos mayores.  Tiene potencial para generar debate público sobre políticas de vivienda y atención a la tercera edad a nivel nacional."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Jamaicans with Scottish enslaver names; a society still in trauma. Edinburgh University has much to answer for | Chris Osuh",
+      "link": "https://www.theguardian.com/uk-news/commentisfree/2025/jul/28/edinburgh-university-jamaica-scottish-enslaver",
+      "fecha_obj": "2025-07-28T07:00:43+00:00",
+      "fecha_str": "28-07-2025 07:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La Universidad de Edimburgo y su papel en la esclavitud: un legado de opresión que perdura.",
+      "resumen": "El artículo explora la profunda implicación de Escocia, y específicamente la Universidad de Edimburgo, en el comercio transatlántico de esclavos.  Se destaca la presencia de apellidos y topónimos escoceses en Jamaica, reflejo de la significativa participación escocesa en la economía de las plantaciones.  Un nuevo informe de la universidad revela su papel en el desarrollo de pseudociencias raciales que justificaban la esclavitud, involucrando a figuras influyentes de la Ilustración escocesa.  El texto argumenta que este legado continúa impactando en las desigualdades actuales y llama a una mayor reflexión sobre la responsabilidad histórica de las instituciones y la necesidad de reparaciones.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente un tema histórico relevante, ofreciendo una perspectiva argumentada sobre la responsabilidad de una institución en el pasado esclavista y sus consecuencias contemporáneas.  Su enfoque reflexivo y la presentación de evidencia histórica lo hacen altamente pertinente para la categoría."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Protesting over Gaza’s starvation feels like screaming into a void – but we mustn’t stop | Nesrine Malik",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/28/gaza-israel-aid-starvation-children",
+      "fecha_obj": "2025-07-28T05:00:43+00:00",
+      "fecha_str": "28-07-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El hambre en Gaza, un genocidio lento e intencionado que exige acción inmediata.",
+      "resumen": "Nesrine Malik denuncia la situación crítica en Gaza, donde la hambruna provocada por el bloqueo israelí causa la muerte de cientos de personas, especialmente niños.  Critica la inacción internacional, la retórica vacía de políticos como Ursula von der Leyen y David Lammy, y la justificación de Israel.  Señala la ineficacia de las medidas paliativas y la necesidad de una presión significativa, como el cese de relaciones militares y comerciales, para obligar a Israel a actuar.  Malik argumenta que la comunidad internacional está empleando tácticas dilatorias que permiten que la situación se deteriore constantemente, mientras se minimiza la responsabilidad de Israel.  A pesar de la sensación de impotencia, insta a continuar la protesta como única vía de presión.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente la situación humanitaria en Gaza, ofreciendo una perspectiva contundente sobre la responsabilidad de Israel y la ineficacia de la respuesta internacional.  Expresa una opinión clara y argumentada, con ejemplos y datos que sustentan su postura."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "What We Talk About When We Talk About the Right of Return",
+      "link": "https://www.nytimes.com/2025/07/28/opinion/palestinians-right-of-return.html",
+      "fecha_obj": "2025-07-28T05:00:04+00:00",
+      "fecha_str": "28-07-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El derecho al retorno palestino: una lucha intergeneracional tras décadas de desposesión.",
+      "resumen": "El artículo narra la historia de Fatima, una mujer palestina de 82 años, evacuada de Gaza en octubre de 2023 y obligada a huir a Egipto.  Su situación ilustra la crisis humanitaria en Gaza, donde la destrucción y las evacuaciones forzadas son constantes.  El autor conecta la experiencia de Fatima con el derecho al retorno de los refugiados palestinos de 1948, argumentando que las acciones actuales de Israel son similares a las expulsiones del pasado.  Se destaca la violación del derecho internacional al negar el retorno a Gaza y la imposibilidad de los refugiados de 1948 de regresar a sus tierras.  El autor enfatiza el derecho legal y moral de los palestinos a regresar a sus hogares y a reclamar sus tierras.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión clara y argumentada sobre el derecho al retorno de los palestinos, apoyándose en un caso personal para ilustrar una problemática de gran calado político y legal.  Su enfoque analítico y la conexión entre el pasado y el presente lo hacen idóneo para un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "José Andrés: The World Cannot Stand By With Gaza on the Brink of Famine",
+      "link": "https://www.nytimes.com/2025/07/27/opinion/gaza-starvation-famine-israel.html",
+      "fecha_obj": "2025-07-28T00:55:55+00:00",
+      "fecha_str": "28-07-2025 00:55 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El hambre en Gaza, una crisis provocada por la guerra, exige una acción internacional inmediata.",
+      "resumen": "José Andrés denuncia la inminente hambruna en Gaza, comparándola con la crisis etíope de los 80.  A diferencia de un desastre natural, esta es una crisis humana causada por la guerra, donde ambos bandos impiden el acceso a alimentos para dos millones de personas.  Andrés rechaza la búsqueda de culpables, instando a la acción urgente para evitar una catástrofe humanitaria.  La falta de acceso a alimentos es consecuencia directa de las acciones bélicas de ambos lados del cruce de Erez, exigiendo una solución inmediata para salvar vidas.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo expresa una opinión clara y contundente sobre la crisis humanitaria en Gaza, argumentando la necesidad de una intervención internacional inmediata.  Su estructura y contenido se ajustan perfectamente a la categoría de 'Opinion Ensayo', presentando una tesis, argumentos y una conclusión clara."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "The Guardian view on Syria’s hopes and fears: stability can’t be built without the people | Editorial",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/27/the-guardian-view-on-syrias-hopes-and-fears-stability-cant-be-built-without-the-people",
+      "fecha_obj": "2025-07-27T17:30:27+00:00",
+      "fecha_str": "27-07-2025 17:30 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La inestabilidad en Siria amenaza las frágiles esperanzas de paz tras la guerra civil.",
+      "resumen": "Tras 14 años de guerra civil, Siria enfrenta nuevos desafíos con el presidente Ahmed al-Sharaa.  A pesar de las esperanzas iniciales, la violencia sectaria, exacerbada por disputas intercomunales y la intervención israelí, amenaza la estabilidad.  Masacres de civiles y enfrentamientos armados entre milicias ponen a prueba el liderazgo de Sharaa, quien debe equilibrar el apoyo de grupos extremistas con la necesidad de asegurar la protección de toda la población.  La falta de justicia transicional y la impunidad por crímenes pasados obstaculizan la reconciliación.  Aunque hay esfuerzos de base para el diálogo, la supervivencia de Siria depende de la inclusión y la rendición de cuentas.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la situación política y social en Siria, analizando las causas de la inestabilidad y ofreciendo recomendaciones para la construcción de paz.  Se ajusta perfectamente a la categoría de 'Opinión Ensayo' por su análisis crítico y propuesta de soluciones."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Samsung et Tesla signent un accord sur les puces, dit Musk",
+      "link": "https://www.sciencesetavenir.fr/samsung-et-tesla-signent-un-accord-sur-les-puces-dit-musk_187353",
+      "fecha_obj": "2025-07-28T03:44:52+00:00",
+      "fecha_str": "28-07-2025 03:44 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Vega-C lanza al espacio misiones para cartografiar la Tierra y rastrear el CO2.",
+      "resumen": "La madrugada del 25 al 26 de julio de 2025, el cohete Vega-C despegó desde Kourou transportando dos misiones científicas europeas.  CO3D se encargará de cartografiar los relieves terrestres en tres dimensiones, mientras que Microcarb monitorizará los flujos de dióxido de carbono. Ambas misiones son cruciales para comprender los cambios climáticos y geopolíticos globales, ofreciendo datos esenciales para la investigación ambiental y la toma de decisiones políticas informadas. El lanzamiento representa un avance significativo en la capacidad europea para la observación de la Tierra.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo describe un lanzamiento espacial con misiones científicas dedicadas a la observación de la Tierra y el monitoreo del cambio climático, temas altamente relevantes para las categorías de ciencia y tecnología."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Postdocs get more equipment time when applications are anonymized",
+      "link": "https://www.nature.com/articles/d41586-025-02356-6",
+      "fecha_obj": "2025-07-28T00:00:00+00:00",
+      "fecha_str": "28-07-2025 00:00 UTC",
+      "source_name": "Nature News"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La revisión anónima de solicitudes aumenta el acceso a equipos científicos para investigadores postdoctorales.",
+      "resumen": "Un estudio en Australia demostró que la anonimización de las solicitudes para el uso de equipos científicos sofisticados incrementó el acceso para investigadores postdoctorales.  Al eliminar el sesgo de prestigio asociado a investigadores conocidos, se favoreció a científicos con menos experiencia.  En un centro, la tasa de éxito para postdoctorales aumentó del 61% al 78%, mientras que la de investigadores con más experiencia disminuyó.  Este hallazgo apoya la implementación de revisiones ciegas para promover la equidad y la diversidad en la ciencia,  evidenciando que la práctica se extiende a otros observatorios internacionales como el Hubble y ALMA.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata directamente sobre un estudio científico que analiza la implementación de una metodología para mejorar el acceso equitativo a recursos científicos.  Aborda temas de ciencia, tecnología,  metodología de investigación y equidad, lo que lo hace altamente relevante para la categoría."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "20 years after Katrina, New Orleans remembers",
+      "link": "https://arstechnica.com/science/2025/07/20-years-after-katrina-natgeo-and-new-orleans-remember/",
+      "fecha_obj": "2025-07-27T17:36:30+00:00",
+      "fecha_str": "27-07-2025 17:36 UTC",
+      "source_name": "Ars Technica"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "A 20 años del huracán Katrina, un documental revela fallas sistémicas y heroísmo.",
+      "resumen": "Se acerca el 20 aniversario del huracán Katrina.  National Geographic estrena la serie documental \"Hurricane Katrina: Race Against Time\", que profundiza en las fallas sistémicas que agravaron la tragedia, más allá de los titulares.  El documental incluye testimonios de residentes, socorristas y funcionarios, entre ellos el geólogo Ivor Van Heerden, quien ya en 1998 identificó deficiencias en los diques de Nueva Orleans mediante modelos informáticos y observaciones in situ.  Van Heerden y su equipo desarrollaron herramientas innovadoras para modelar marejadas ciclónicas y compartir datos entre las parroquias, anticipándose a la catástrofe.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo menciona el uso de modelos informáticos, sistemas de información geográfica (GIS) y datos LiDAR para predecir y analizar el impacto del huracán.  La aplicación de la tecnología para la gestión de desastres naturales es relevante para la categoría Ciencia y Tecnología, aunque el enfoque principal es el desastre en sí mismo."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "A Taïwan, des camions-poubelles musicaux pour responsabiliser les habitants",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/a-taiwan-des-camions-poubelles-musicaux-pour-responsabiliser-les-habitants_187354?xtor=RSS-15",
+      "fecha_obj": "2025-07-28T03:00:26+00:00",
+      "fecha_str": "28-07-2025 03:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Música clásica y camiones de basura: la innovadora solución de Taiwán para el reciclaje.",
+      "resumen": "Taiwán ha implementado un sistema de recolección de basura que combina la responsabilidad ciudadana con un toque musical. Camiones equipados con altavoces reproducen melodías clásicas para avisar a los residentes, quienes deben depositar sus residuos clasificados en los vehículos.  Este método, vigente desde los años 60, ha incrementado significativamente el reciclaje (67% en Taipei) y reducido la basura destinada a incineración.  Si bien algunos encuentran el sistema poco práctico, otros lo ven como una oportunidad para la interacción social, mientras que aplicaciones móviles ofrecen alternativas para quienes no pueden estar presentes a la hora de la recolección. El éxito del programa se basa en la combinación de responsabilidad individual y soluciones innovadoras.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien la solución tecnológica de las aplicaciones móviles es relevante, el enfoque principal del artículo es un sistema de gestión de residuos. La innovación tecnológica es secundaria a la estrategia de responsabilidad ciudadana."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Peacemaker S2 trailer finds our anti-hero in a parallel world",
+      "link": "https://arstechnica.com/culture/2025/07/peacemaker-s2-trailer-finds-our-anti-hero-in-a-parallel-world/",
+      "fecha_obj": "2025-07-27T19:44:13+00:00",
+      "fecha_str": "27-07-2025 19:44 UTC",
+      "source_name": "Ars Technica"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Peacemaker regresa en una nueva temporada ambientada en un universo DC alternativo, enfrentando nuevos enemigos y su pasado.",
+      "resumen": "El tráiler de la segunda temporada de Peacemaker, serie derivada de Escuadrón Suicida, revela una nueva misión para el antihéroe. Tras derrotar a una especie alienígena en la primera temporada, ambientada en el antiguo DCEU, Peacemaker ahora se enfrenta a nuevos desafíos en el nuevo DCU.  La segunda temporada contará con el regreso de personajes conocidos y la incorporación de nuevos miembros al elenco, incluyendo a Frank Grillo como Rick Flagg Sr.  A pesar del cambio de universo, los eventos de la primera temporada se consideran canon, exceptuando los cameos de la Liga de la Justicia.  Esta nueva temporada mostrará a Peacemaker lidiando con su pasado mientras continúa su lucha contra el mal.",
+      "relevancia_score": 2,
+      "relevancia_justificacion": "La relevancia para la categoría 'Ciencia Tecnología' es baja. Si bien la serie involucra elementos de ciencia ficción como alienígenas y tecnología futurista, el enfoque principal es la narrativa y los personajes, no los avances científicos o tecnológicos."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Yoann Bourgeois on his mindblowing viral stair climbing act: ‘I want to return to the spirit of childhood’",
+      "link": "https://www.theguardian.com/stage/2025/jul/28/yoann-bourgeois-interview-viral-stair-climbing-trampoline-act",
+      "fecha_obj": "2025-07-28T04:00:41+00:00",
+      "fecha_str": "28-07-2025 04:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El coreógrafo Yoann Bourgeois transforma la física en arte viral, fusionando danza, circo y poesía.",
+      "resumen": "Yoann Bourgeois, coreógrafo francés, ha alcanzado fama viral con sus ingeniosas performances que desafían la gravedad. Su obra, que combina danza y elementos circenses, explora temas universales como la vida, la muerte y el tiempo, utilizando dispositivos escénicos simples pero impactantes.  Influenciado por su infancia en un hogar que albergó a un grupo circense, Bourgeois busca recuperar el espíritu lúdico infantil en sus creaciones.  A pesar de acusaciones de plagio, argumenta que sus obras reinterpretan motivos artísticos clásicos.  Su trabajo ha colaborado con artistas pop como Harry Styles,  demostrando la capacidad de conectar con audiencias masivas a través de una estética visualmente cautivadora.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata extensamente sobre la obra de un coreógrafo, su proceso creativo, sus influencias y el impacto de su arte en la cultura popular.  Aborda temas relevantes dentro del mundo del arte, la danza y el circo, y su análisis es pertinente para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "BlackStar Festival Returns With 92 Films From Around the World",
+      "link": "https://hyperallergic.com/1029327/blackstar-festival-returns-with-92-films-from-around-the-world/",
+      "fecha_obj": "2025-07-27T20:03:00+00:00",
+      "fecha_str": "27-07-2025 20:03 UTC",
+      "source_name": "Hyperallergic"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El Festival BlackStar regresa con 92 películas que celebran el cine independiente de cineastas negros, indígenas y morenos.",
+      "resumen": "El Festival BlackStar de Filadelfia celebra su 14ª edición con 92 películas de cineastas negros, indígenas y morenos de todo el mundo.  Este año destaca la película inaugural, un documental sobre Toni Cade Bambara,  además de obras experimentales y narrativas.  Se incluyen trabajos como 'The Great North', que explora la cultura de Manchester; 'Sugar Island', sobre una adolescente dominicana-haitiana; y 'Gazan Tales', un documental sobre la vida en Gaza. El festival también contará con conversaciones con cineastas destacados y otras actividades.  La directora ejecutiva destaca el poder liberador del cine en el contexto actual.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata completamente sobre un festival de cine independiente, que es un evento cultural y artístico de gran relevancia.  Se describen películas, cineastas y temas que son inherentemente parte del mundo del arte y la cultura."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "How Helen Chadwick Took the Piss Out of Art",
+      "link": "https://hyperallergic.com/1029563/how-helen-chadwick-took-the-piss-out-of-art/",
+      "fecha_obj": "2025-07-27T20:02:00+00:00",
+      "fecha_str": "27-07-2025 20:02 UTC",
+      "source_name": "Hyperallergic"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La obra transgresora de Helen Chadwick, pionera del arte corporal y conceptual, regresa a la escena artística.",
+      "resumen": "El libro \"Helen Chadwick: Life Pleasures\" coincide con la primera retrospectiva de la artista en 25 años.  Chadwick, fallecida en 1996, empleaba materiales orgánicos y cotidianos (carne cruda, vegetales en descomposición) para desafiar las convenciones sobre el deseo y el asco.  Su obra, que incluye la famosa \"Piss Flowers\",  exploraba temas como el sexo, el género, la muerte y el poder. El libro analiza su evolución artística, desde sus inicios en Brighton Polytechnic hasta su reconocimiento internacional, incluyendo testimonios de estudiantes, amigos y colaboradores, ofreciendo una visión completa de su vida y obra.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo se centra completamente en la vida y obra de una artista, analizando su impacto en el arte contemporáneo, sus técnicas y el contexto cultural de su producción.  Es una evaluación exhaustiva de una figura relevante en la historia del arte."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "‘They’re rowdy. They’re vibing. I rip my shirt off’: the exploding career of Hanumankind, India’s hottest rapper",
+      "link": "https://www.theguardian.com/music/2025/jul/28/theyre-rowdy-theyre-vibing-i-rip-my-shirt-off-the-exploding-career-of-hanumankind-indias-hottest-rapper",
+      "fecha_obj": "2025-07-28T04:00:42+00:00",
+      "fecha_str": "28-07-2025 04:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Hanumankind, el rapero indio que conquista el mundo con su música y mensaje social.",
+      "resumen": "Hanumankind, cuyo nombre real es Sooraj Cherukat, es un rapero indio que ha alcanzado fama internacional.  Su música, una mezcla de rap con influencias indias, lo ha llevado a colaborar con artistas como A$AP Rocky y Fred Again. A pesar de su éxito global, Cherukat siente la responsabilidad de representar a la India, abordando temas como la división religiosa y de castas en su país.  Su trayectoria ha sido meteórica, desde actuaciones en eventos locales hasta Coachella, y su nuevo mixtape, \"Monsoon Season\", refleja su evolución artística y personal.  A pesar de las críticas por su participación en un evento de Narendra Modi,  Cherukat defiende su posición y continúa utilizando su música como plataforma para el cambio social.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre un artista musical, su ascenso a la fama, su estilo musical y su mensaje social, lo que lo relaciona directamente con la cultura y el arte.  La exploración de su identidad cultural y su uso de la música como vehículo de expresión social lo hacen altamente relevante para esta categoría."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: Japan’s kamikaze pilots and why they were impelled to sacrifice themselves",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/28/tv-tonight-japans-kamikaze-pilots-and-why-they-were-impelled-to-sacrifice-themselves",
+      "fecha_obj": "2025-07-28T05:20:41+00:00",
+      "fecha_str": "28-07-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: documentales sobre kamikazes, Irvine Welsh, superancianos y nuestros ancestros neandertales.",
+      "resumen": "La programación televisiva incluye un documental sobre los ataques kamikaze japoneses durante la Segunda Guerra Mundial, explorando las razones detrás de esta estrategia y el sacrificio de los pilotos.  Se presenta una entrevista con Irvine Welsh, autor de Trainspotting, sobre su nueva novela y filosofía.  Otro programa analiza el secreto de la longevidad a través de tres superancianos con sentidos agudos. Finalmente, se explora el origen humano y la cercanía genética con los neandertales, mostrando que fueron más sofisticados de lo que se cree. La programación también incluye un reality show con celebridades en aguas infestadas de tiburones y una nueva temporada de la serie de fantasía Mayfair Witches.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien la mayor parte de la programación se centra en temas históricos y de actualidad, la entrevista con Irvine Welsh y la serie de fantasía 'Mayfair Witches' tienen una conexión directa con la cultura y el entretenimiento, justificando una puntuación de 7."
+    },
+    "categoria": "cultura_arte"
+  }
+]
