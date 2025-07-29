@@ -4,3 +4,5 @@ Se hizo también un cron que lo ejecuta todos los días a las 7am y lo publica e
 TODO:
 Revisar el listado de fss, hay varios con problemas
 También se puede convertir en una app con Automator
+
+El directorio en git ahora se llama collect-filter-resume-news
