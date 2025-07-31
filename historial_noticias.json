@@ -1,225 +1,289 @@
 [
   {
     "info": {
-      "titulo": "8.8-Magnitude Earthquake Off Russia Could Be One of the Largest on Record",
-      "link": "https://www.nytimes.com/2025/07/29/world/asia/earthquake-russia-record.html",
-      "fecha_obj": "2025-07-30T07:12:02+00:00",
-      "fecha_str": "30-07-2025 07:12 UTC",
-      "source_name": "The New York Times World"
+      "titulo": "«Spectacle meurtrier» en Ukraine : au moins six personnes tuées dans des frappes russes à Kiev",
+      "link": "https://www.lefigaro.fr/flash-actu/au-moins-un-mort-et-20-blesses-dans-une-attaque-russe-sur-kiev-20250731",
+      "fecha_obj": "2025-07-31T07:14:08+00:00",
+      "fecha_str": "31-07-2025 07:14 UTC",
+      "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Un terremoto de magnitud 8.8 sacude Rusia, entre los más fuertes registrados.",
-      "resumen": "Un terremoto de magnitud 8.8 azotó la costa de Rusia, siendo uno de los más poderosos registrados, solo superado por el terremoto de Japón de 2011 (9.1) y el de Chile de 1960 (9.5).  Su potencia es aproximadamente 31.6 veces mayor que un terremoto de magnitud 7.8.  Aunque no se reportan víctimas a gran escala inmediatamente, el USGS estima daños económicos multimillonarios y daños generalizados.  Se compara con otros terremotos devastadores como el de Sumatra en 2004, destacando la energía liberada y el potencial destructivo de estos eventos. El sismo provocó una alerta de nivel nacional o internacional.",
+      "teaser_sentence": "Ataques rusos en Kiev dejan al menos seis muertos, incluyendo un niño; Zelensky lo califica de \"espectáculo meurtrier\".",
+      "resumen": "Ataques rusos con misiles y drones en Kiev causaron al menos seis muertes y más de 20 heridos, incluyendo un niño de seis años.  El presidente Zelensky calificó los ataques como un \"espectáculo meurtrier\".  Rusia, por su parte, afirmó haber tomado la ciudad de Tchassiv Iar en Donetsk.  Las negociaciones de paz están estancadas, con Rusia exigiendo la cesión de territorios ucranianos y Ucrania reclamando la retirada total de las tropas rusas.  El ultimátum de Trump a Putin para detener la guerra en diez días parece no haber surtido efecto.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El terremoto es un evento de gran magnitud que impacta a nivel internacional por su potencial destructivo y las consecuencias económicas y geopolíticas que puede tener para Rusia y la región."
+      "relevancia_justificacion": "El artículo trata sobre un conflicto bélico internacional de gran magnitud, con un alto número de víctimas civiles y consecuencias geopolíticas importantes.  La noticia es de relevancia global y encaja perfectamente en la categoría 'Internacional'."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "EN DIRECT - Séisme de magnitude 8,8 en Russie : le Japon touché par un tsunami de 1,30 mètre, des vagues de 5 mètres au large des îles Kouriles",
-      "link": "https://www.lefigaro.fr/international/en-direct-tsunami-seisme-alerte-japon-hawai-vague-20250730",
-      "fecha_obj": "2025-07-30T07:23:02+00:00",
-      "fecha_str": "30-07-2025 07:23 UTC",
+      "titulo": "Le Canada «a l'intention» de reconnaître l'État de Palestine en septembre, Donald Trump sort de ses gonds",
+      "link": "https://www.lefigaro.fr/flash-actu/le-canada-a-l-intention-de-reconnaitre-l-etat-de-palestine-en-septembre-a-l-onu-20250730",
+      "fecha_obj": "2025-07-31T07:10:44+00:00",
+      "fecha_str": "31-07-2025 07:10 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Tsunami de 1,30 metros en Japón tras terremoto 8,8 en Rusia; amenaza a la Polinesia Francesa.",
-      "resumen": "Un terremoto de magnitud 8,8 en Rusia ha generado un tsunami que ha afectado a Japón con olas de 1,30 metros y de hasta 5 metros cerca de las islas Kuriles.  La Polinesia Francesa, específicamente las islas Marquises (Nuku Hiva, Hiva Oa y Ua Uka), se encuentra bajo amenaza de olas de entre 1,10 y 2,20 metros en las próximas horas.  El secretario general del Haut-Commissariat ha declarado que se están tomando medidas para proteger a la población, aprovechando las más de cuatro horas de margen antes de la llegada de las olas y la experiencia previa con un simulacro realizado hace seis semanas. Se recomienda a residentes y turistas permanecer en sus hogares y alejarse de las costas y ríos.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El evento es de gran magnitud, afectando a múltiples países y regiones.  Un terremoto de 8,8 y el consiguiente tsunami constituyen noticias internacionales de relevancia, con impacto potencial en vidas humanas y consecuencias geopolíticas."
+      "teaser_sentence": "Canadá reconocerá el Estado de Palestina en septiembre, generando controversia internacional.",
+      "resumen": "Canadá anunció su intención de reconocer el Estado de Palestina en la ONU en septiembre de 2025.  Esta decisión, motivada por la necesidad de una solución de dos Estados y la crisis humanitaria en Gaza, ha sido celebrada por la Autoridad Palestina y Francia, pero condenada por Israel, que la ve como una recompensa al Hamas.  La decisión canadiense se produce en medio de la creciente tensión en la región y la crítica situación humanitaria en Gaza. Donald Trump reaccionó negativamente, sugiriendo que dificultará un acuerdo comercial con Canadá. Canadá argumenta que la solución de dos Estados ya no es viable debido al terrorismo del Hamas, la expansión de colonias israelíes y la inacción de Israel ante la crisis humanitaria.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La noticia trata sobre una decisión política internacional de gran envergadura, con implicaciones geopolíticas y humanitarias relevantes a nivel global.  Afectará las relaciones internacionales entre Canadá, Israel, Palestina y otros actores internacionales. La reacción de Estados Unidos también añade relevancia."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Russia’s Far East Suffers Damage From Earthquake and Tsunami",
-      "link": "https://www.nytimes.com/2025/07/30/world/asia/russia-far-east-earthquake.html",
-      "fecha_obj": "2025-07-30T07:18:16+00:00",
-      "fecha_str": "30-07-2025 07:18 UTC",
-      "source_name": "The New York Times World"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Sismo y tsunami azotan el Lejano Oriente ruso, dejando daños materiales y evacuaciones.",
-      "resumen": "Un potente terremoto submarino cerca de la península de Kamchatka, Rusia, provocó un tsunami que afectó severamente el distrito de Severo-Kurilsk en las islas Kuriles.  Videos muestran inundaciones en edificios costeros.  Si bien no se reportaron víctimas, 2400 residentes fueron evacuados.  Un puerto y una fábrica de pescado sufrieron daños por la inundación. En Petropavlovsk-Kamchatsky, la fachada de un jardín de infancia resultó dañada.  Las autoridades cerraron negocios y rutas turísticas por cinco días debido a la actividad sísmica continua en la región, parte del Anillo de Fuego del Pacífico.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El evento es de gran relevancia internacional por tratarse de un desastre natural de considerable magnitud que afecta a una región de Rusia, con implicaciones geopolíticas y humanitarias."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Here’s the latest on the tsunami.",
-      "link": "https://www.nytimes.com/live/2025/07/29/world/earthquake-tsunami-russia-japan-hawaii/japan-earthquake-tsunami-north-pacific-ocean",
-      "fecha_obj": "2025-07-30T07:12:27+00:00",
-      "fecha_str": "30-07-2025 07:12 UTC",
-      "source_name": "The New York Times World"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Un terremoto de magnitud 8.8 cerca de Rusia genera alerta de tsunami en Hawái, con impacto menor al esperado.",
-      "resumen": "Un potente terremoto de magnitud 8.8 sacudió el este de Rusia, generando una alerta de tsunami para Hawái y otras regiones del Pacífico.  Si bien las olas llegaron a Hawái, el impacto fue menor al inicialmente previsto.  Las autoridades emitieron alertas tempranas, lo que permitió a la población evacuar zonas costeras y minimizar daños.  A pesar del susto y la evacuación masiva, los daños materiales fueron mínimos.  El gobernador de Hawái declaró que esperaría a evaluar la situación en la Isla Grande antes de levantar las medidas de emergencia.  También se emitieron alertas para Japón, otras partes de Rusia, la costa oeste de Estados Unidos y Chile.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El evento es de gran relevancia internacional por el terremoto de alta magnitud y la amenaza de tsunami que afectó a múltiples países, incluyendo a Estados Unidos y Japón.  La respuesta de emergencia y la cobertura global del suceso justifican una alta puntuación."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Chine : 283.000 personnes évacuées de Shanghai à l’approche d’un typhon",
-      "link": "https://www.lefigaro.fr/international/chine-283-000-personnes-evacuees-de-shanghai-a-l-approche-d-un-typhon-20250730",
-      "fecha_obj": "2025-07-30T07:09:04+00:00",
-      "fecha_str": "30-07-2025 07:09 UTC",
+      "titulo": "Guerre en Ukraine: la Russie revendique la conquête de la ville fortifiée de Chassiv Yar",
+      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-la-russie-revendique-la-conquete-de-la-ville-fortifiee-de-chassiv-yar-20250731",
+      "fecha_obj": "2025-07-31T07:04:57+00:00",
+      "fecha_str": "31-07-2025 07:04 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Tyfón Co-May obliga a evacuar a casi 283.000 personas en Shanghai.",
-      "resumen": "El tyfón Co-May azotó Shanghai, China, provocando fuertes lluvias y vientos.  Como medida preventiva, entre el martes por la noche y el miércoles por la mañana, aproximadamente 283.000 personas fueron evacuadas de la ciudad, según reportes de la televisora estatal CCTV.  La evacuación masiva se llevó a cabo para proteger a la población de los peligros del tifón.  La magnitud de la evacuación subraya la seriedad de la amenaza meteorológica y los esfuerzos de las autoridades para garantizar la seguridad de los ciudadanos. Se espera más información en las próximas horas.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El suceso es una noticia internacional relevante por el impacto significativo del tifón en una gran ciudad como Shanghai, la magnitud de la evacuación y el potencial de daños.  Afecta a una población considerable y tiene implicaciones globales."
+      "teaser_sentence": "Rusia anuncia la toma de Chassiv Yar, intensificando el conflicto en el Donbás y elevando la tensión internacional.",
+      "resumen": "Rusia declaró la conquista de la ciudad ucraniana de Chassiv Yar, un importante objetivo estratégico en el Donbás, tras intensos combates.  A pesar de la resistencia ucraniana en un sector de la ciudad, las fuerzas rusas lograron avanzar, abriendo potencialmente el camino hacia Sloviansk y Kramatorsk.  Esta acción se produce en medio de la presión internacional ejercida por Donald Trump, quien amenazó con sanciones a Rusia si no cesa los combates.  Las negociaciones entre Ucrania y Rusia han fracasado, con posiciones irreconciliables sobre el fin del conflicto.  Mientras tanto, los combates continúan en otras zonas, como Pokrovsk, un importante centro logístico ucraniano.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre un conflicto bélico de gran envergadura internacional, con implicaciones geopolíticas globales, involucrando a Rusia y Ucrania, y con la participación de actores internacionales como Estados Unidos.  La toma de Chassiv Yar es un evento significativo en la guerra, con consecuencias estratégicas y diplomáticas de alcance internacional."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Sueldos millonarios: la inflación silenciosa del fútbol chileno",
-      "link": "https://www.ciperchile.cl/2025/07/29/sueldos-millonarios-la-inflacion-silenciosa-del-futbol-chileno/?utm_source=rss&utm_medium=rss&utm_campaign=sueldos-millonarios-la-inflacion-silenciosa-del-futbol-chileno",
-      "fecha_obj": "2025-07-29T08:01:21+00:00",
-      "fecha_str": "29-07-2025 08:01 UTC",
+      "titulo": "Taxe sur les billets d’avion : la ministre du Tourisme se dit favorable à sa suppression mais tacle Ryanair",
+      "link": "https://www.lefigaro.fr/societes/taxe-sur-les-billets-d-avion-la-ministre-du-tourisme-se-dit-favorable-a-sa-suppression-mais-tacle-ryanair-20250731",
+      "fecha_obj": "2025-07-31T07:16:01+00:00",
+      "fecha_str": "31-07-2025 07:16 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ministra francesa apoya la eliminación de la tasa a billetes de avión, pero critica el oportunismo de Ryanair.",
+      "resumen": "La ministra francesa de Turismo, Nathalie Delattre, aboga por eliminar la tasa de solidaridad sobre billetes de avión, que ha aumentado a 7,4 euros.  Reconoce el impacto negativo en aerolíneas de bajo coste como Ryanair, quien justificó el cierre de tres rutas francesas con esta medida.  Sin embargo, Delattre acusa a Ryanair de oportunismo, sugiriendo que la compañía ya tenía planeado reducir sus operaciones en Francia.  El ministro de Transportes, Philippe Tabarot, también se muestra reticente a mantener el alza de la tasa, buscando una \"pausa\" en la fiscalidad del sector aéreo.  La decisión afecta significativamente al sector low cost y preocupa a la Union des aéroports français, que teme que otras compañías sigan el ejemplo de Ryanair.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "La noticia afecta a una política económica de un país europeo, tiene implicaciones para las aerolíneas internacionales y el turismo, y genera debate a nivel continental."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "F1: Frédéric Vasseur prolonge chez Ferrari, l’annonce surprise",
+      "link": "https://www.lefigaro.fr/sports/formule-1/f1-frederic-vasseur-prolonge-chez-ferrari-l-annonce-surprise-20250731",
+      "fecha_obj": "2025-07-31T07:07:36+00:00",
+      "fecha_str": "31-07-2025 07:07 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Vasseur renueva con Ferrari: ¡El jefe de equipo se queda!",
+      "resumen": "Frédéric Vasseur, Team Manager de Ferrari, ha renovado su contrato con la escudería italiana, desmintiendo los rumores de su salida.  La noticia, anunciada a través de un comunicado en redes sociales, sorprendió a muchos, especialmente considerando las especulaciones de la prensa italiana sobre su posible despido al final de la temporada.  Vasseur, que llegó a Ferrari a principios de 2023, expresó su gratitud por la confianza depositada y afirmó que esta renovación representa un desafío para seguir progresando y cumplir los objetivos del equipo.  Ferrari, actualmente segunda en el campeonato de constructores, busca mejorar sus resultados y lograr su primera victoria en la temporada 2025.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "La noticia afecta a una escudería de Fórmula 1 de renombre internacional, generando interés global en el mundo del deporte motor.  La renovación de un alto cargo dentro de la estructura de un equipo tan importante tiene una repercusión significativa a nivel internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "FES, Trump y autonomía universitaria",
+      "link": "https://www.ciperchile.cl/2025/07/30/fes-trump-y-autonomia-universitaria/?utm_source=rss&utm_medium=rss&utm_campaign=fes-trump-y-autonomia-universitaria",
+      "fecha_obj": "2025-07-30T08:01:47+00:00",
+      "fecha_str": "30-07-2025 08:01 UTC",
       "source_name": "CIPER Chile"
     },
     "resumen_datos": {
-      "teaser_sentence": "Fútbol chileno: sueldos millonarios, fracaso deportivo, ¿inflación silenciosa?",
-      "resumen": "El fútbol chileno enfrenta una 'inflación silenciosa': altos sueldos de jugadores,  a pesar de la baja inversión en fichajes y el bajo rendimiento internacional. Los clubes, beneficiados por jugosos contratos televisivos, destinan la mayor parte de sus ingresos a remuneraciones, sin una estrategia deportiva clara.  El análisis de los balances de clubes como Colo Colo, Universidad de Chile y Católica muestra un aumento significativo en sueldos, sin una mejora proporcional en la competitividad.  Este modelo insostenible, que prioriza salarios sobre inversión, explica el fracaso en torneos internacionales.",
+      "teaser_sentence": "Debate en Chile: ¿Amenaza el nuevo sistema de financiamiento estatal la autonomía universitaria?",
+      "resumen": "El artículo analiza el debate generado en Chile por el nuevo sistema de financiamiento para la educación superior (FES), que ha suscitado preocupaciones sobre la autonomía universitaria ante una mayor dependencia del Estado.  Se comparan situaciones en otros países donde gobiernos autoritarios han coaccionado la autonomía universitaria, utilizando el financiamiento como herramienta. Si bien en Chile no hay indicios inmediatos de esto, el autor propone elevar la autonomía universitaria a rango constitucional, junto con la libertad de cátedra, para protegerla de futuras intervenciones políticas y garantizar la libertad de pensamiento en las universidades.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo aborda un tema de gran interés nacional: la crisis del fútbol chileno.  Analiza datos económicos relevantes y su impacto en el deporte, lo que lo hace altamente relevante para la audiencia nacional."
+      "relevancia_justificacion": "El artículo trata un tema de crucial importancia nacional: el futuro de la educación superior y la autonomía universitaria en Chile, un debate político y social con implicaciones directas en el desarrollo del país."
     },
     "categoria": "nacional"
   },
   {
     "info": {
-      "titulo": "Cuando el Estado también discapacita: el desafío de obtener la credencial de discapacidad en Chile",
-      "link": "https://www.ciperchile.cl/2025/07/29/cuando-el-estado-tambien-discapacita-el-desafio-de-obtener-la-credencial-de-discapacidad-en-chile/?utm_source=rss&utm_medium=rss&utm_campaign=cuando-el-estado-tambien-discapacita-el-desafio-de-obtener-la-credencial-de-discapacidad-en-chile",
-      "fecha_obj": "2025-07-29T08:00:14+00:00",
-      "fecha_str": "29-07-2025 08:00 UTC",
+      "titulo": "Seguro de Invalidez y Sobrevivencia: una fuente de lucro en el sistema previsional",
+      "link": "https://www.ciperchile.cl/2025/07/30/seguro-de-invalidez-y-sobrevivencia-una-fuente-de-lucro-en-el-sistema-previsional/?utm_source=rss&utm_medium=rss&utm_campaign=seguro-de-invalidez-y-sobrevivencia-una-fuente-de-lucro-en-el-sistema-previsional",
+      "fecha_obj": "2025-07-30T08:00:36+00:00",
+      "fecha_str": "30-07-2025 08:00 UTC",
       "source_name": "CIPER Chile"
     },
     "resumen_datos": {
-      "teaser_sentence": "En Chile, obtener la credencial de discapacidad es una carrera de obstáculos burocráticos que profundiza las desigualdades.",
-      "resumen": "El artículo critica el proceso de obtención de la Credencial de Discapacidad en Chile, denunciando la burocracia, la falta de uniformidad en los criterios de evaluación entre regiones, los plazos incumplidos y la disparidad en el acceso según los recursos de las personas.  Señala que el sistema, lejos de facilitar la inclusión, genera barreras adicionales para quienes más necesitan apoyo, profundizando las desigualdades.  La autora aboga por una revisión profunda del sistema, con criterios uniformes a nivel nacional, plazos efectivos y un enfoque centrado en las personas, no en los trámites administrativos.",
+      "teaser_sentence": "El Seguro de Invalidez y Sobrevivencia en Chile: un negocio millonario a costa de la seguridad social.",
+      "resumen": "El artículo analiza el Seguro de Invalidez y Sobrevivencia (SIS) en Chile, cuestionando su rentabilidad para empresas privadas.  Desde su creación en la dictadura, el SIS ha generado cuantiosas ganancias, con prácticas cuestionables como la concentración del negocio en grupos económicos específicos y comisiones excesivas.  A pesar de regulaciones posteriores y la Reforma de Pensiones de 2025, el artículo argumenta que el SIS sigue siendo un negocio lucrativo, sin cambios estructurales significativos, manteniendo la lógica de negocio por sobre los principios de seguridad social.  Se critica la falta de cambios sustanciales en la reforma, a pesar de las irregularidades e impacto en los afiliados.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo aborda un problema de acceso a derechos para un sector importante de la población chilena, exponiendo fallas sistémicas en la administración pública.  Su impacto nacional es significativo, pues afecta a millones de personas con discapacidad en todo el país."
+      "relevancia_justificacion": "El artículo trata un tema crucial de la política social y económica chilena, la reforma previsional y sus implicaciones directas en la vida de millones de ciudadanos.  El impacto financiero y la crítica al sistema de AFP lo convierten en un tema de relevancia nacional."
     },
     "categoria": "nacional"
   },
   {
     "info": {
-      "titulo": "Israel has deliberately starved the people of Gaza. It couldn’t have done it without the west's help | Owen Jones",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/30/israel-starvation-gaza-keir-starmer-west",
-      "fecha_obj": "2025-07-30T07:00:55+00:00",
-      "fecha_str": "30-07-2025 07:00 UTC",
+      "titulo": "Tres gendarmes detenidos: el video del homicidio a un recluso en Arica que exhibió fiscalía",
+      "link": "https://www.ciperchile.cl/2025/07/30/tres-gendarmes-detenidos-el-video-del-homicidio-a-un-recluso-en-arica-que-exhibio-fiscalia/?utm_source=rss&utm_medium=rss&utm_campaign=tres-gendarmes-detenidos-el-video-del-homicidio-a-un-recluso-en-arica-que-exhibio-fiscalia",
+      "fecha_obj": "2025-07-31T02:22:40+00:00",
+      "fecha_str": "31-07-2025 02:22 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Gendarmes formalizados por homicidio de recluso en Arica; video clave en la investigación.",
+      "resumen": "Tres gendarmes del Complejo Penitenciario de Acha en Arica fueron formalizados por el homicidio del recluso Cristian Díaz.  Un video de seguridad mostró cómo los gendarmes facilitaron el crimen, permitiendo que Jordan Mejías, el homicida, ingresara con un cuchillo al patio y atacara a Díaz.  A pesar de que la fiscalía mostró el video como prueba y solicitó prisión preventiva, el tribunal la rechazó, aunque los gendarmes permanecen detenidos mientras se resuelve la apelación. El video muestra también cómo los gendarmes obligaron a Díaz a salir al patio a pesar de sus temores. La investigación continuará por 60 días.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia involucra a funcionarios públicos en un crimen violento dentro de una cárcel, lo que genera gran interés público a nivel nacional.  La formalización de gendarmes y la evidencia de un video implican una falla en el sistema penitenciario, tema relevante para la sociedad chilena."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Estas son las imágenes que vinculan a tres gendarmes con el homicidio de un recluso en la cárcel de Arica",
+      "link": "https://www.ciperchile.cl/2025/07/30/estas-son-las-imagenes-que-vinculan-a-tres-gendarmes-con-el-homicidio-de-un-recluso-en-la-carcel-de-arica/?utm_source=rss&utm_medium=rss&utm_campaign=estas-son-las-imagenes-que-vinculan-a-tres-gendarmes-con-el-homicidio-de-un-recluso-en-la-carcel-de-arica",
+      "fecha_obj": "2025-07-30T21:58:15+00:00",
+      "fecha_str": "30-07-2025 21:58 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Tres gendarmes detenidos por facilitar el homicidio de un recluso en la cárcel de Arica.",
+      "resumen": "Tres gendarmes fueron detenidos por su presunta participación en el asesinato de Cristian Díaz en la cárcel de Arica.  La fiscalía acusa a los gendarmes de facilitar el crimen al no revisar al asesino, Jordan Mejías, antes de permitir el acceso al patio, obligar a Díaz a salir y manipular las cámaras de seguridad para evitar grabar el homicidio.  Las pruebas incluyen 43 fotografías de las cámaras de vigilancia que reconstruyen la escena.  El móvil del crimen se presume como una demostración de poder dentro de la cárcel.  Este caso se suma a otras preocupaciones sobre fallas estructurales y la colaboración entre Gendarmería y el crimen organizado.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El caso involucra a funcionarios públicos, un homicidio, fallas en el sistema penitenciario y posibles vínculos con el crimen organizado, temas de gran interés nacional."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Conapran tiene 18 propiedades que no destina al cuidado del adulto mayor: están inutilizadas, en arriendo o en venta",
+      "link": "https://www.ciperchile.cl/2025/07/30/conapran-tiene-18-propiedades-que-no-destina-al-cuidado-del-adulto-mayor-estan-inutilizadas-en-arriendo-o-en-venta/?utm_source=rss&utm_medium=rss&utm_campaign=conapran-tiene-18-propiedades-que-no-destina-al-cuidado-del-adulto-mayor-estan-inutilizadas-en-arriendo-o-en-venta",
+      "fecha_obj": "2025-07-30T18:54:09+00:00",
+      "fecha_str": "30-07-2025 18:54 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Conapran, entidad estatal para adultos mayores, cierra hogares y vende propiedades pese a millonario patrimonio inmobiliario.",
+      "resumen": "Conapran, fundada en dictadura, cerró 10 de 12 hogares para adultos mayores tras un recorte presupuestario del 69% por parte de Senama.  Pese a poseer 23 propiedades con un avalúo fiscal superior a $10 mil millones, solo 5 se destinan al cuidado de adultos mayores.  El artículo investiga el manejo de su patrimonio inmobiliario, incluyendo ventas de propiedades recibidas del Estado, y cuestiona la falta de transparencia en la gestión de fondos públicos recibidos durante décadas.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo aborda una problemática nacional sobre la gestión de recursos públicos y el cuidado de adultos mayores, involucrando a una institución con historia ligada a la dictadura y con cuestionamientos sobre su transparencia.  El impacto del cierre de hogares y la venta de propiedades tiene relevancia nacional."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "This trade deal is the EU’s Suez moment – its subservience to Trump is on show for all to see | Larry Elliott",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/31/this-trade-deal-is-the-eus-suez-moment-its-subservience-to-trump-is-on-show-for-all-to-see",
+      "fecha_obj": "2025-07-31T07:00:41+00:00",
+      "fecha_str": "31-07-2025 07:00 UTC",
       "source_name": "The Guardian Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Israel's deliberada hambruna en Gaza: un crimen confesado con la complicidad de Occidente.",
-      "resumen": "El artículo acusa a Israel de cometer un crimen contra la humanidad al provocar deliberadamente una hambruna en Gaza, con la complicidad de Occidente. Se cita evidencia de declaraciones de líderes israelíes admitiendo el bloqueo de alimentos, agua y electricidad, así como el obstáculo a la ayuda humanitaria. Se critica la omisión de muchos medios occidentales y la inacción de gobiernos como el británico y el estadounidense.  El autor destaca la destrucción de la infraestructura, la matanza de trabajadores humanitarios y civiles buscando ayuda, y la manipulación de la ayuda proporcionada.  Se condena la falta de vergüenza de los líderes occidentales y se anticipa a un juicio histórico.",
+      "teaser_sentence": "El acuerdo comercial entre la UE y EEUU: ¿una humillante capitulación europea o una necesaria paz?",
+      "resumen": "El artículo analiza el reciente acuerdo comercial entre la UE y EEUU, calificándolo como un 'momento Suez' para Europa.  Se critica la falta de reciprocidad, con la UE haciendo importantes concesiones (tarifas, inversiones, compras de energía y armamento) sin obtener beneficios equivalentes.  El autor argumenta que este acuerdo demuestra la debilidad económica y geopolítica de la UE frente a EEUU, contrastándola con la postura más firme de China ante presiones similares de Trump.  Se destaca la dependencia europea del mercado estadounidense y la necesidad de cooperación en materia de seguridad, lo que explica la aceptación del acuerdo a pesar de su carácter desfavorable.  La reacción francesa, calificándolo de 'día negro' para Europa, refleja la controversia generada.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo es un ensayo de opinión que presenta un argumento claro y contundente sobre un tema de gran relevancia política e internacional, apoyado en evidencia y citas.  Analiza críticamente la actuación de Israel y la respuesta de Occidente, expresando una opinión comprometida y con una fuerte carga moral."
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre un tema de actualidad geopolítica y económica, analizando las implicaciones del acuerdo comercial entre la UE y EEUU.  Su estructura, con tesis, argumentos y ejemplos, lo clasifica claramente como un ensayo de opinión."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "I went out to challenge the law used to ban Palestine Action. Would I be arrested too? | George Monbiot",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/30/palestine-action-law-arrest-protest-free-speech",
-      "fecha_obj": "2025-07-30T05:00:53+00:00",
-      "fecha_str": "30-07-2025 05:00 UTC",
+      "titulo": "Critics say Starmer is no Attlee – and they’re right. Labour must look to the future, not the past | Martin Kettle",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/31/starmer-no-attlee-labour-future-not-past-labour-leaders-in-shadow",
+      "fecha_obj": "2025-07-31T05:00:39+00:00",
+      "fecha_str": "31-07-2025 05:00 UTC",
       "source_name": "The Guardian Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "El autor desafía la ley antiterrorista usada contra Palestine Action, cuestionando la opresión y la absurda aplicación de la misma.",
-      "resumen": "George Monbiot describe su participación en una protesta contra la prohibición de Palestine Action, bajo la Ley de Terrorismo de 2000.  Critica la aplicación arbitraria de la ley, mostrando ejemplos de arrestos desproporcionados, incluyendo a personas mayores por portar pancartas o símbolos pro-Palestina.  Monbiot destaca la contradicción entre la libertad de expresión y la prohibición, mostrando cómo opiniones similares a las de Palestine Action han sido expresadas por figuras internacionales.  El autor cuestiona la decisión del gobierno de etiquetar a Palestine Action como terrorista, sugiriendo complicidad en el conflicto israelí-palestino.  Finalmente, concluye que la ley es absurda y opresiva, limitando la libertad de expresión.",
+      "teaser_sentence": "Starmer y Attlee: líderes laboristas en tiempos distintos, ¿se puede comparar su legado?",
+      "resumen": "El artículo compara a Keir Starmer con Clement Attlee, ambos líderes laboristas, pero en contextos históricos muy diferentes.  Si bien ambos comparten ciertas características como la modestia y la capacidad de liderazgo en crisis, el autor argumenta que la comparación es engañosa.  Las circunstancias de la posguerra de Attlee (una Gran Bretaña devastada por la guerra y con un imperio en declive) difieren radicalmente de la Gran Bretaña digital del siglo XXI.  El autor destaca los logros de Attlee, pero advierte contra la idealización del pasado, enfatizando que Starmer debe navegar un contexto político completamente distinto.  La comparación, aunque tentadora, es finalmente infructuosa.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente una ley, presenta argumentos, ejemplos y opiniones de diferentes actores, incluyendo la propia experiencia del autor.  Expresa una postura clara y argumentada sobre la situación, encajando perfectamente en la categoría."
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza y compara a dos figuras políticas, ofreciendo una perspectiva crítica sobre la pertinencia de las comparaciones históricas en la política contemporánea.  Su estructura argumentativa, análisis profundo y conclusión bien fundamentada lo hacen un claro ejemplo del género."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "Israel Destroyed Gaza’s Health System. Palestinians Will Die for Years to Come.",
-      "link": "https://www.nytimes.com/2025/07/30/opinion/gaza-genocide-hospitals-health-system-israel.html",
-      "fecha_obj": "2025-07-30T05:00:04+00:00",
-      "fecha_str": "30-07-2025 05:00 UTC",
+      "titulo": "The Helsinki accord was a masterpiece of European diplomacy. Fifty years on, we need its spirit more than ever | Kai Hebel and Richard Davy",
+      "link": "https://www.theguardian.com/commentisfree/2025/jul/31/helsinki-accord-masterpiece-european-diplomacy-fifty-years-need-spirit-more-ever",
+      "fecha_obj": "2025-07-31T04:00:38+00:00",
+      "fecha_str": "31-07-2025 04:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "A 50 años del Acta Final de Helsinki, su espíritu de paz y cooperación es más necesario que nunca para solucionar el conflicto en Ucrania.",
+      "resumen": "El artículo conmemora el 50 aniversario del Acta Final de Helsinki, un acuerdo que, a pesar de las limitaciones impuestas por la URSS, sentó las bases para la cooperación y el respeto a los derechos humanos en Europa.  Los autores destacan el 'efecto Helsinki', donde la presión internacional sobre el respeto a los derechos humanos contribuyó a debilitar la Unión Soviética y facilitar el fin de la Guerra Fría.  Si bien la actual situación con Rusia es diferente y la OSCE ha sido debilitada, los autores argumentan que esta organización, heredera del Acta de Helsinki, conserva un papel crucial en la búsqueda de la paz en Ucrania, promoviendo la cooperación y el respeto al derecho internacional.  La celebración del aniversario en Helsinki sirve como un llamado a revitalizar el espíritu del acuerdo y a utilizar la OSCE como herramienta para la resolución pacífica del conflicto.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión fundamentada sobre la importancia histórica del Acta de Helsinki y su relevancia actual en el contexto de la guerra en Ucrania.  Analiza el pasado, el presente y propone una visión para el futuro, lo que lo convierte en un ensayo de opinión completo y bien argumentado."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Trump Wants You to Believe Climate Change Isn’t Dangerous",
+      "link": "https://www.nytimes.com/2025/07/30/opinion/climate-change-regulations-epa.html",
+      "fecha_obj": "2025-07-30T23:50:03+00:00",
+      "fecha_str": "30-07-2025 23:50 UTC",
       "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "La destrucción del sistema sanitario de Gaza por Israel equivale a un genocidio lento, según Physicians for Human Rights Israel.",
-      "resumen": "El artículo argumenta que la destrucción sistemática del sistema de salud de Gaza por Israel, a través de ataques aéreos, bloqueo de suministros médicos y asesinatos de personal sanitario, constituye un genocidio de larga duración.  La falta de atención médica básica, incluyendo vacunas, tratamiento de enfermedades crónicas y atención de urgencia, condena a muerte a cientos de miles de palestinos.  A pesar de que la escala de la destrucción no es inmediata ni espectacular, su impacto a largo plazo en la población civil es devastador, privándolos de la atención médica necesaria para sobrevivir.  Physicians for Human Rights Israel concluye que esta estrategia de destrucción del sistema de salud es una forma de genocidio, aunque con una línea temporal más extensa que la matanza directa.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo presenta una opinión contundente y argumentada sobre la situación en Gaza, calificándola de genocidio.  Utiliza evidencia y el respaldo de una organización médica para sustentar su postura, lo que lo convierte en un ensayo de opinión sólido y relevante."
+      "teaser_sentence": "La administración Trump busca desmantelar regulaciones climáticas, ignorando los peligros evidentes del cambio climático.",
+      "resumen": "La administración Trump propone revocar la determinación de que la contaminación del aire causa daño, específicamente eliminando el cambio climático como factor de daño.  Esta acción busca deshacer regulaciones ambientales y contradice la evidencia científica sobre los impactos mortales del cambio climático, incluyendo aumento de muertes por calor extremo, desastres naturales intensificados y un incremento en la violencia.  El artículo argumenta que el cambio climático acortará la vida de millones de estadounidenses y exacerbará problemas sociales, como la violencia doméstica y las agresiones sexuales, debido al aumento de las temperaturas.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión clara sobre las políticas climáticas de la administración Trump y su impacto, respaldada por evidencia científica.  Su tono es argumentativo y analiza las consecuencias de dichas políticas, lo que lo hace adecuado para un ensayo de opinión."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "An effigy of refugees, burned by a crowd: this is where Europe’s brutal fantasy of border control has led us | Maurice Stierl",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/30/europe-refugees-border-control-militarise-human-northern-ireland",
-      "fecha_obj": "2025-07-30T04:00:51+00:00",
-      "fecha_str": "30-07-2025 04:00 UTC",
-      "source_name": "The Guardian Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Diez años después de la crisis migratoria de 2015, Europa sucumbe a la fantasía de control fronterizo, con consecuencias devastadoras.",
-      "resumen": "El artículo analiza la evolución de la política migratoria europea desde 2015, mostrando un giro hacia la represión y la deshumanización de los refugiados.  La quema de una efigie de refugiados en Irlanda del Norte simboliza este declive.  Se critica la obsesión por \"detener las embarcaciones\", el aumento del presupuesto de Frontex y la externalización del control fronterizo, que conllevan sufrimiento y muerte.  La narrativa de \"emergencia migratoria\" perpetua el problema, mientras partidos centristas adoptan discursos cada vez más extremistas y racistas, alimentando la narrativa de la invasión.  El autor advierte sobre el auge de la extrema derecha, la erosión de la idea de una comunidad postnacional y el ataque a las normas legales, concluyendo que la fantasía del control fronterizo tiene consecuencias reales y peligrosas.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo presenta una opinión argumentada y analiza críticamente la política migratoria europea, encajando perfectamente en la categoría de 'Opinión Ensayo'.  Su estructura, análisis profundo y conclusión contundente lo convierten en un texto de opinión bien desarrollado."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "How Netanyahu Played Trump for a Fool in Gaza",
-      "link": "https://www.nytimes.com/2025/07/29/opinion/gaza-netanyahu-trump-israel-starvation.html",
-      "fecha_obj": "2025-07-30T00:21:16+00:00",
-      "fecha_str": "30-07-2025 00:21 UTC",
+      "titulo": "Why the Right Is Obsessed With Thinness",
+      "link": "https://www.nytimes.com/2025/07/30/opinion/christian-influencers-diet-culture-women.html",
+      "fecha_obj": "2025-07-30T23:00:09+00:00",
+      "fecha_str": "30-07-2025 23:00 UTC",
       "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Netanyahu manipuló a Trump, permitiendo la anexión de territorios y el sufrimiento en Gaza.",
-      "resumen": "El artículo argumenta que Netanyahu ha consolidado el poder de un sector extremista en Israel, opuesto al humanismo y dispuesto a anexionar territorios palestinos sin restricciones legales.  Se critica la ingenuidad de Trump y Witkoff, quienes no comprendieron las verdaderas intenciones de Netanyahu.  Se cita el ejemplo del cese al fuego en Gaza, roto unilateralmente por Israel, a pesar de un acuerdo previo, para ilustrar la manipulación de Netanyahu.  El autor señala que esta acción no tenía justificación militar y contribuyó a una política de hambre en Gaza.  En resumen, el texto acusa a Netanyahu de usar su poder para favorecer una ideología extremista y de engañar a la administración Trump.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre las acciones de Netanyahu y su impacto en el conflicto israelo-palestino.  Analiza las motivaciones políticas, las consecuencias humanitarias y las relaciones internacionales, cumpliendo con los requisitos de un ensayo de opinión."
+      "teaser_sentence": "La obsesión con la delgadez en la derecha se explica a través de la búsqueda de directrices morales en la alimentación, similar a la religiosidad.",
+      "resumen": "El artículo explora la conexión entre la obsesión por la delgadez y la religión, particularmente en la cultura estadounidense.  A través de la experiencia personal del autor en un campamento de pérdida de peso durante el Ramadán en Pakistán, se observa cómo la disciplina religiosa se aplica a la restricción calórica.  Se argumenta que la confusión en torno a la alimentación moderna y la desconfianza en la información nutricional hacen que las directrices religiosas sobre la alimentación sean atractivas para algunos, ofreciendo un marco moral simplificado para las decisiones dietéticas.  La comparación entre la experiencia del Ramadán y la influencia de dietas con base religiosa en Estados Unidos resalta la búsqueda de guía moral en un ámbito complejo como la alimentación.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la relación entre la cultura de la dieta, la religión y la búsqueda de identidad en la sociedad moderna.  La experiencia personal y la comparación cultural lo hacen adecuado para un ensayo de opinión."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "\"Un marathon à la vitesse de la F1\": la Chine veut dépasser les Etats-Unis dans l'IA",
-      "link": "https://www.sciencesetavenir.fr/sciences/un-marathon-a-la-vitesse-de-la-f1-la-chine-veut-depasser-les-etats-unis-dans-l-ia_187391?xtor=RSS-18",
-      "fecha_obj": "2025-07-30T06:44:12+00:00",
-      "fecha_str": "30-07-2025 06:44 UTC",
-      "source_name": "Sciences et Avenir"
+      "titulo": "Mark Zuckerberg Details Meta’s Plan for Self-Improving, Superintelligent AI",
+      "link": "https://www.wired.com/story/meta-earnings-superintelligence-q2-2025/",
+      "fecha_obj": "2025-07-30T23:41:40+00:00",
+      "fecha_str": "30-07-2025 23:41 UTC",
+      "source_name": "Wired"
     },
     "resumen_datos": {
-      "teaser_sentence": "China desafía el liderazgo de EEUU en IA: ¿quién ganará la carrera tecnológica?",
-      "resumen": "China busca liderar la industria de la inteligencia artificial, compitiendo con EEUU.  El desarrollo de modelos de lenguaje como DeepSeek, con código abierto y bajo costo, desafía la supremacía estadounidense.  Si bien empresas como Google y OpenAI mantienen la delantera, el 78% de los modelos chinos son considerados de vanguardia, frente al 70% de los estadounidenses.  La estrategia china se basa en la apertura del código fuente y precios competitivos, atrayendo a países en desarrollo.  Sin embargo, la censura y las preocupaciones sobre la confianza en la tecnología china plantean desafíos.  La creación de una organización internacional para la cooperación en IA, liderada por China, marca una apuesta por la expansión global, aunque su impacto real aún es incierto.",
+      "teaser_sentence": "Meta apuesta a la superinteligencia artificial para liderar la industria tecnológica.",
+      "resumen": "Mark Zuckerberg anunció los planes de Meta para desarrollar una superinteligencia artificial capaz de automejorarse, compitiendo con gigantes como OpenAI y Google DeepMind.  Meta Superintelligence Labs,  liderado por Shengjia Zhao,  contrata a expertos con paquetes millonarios.  La estrategia incluye el desarrollo de 'superinteligencia personal' para empoderar a los usuarios,  y la integración con sus gafas inteligentes.  A pesar de la gran inversión (69 mil millones de dólares en gastos de capital), Meta prevé un tercer trimestre exitoso.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata directamente sobre la competencia entre China y Estados Unidos en el campo de la inteligencia artificial, un tema central en ciencia y tecnología.  Aborda avances tecnológicos, estrategias económicas y políticas internacionales relacionadas con la IA."
+      "relevancia_justificacion": "El artículo trata directamente sobre los avances de Meta en inteligencia artificial, un tema central en ciencia y tecnología.  La inversión multimillonaria, la contratación de expertos y la ambiciosa meta de crear una superinteligencia artificial lo hacen altamente relevante para esta categoría."
     },
     "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "Les Etats-Unis et l'Inde vont lancer un puissant satellite d'observation terrestre",
-      "link": "https://www.sciencesetavenir.fr/nature-environnement/les-etats-unis-et-l-inde-vont-lancer-un-puissant-satellite-d-observation-terrestre_187388?xtor=RSS-15",
-      "fecha_obj": "2025-07-30T01:50:02+00:00",
-      "fecha_str": "30-07-2025 01:50 UTC",
+      "titulo": "Vous ne devriez pas regarder votre smartphone en mangeant, voici pourquoi",
+      "link": "https://www.sciencesetavenir.fr/nutrition/vous-ne-devriez-pas-regarder-votre-smartphone-en-mangeant-voici-pourquoi_187409?xtor=RSS-28",
+      "fecha_obj": "2025-07-31T06:00:00+00:00",
+      "fecha_str": "31-07-2025 06:00 UTC",
       "source_name": "Sciences et Avenir"
     },
     "resumen_datos": {
-      "teaser_sentence": "NISAR, un potente satélite indo-estadounidense, despegara para monitorizar cambios terrestres y glaciares.",
-      "resumen": "El satélite NISAR, desarrollado conjuntamente por la NASA y la ISRO, será lanzado para monitorear cambios terrestres y glaciares con una precisión de centímetros.  Su objetivo es anticipar desastres naturales y antropogénicos, como terremotos, deslizamientos y el deterioro de infraestructuras.  Equipado con un radar de última generación y una antena de 12 metros, NISAR fotografiará casi toda la superficie terrestre cada 12 días desde una órbita de 747 km.  Este proyecto representa un hito en la cooperación espacial entre Estados Unidos e India, reflejando el avance del programa espacial indio con misiones a Marte y la Luna.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata sobre el lanzamiento de un satélite de observación terrestre de alta tecnología, un tema altamente relevante para la categoría 'Ciencia y Tecnología'. Describe avances tecnológicos significativos en el campo de la observación espacial, la cooperación internacional en ciencia y la exploración espacial."
+      "teaser_sentence": "Distracciones al comer borran el recuerdo de la saciedad, llevando a comer en exceso.",
+      "resumen": "Estudios recientes revelan que las distracciones como mirar el teléfono mientras se come, impiden que el cerebro registre adecuadamente la ingesta de alimentos.  Investigaciones en ratas muestran que el hipocampo, responsable de la memoria, se activa durante la comida, creando 'engramas' que registran cuándo y dónde se comió.  Bloquear estos procesos neuronalmente causa que los ratones coman más frecuentemente.  En humanos, una meta-análisis confirma que las distracciones, especialmente en mujeres, llevan a consumir porciones más grandes.  La conclusión es que recordar lo que se comió y cuándo es crucial para una alimentación equilibrada.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta hallazgos científicos sobre la neurociencia de la alimentación y la influencia de la tecnología (distracciones de pantallas) en los hábitos alimenticios.  La investigación es relevante por su impacto en la salud y el uso de la tecnología."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "How allergens make us cough and weeze — by poking holes in airway cells",
+      "link": "https://www.nature.com/articles/d41586-025-02432-x",
+      "fecha_obj": "2025-07-31T00:00:00+00:00",
+      "fecha_str": "31-07-2025 00:00 UTC",
+      "source_name": "Nature News"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Proteínas en alérgenos crean poros en células respiratorias, desencadenando reacciones alérgicas.",
+      "resumen": "Un estudio publicado en Nature revela que ciertas proteínas en alérgenos, como las encontradas en el moho Alternaria alternata (Aeg-S y Aeg-L), forman poros en las membranas celulares de las vías respiratorias.  Esto permite la entrada de iones de calcio, activando la respuesta inmune y causando inflamación.  Experimentos con células pulmonares y ratones demostraron que la administración simultánea de ambas proteínas reproduce la respuesta alérgica, mientras que la administración individual no lo hace.  Este descubrimiento desafía la comprensión actual de las alergias y abre nuevas vías para tratamientos que se centren en bloquear la formación de poros.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta un descubrimiento científico significativo sobre el mecanismo de las reacciones alérgicas, con implicaciones para el desarrollo de nuevos tratamientos.  Se basa en investigación experimental y sus hallazgos son relevantes para la ciencia biomédica y la tecnología médica."
     },
     "categoria": "ciencia_tecnologia"
   },
@@ -227,127 +291,111 @@
     "info": {
       "titulo": "Top Verizon Promo Codes & Deals | August 2025",
       "link": "https://www.wired.com/story/verizon-promo-code/",
-      "fecha_obj": "2025-07-30T05:00:00+00:00",
-      "fecha_str": "30-07-2025 05:00 UTC",
+      "fecha_obj": "2025-07-31T05:00:00+00:00",
+      "fecha_str": "31-07-2025 05:00 UTC",
       "source_name": "Wired"
     },
     "resumen_datos": {
-      "teaser_sentence": "Verizon ofrece grandes descuentos en teléfonos, planes y servicios de internet; ¡ahorra hasta $1100!",
-      "resumen": "El artículo detalla las promociones de Verizon en agosto de 2025, incluyendo descuentos de hasta $1100 en smartphones (iPhone, Samsung, Google Pixel) al adquirir un plan ilimitado y canjear un dispositivo usado.  Se ofrecen planes con precios iniciales de $0 o $5 mensuales durante los primeros tres años, además de regalos como relojes inteligentes o iPads con la compra de ciertos planes y dispositivos.  También se incluyen ofertas para internet residencial, con descuentos en bundles de entretenimiento y precios especiales para estudiantes, militares y personal de salud.  No se requieren códigos promocionales para la mayoría de las ofertas.",
+      "teaser_sentence": "Verizon ofrece grandes descuentos en teléfonos, planes y servicios de internet, ¡ahorra hasta $1100!",
+      "resumen": "El artículo detalla las promociones de Verizon para agosto de 2025, incluyendo descuentos de hasta $1100 en smartphones (iPhone, Samsung, Google Pixel) al adquirir un plan ilimitado y canjear un teléfono usado.  Se ofrecen planes desde $5 al mes con teléfonos gratis o a bajo costo,  además de ofertas en bundles con servicios de streaming y descuentos para estudiantes, militares y personal de salud.  También destaca la oferta de internet para el hogar con precios competitivos y descuentos en bundles.  Verizon promociona su amplia cobertura 4G LTE y la expansión de su red 5G.",
       "relevancia_score": 8,
-      "relevancia_justificacion": "El artículo trata sobre ofertas de una empresa de telecomunicaciones que ofrece tecnología (teléfonos, internet, smartwatches), por lo que es altamente relevante para la categoría Ciencia y Tecnología.  La información sobre planes, precios y características de los dispositivos es de interés para los consumidores de tecnología."
+      "relevancia_justificacion": "El artículo trata sobre ofertas de una empresa de telecomunicaciones,  un sector fuertemente ligado a la tecnología.  La mención de smartphones,  internet de alta velocidad,  inteligencia artificial (AI) y  la cobertura de red 5G lo relaciona directamente con avances tecnológicos y su impacto en el consumidor."
     },
     "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "Sécheresse record pour un début juillet en Europe et sur le pourtour méditerranéen",
-      "link": "https://www.sciencesetavenir.fr/nature-environnement/secheresse-record-pour-un-debut-juillet-en-europe-et-sur-le-pourtour-mediterraneen_187390?xtor=RSS-15",
-      "fecha_obj": "2025-07-30T04:00:13+00:00",
-      "fecha_str": "30-07-2025 04:00 UTC",
-      "source_name": "Sciences et Avenir"
+      "titulo": "Therabody Promo Code: 15% Off | August 2025",
+      "link": "https://www.wired.com/story/therabody-promo-code/",
+      "fecha_obj": "2025-07-31T05:00:00+00:00",
+      "fecha_str": "31-07-2025 05:00 UTC",
+      "source_name": "Wired"
     },
     "resumen_datos": {
-      "teaser_sentence": "Sequía récord en Europa y Mediterráneo: 52% de los suelos afectados en julio.",
-      "resumen": "Europa y la región mediterránea experimentaron en julio de 2024 su peor sequía desde 2012, con el 52% de los suelos afectados, según el Observatorio Europeo de la Sequía.  El este de Europa es el más afectado, con países como Kosovo, Serbia y Bulgaria registrando casi el 100% de sus suelos secos.  Hungría y Armenia también sufren sequías severas, mientras que Turquía enfrenta cientos de incendios.  En Europa occidental, la situación es más variada, con el Reino Unido y Francia mostrando un aumento en las zonas en alerta.  España y Portugal son las excepciones, con niveles de sequía muy bajos.  La sequía amenaza cosechas y la seguridad alimentaria, especialmente en Siria.",
-      "relevancia_score": 7,
-      "relevancia_justificacion": "El artículo usa datos de observación satelital (Ciencia) para analizar un fenómeno ambiental de gran escala (Tecnología aplicada a la monitorización ambiental).  La sequía tiene implicaciones científicas y tecnológicas en la gestión de recursos hídricos y la predicción climática."
-    },
-    "categoria": "ciencia_tecnologia"
-  },
-  {
-    "info": {
-      "titulo": "Au Canada, une zone industrielle \"répugnante\" réhabilitée pour faire face aux inondations",
-      "link": "https://www.sciencesetavenir.fr/nature-environnement/au-canada-une-zone-industrielle-repugnante-rehabilitee-pour-faire-face-aux-inondations_187389?xtor=RSS-15",
-      "fecha_obj": "2025-07-30T03:00:52+00:00",
-      "fecha_str": "30-07-2025 03:00 UTC",
-      "source_name": "Sciences et Avenir"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Toronto renaturaliza zona industrial contaminada para prevenir inundaciones extremas, creando un nuevo ecosistema urbano.",
-      "resumen": "El proyecto Port Lands en Toronto, Canadá, rehabilita una antigua zona industrial contaminada para proteger la ciudad de inundaciones.  Tras la devastación del huracán Hazel en 1954 y con la creciente conciencia del cambio climático, se reconectó el río Don con el lago Ontario, creando nuevas desembocaduras y zonas húmedas.  Este proyecto de 1.400 millones de dólares canadienses no solo mitiga el riesgo de inundaciones, sino que también genera nuevos espacios verdes, viviendas y recreativos, mostrando una solución innovadora a la problemática de las ciudades ante eventos climáticos extremos.  La iniciativa implica una redefinición de la relación entre la ciudad y la naturaleza, aceptando la posibilidad de inundaciones y adaptándose a ellas.",
-      "relevancia_score": 7,
-      "relevancia_justificacion": "El proyecto combina ingeniería, planificación urbana y sostenibilidad ambiental, mostrando una solución tecnológica a un problema científico como son las inundaciones exacerbadas por el cambio climático. Si bien no hay un avance tecnológico radical, la aplicación de conocimientos científicos e ingenieriles para la adaptación al cambio climático lo hace relevante para la categoría."
-    },
-    "categoria": "ciencia_tecnologia"
-  },
-  {
-    "info": {
-      "titulo": "When the Cranes Fly South by Lisa Ridzén review – a novel anyone will take to heart",
-      "link": "https://www.theguardian.com/books/2025/jul/30/when-the-cranes-fly-south-by-lisa-ridzen-review-a-novel-anyone-will-take-to-heart",
-      "fecha_obj": "2025-07-30T06:00:54+00:00",
-      "fecha_str": "30-07-2025 06:00 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Una conmovedora historia sobre el envejecimiento, el amor y la pérdida en la Suecia rural.",
-      "resumen": "Cuando las grullas vuelan al sur, de Lisa Ridzén, narra la vida de Bo, un anciano que enfrenta la fragilidad de la vejez, la pérdida de su esposa y la distancia con su hijo. La novela, exitosa en Suecia, utiliza una narrativa sencilla y efectiva, intercalando los recuerdos de Bo con las anotaciones de sus cuidadores.  La ambientación en el norte de Suecia, con sus paisajes y gastronomía, es evocadora.  Bo lucha contra su condicionamiento masculino para expresar su amor antes de morir.  A pesar de algunos detalles de traducción, la novela conecta con lectores que han experimentado preocupaciones similares sobre el envejecimiento y las relaciones familiares.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "La novela explora temas universales sobre la vida, la muerte y las relaciones familiares, enmarcados en un contexto cultural específico (la Suecia rural). Su éxito literario la convierte en un tema relevante para la categoría 'Cultura Arte'."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "‘I was struck by this little boy’: inside Travellers’ horse fairs – in pictures",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2025/jul/30/travellers-horse-fairs-frederik-ruegger-i-am-a-stranger-in-this-country-in-pictures",
-      "fecha_obj": "2025-07-30T06:00:53+00:00",
-      "fecha_str": "30-07-2025 06:00 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Generaciones se cruzan en una instantánea nostálgica de la feria de caballos de Appleby.",
-      "resumen": "El fotógrafo Frederik Rüegger describe una de sus fotografías favoritas de la feria de caballos de Appleby, donde se aprecian tres generaciones.  La imagen, tomada con película, evoca un sentimiento de romanticismo y atemporalidad, contrastando con la rapidez del mundo moderno.  Rüegger destaca la complejidad de la foto, comparándola con un enigma que invita a la especulación e imaginación.  Elementos como el cochecito de bebé añaden a la atmósfera nostálgica y antigua de la escena. La fotografía captura la esencia de la tradición y el paso del tiempo en un solo encuadre.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "La imagen y la descripción del fotógrafo se enfocan en el aspecto cultural y artístico de la fotografía como medio de expresión, capturando un momento cultural específico y evocando emociones a través de la composición y la estética. La reflexión sobre la fotografía y su significado añade un valor artístico adicional."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "2000 Meters to Andriivka review – war in Ukraine as an eerie, pin-sharp waking nightmare",
-      "link": "https://www.theguardian.com/film/2025/jul/30/2000-meters-to-andriivka-review-ukraine-war-documentary-mstyslav-chernov",
-      "fecha_obj": "2025-07-30T06:00:53+00:00",
-      "fecha_str": "30-07-2025 06:00 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "2000 Meters to Andriivka: Un impactante documental que muestra la guerra en Ucrania desde la perspectiva de los soldados.",
-      "resumen": "El documental \"2000 Meters to Andriivka\" de Mstyslav Chernov ofrece una visión visceral de la contraofensiva ucraniana de 2023.  Filmado en 4K, el film sigue a la 3ra Brigada de Asalto ucraniana en su avance hacia Andriivka, mostrando la brutalidad del combate en un paisaje devastado.  Chernov, armado solo con su cámara, combina sus imágenes con las de las cámaras de los soldados y drones, creando una representación cruda y moderna de la guerra, con similitudes a la Primera Guerra Mundial.  La película incluye entrevistas con soldados que luego murieron, añadiendo una capa de emotividad y tragedia. A pesar de la reconquista rusa posterior, el documental transmite la resiliencia del espíritu ucraniano.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "El documental es una obra cinematográfica que refleja la realidad de la guerra, un tema relevante para la cultura. Su valor artístico radica en la crudeza de las imágenes y la perspectiva única del conflicto.  Si bien no es arte tradicional, su impacto cultural y su valor como testimonio histórico lo hacen relevante para la categoría."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "A moment that changed me: 30 years after my pop career stalled, I found the courage to sing again",
-      "link": "https://www.theguardian.com/lifeandstyle/2025/jul/30/a-moment-that-changed-me-30-years-after-my-pop-career-stalled-i-found-the-courage-to-sing-again",
-      "fecha_obj": "2025-07-30T05:55:53+00:00",
-      "fecha_str": "30-07-2025 05:55 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Una cantante fallida en Japón reencuentra su voz 30 años después en un coro rural.",
-      "resumen": "El artículo narra la historia de una mujer que, tras un fugaz intento de carrera musical en Japón en los 90, abandona la música por falta de éxito y confianza.  Veinte años después, impulsada por la escritura de sus memorias, vuelve a escuchar su antiguo álbum y decide unirse a un coro.  Esta experiencia grupal le devuelve la alegría de cantar, superando la inseguridad y el sentimiento de impostora que la habían perseguido.  El artículo destaca la importancia de la perseverancia, la superación personal y la búsqueda de la propia voz, tanto literal como metafóricamente.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "La historia explora la experiencia artística de la autora, su relación con la música y su proceso creativo, conectando con temas de cultura y arte.  La superación personal a través del arte es un elemento central."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "10 peaceful spots in and around Edinburgh to escape the festival crowds",
-      "link": "https://www.theguardian.com/travel/2025/jul/30/10-peaceful-spots-in-and-around-edinburgh-to-escape-the-festival-crowds",
-      "fecha_obj": "2025-07-30T06:00:54+00:00",
-      "fecha_str": "30-07-2025 06:00 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Escapa de las multitudes del festival de Edimburgo en estos 10 lugares tranquilos.",
-      "resumen": "El artículo sugiere diez lugares pacíficos en y alrededor de Edimburgo para escapar de las multitudes del festival.  Estos incluyen espacios verdes como Bruntsfield Links y Portobello Beach, escondites en el Royal Mile como Dunbar's Close, zonas junto al agua como Leith Shore y Newhaven, el Jardín Botánico Real, Stockbridge, Arthur's Seat y Holyrood Park, el Canal de Union y The Pitt en Granton.  Se recomiendan restaurantes, bares y actividades en cada lugar, ofreciendo una variedad de opciones gastronómicas y de ocio para una experiencia relajante lejos del bullicio del festival.",
+      "teaser_sentence": "Ahorra hasta un 20% en productos Therabody: ¡códigos promocionales, ofertas y descuentos disponibles!",
+      "resumen": "El artículo detalla las diversas maneras de obtener descuentos en productos Therabody, como suscripciones a email y mensajes de texto para obtener códigos de descuento del 10% y 15%, respectivamente.  También menciona ofertas especiales para militares, estudiantes y trabajadores de la salud, con descuentos de hasta un 20%. Se destacan descuentos adicionales en la sección de outlet (hasta 30%), ofertas por temporada (Black Friday, Cyber Monday, etc.) y promociones en bundles.  Se mencionan productos específicos con descuentos, como TheraFace Pro y Theragun Prime Plus. El artículo enfatiza la posibilidad de ahorrar en productos para el bienestar corporal.",
       "relevancia_score": 3,
-      "relevancia_justificacion": "Si bien el artículo menciona algunos lugares con relevancia cultural (Jardín Botánico, Royal Mile, museos), su enfoque principal es en la escapada y el relax, no en la exploración cultural profunda. La información sobre restaurantes y bares domina el contenido."
+      "relevancia_justificacion": "Si bien Therabody utiliza tecnología en sus productos, el artículo se centra principalmente en las promociones y ofertas comerciales, no en los avances tecnológicos o científicos de la marca. La relevancia es baja en cuanto a ciencia y tecnología, siendo más relevante para el ámbito del marketing y las ventas."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "‘Everybody was fondling underwater!’: an oral history of the Rocky Horror Picture Show at 50",
+      "link": "https://www.theguardian.com/film/2025/jul/31/the-rocky-horror-picture-show-at-50-an-oral-history",
+      "fecha_obj": "2025-07-31T04:00:38+00:00",
+      "fecha_str": "31-07-2025 04:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "50 años desafiando convenciones: la historia oral de 'Rocky Horror' revela su legado cultural.",
+      "resumen": "El artículo conmemora el 50 aniversario de 'The Rocky Horror Picture Show', explorando su improbable ascenso como fenómeno de culto.  Desde su estreno fallido en 1975, la película, con su peculiar mezcla de ciencia ficción, horror y extravagancia, encontró su público en proyecciones nocturnas.  Las participaciones activas del público, el vestuario, y la temática LGBTQ+ inclusiva la convirtieron en un espacio seguro y un referente cultural.  El artículo incluye entrevistas con el elenco y equipo, describiendo la producción desafiante, el fracaso inicial y el posterior éxito inesperado gracias a la respuesta entusiasta de los fans, especialmente la comunidad LGBTQ+, que encontraron en la película una forma de expresión y pertenencia.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo analiza a fondo un hito cinematográfico clave en la cultura popular, su impacto en la comunidad LGBTQ+, y su perdurable influencia en el cine y el teatro.  La información proporcionada es relevante para la categoría 'Cultura Arte' por su enfoque en la historia del cine, la cultura popular, y las artes escénicas."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Darío Lopérfido estrena ciclo de diálogos sobre libertad y cultura mientras lucha contra su afección",
+      "link": "https://www.clarin.com/cultura/dario-loperfido-estrena-ciclo-dialogos-libertad-cultura-lucha-afeccion_0_15o0kjKRpe.html",
+      "fecha_obj": "2025-07-30T22:25:46+00:00",
+      "fecha_str": "30-07-2025 22:25 UTC",
+      "source_name": "Revista Ñ – Clarín Cultura"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Darío Lopérfido, diagnosticado con ELA, estrena un ciclo de entrevistas sobre libertad y cultura.",
+      "resumen": "Darío Lopérfido, exsecretario de Cultura argentino, presenta \"El hombre rebelde\", un ciclo de cinco entrevistas con figuras como Cayetana Álvarez de Toledo y Martín Caparrós, también afectado por ELA.  Grabado en Madrid, el ciclo explora la libertad de expresión y el rol de la cultura ante desafíos políticos. Lopérfido, quien reflexiona sobre su enfermedad y su trayectoria política,  discute temas como la cantidad de desaparecidos durante la dictadura argentina y la situación política actual en Argentina y otros países.  El proyecto, producido por Non Stop, se estrena en Flow (on demand).",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo se centra en un ciclo de entrevistas que explora la cultura y la libertad de expresión, temas centrales de la categoría 'Cultura Arte'.  La enfermedad del entrevistador añade un elemento humano, pero el foco principal sigue siendo el contenido cultural del ciclo de entrevistas."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "How My Museum’s Celebration of America’s 250th Birthday Got Complicated",
+      "link": "https://hyperallergic.com/1030987/how-my-museums-celebration-of-americas-250th-birthday-got-complicated-new-york-historical-society/",
+      "fecha_obj": "2025-07-30T21:43:15+00:00",
+      "fecha_str": "30-07-2025 21:43 UTC",
+      "source_name": "Hyperallergic"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Celebrar el 250 aniversario de EE. UU. resulta complicado, pero la esperanza persiste en la unidad nacional.",
+      "resumen": "El New York Historical Museum enfrenta desafíos al organizar una celebración del 250 aniversario de Estados Unidos en 2026.  La falta de fondos, la polarización política y las restricciones de plataformas digitales dificultan la iniciativa \"OnOur250th.org\", que busca recopilar mensajes de ciudadanos. A pesar de las adversidades, la respuesta del público ha sido abrumadoramente positiva, con mensajes inspiradores que enfatizan la unidad, la igualdad y la oportunidad.  El autor contrasta la dificultad de la iniciativa con una experiencia personal optimista en una celebración comunitaria, mostrando que la esperanza por una unión más perfecta aún persiste.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo trata sobre la organización de un evento cultural con implicaciones históricas y sociales.  La iniciativa del museo, la respuesta del público y la reflexión sobre el significado de la celebración son relevantes para la categoría 'Cultura Arte', aunque el enfoque principal no es estrictamente artístico."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: Richard Flood returns in New Zealand thriller The Gone",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/31/tv-tonight-richard-flood-the-gone-queen-victoria",
+      "fecha_obj": "2025-07-31T05:20:39+00:00",
+      "fecha_str": "31-07-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: thrillers, rescates dramáticos y la posible hija secreta de la Reina Victoria.",
+      "resumen": "La programación televisiva de esta noche ofrece una variedad de opciones.  'The Gone' continúa con el detective Theo Richter investigando la desaparición de una periodista en Nueva Zelanda.  'Dragons' Den' presenta nuevos emprendimientos, mientras 'Saving Lives at Sea' muestra rescates dramáticos en el mar.  'Tom Kerridge Cooks Spain' explora la gastronomía española, y 'Queen Victoria: Secret Marriage, Secret Child?' investiga una posible hija ilegítima de la reina. Finalmente, 'Mr Bigstuff' presenta una nueva entrega de comedia.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien el programa sobre la Reina Victoria podría tener un ligero vínculo con la historia, la mayoría de los programas se centran en otros géneros como el crimen, la cocina y la comedia, con poca relevancia para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Destination X review – the BBC’s big new reality competition will make you feel like you’re hallucinating",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/30/destination-x-review-rob-brydon-the-traitors-meets-race-across-the-world",
+      "fecha_obj": "2025-07-30T21:00:29+00:00",
+      "fecha_str": "30-07-2025 21:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Un concurso de realidad donde la ubicación es el misterio, con desafíos desconcertantes y un premio de \\u00a3100.000.",
+      "resumen": "Destination X, un nuevo concurso de la BBC, lleva a un grupo de concursantes a diferentes lugares secretos de Europa.  Los participantes deben usar pistas y desafíos para deducir su ubicación y marcarla en un mapa. El concursante menos preciso es eliminado. El programa destaca por sus desafíos confusos y la personalidad de los concursantes, que van desde los inexpertos hasta los altamente competitivos.  La serie se diferencia de otros concursos de realidad al generar una sensación de desconcierto y confusión, incluso para el espectador, que puede participar a través de códigos QR. A pesar de su estructura inusual, el programa resulta entretenido.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien el programa se desarrolla en diferentes lugares europeos y menciona elementos culturales, su enfoque principal es la competencia y el misterio, no la exploración profunda de la cultura o el arte de esas regiones."
     },
     "categoria": "cultura_arte"
   }
