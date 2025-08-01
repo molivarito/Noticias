@@ -1,401 +1,353 @@
 [
   {
     "info": {
-      "titulo": "«Spectacle meurtrier» en Ukraine : au moins six personnes tuées dans des frappes russes à Kiev",
-      "link": "https://www.lefigaro.fr/flash-actu/au-moins-un-mort-et-20-blesses-dans-une-attaque-russe-sur-kiev-20250731",
-      "fecha_obj": "2025-07-31T07:14:08+00:00",
-      "fecha_str": "31-07-2025 07:14 UTC",
-      "source_name": "Le Figaro"
+      "titulo": "Trump’s Threat of the World’s Highest Tariff Imperiled an African Nation",
+      "link": "https://www.nytimes.com/2025/08/01/world/africa/lesotho-tariffs-textile-industry.html",
+      "fecha_obj": "2025-08-01T07:11:48+00:00",
+      "fecha_str": "01-08-2025 07:11 UTC",
+      "source_name": "The New York Times World"
     },
     "resumen_datos": {
-      "teaser_sentence": "Ataques rusos en Kiev dejan al menos seis muertos, incluyendo un niño; Zelensky lo califica de \"espectáculo meurtrier\".",
-      "resumen": "Ataques rusos con misiles y drones en Kiev causaron al menos seis muertes y más de 20 heridos, incluyendo un niño de seis años.  El presidente Zelensky calificó los ataques como un \"espectáculo meurtrier\".  Rusia, por su parte, afirmó haber tomado la ciudad de Tchassiv Iar en Donetsk.  Las negociaciones de paz están estancadas, con Rusia exigiendo la cesión de territorios ucranianos y Ucrania reclamando la retirada total de las tropas rusas.  El ultimátum de Trump a Putin para detener la guerra en diez días parece no haber surtido efecto.",
+      "teaser_sentence": "Amenazas arancelarias de Trump dejan fábricas textiles de Lesotho desiertas y a miles sin empleo.",
+      "resumen": "El artículo describe el impacto devastador de las amenazas arancelarias de Trump en Lesotho.  Una fábrica textil, antes próspera, ahora está abandonada, con maquinaria parada y telas desparramadas.  Mujeres desempleadas esperan fuera de otras fábricas por la posibilidad de un trabajo diario. Mathuso Tau, quien perdió su empleo, ejemplifica la ansiedad y la precariedad económica que sufren los trabajadores. La situación ilustra la vulnerabilidad de las economías africanas ante las políticas proteccionistas de las grandes potencias.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata sobre un conflicto bélico internacional de gran magnitud, con un alto número de víctimas civiles y consecuencias geopolíticas importantes.  La noticia es de relevancia global y encaja perfectamente en la categoría 'Internacional'."
+      "relevancia_justificacion": "El artículo trata sobre las consecuencias internacionales de las políticas económicas de Estados Unidos, afectando directamente a un país africano.  Tiene una relevancia global y muestra el impacto de decisiones políticas en países en desarrollo."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Le Canada «a l'intention» de reconnaître l'État de Palestine en septembre, Donald Trump sort de ses gonds",
-      "link": "https://www.lefigaro.fr/flash-actu/le-canada-a-l-intention-de-reconnaitre-l-etat-de-palestine-en-septembre-a-l-onu-20250730",
-      "fecha_obj": "2025-07-31T07:10:44+00:00",
-      "fecha_str": "31-07-2025 07:10 UTC",
+      "titulo": "Guerre en Ukraine : pour Sergueï Lavrov, l’Allemagne et l’Europe suivent la voie d’un «Quatrième Reich»",
+      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-pour-serguei-lavrov-l-allemagne-et-l-europe-suivent-la-voie-d-un-quatrieme-reich-20250801",
+      "fecha_obj": "2025-08-01T07:09:05+00:00",
+      "fecha_str": "01-08-2025 07:09 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Canadá reconocerá el Estado de Palestina en septiembre, generando controversia internacional.",
-      "resumen": "Canadá anunció su intención de reconocer el Estado de Palestina en la ONU en septiembre de 2025.  Esta decisión, motivada por la necesidad de una solución de dos Estados y la crisis humanitaria en Gaza, ha sido celebrada por la Autoridad Palestina y Francia, pero condenada por Israel, que la ve como una recompensa al Hamas.  La decisión canadiense se produce en medio de la creciente tensión en la región y la crítica situación humanitaria en Gaza. Donald Trump reaccionó negativamente, sugiriendo que dificultará un acuerdo comercial con Canadá. Canadá argumenta que la solución de dos Estados ya no es viable debido al terrorismo del Hamas, la expansión de colonias israelíes y la inacción de Israel ante la crisis humanitaria.",
+      "teaser_sentence": "Lavrov acusa a Alemania y la UE de crear un 'Cuarto Reich' por su rearme.",
+      "resumen": "El ministro de Exteriores ruso, Serguéi Lavrov, acusa a Alemania y la Unión Europea de militarismo y deriva autoritaria, llegando a compararlos con un 'Cuarto Reich'.  Critica el aumento del presupuesto militar alemán, las declaraciones del ministro de Defensa alemán sobre la disposición a matar soldados rusos, y el plan europeo de defensa de 800 mil millones de euros.  Lavrov considera que la OSCE está debilitada e incapaz de cumplir su misión,  utilizando el 50 aniversario del Acta Final de Helsinki para lanzar esta dura crítica a la política europea.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "La noticia trata sobre una decisión política internacional de gran envergadura, con implicaciones geopolíticas y humanitarias relevantes a nivel global.  Afectará las relaciones internacionales entre Canadá, Israel, Palestina y otros actores internacionales. La reacción de Estados Unidos también añade relevancia."
+      "relevancia_justificacion": "El artículo trata sobre una declaración de alto nivel de un actor clave en el conflicto de Ucrania, con implicaciones geopolíticas directas para Europa y la relación entre Rusia y Occidente.  La acusación de Lavrov es una noticia internacional de gran relevancia."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Guerre en Ukraine: la Russie revendique la conquête de la ville fortifiée de Chassiv Yar",
-      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-la-russie-revendique-la-conquete-de-la-ville-fortifiee-de-chassiv-yar-20250731",
-      "fecha_obj": "2025-07-31T07:04:57+00:00",
-      "fecha_str": "31-07-2025 07:04 UTC",
-      "source_name": "Le Figaro"
+      "titulo": "Nouvelle-Calédonie : l’accord « historique » sur l’avenir de l’archipel au bord du naufrage",
+      "link": "https://www.lemonde.fr/politique/article/2025/08/01/nouvelle-caledonie-l-accord-historique-sur-l-avenir-de-l-archipel-au-bord-du-naufrage_6626004_823448.html",
+      "fecha_obj": "2025-08-01T07:05:56+00:00",
+      "fecha_str": "01-08-2025 07:05 UTC",
+      "source_name": "Le Monde International"
     },
     "resumen_datos": {
-      "teaser_sentence": "Rusia anuncia la toma de Chassiv Yar, intensificando el conflicto en el Donbás y elevando la tensión internacional.",
-      "resumen": "Rusia declaró la conquista de la ciudad ucraniana de Chassiv Yar, un importante objetivo estratégico en el Donbás, tras intensos combates.  A pesar de la resistencia ucraniana en un sector de la ciudad, las fuerzas rusas lograron avanzar, abriendo potencialmente el camino hacia Sloviansk y Kramatorsk.  Esta acción se produce en medio de la presión internacional ejercida por Donald Trump, quien amenazó con sanciones a Rusia si no cesa los combates.  Las negociaciones entre Ucrania y Rusia han fracasado, con posiciones irreconciliables sobre el fin del conflicto.  Mientras tanto, los combates continúan en otras zonas, como Pokrovsk, un importante centro logístico ucraniano.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata sobre un conflicto bélico de gran envergadura internacional, con implicaciones geopolíticas globales, involucrando a Rusia y Ucrania, y con la participación de actores internacionales como Estados Unidos.  La toma de Chassiv Yar es un evento significativo en la guerra, con consecuencias estratégicas y diplomáticas de alcance internacional."
+      "teaser_sentence": "El acuerdo sobre el futuro de Nueva Caledonia fracasa: el principal partido independentista lo rechaza.",
+      "resumen": "El principal partido independentista de Nueva Caledonia, la Unión Caledoniana (UC), rechazó el acuerdo de Bougival sobre el futuro del archipiélago, alcanzado el 12 de julio.  La UC considera que el acuerdo, aunque menciona elementos de soberanía como una denominación de \"Estado\", no respeta los fundamentos del independentismo, viéndolo como un proyecto de integración a Francia disfrazado de descolonización.  El partido prioriza el derecho a la autodeterminación, no una mera nacionalidad, y critica que este derecho quede en manos del congreso con una mayoría cualificada.  La decisión, tomada tras la oposición de militantes y dirigentes, no sorprende, generando incertidumbre sobre el futuro del proceso de descolonización.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre un tema de relevancia internacional: la descolonización y el futuro político de un territorio dependiente de Francia. El rechazo del acuerdo por parte del principal partido independentista tiene implicaciones geopolíticas y afecta las relaciones entre Francia y Nueva Caledonia."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Taxe sur les billets d’avion : la ministre du Tourisme se dit favorable à sa suppression mais tacle Ryanair",
-      "link": "https://www.lefigaro.fr/societes/taxe-sur-les-billets-d-avion-la-ministre-du-tourisme-se-dit-favorable-a-sa-suppression-mais-tacle-ryanair-20250731",
-      "fecha_obj": "2025-07-31T07:16:01+00:00",
-      "fecha_str": "31-07-2025 07:16 UTC",
+      "titulo": "Steven Knight, réalisateurs des Peaky Blinders, écrira le scénario du prochain James Bond",
+      "link": "https://www.lefigaro.fr/cinema/steven-knight-realisateurs-des-peaky-blinders-ecrira-le-scenario-du-prochain-james-bond-20250801",
+      "fecha_obj": "2025-08-01T07:04:55+00:00",
+      "fecha_str": "01-08-2025 07:04 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Ministra francesa apoya la eliminación de la tasa a billetes de avión, pero critica el oportunismo de Ryanair.",
-      "resumen": "La ministra francesa de Turismo, Nathalie Delattre, aboga por eliminar la tasa de solidaridad sobre billetes de avión, que ha aumentado a 7,4 euros.  Reconoce el impacto negativo en aerolíneas de bajo coste como Ryanair, quien justificó el cierre de tres rutas francesas con esta medida.  Sin embargo, Delattre acusa a Ryanair de oportunismo, sugiriendo que la compañía ya tenía planeado reducir sus operaciones en Francia.  El ministro de Transportes, Philippe Tabarot, también se muestra reticente a mantener el alza de la tasa, buscando una \"pausa\" en la fiscalidad del sector aéreo.  La decisión afecta significativamente al sector low cost y preocupa a la Union des aéroports français, que teme que otras compañías sigan el ejemplo de Ryanair.",
+      "teaser_sentence": "Steven Knight, creador de Peaky Blinders, escribirá el guion de la próxima película de James Bond.",
+      "resumen": "Amazon MGM anunció que Steven Knight, creador de la exitosa serie Peaky Blinders, será el guionista de la próxima película de James Bond. Colaborará con el director Denis Villeneuve.  Tras un acuerdo con los productores históricos, Amazon obtuvo el control creativo de la franquicia.  La elección de Knight, conocido por su trabajo en series como Taboo y See,  genera expectación, aunque aún no se ha anunciado la fecha de estreno, el título ni el nuevo actor que interpretará a 007. La franquicia James Bond ha recaudado más de 7 mil millones de dólares.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia afecta a la industria cinematográfica internacional, involucra a figuras reconocidas globalmente y tiene un gran impacto mediático por el interés generado en torno a la franquicia James Bond."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Nintendo a vendu 5,82 millions de Switch 2 en juin et voit son chiffre d’affaires bondir au premier trimestre",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/nintendo-a-vendu-5-82-millions-de-switch-2-en-juin-et-voit-son-chiffre-d-affaires-bondir-au-premier-trimestre-20250801",
+      "fecha_obj": "2025-08-01T07:19:46+00:00",
+      "fecha_str": "01-08-2025 07:19 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Nintendo Switch 2: ¡5,82 millones de unidades vendidas en junio!",
+      "resumen": "Nintendo ha anunciado unas excelentes cifras para el primer trimestre de su año fiscal. Impulsadas por el lanzamiento de la Switch 2 el 5 de junio, las ventas alcanzaron los 5,82 millones de unidades en ese mes.  Esto ha supuesto un incremento del 132,1% en el volumen de negocio interanual. El beneficio neto del trimestre aumentó un 18,6% hasta los 96.000 millones de yenes (558 millones de euros). A pesar de estos resultados positivos, Nintendo mantiene sus previsiones financieras anuales sin cambios.",
       "relevancia_score": 8,
-      "relevancia_justificacion": "La noticia afecta a una política económica de un país europeo, tiene implicaciones para las aerolíneas internacionales y el turismo, y genera debate a nivel continental."
+      "relevancia_justificacion": "El éxito de lanzamiento de una consola de videojuegos de una empresa multinacional japonesa como Nintendo tiene relevancia internacional por su impacto en el mercado global de videojuegos y la economía."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "F1: Frédéric Vasseur prolonge chez Ferrari, l’annonce surprise",
-      "link": "https://www.lefigaro.fr/sports/formule-1/f1-frederic-vasseur-prolonge-chez-ferrari-l-annonce-surprise-20250731",
-      "fecha_obj": "2025-07-31T07:07:36+00:00",
-      "fecha_str": "31-07-2025 07:07 UTC",
-      "source_name": "Le Figaro"
+      "titulo": "¿Cómo vivimos hoy la masculinidad y la intimidad en Chile? Cinco perfiles que revelan nuestras tensiones y transformaciones",
+      "link": "https://www.ciperchile.cl/2025/07/31/como-vivimos-hoy-la-masculinidad-y-la-intimidad-en-chile-cinco-perfiles-que-revelan-nuestras-tensiones-y-transformaciones/?utm_source=rss&utm_medium=rss&utm_campaign=como-vivimos-hoy-la-masculinidad-y-la-intimidad-en-chile-cinco-perfiles-que-revelan-nuestras-tensiones-y-transformaciones",
+      "fecha_obj": "2025-07-31T08:00:10+00:00",
+      "fecha_str": "31-07-2025 08:00 UTC",
+      "source_name": "CIPER Chile"
     },
     "resumen_datos": {
-      "teaser_sentence": "Vasseur renueva con Ferrari: ¡El jefe de equipo se queda!",
-      "resumen": "Frédéric Vasseur, Team Manager de Ferrari, ha renovado su contrato con la escudería italiana, desmintiendo los rumores de su salida.  La noticia, anunciada a través de un comunicado en redes sociales, sorprendió a muchos, especialmente considerando las especulaciones de la prensa italiana sobre su posible despido al final de la temporada.  Vasseur, que llegó a Ferrari a principios de 2023, expresó su gratitud por la confianza depositada y afirmó que esta renovación representa un desafío para seguir progresando y cumplir los objetivos del equipo.  Ferrari, actualmente segunda en el campeonato de constructores, busca mejorar sus resultados y lograr su primera victoria en la temporada 2025.",
+      "teaser_sentence": "La masculinidad chilena se reconfigura: entre tradición y progreso, ¿qué futuro deseamos?",
+      "resumen": "Un estudio de la encuesta ICSO-UDP 2025 revela cinco perfiles de masculinidad e intimidad en Chile, mostrando una sociedad en transición.  Se identifican grupos progresistas igualitarios, igualitarios moderados, neutrales ambivalentes, conservadores mixtos y tradicionalistas firmes, con diversas posturas sobre equidad de género, derechos reproductivos y consentimiento.  El análisis destaca la interconexión entre visiones de género y preferencias políticas, planteando un debate crucial para la próxima elección presidencial sobre el futuro de la sociedad chilena y la necesidad de un país más justo.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo analiza un tema crucial para la sociedad chilena: la evolución de la masculinidad y su impacto político y social.  La encuesta y sus resultados son relevantes para el debate nacional sobre género, igualdad y el futuro del país."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Municipios y Gobierno Abierto: el desafío que asumen los municipios chilenos con confianza democrática",
+      "link": "https://www.ciperchile.cl/2025/07/31/municipios-y-gobierno-abierto-el-desafio-que-asumen-los-municipios-chilenos-con-confianza-democratica/?utm_source=rss&utm_medium=rss&utm_campaign=municipios-y-gobierno-abierto-el-desafio-que-asumen-los-municipios-chilenos-con-confianza-democratica",
+      "fecha_obj": "2025-07-31T08:00:28+00:00",
+      "fecha_str": "31-07-2025 08:00 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Municipios chilenos lideran el gobierno abierto, fortaleciendo la democracia local con transparencia y participación ciudadana.",
+      "resumen": "El artículo destaca la creciente adhesión de municipios chilenos a la Alianza para el Gobierno Abierto (OGP), impulsando la transparencia, participación ciudadana y rendición de cuentas.  Se presentan ejemplos exitosos como Maipú y Peñalolén, que han implementado planes de acción participativos. La incorporación de San Joaquín, Renca y el GORE Metropolitano en 2024 marca un avance significativo. El texto enfatiza la importancia de este modelo para reconstruir la confianza en lo público y acercar las decisiones a las comunidades,  considerándolo un paso crucial para fortalecer la democracia a nivel local. Se insta al apoyo estatal para expandir esta iniciativa a más municipios.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre una iniciativa que busca fortalecer la democracia a nivel nacional a través de la participación ciudadana y la transparencia en los municipios, impactando directamente en la gestión pública de Chile."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Melipilla: minera y vertedero fueron sancionados por generar problemas ambientales en el sector de Popeta",
+      "link": "https://www.ciperchile.cl/2025/07/31/melipilla-minera-y-vertedero-fueron-sancionados-por-generar-problemas-ambientales-en-el-sector-de-popeta/?utm_source=rss&utm_medium=rss&utm_campaign=melipilla-minera-y-vertedero-fueron-sancionados-por-generar-problemas-ambientales-en-el-sector-de-popeta",
+      "fecha_obj": "2025-07-31T23:48:21+00:00",
+      "fecha_str": "31-07-2025 23:48 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Melipilla enfrenta crisis ambiental: minera y vertedero contaminan Popeta, generando sanciones y protestas vecinales.",
+      "resumen": "La localidad de Popeta, Melipilla, sufre contaminación por un vertedero municipal y una minera de puzolana.  El vertedero, con cierre retrasado desde hace décadas, enfrenta sanciones por incumplimientos sanitarios. La minera Unacem Chile S.A. también fue sancionada por operar sin permisos y sin medidas de mitigación de polvo, afectando la salud de los vecinos.  Vecinos presentaron recursos de protección, denunciando la falta de control ambiental y temiendo convertirse en una 'zona de sacrificio'.  Un nuevo proyecto minero de puzolana de Minera Melón S.A. añade preocupación.",
       "relevancia_score": 8,
-      "relevancia_justificacion": "La noticia afecta a una escudería de Fórmula 1 de renombre internacional, generando interés global en el mundo del deporte motor.  La renovación de un alto cargo dentro de la estructura de un equipo tan importante tiene una repercusión significativa a nivel internacional."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "FES, Trump y autonomía universitaria",
-      "link": "https://www.ciperchile.cl/2025/07/30/fes-trump-y-autonomia-universitaria/?utm_source=rss&utm_medium=rss&utm_campaign=fes-trump-y-autonomia-universitaria",
-      "fecha_obj": "2025-07-30T08:01:47+00:00",
-      "fecha_str": "30-07-2025 08:01 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Debate en Chile: ¿Amenaza el nuevo sistema de financiamiento estatal la autonomía universitaria?",
-      "resumen": "El artículo analiza el debate generado en Chile por el nuevo sistema de financiamiento para la educación superior (FES), que ha suscitado preocupaciones sobre la autonomía universitaria ante una mayor dependencia del Estado.  Se comparan situaciones en otros países donde gobiernos autoritarios han coaccionado la autonomía universitaria, utilizando el financiamiento como herramienta. Si bien en Chile no hay indicios inmediatos de esto, el autor propone elevar la autonomía universitaria a rango constitucional, junto con la libertad de cátedra, para protegerla de futuras intervenciones políticas y garantizar la libertad de pensamiento en las universidades.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata un tema de crucial importancia nacional: el futuro de la educación superior y la autonomía universitaria en Chile, un debate político y social con implicaciones directas en el desarrollo del país."
+      "relevancia_justificacion": "El problema ambiental en Melipilla tiene impacto nacional al mostrar fallas en la gestión de residuos y fiscalización minera, temas relevantes para la política ambiental del país.  El caso ilustra conflictos ambientales recurrentes en zonas rurales y la lucha de comunidades por su salud y medio ambiente."
     },
     "categoria": "nacional"
   },
   {
     "info": {
-      "titulo": "Seguro de Invalidez y Sobrevivencia: una fuente de lucro en el sistema previsional",
-      "link": "https://www.ciperchile.cl/2025/07/30/seguro-de-invalidez-y-sobrevivencia-una-fuente-de-lucro-en-el-sistema-previsional/?utm_source=rss&utm_medium=rss&utm_campaign=seguro-de-invalidez-y-sobrevivencia-una-fuente-de-lucro-en-el-sistema-previsional",
-      "fecha_obj": "2025-07-30T08:00:36+00:00",
-      "fecha_str": "30-07-2025 08:00 UTC",
+      "titulo": "Ruperto Concha: «Cuídese, hay peligro»",
+      "link": "https://www.ciperchile.cl/2025/07/31/ruperto-concha-cuidese-hay-peligro/?utm_source=rss&utm_medium=rss&utm_campaign=ruperto-concha-cuidese-hay-peligro",
+      "fecha_obj": "2025-07-31T15:57:48+00:00",
+      "fecha_str": "31-07-2025 15:57 UTC",
       "source_name": "CIPER Chile"
     },
     "resumen_datos": {
-      "teaser_sentence": "El Seguro de Invalidez y Sobrevivencia en Chile: un negocio millonario a costa de la seguridad social.",
-      "resumen": "El artículo analiza el Seguro de Invalidez y Sobrevivencia (SIS) en Chile, cuestionando su rentabilidad para empresas privadas.  Desde su creación en la dictadura, el SIS ha generado cuantiosas ganancias, con prácticas cuestionables como la concentración del negocio en grupos económicos específicos y comisiones excesivas.  A pesar de regulaciones posteriores y la Reforma de Pensiones de 2025, el artículo argumenta que el SIS sigue siendo un negocio lucrativo, sin cambios estructurales significativos, manteniendo la lógica de negocio por sobre los principios de seguridad social.  Se critica la falta de cambios sustanciales en la reforma, a pesar de las irregularidades e impacto en los afiliados.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata un tema crucial de la política social y económica chilena, la reforma previsional y sus implicaciones directas en la vida de millones de ciudadanos.  El impacto financiero y la crítica al sistema de AFP lo convierten en un tema de relevancia nacional."
+      "teaser_sentence": "Fallece Ruperto Concha, periodista chileno de excelencia, dejando un vacío en el periodismo internacional.",
+      "resumen": "El destacado periodista chileno Ruperto Concha, fallecido el 23 de julio, dedicó más de 30 años a su programa de crónicas internacionales en Radio Bío-Bío.  Concha se caracterizó por su análisis crítico, objetivo y pedagógico, ofreciendo un periodismo de investigación que contrastaba con la superficialidad de muchos medios. Su programa, un oasis de conocimiento geopolítico, se destacaba por su investigación, objetividad y capacidad para contextualizar eventos globales.  Concha cuestionaba narrativas oficiales, ofreciendo perspectivas alternativas sobre China y Rusia, y dejando una profunda huella en el periodismo chileno, donde la especialización y la calidad periodística son cada vez más escasas.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "La noticia trata sobre la muerte de un relevante periodista chileno que marcó la escena nacional con su trabajo. Su influencia en el periodismo y su crítica al estado actual de la profesión son de interés nacional."
     },
     "categoria": "nacional"
   },
   {
     "info": {
-      "titulo": "Tres gendarmes detenidos: el video del homicidio a un recluso en Arica que exhibió fiscalía",
-      "link": "https://www.ciperchile.cl/2025/07/30/tres-gendarmes-detenidos-el-video-del-homicidio-a-un-recluso-en-arica-que-exhibio-fiscalia/?utm_source=rss&utm_medium=rss&utm_campaign=tres-gendarmes-detenidos-el-video-del-homicidio-a-un-recluso-en-arica-que-exhibio-fiscalia",
-      "fecha_obj": "2025-07-31T02:22:40+00:00",
-      "fecha_str": "31-07-2025 02:22 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Gendarmes formalizados por homicidio de recluso en Arica; video clave en la investigación.",
-      "resumen": "Tres gendarmes del Complejo Penitenciario de Acha en Arica fueron formalizados por el homicidio del recluso Cristian Díaz.  Un video de seguridad mostró cómo los gendarmes facilitaron el crimen, permitiendo que Jordan Mejías, el homicida, ingresara con un cuchillo al patio y atacara a Díaz.  A pesar de que la fiscalía mostró el video como prueba y solicitó prisión preventiva, el tribunal la rechazó, aunque los gendarmes permanecen detenidos mientras se resuelve la apelación. El video muestra también cómo los gendarmes obligaron a Díaz a salir al patio a pesar de sus temores. La investigación continuará por 60 días.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "La noticia involucra a funcionarios públicos en un crimen violento dentro de una cárcel, lo que genera gran interés público a nivel nacional.  La formalización de gendarmes y la evidencia de un video implican una falla en el sistema penitenciario, tema relevante para la sociedad chilena."
-    },
-    "categoria": "nacional"
-  },
-  {
-    "info": {
-      "titulo": "Estas son las imágenes que vinculan a tres gendarmes con el homicidio de un recluso en la cárcel de Arica",
-      "link": "https://www.ciperchile.cl/2025/07/30/estas-son-las-imagenes-que-vinculan-a-tres-gendarmes-con-el-homicidio-de-un-recluso-en-la-carcel-de-arica/?utm_source=rss&utm_medium=rss&utm_campaign=estas-son-las-imagenes-que-vinculan-a-tres-gendarmes-con-el-homicidio-de-un-recluso-en-la-carcel-de-arica",
-      "fecha_obj": "2025-07-30T21:58:15+00:00",
-      "fecha_str": "30-07-2025 21:58 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Tres gendarmes detenidos por facilitar el homicidio de un recluso en la cárcel de Arica.",
-      "resumen": "Tres gendarmes fueron detenidos por su presunta participación en el asesinato de Cristian Díaz en la cárcel de Arica.  La fiscalía acusa a los gendarmes de facilitar el crimen al no revisar al asesino, Jordan Mejías, antes de permitir el acceso al patio, obligar a Díaz a salir y manipular las cámaras de seguridad para evitar grabar el homicidio.  Las pruebas incluyen 43 fotografías de las cámaras de vigilancia que reconstruyen la escena.  El móvil del crimen se presume como una demostración de poder dentro de la cárcel.  Este caso se suma a otras preocupaciones sobre fallas estructurales y la colaboración entre Gendarmería y el crimen organizado.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El caso involucra a funcionarios públicos, un homicidio, fallas en el sistema penitenciario y posibles vínculos con el crimen organizado, temas de gran interés nacional."
-    },
-    "categoria": "nacional"
-  },
-  {
-    "info": {
-      "titulo": "Conapran tiene 18 propiedades que no destina al cuidado del adulto mayor: están inutilizadas, en arriendo o en venta",
-      "link": "https://www.ciperchile.cl/2025/07/30/conapran-tiene-18-propiedades-que-no-destina-al-cuidado-del-adulto-mayor-estan-inutilizadas-en-arriendo-o-en-venta/?utm_source=rss&utm_medium=rss&utm_campaign=conapran-tiene-18-propiedades-que-no-destina-al-cuidado-del-adulto-mayor-estan-inutilizadas-en-arriendo-o-en-venta",
-      "fecha_obj": "2025-07-30T18:54:09+00:00",
-      "fecha_str": "30-07-2025 18:54 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Conapran, entidad estatal para adultos mayores, cierra hogares y vende propiedades pese a millonario patrimonio inmobiliario.",
-      "resumen": "Conapran, fundada en dictadura, cerró 10 de 12 hogares para adultos mayores tras un recorte presupuestario del 69% por parte de Senama.  Pese a poseer 23 propiedades con un avalúo fiscal superior a $10 mil millones, solo 5 se destinan al cuidado de adultos mayores.  El artículo investiga el manejo de su patrimonio inmobiliario, incluyendo ventas de propiedades recibidas del Estado, y cuestiona la falta de transparencia en la gestión de fondos públicos recibidos durante décadas.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo aborda una problemática nacional sobre la gestión de recursos públicos y el cuidado de adultos mayores, involucrando a una institución con historia ligada a la dictadura y con cuestionamientos sobre su transparencia.  El impacto del cierre de hogares y la venta de propiedades tiene relevancia nacional."
-    },
-    "categoria": "nacional"
-  },
-  {
-    "info": {
-      "titulo": "This trade deal is the EU’s Suez moment – its subservience to Trump is on show for all to see | Larry Elliott",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/31/this-trade-deal-is-the-eus-suez-moment-its-subservience-to-trump-is-on-show-for-all-to-see",
-      "fecha_obj": "2025-07-31T07:00:41+00:00",
-      "fecha_str": "31-07-2025 07:00 UTC",
+      "titulo": "Reform’s tales of wasteland Britain won’t work. There’s a far larger market for hope | Gaby Hinsliff",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/01/reform-wasteland-britain-left-hope-abundance-optimistic",
+      "fecha_obj": "2025-08-01T07:00:17+00:00",
+      "fecha_str": "01-08-2025 07:00 UTC",
       "source_name": "The Guardian Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "El acuerdo comercial entre la UE y EEUU: ¿una humillante capitulación europea o una necesaria paz?",
-      "resumen": "El artículo analiza el reciente acuerdo comercial entre la UE y EEUU, calificándolo como un 'momento Suez' para Europa.  Se critica la falta de reciprocidad, con la UE haciendo importantes concesiones (tarifas, inversiones, compras de energía y armamento) sin obtener beneficios equivalentes.  El autor argumenta que este acuerdo demuestra la debilidad económica y geopolítica de la UE frente a EEUU, contrastándola con la postura más firme de China ante presiones similares de Trump.  Se destaca la dependencia europea del mercado estadounidense y la necesidad de cooperación en materia de seguridad, lo que explica la aceptación del acuerdo a pesar de su carácter desfavorable.  La reacción francesa, calificándolo de 'día negro' para Europa, refleja la controversia generada.",
+      "teaser_sentence": "La esperanza vende más que el pesimismo: ¿puede la izquierda británica abrazar la abundancia para ganar?",
+      "resumen": "El artículo analiza el libro \"Abundance\", que propone un enfoque pro-crecimiento para la izquierda, contrastándolo con el discurso pesimista de la derecha.  Se argumenta que la abundancia genera optimismo y generosidad, mientras que la escasez fomenta el egoísmo.  Si bien el libro idealiza la tecnología, su mensaje central – construir vivienda asequible y energía limpia – resuena con la agenda laborista. El artículo concluye que la izquierda debe adoptar un discurso esperanzador para conectar con el electorado, en lugar de caer en el catastrofismo.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre un tema de actualidad geopolítica y económica, analizando las implicaciones del acuerdo comercial entre la UE y EEUU.  Su estructura, con tesis, argumentos y ejemplos, lo clasifica claramente como un ensayo de opinión."
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza un libro de ideas políticas y su relevancia para el panorama político británico.  Expresa una opinión argumentada sobre la estrategia política y el discurso de izquierda, basándose en un análisis de un texto y la situación política actual."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "Critics say Starmer is no Attlee – and they’re right. Labour must look to the future, not the past | Martin Kettle",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/31/starmer-no-attlee-labour-future-not-past-labour-leaders-in-shadow",
-      "fecha_obj": "2025-07-31T05:00:39+00:00",
-      "fecha_str": "31-07-2025 05:00 UTC",
+      "titulo": "Millennial women were told to chase our dreams. That’s left us burnt out, broke and dreaming of a rich patron | Carolin Würfel",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/01/millennial-women-work-broke-rich-boomer",
+      "fecha_obj": "2025-08-01T04:00:16+00:00",
+      "fecha_str": "01-08-2025 04:00 UTC",
       "source_name": "The Guardian Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Starmer y Attlee: líderes laboristas en tiempos distintos, ¿se puede comparar su legado?",
-      "resumen": "El artículo compara a Keir Starmer con Clement Attlee, ambos líderes laboristas, pero en contextos históricos muy diferentes.  Si bien ambos comparten ciertas características como la modestia y la capacidad de liderazgo en crisis, el autor argumenta que la comparación es engañosa.  Las circunstancias de la posguerra de Attlee (una Gran Bretaña devastada por la guerra y con un imperio en declive) difieren radicalmente de la Gran Bretaña digital del siglo XXI.  El autor destaca los logros de Attlee, pero advierte contra la idealización del pasado, enfatizando que Starmer debe navegar un contexto político completamente distinto.  La comparación, aunque tentadora, es finalmente infructuosa.",
+      "teaser_sentence": "Millennials, engañadas con la promesa de 'sigue tu pasión', enfrentan la realidad de la precariedad económica.",
+      "resumen": "Carolin Würfel, millennial, reflexiona sobre la inseguridad económica que afecta a su generación, especialmente a las mujeres.  Critica la narrativa que promueve seguir la pasión sin considerar la estabilidad financiera, contrastando la situación de las mujeres freelancers con la de sus pares masculinos con empleos estables.  Würfel expone cómo el sistema se beneficia de la flexibilidad y el trabajo no remunerado de las mujeres, dejándolas en una situación vulnerable.  La autora concluye que la única red de seguridad para muchas mujeres parece ser una pareja adinerada, aunque ella misma anhela un sistema que valore el trabajo de las mujeres y promueva la alfabetización financiera.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza y compara a dos figuras políticas, ofreciendo una perspectiva crítica sobre la pertinencia de las comparaciones históricas en la política contemporánea.  Su estructura argumentativa, análisis profundo y conclusión bien fundamentada lo hacen un claro ejemplo del género."
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre un tema social relevante: la precariedad económica de las mujeres millennials.  Utiliza ejemplos personales y datos para respaldar su postura, lo que lo convierte en un ensayo de opinión bien estructurado y convincente."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "The Helsinki accord was a masterpiece of European diplomacy. Fifty years on, we need its spirit more than ever | Kai Hebel and Richard Davy",
-      "link": "https://www.theguardian.com/commentisfree/2025/jul/31/helsinki-accord-masterpiece-european-diplomacy-fifty-years-need-spirit-more-ever",
-      "fecha_obj": "2025-07-31T04:00:38+00:00",
-      "fecha_str": "31-07-2025 04:00 UTC",
-      "source_name": "The Guardian Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "A 50 años del Acta Final de Helsinki, su espíritu de paz y cooperación es más necesario que nunca para solucionar el conflicto en Ucrania.",
-      "resumen": "El artículo conmemora el 50 aniversario del Acta Final de Helsinki, un acuerdo que, a pesar de las limitaciones impuestas por la URSS, sentó las bases para la cooperación y el respeto a los derechos humanos en Europa.  Los autores destacan el 'efecto Helsinki', donde la presión internacional sobre el respeto a los derechos humanos contribuyó a debilitar la Unión Soviética y facilitar el fin de la Guerra Fría.  Si bien la actual situación con Rusia es diferente y la OSCE ha sido debilitada, los autores argumentan que esta organización, heredera del Acta de Helsinki, conserva un papel crucial en la búsqueda de la paz en Ucrania, promoviendo la cooperación y el respeto al derecho internacional.  La celebración del aniversario en Helsinki sirve como un llamado a revitalizar el espíritu del acuerdo y a utilizar la OSCE como herramienta para la resolución pacífica del conflicto.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo presenta una opinión fundamentada sobre la importancia histórica del Acta de Helsinki y su relevancia actual en el contexto de la guerra en Ucrania.  Analiza el pasado, el presente y propone una visión para el futuro, lo que lo convierte en un ensayo de opinión completo y bien argumentado."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "Trump Wants You to Believe Climate Change Isn’t Dangerous",
-      "link": "https://www.nytimes.com/2025/07/30/opinion/climate-change-regulations-epa.html",
-      "fecha_obj": "2025-07-30T23:50:03+00:00",
-      "fecha_str": "30-07-2025 23:50 UTC",
+      "titulo": "Netanyahu Is Choosing to Starve Gaza",
+      "link": "https://www.nytimes.com/2025/08/01/opinion/gaza-israel-famine-starvation.html",
+      "fecha_obj": "2025-08-01T06:12:05+00:00",
+      "fecha_str": "01-08-2025 06:12 UTC",
       "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "La administración Trump busca desmantelar regulaciones climáticas, ignorando los peligros evidentes del cambio climático.",
-      "resumen": "La administración Trump propone revocar la determinación de que la contaminación del aire causa daño, específicamente eliminando el cambio climático como factor de daño.  Esta acción busca deshacer regulaciones ambientales y contradice la evidencia científica sobre los impactos mortales del cambio climático, incluyendo aumento de muertes por calor extremo, desastres naturales intensificados y un incremento en la violencia.  El artículo argumenta que el cambio climático acortará la vida de millones de estadounidenses y exacerbará problemas sociales, como la violencia doméstica y las agresiones sexuales, debido al aumento de las temperaturas.",
+      "teaser_sentence": "El bloqueo de Israel a Gaza provoca una hambruna inminente, con consecuencias devastadoras para la población.",
+      "resumen": "El artículo denuncia la situación crítica de hambruna en Gaza, atribuyéndola al bloqueo impuesto por Israel desde marzo de 2024.  Organismos internacionales han advertido repetidamente sobre el riesgo de hambruna, alertando sobre el colapso social inminente.  La restricción de ayuda humanitaria por parte de Israel, basada en acusaciones no verificadas de robo de alimentos por parte de Hamas, agrava la crisis alimentaria.  Expertos advierten sobre daños físicos y cognitivos irreversibles en niños, además de un aumento de la violencia y el terrorismo como consecuencia del hambre y la desesperación.  La situación se considera una catástrofe previsible y evitable.",
       "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta una opinión clara sobre las políticas climáticas de la administración Trump y su impacto, respaldada por evidencia científica.  Su tono es argumentativo y analiza las consecuencias de dichas políticas, lo que lo hace adecuado para un ensayo de opinión."
+      "relevancia_justificacion": "El artículo presenta una opinión contundente sobre la responsabilidad de Israel en la crisis humanitaria de Gaza, argumentando con datos y ejemplos.  Su naturaleza analítica y la expresión de una postura clara lo hacen altamente relevante para la categoría 'Opinión Ensayo'."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "Why the Right Is Obsessed With Thinness",
-      "link": "https://www.nytimes.com/2025/07/30/opinion/christian-influencers-diet-culture-women.html",
-      "fecha_obj": "2025-07-30T23:00:09+00:00",
-      "fecha_str": "30-07-2025 23:00 UTC",
+      "titulo": "Despite the chaos of its launch, Jeremy Corbyn and Zarah Sultana’s new party has struck a nerve | Andy Beckett",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/01/jeremy-corbyn-zarah-sultana-new-party-launch-radical",
+      "fecha_obj": "2025-08-01T05:00:15+00:00",
+      "fecha_str": "01-08-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Nuevo partido de Corbyn y Sultana: ¿caos o revolución de la izquierda británica?",
+      "resumen": "El nuevo partido de izquierda de Jeremy Corbyn y Zarah Sultana, a pesar de un lanzamiento caótico, ha generado un gran interés, con más de 600.000 personas registradas.  Aunque criticado por su falta de organización y dependencia de Corbyn, el partido ha conectado con la insatisfacción hacia el Labour y el gobierno conservador.  Su éxito dependerá de la capacidad de unir diferentes generaciones de la izquierda, desarrollar políticas atractivas y evitar ser utilizado para beneficiar a partidos de derecha como Reform UK. A pesar de sus defectos, el partido representa una amenaza real para el statu quo político británico.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta un análisis opinativo sobre el impacto y el futuro de un nuevo partido político, ofreciendo argumentos y perspectivas sobre su relevancia en el contexto político actual.  Su análisis va más allá de la mera descripción de hechos, ofreciendo una evaluación crítica y reflexiva."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "‘The High Road’s Not Available to Us’: Texas Democrats Have Had Enough",
+      "link": "https://www.nytimes.com/2025/07/31/opinion/texas-redistricting-democrats.html",
+      "fecha_obj": "2025-08-01T00:17:22+00:00",
+      "fecha_str": "01-08-2025 00:17 UTC",
       "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "La obsesión con la delgadez en la derecha se explica a través de la búsqueda de directrices morales en la alimentación, similar a la religiosidad.",
-      "resumen": "El artículo explora la conexión entre la obsesión por la delgadez y la religión, particularmente en la cultura estadounidense.  A través de la experiencia personal del autor en un campamento de pérdida de peso durante el Ramadán en Pakistán, se observa cómo la disciplina religiosa se aplica a la restricción calórica.  Se argumenta que la confusión en torno a la alimentación moderna y la desconfianza en la información nutricional hacen que las directrices religiosas sobre la alimentación sean atractivas para algunos, ofreciendo un marco moral simplificado para las decisiones dietéticas.  La comparación entre la experiencia del Ramadán y la influencia de dietas con base religiosa en Estados Unidos resalta la búsqueda de guía moral en un ámbito complejo como la alimentación.",
+      "teaser_sentence": "Los demócratas de Texas abandonan la estrategia pasiva ante el avance de Trump.",
+      "resumen": "El artículo analiza la creciente frustración de los demócratas de Texas ante la administración Trump, ejemplificada por la controversia sobre la redistribución de distritos.  Líderes demócratas como Beto O'Rourke y Gene Wu abogan por una postura más ofensiva, abandonando la estrategia defensiva que consideran ineficaz.  La situación en Texas se presenta como una prueba crucial para el partido demócrata a nivel nacional, que busca una forma efectiva de contrarrestar lo que consideran un asalto a la democracia.  El artículo cuestiona si este conflicto será un punto de inflexión en la estrategia del partido frente a un gobierno que ignora las reglas.",
       "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la relación entre la cultura de la dieta, la religión y la búsqueda de identidad en la sociedad moderna.  La experiencia personal y la comparación cultural lo hacen adecuado para un ensayo de opinión."
+      "relevancia_justificacion": "El artículo presenta una opinión clara sobre la estrategia política del partido demócrata frente a la administración Trump, analizando un caso específico y sus implicaciones a nivel nacional.  Su estructura argumentativa y análisis de una situación política actual lo hacen adecuado para la categoría de 'Opinión Ensayo'."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "Mark Zuckerberg Details Meta’s Plan for Self-Improving, Superintelligent AI",
-      "link": "https://www.wired.com/story/meta-earnings-superintelligence-q2-2025/",
-      "fecha_obj": "2025-07-30T23:41:40+00:00",
-      "fecha_str": "30-07-2025 23:41 UTC",
+      "titulo": "Samsung Promo Codes: 30% Off | August 2025",
+      "link": "https://www.wired.com/story/samsung-promo-codes/",
+      "fecha_obj": "2025-08-01T05:00:00+00:00",
+      "fecha_str": "01-08-2025 05:00 UTC",
       "source_name": "Wired"
     },
     "resumen_datos": {
-      "teaser_sentence": "Meta apuesta a la superinteligencia artificial para liderar la industria tecnológica.",
-      "resumen": "Mark Zuckerberg anunció los planes de Meta para desarrollar una superinteligencia artificial capaz de automejorarse, compitiendo con gigantes como OpenAI y Google DeepMind.  Meta Superintelligence Labs,  liderado por Shengjia Zhao,  contrata a expertos con paquetes millonarios.  La estrategia incluye el desarrollo de 'superinteligencia personal' para empoderar a los usuarios,  y la integración con sus gafas inteligentes.  A pesar de la gran inversión (69 mil millones de dólares en gastos de capital), Meta prevé un tercer trimestre exitoso.",
+      "teaser_sentence": "Ahorra hasta un 40% en productos Samsung: ¡Ofertas imperdibles en smartphones, TVs y electrodomésticos!",
+      "resumen": "El artículo detalla las promociones de Samsung, incluyendo descuentos de hasta un 30% para empleados del gobierno, militares y educadores.  Se ofrecen rebajas significativas en smartphones Galaxy (S25, Z Fold7, Z Flip7), TVs (QLED, Frame), y electrodomésticos Bespoke (refrigeradores, hornos).  Hay descuentos adicionales por canjes, compras combinadas y registro al newsletter.  Se mencionan ofertas especiales, envío rápido y programas de reciclaje.  El artículo también incluye información sobre los últimos lanzamientos de Samsung y consejos para aprovechar al máximo los productos.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata directamente sobre los avances de Meta en inteligencia artificial, un tema central en ciencia y tecnología.  La inversión multimillonaria, la contratación de expertos y la ambiciosa meta de crear una superinteligencia artificial lo hacen altamente relevante para esta categoría."
+      "relevancia_justificacion": "El artículo se centra en productos tecnológicos de Samsung, incluyendo smartphones, televisores y electrodomésticos inteligentes, lo cual es altamente relevante para la categoría 'Ciencia y Tecnología'."
     },
     "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "Vous ne devriez pas regarder votre smartphone en mangeant, voici pourquoi",
-      "link": "https://www.sciencesetavenir.fr/nutrition/vous-ne-devriez-pas-regarder-votre-smartphone-en-mangeant-voici-pourquoi_187409?xtor=RSS-28",
-      "fecha_obj": "2025-07-31T06:00:00+00:00",
-      "fecha_str": "31-07-2025 06:00 UTC",
-      "source_name": "Sciences et Avenir"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Distracciones al comer borran el recuerdo de la saciedad, llevando a comer en exceso.",
-      "resumen": "Estudios recientes revelan que las distracciones como mirar el teléfono mientras se come, impiden que el cerebro registre adecuadamente la ingesta de alimentos.  Investigaciones en ratas muestran que el hipocampo, responsable de la memoria, se activa durante la comida, creando 'engramas' que registran cuándo y dónde se comió.  Bloquear estos procesos neuronalmente causa que los ratones coman más frecuentemente.  En humanos, una meta-análisis confirma que las distracciones, especialmente en mujeres, llevan a consumir porciones más grandes.  La conclusión es que recordar lo que se comió y cuándo es crucial para una alimentación equilibrada.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta hallazgos científicos sobre la neurociencia de la alimentación y la influencia de la tecnología (distracciones de pantallas) en los hábitos alimenticios.  La investigación es relevante por su impacto en la salud y el uso de la tecnología."
-    },
-    "categoria": "ciencia_tecnologia"
-  },
-  {
-    "info": {
-      "titulo": "How allergens make us cough and weeze — by poking holes in airway cells",
-      "link": "https://www.nature.com/articles/d41586-025-02432-x",
-      "fecha_obj": "2025-07-31T00:00:00+00:00",
-      "fecha_str": "31-07-2025 00:00 UTC",
-      "source_name": "Nature News"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Proteínas en alérgenos crean poros en células respiratorias, desencadenando reacciones alérgicas.",
-      "resumen": "Un estudio publicado en Nature revela que ciertas proteínas en alérgenos, como las encontradas en el moho Alternaria alternata (Aeg-S y Aeg-L), forman poros en las membranas celulares de las vías respiratorias.  Esto permite la entrada de iones de calcio, activando la respuesta inmune y causando inflamación.  Experimentos con células pulmonares y ratones demostraron que la administración simultánea de ambas proteínas reproduce la respuesta alérgica, mientras que la administración individual no lo hace.  Este descubrimiento desafía la comprensión actual de las alergias y abre nuevas vías para tratamientos que se centren en bloquear la formación de poros.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta un descubrimiento científico significativo sobre el mecanismo de las reacciones alérgicas, con implicaciones para el desarrollo de nuevos tratamientos.  Se basa en investigación experimental y sus hallazgos son relevantes para la ciencia biomédica y la tecnología médica."
-    },
-    "categoria": "ciencia_tecnologia"
-  },
-  {
-    "info": {
-      "titulo": "Top Verizon Promo Codes & Deals | August 2025",
-      "link": "https://www.wired.com/story/verizon-promo-code/",
-      "fecha_obj": "2025-07-31T05:00:00+00:00",
-      "fecha_str": "31-07-2025 05:00 UTC",
+      "titulo": "Canon Promo Codes: 10% Off | August 2025",
+      "link": "https://www.wired.com/story/canon-promo-code/",
+      "fecha_obj": "2025-08-01T05:30:00+00:00",
+      "fecha_str": "01-08-2025 05:30 UTC",
       "source_name": "Wired"
     },
     "resumen_datos": {
-      "teaser_sentence": "Verizon ofrece grandes descuentos en teléfonos, planes y servicios de internet, ¡ahorra hasta $1100!",
-      "resumen": "El artículo detalla las promociones de Verizon para agosto de 2025, incluyendo descuentos de hasta $1100 en smartphones (iPhone, Samsung, Google Pixel) al adquirir un plan ilimitado y canjear un teléfono usado.  Se ofrecen planes desde $5 al mes con teléfonos gratis o a bajo costo,  además de ofertas en bundles con servicios de streaming y descuentos para estudiantes, militares y personal de salud.  También destaca la oferta de internet para el hogar con precios competitivos y descuentos en bundles.  Verizon promociona su amplia cobertura 4G LTE y la expansión de su red 5G.",
+      "teaser_sentence": "Canon ofrece grandes descuentos en cámaras, lentes, impresoras y más; ¡aprovecha las ofertas!",
+      "resumen": "El artículo detalla las promociones de Canon en agosto de 2025, incluyendo descuentos significativos en cámaras EOS R3, R5 C, R6 Mark II y R10, así como en lentes, impresoras y consumibles.  Se destacan ofertas especiales para profesionales y estudiantes a través del programa Canon Professional Service, con descuentos del 10% al 30% y beneficios adicionales. También se promueven descuentos en equipos reacondicionados certificados con garantía.  Canon ofrece envío gratuito en muchos productos y organiza sus ofertas por categorías para facilitar la búsqueda de descuentos.",
       "relevancia_score": 8,
-      "relevancia_justificacion": "El artículo trata sobre ofertas de una empresa de telecomunicaciones,  un sector fuertemente ligado a la tecnología.  La mención de smartphones,  internet de alta velocidad,  inteligencia artificial (AI) y  la cobertura de red 5G lo relaciona directamente con avances tecnológicos y su impacto en el consumidor."
+      "relevancia_justificacion": "El artículo se centra en productos tecnológicos (cámaras, impresoras) y sus promociones, lo que lo relaciona directamente con la categoría.  La información sobre descuentos y programas de fidelización también es relevante para el público interesado en tecnología."
     },
     "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "Therabody Promo Code: 15% Off | August 2025",
-      "link": "https://www.wired.com/story/therabody-promo-code/",
-      "fecha_obj": "2025-07-31T05:00:00+00:00",
-      "fecha_str": "31-07-2025 05:00 UTC",
+      "titulo": "Surfshark Promo Codes: 87% Off | August 2025",
+      "link": "https://www.wired.com/story/surfshark-coupon/",
+      "fecha_obj": "2025-08-01T05:00:00+00:00",
+      "fecha_str": "01-08-2025 05:00 UTC",
       "source_name": "Wired"
     },
     "resumen_datos": {
-      "teaser_sentence": "Ahorra hasta un 20% en productos Therabody: ¡códigos promocionales, ofertas y descuentos disponibles!",
-      "resumen": "El artículo detalla las diversas maneras de obtener descuentos en productos Therabody, como suscripciones a email y mensajes de texto para obtener códigos de descuento del 10% y 15%, respectivamente.  También menciona ofertas especiales para militares, estudiantes y trabajadores de la salud, con descuentos de hasta un 20%. Se destacan descuentos adicionales en la sección de outlet (hasta 30%), ofertas por temporada (Black Friday, Cyber Monday, etc.) y promociones en bundles.  Se mencionan productos específicos con descuentos, como TheraFace Pro y Theragun Prime Plus. El artículo enfatiza la posibilidad de ahorrar en productos para el bienestar corporal.",
-      "relevancia_score": 3,
-      "relevancia_justificacion": "Si bien Therabody utiliza tecnología en sus productos, el artículo se centra principalmente en las promociones y ofertas comerciales, no en los avances tecnológicos o científicos de la marca. La relevancia es baja en cuanto a ciencia y tecnología, siendo más relevante para el ámbito del marketing y las ventas."
+      "teaser_sentence": "Surfshark: ¡Ahorra hasta un 87% en tu VPN, 3 meses gratis y prueba de 30 días!",
+      "resumen": "El artículo promociona Surfshark VPN, destacando sus descuentos de hasta el 87% en planes de 1 y 2 años, con 3 meses adicionales gratuitos.  Se ofrecen diferentes planes: Starter, Surfshark One y Surfshark One+, cada uno con características adicionales como bloqueadores de anuncios, antivirus y alertas de seguridad.  Menciona velocidades rápidas, compatibilidad con streaming HD, una garantía de reembolso de 30 días y un programa de referidos que ofrece recompensas en efectivo o meses gratis.  También incluye descuentos especiales para estudiantes.  En resumen, el artículo busca atraer nuevos usuarios con ofertas atractivas y la promesa de una VPN segura y veloz.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo trata sobre una VPN, un servicio relacionado con la tecnología y la seguridad en internet.  Aunque no presenta avances científicos, su relevancia radica en la descripción de un producto tecnológico y sus características, lo que lo hace relevante para la categoría."
     },
     "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "‘Everybody was fondling underwater!’: an oral history of the Rocky Horror Picture Show at 50",
-      "link": "https://www.theguardian.com/film/2025/jul/31/the-rocky-horror-picture-show-at-50-an-oral-history",
-      "fecha_obj": "2025-07-31T04:00:38+00:00",
-      "fecha_str": "31-07-2025 04:00 UTC",
+      "titulo": "The enduring brilliance of Peter Sellers: ‘There’s never been a better comic actor’",
+      "link": "https://www.theguardian.com/film/2025/aug/01/peter-sellers-remembered-100-anniversary",
+      "fecha_obj": "2025-08-01T07:00:18+00:00",
+      "fecha_str": "01-08-2025 07:00 UTC",
       "source_name": "The Guardian Culture"
     },
     "resumen_datos": {
-      "teaser_sentence": "50 años desafiando convenciones: la historia oral de 'Rocky Horror' revela su legado cultural.",
-      "resumen": "El artículo conmemora el 50 aniversario de 'The Rocky Horror Picture Show', explorando su improbable ascenso como fenómeno de culto.  Desde su estreno fallido en 1975, la película, con su peculiar mezcla de ciencia ficción, horror y extravagancia, encontró su público en proyecciones nocturnas.  Las participaciones activas del público, el vestuario, y la temática LGBTQ+ inclusiva la convirtieron en un espacio seguro y un referente cultural.  El artículo incluye entrevistas con el elenco y equipo, describiendo la producción desafiante, el fracaso inicial y el posterior éxito inesperado gracias a la respuesta entusiasta de los fans, especialmente la comunidad LGBTQ+, que encontraron en la película una forma de expresión y pertenencia.",
+      "teaser_sentence": "Peter Sellers: un genio de la comedia cuyo talento sigue brillando décadas después.",
+      "resumen": "El artículo explora la vida y carrera de Peter Sellers a través de los recuerdos de actores, directores y otros personajes que lo conocieron.  Se destaca su versatilidad, su capacidad para crear personajes inolvidables y su precisión cómica.  Si bien se menciona su complejidad personal y las dificultades en algunas etapas de su carrera, el texto celebra su innegable talento y su legado como uno de los mejores actores cómicos de la historia. Se mencionan películas clave como 'Dr. Strangelove', 'The Pink Panther' y 'Being There', resaltando la evolución de su estilo y la admiración que generó en sus contemporáneos y generaciones posteriores.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo analiza a fondo un hito cinematográfico clave en la cultura popular, su impacto en la comunidad LGBTQ+, y su perdurable influencia en el cine y el teatro.  La información proporcionada es relevante para la categoría 'Cultura Arte' por su enfoque en la historia del cine, la cultura popular, y las artes escénicas."
+      "relevancia_justificacion": "El artículo analiza la vida y obra de una figura clave en la historia del cine y la comedia, aportando información relevante sobre su impacto cultural y artístico."
     },
     "categoria": "cultura_arte"
   },
   {
     "info": {
-      "titulo": "Darío Lopérfido estrena ciclo de diálogos sobre libertad y cultura mientras lucha contra su afección",
-      "link": "https://www.clarin.com/cultura/dario-loperfido-estrena-ciclo-dialogos-libertad-cultura-lucha-afeccion_0_15o0kjKRpe.html",
-      "fecha_obj": "2025-07-30T22:25:46+00:00",
-      "fecha_str": "30-07-2025 22:25 UTC",
-      "source_name": "Revista Ñ – Clarín Cultura"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Darío Lopérfido, diagnosticado con ELA, estrena un ciclo de entrevistas sobre libertad y cultura.",
-      "resumen": "Darío Lopérfido, exsecretario de Cultura argentino, presenta \"El hombre rebelde\", un ciclo de cinco entrevistas con figuras como Cayetana Álvarez de Toledo y Martín Caparrós, también afectado por ELA.  Grabado en Madrid, el ciclo explora la libertad de expresión y el rol de la cultura ante desafíos políticos. Lopérfido, quien reflexiona sobre su enfermedad y su trayectoria política,  discute temas como la cantidad de desaparecidos durante la dictadura argentina y la situación política actual en Argentina y otros países.  El proyecto, producido por Non Stop, se estrena en Flow (on demand).",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "El artículo se centra en un ciclo de entrevistas que explora la cultura y la libertad de expresión, temas centrales de la categoría 'Cultura Arte'.  La enfermedad del entrevistador añade un elemento humano, pero el foco principal sigue siendo el contenido cultural del ciclo de entrevistas."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "How My Museum’s Celebration of America’s 250th Birthday Got Complicated",
-      "link": "https://hyperallergic.com/1030987/how-my-museums-celebration-of-americas-250th-birthday-got-complicated-new-york-historical-society/",
-      "fecha_obj": "2025-07-30T21:43:15+00:00",
-      "fecha_str": "30-07-2025 21:43 UTC",
-      "source_name": "Hyperallergic"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Celebrar el 250 aniversario de EE. UU. resulta complicado, pero la esperanza persiste en la unidad nacional.",
-      "resumen": "El New York Historical Museum enfrenta desafíos al organizar una celebración del 250 aniversario de Estados Unidos en 2026.  La falta de fondos, la polarización política y las restricciones de plataformas digitales dificultan la iniciativa \"OnOur250th.org\", que busca recopilar mensajes de ciudadanos. A pesar de las adversidades, la respuesta del público ha sido abrumadoramente positiva, con mensajes inspiradores que enfatizan la unidad, la igualdad y la oportunidad.  El autor contrasta la dificultad de la iniciativa con una experiencia personal optimista en una celebración comunitaria, mostrando que la esperanza por una unión más perfecta aún persiste.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "El artículo trata sobre la organización de un evento cultural con implicaciones históricas y sociales.  La iniciativa del museo, la respuesta del público y la reflexión sobre el significado de la celebración son relevantes para la categoría 'Cultura Arte', aunque el enfoque principal no es estrictamente artístico."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "TV tonight: Richard Flood returns in New Zealand thriller The Gone",
-      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/31/tv-tonight-richard-flood-the-gone-queen-victoria",
-      "fecha_obj": "2025-07-31T05:20:39+00:00",
-      "fecha_str": "31-07-2025 05:20 UTC",
+      "titulo": "DJ K: Radio Libertadora! review – explosive freedom and skilful cacophony",
+      "link": "https://www.theguardian.com/music/2025/aug/01/dj-k-radio-libertadora-review-nyege-nyege-tapes",
+      "fecha_obj": "2025-08-01T07:00:18+00:00",
+      "fecha_str": "01-08-2025 07:00 UTC",
       "source_name": "The Guardian Culture"
     },
     "resumen_datos": {
-      "teaser_sentence": "Esta noche en TV: thrillers, rescates dramáticos y la posible hija secreta de la Reina Victoria.",
-      "resumen": "La programación televisiva de esta noche ofrece una variedad de opciones.  'The Gone' continúa con el detective Theo Richter investigando la desaparición de una periodista en Nueva Zelanda.  'Dragons' Den' presenta nuevos emprendimientos, mientras 'Saving Lives at Sea' muestra rescates dramáticos en el mar.  'Tom Kerridge Cooks Spain' explora la gastronomía española, y 'Queen Victoria: Secret Marriage, Secret Child?' investiga una posible hija ilegítima de la reina. Finalmente, 'Mr Bigstuff' presenta una nueva entrega de comedia.",
-      "relevancia_score": 3,
-      "relevancia_justificacion": "Si bien el programa sobre la Reina Victoria podría tener un ligero vínculo con la historia, la mayoría de los programas se centran en otros géneros como el crimen, la cocina y la comedia, con poca relevancia para la categoría 'Cultura Arte'."
+      "teaser_sentence": "DJ K's \"Radio Libertadora!\" es una explosiva mezcla de baile funk y brujería sonora que desafía la criminalización de las fiestas callejeras.",
+      "resumen": "El álbum debut de DJ K, \"Radio Libertadora!\" es una cacofonía de sonidos que fusiona el baile funk con elementos de rave, techno y sonidos industriales. Inspirado en las fiestas callejeras de las favelas de São Paulo y en el discurso revolucionario de Carlos Marighella, el disco se presenta como una respuesta a la criminalización del baile funk.  A pesar de su intensidad y aparente desorden, DJ K demuestra una gran habilidad para equilibrar los elementos, creando una experiencia sonora liberadora.  El álbum se destaca por su energía, sus bajos explosivos y la mezcla de diferentes géneros musicales, ofreciendo una propuesta innovadora dentro del panorama musical actual.  Otros lanzamientos musicales mencionados incluyen el álbum ambiental de Hand to Earth, el trabajo de Ami Taf Ra inspirado en Kahlil Gibran, y el disco instrumental de Atletas.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre un nuevo álbum de música, analizando su estilo, influencias, contexto social y significado.  Esto lo hace altamente relevante para la categoría 'Cultura Arte', cubriendo aspectos musicales, sociales y culturales."
     },
     "categoria": "cultura_arte"
   },
   {
     "info": {
-      "titulo": "Destination X review – the BBC’s big new reality competition will make you feel like you’re hallucinating",
-      "link": "https://www.theguardian.com/tv-and-radio/2025/jul/30/destination-x-review-rob-brydon-the-traitors-meets-race-across-the-world",
-      "fecha_obj": "2025-07-30T21:00:29+00:00",
-      "fecha_str": "30-07-2025 21:00 UTC",
+      "titulo": "Chief of War review – Jason Momoa is an underwater shark wrestler in this gory historical epic",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/01/chief-of-war-review-jason-momoa-is-an-underwater-shark-wrestler-in-this-gory-historical-epic",
+      "fecha_obj": "2025-08-01T04:00:16+00:00",
+      "fecha_str": "01-08-2025 04:00 UTC",
       "source_name": "The Guardian Culture"
     },
     "resumen_datos": {
-      "teaser_sentence": "Un concurso de realidad donde la ubicación es el misterio, con desafíos desconcertantes y un premio de \\u00a3100.000.",
-      "resumen": "Destination X, un nuevo concurso de la BBC, lleva a un grupo de concursantes a diferentes lugares secretos de Europa.  Los participantes deben usar pistas y desafíos para deducir su ubicación y marcarla en un mapa. El concursante menos preciso es eliminado. El programa destaca por sus desafíos confusos y la personalidad de los concursantes, que van desde los inexpertos hasta los altamente competitivos.  La serie se diferencia de otros concursos de realidad al generar una sensación de desconcierto y confusión, incluso para el espectador, que puede participar a través de códigos QR. A pesar de su estructura inusual, el programa resulta entretenido.",
-      "relevancia_score": 3,
-      "relevancia_justificacion": "Si bien el programa se desarrolla en diferentes lugares europeos y menciona elementos culturales, su enfoque principal es la competencia y el misterio, no la exploración profunda de la cultura o el arte de esas regiones."
+      "teaser_sentence": "Jason Momoa protagoniza Chief of War, épica histórica hawaiana llena de acción y violencia, que narra la unificación de los reinos hawaianos.",
+      "resumen": "Chief of War, serie creada y protagonizada por Jason Momoa, cuenta la historia de Ka’iana, un guerrero hawaiano que lucha por la unificación de las islas a finales del siglo XVIII. La serie, aunque con escenas de batalla espectaculares y la presencia imponente de Momoa, presenta una trama densa y a veces lenta, con personajes femeninos poco desarrollados. A pesar de sus defectos, la serie es un intento valioso de mostrar una historia poco conocida para una audiencia mayoritaria, aprovechando el carisma de Momoa para atraer al público y abrir camino a futuras producciones similares.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "La serie explora la historia y cultura hawaiana, mostrando aspectos de su pasado bélico y su proceso de unificación.  Aunque centrada en la acción, la serie contribuye a dar a conocer una parte de la historia menos visible, lo que la hace relevante para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Wednesday to Hunting the Yorkshire Ripper: the seven best shows to stream this week",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/01/wednesday-to-hunting-the-yorkshire-ripper-the-seven-best-shows-to-stream-this-week",
+      "fecha_obj": "2025-08-01T06:00:17+00:00",
+      "fecha_str": "01-08-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta semana en streaming: misterios, comedia y felinos; desde Wednesday hasta el Yorkshire Ripper.",
+      "resumen": "El artículo reseña siete series disponibles en streaming.  'Wednesday' continúa las aventuras de la familia Addams en Netflix. 'Hunting the Yorkshire Ripper' explora la investigación policial del asesino en Prime Video. 'Naming the Dead' documenta el trabajo del DNA Doe Project en Disney+. 'The Proud Family' regresa con una tercera temporada en Apple TV+.  'Platonic' explora una amistad platónica en Apple TV+. 'House of Cats' es un concurso felino en Channel 4. Finalmente, 'Promethea' presenta un thriller francés en Channel 4.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien el artículo cubre series de TV, varias tienen elementos que conectan con la cultura y el arte, especialmente 'Wednesday', por su estilo visual y narrativo, y 'Naming the Dead' por su enfoque documental."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: Alison Steadman has trouble with a giant jar of gherkins",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/01/tv-tonight-here-we-go-alison-steadman-sue-trouble-with-giant-jar-of-gherkins",
+      "fecha_obj": "2025-08-01T05:20:15+00:00",
+      "fecha_str": "01-08-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: comedia, drama, crimen y un gran frasco de pepinillos.",
+      "resumen": "La programación televisiva de esta noche ofrece una variedad de opciones: la comedia familiar \"Here We Go\", el drama criminal canadiense \"Under the Bridge\", el drama romántico \"And Just Like That\", el documental sobre árboles \"The Secret Life of Trees\", el misterio \"Whitstable Pearl\", y la comedia \"Mrs Brown's Boys\".  También se destacan las películas \"My Oxford Year\", una comedia romántica ambientada en Oxford, y el clásico navideño \"Miracle on 34th Street\". La programación abarca diferentes géneros y estilos, desde la comedia ligera hasta dramas más serios, ofreciendo opciones para una amplia gama de gustos.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien la programación incluye una película y un documental que podrían tener cierto vínculo con la cultura, la mayor parte del contenido se centra en programas de televisión de entretenimiento general, sin un enfoque específico en el arte o la cultura."
     },
     "categoria": "cultura_arte"
   }
