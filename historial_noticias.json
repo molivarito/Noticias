@@ -1,353 +1,257 @@
 [
   {
     "info": {
-      "titulo": "Donald Trump ordonne l’envoi de deux sous-marins nucléaires après des commentaires russes «provocateurs»",
-      "link": "https://www.lefigaro.fr/international/donald-trump-ordonne-l-envoi-de-deux-sous-marins-nucleaires-apres-des-commentaires-russes-provocateurs-20250801",
-      "fecha_obj": "2025-08-02T07:12:12+00:00",
-      "fecha_str": "02-08-2025 07:12 UTC",
+      "titulo": "États-Unis : une ancienne présentatrice de Fox News confirmée comme procureure de Washington",
+      "link": "https://www.lefigaro.fr/international/etats-unis-une-ancienne-presentatrice-de-fox-news-confirmee-comme-procureure-de-washington-20250803",
+      "fecha_obj": "2025-08-03T07:12:10+00:00",
+      "fecha_str": "03-08-2025 07:12 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Trump ordena el despliegue de submarinos nucleares tras comentarios \"provocativos\" de Medvedev.",
-      "resumen": "Donald Trump respondió a las declaraciones del ex presidente ruso Dmitri Medvedev ordenando el despliegue de dos submarinos nucleares.  Medvedev ha realizado comentarios considerados \"provocativos\" e \"incendiarios\", incluyendo alusiones al sistema de respuesta nuclear rusa.  Simultáneamente, Rusia intensificó sus ataques con drones contra Ucrania en julio, alcanzando un récord de 6297 drones lanzados.  Trump amenaza con sanciones económicas a Rusia si Putin no detiene las hostilidades, mientras que la situación en Ucrania sigue crítica, con ataques aéreos constantes y un alto número de víctimas civiles.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata sobre acciones de los presidentes de Estados Unidos y Rusia, con implicaciones geopolíticas globales y un conflicto bélico en Ucrania, por lo que es altamente relevante para la categoría 'Internacional'."
+      "teaser_sentence": "Jeanine Pirro, ex presentadora de Fox News y aliada de Trump, confirmada como fiscal de Washington.",
+      "resumen": "El Senado estadounidense confirmó a Jeanine Pirro como fiscal de Washington D.C.  Pirro, ex jueza y presentadora de Fox News, fue nominada por Trump y su nombramiento ha generado controversia.  Su trayectoria incluye la conducción del programa \"Justice with Judge Jeanine\" y la publicación de libros pro-Trump.  Pirro fue mencionada en una demanda por difamación de Dominion Voting Systems contra Fox News.  Su nombramiento ha sido criticado por promover teorías conspirativas sobre las elecciones de 2020.  La confirmación se produjo tras una solicitud expresa de Trump al Senado republicano.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia tiene relevancia internacional por involucrar a figuras políticas estadounidenses de alto nivel, un proceso político en Estados Unidos, y las implicaciones políticas y mediáticas de la decisión.  El nombramiento de una figura controvertida con vínculos a un medio de comunicación influyente tiene repercusiones globales."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Art brut : deux Africains un peu perdus dans l’immensité de la collection Decharme présentée à Paris",
-      "link": "https://www.lemonde.fr/afrique/article/2025/08/02/art-brut-deux-africains-un-peu-perdus-dans-l-immensite-de-la-collection-decharme-presentee-a-paris_6626326_3212.html",
-      "fecha_obj": "2025-08-02T07:00:12+00:00",
-      "fecha_str": "02-08-2025 07:00 UTC",
+      "titulo": "Léon Marchand « un peu dans le dur » avant sa finale du 400 m 4 nages, pour conclure les Mondiaux de Singapour",
+      "link": "https://www.lemonde.fr/sport/article/2025/08/03/leon-marchand-un-peu-dans-le-dur-avant-sa-finale-du-400-m-4-nages-pour-conclure-les-mondiaux-de-singapour_6626396_3242.html",
+      "fecha_obj": "2025-08-03T07:11:04+00:00",
+      "fecha_str": "03-08-2025 07:11 UTC",
       "source_name": "Le Monde International"
     },
     "resumen_datos": {
-      "teaser_sentence": "Dos artistas africanos, entre 156, en la exposición de arte brut 'La donation Decharme' en París.",
-      "resumen": "La exposición \"Art brut. Dans l’intimité d’une collection. La donation Decharme\" en el Grand Palais de París muestra obras de 156 artistas, entre ellos solo dos africanos: Ezekiel Messou de Benín y un artista anónimo de Angola.  El artículo explora la obra de Messou, quien crea dibujos técnicos de máquinas de coser, y la del artista angoleño, cuyas obras fueron realizadas en el reverso de protocolos médicos. La escasez de artistas africanos en la muestra refleja la dificultad de aplicar el concepto de 'art brut', originado en el contexto occidental, a otras culturas.  Bruno Decharme, el donante de la colección, destaca la \"salvaje libertad\" del arte brut y la necesidad de nuevas perspectivas para explorar manifestaciones artísticas similares en África.",
+      "teaser_sentence": "Léon Marchand, tras batir el récord mundial, afronta la final de 400m estilos en Singapur con dudas tras una serie floja.",
+      "resumen": "Léon Marchand, reciente plusmarquista mundial de 200m estilos, llega a la final de 400m estilos de los Mundiales de Singapur con incertidumbre tras clasificarse séptimo en las series.  Su rendimiento fue inferior a lo esperado, atribuido a cansancio acumulado tras varias competiciones y una preparación más irregular que años anteriores, incluyendo lesiones.  Marchand competirá también en el relevo 4x100m estilos, lo que añade dificultad.  A pesar de las dudas, busca su séptimo título mundial individual, aunque el cambio de calendario, situando la prueba al final de la competición, supone un desafío añadido.",
       "relevancia_score": 8,
-      "relevancia_justificacion": "La exposición se lleva a cabo en París, un centro internacional de arte, y presenta una perspectiva global sobre el arte brut, aunque con una representación limitada de artistas africanos.  La discusión sobre la aplicación del concepto de arte brut a diferentes culturas tiene relevancia internacional."
+      "relevancia_justificacion": "La noticia trata sobre un deportista de élite francés, un evento deportivo internacional de gran envergadura (Mundiales de Natación) y su desempeño.  Tiene impacto internacional por la relevancia del atleta y la competición."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Gabriel Attal souhaite changer le nom du parti Renaissance et imprimer sa marque",
-      "link": "https://www.lemonde.fr/politique/article/2025/08/02/gabriel-attal-souhaite-changer-le-nom-du-parti-renaissance-et-imprimer-sa-marque_6626324_823448.html",
-      "fecha_obj": "2025-08-02T06:54:53+00:00",
-      "fecha_str": "02-08-2025 06:54 UTC",
-      "source_name": "Le Monde International"
+      "titulo": "A Former American Soldier Finds a Home in Mexican Wrestling",
+      "link": "https://www.nytimes.com/2025/08/03/world/americas/mexico-lucha-libre-flip-gordon.html",
+      "fecha_obj": "2025-08-03T07:00:15+00:00",
+      "fecha_str": "03-08-2025 07:00 UTC",
+      "source_name": "The New York Times World"
     },
     "resumen_datos": {
-      "teaser_sentence": "Gabriel Attal propone cambiar el nombre del partido Renacimiento para mejorar su imagen.",
-      "resumen": "Gabriel Attal, secretario general del partido Renacimiento, considera cambiar el nombre del partido debido a su baja notoriedad entre los electores, según una encuesta interna.  Solo un tercio de los encuestados reconocen el nombre 'Renacimiento', a diferencia de otros partidos como La France Insoumise y el Rassemblement National.  Se realizará una consulta online a militantes y cuadros hasta el 17 de agosto, y el 25 de agosto el comité ejecutivo discutirá los resultados. Un posible cambio de nombre se anunciaría el 20 de septiembre en Arras.  Este sería el tercer cambio de nombre en nueve años, tras 'En Marche!' y 'La République En Marche'.",
+      "teaser_sentence": "Un exsoldado estadounidense encuentra un hogar en la lucha libre mexicana, desafiando las expectativas.",
+      "resumen": "El artículo trata sobre Flip Gordon, un exsoldado estadounidense que lucha libre en México. Su presencia como luchador, vestido con uniforme militar, genera preguntas sobre la aceptación de un extranjero en una tradición cultural tan arraigada como la lucha libre mexicana, especialmente considerando el contexto político entre México y Estados Unidos.  A pesar de los cánticos de \"Gringo\", Gordon parece encontrar un lugar en este mundo, planteando una narrativa interesante sobre la cultura, la identidad y la aceptación en un ambiente de nacionalismo.",
       "relevancia_score": 8,
-      "relevancia_justificacion": "La noticia trata sobre un partido político francés y sus decisiones internas, lo cual tiene relevancia internacional por el papel de Francia en la política europea y mundial. El cambio de nombre de un partido político influyente puede tener consecuencias políticas significativas."
+      "relevancia_justificacion": "La historia tiene relevancia internacional por mostrar la interacción cultural entre Estados Unidos y México, tocando temas de identidad nacional, aceptación del extranjero y el impacto de la política en la cultura popular.  La lucha libre, siendo un fenómeno cultural mexicano, añade un elemento de interés global."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "«Faut-il attendre qu’il tue quelqu’un?»: près de Montargis, un toxicomane sème la terreur sous l’œil impuissant des autorités",
-      "link": "https://www.lefigaro.fr/faits-divers/faut-il-attendre-qu-il-tue-quelqu-un-pres-de-montargis-un-toxicomane-seme-la-terreur-sous-l-oeil-impuissant-des-autorites-20250802",
-      "fecha_obj": "2025-08-02T07:00:00+00:00",
-      "fecha_str": "02-08-2025 07:00 UTC",
+      "titulo": "Chambord, Chenonceau, Amboise... Les châteaux de la Loire chahutés par le dérèglement climatique",
+      "link": "https://www.lefigaro.fr/culture/patrimoine/chambord-chenonceau-amboise-les-chateaux-de-la-loire-chahutes-par-le-dereglement-climatique-20250803",
+      "fecha_obj": "2025-08-03T07:00:00+00:00",
+      "fecha_str": "03-08-2025 07:00 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Toxicómano siembra el terror en Francia, ¿hasta cuándo las autoridades lo permitirán?",
-      "resumen": "Un toxicómano en Amilly, Francia, aterroriza a los vecinos desde 2017.  Recientemente, es sospechoso de incendiar la casa de dos jubilados, donde dormían, causando un grave riesgo para sus vidas.  A pesar de la gravedad de los hechos y el historial del individuo, permanece en libertad, generando indignación y preocupación entre los residentes.  El artículo destaca la inacción de las autoridades ante la amenaza que representa este individuo para la comunidad. El suceso pone en evidencia la vulnerabilidad de los ciudadanos ante la falta de respuesta efectiva por parte de las instituciones.",
-      "relevancia_score": 6,
-      "relevancia_justificacion": "Si bien el suceso es local, la problemática de la inacción ante la delincuencia y la falta de seguridad ciudadana tiene implicaciones internacionales, ya que es un tema que trasciende fronteras.  Otros países podrían enfrentar situaciones similares, por lo que la noticia puede generar interés en un contexto más amplio."
+      "teaser_sentence": "El cambio climático amenaza los castillos del Loira: millones de euros en reparaciones son necesarios para salvar este patrimonio.",
+      "resumen": "Los castillos del Loira, patrimonio mundial, sufren las consecuencias del cambio climático.  Crues e intensas sequías dañan sus cimientos y jardines.  Chenonceau, por ejemplo, necesita 10 millones de euros en restauración debido a la inestabilidad de sus cimientos.  Azay-le-Rideau enfrenta problemas con algas invasivas y la disminución del nivel del agua.  El castillo de Amboise sufrió un riesgo de derrumbe por fuertes lluvias.  La restauración de los jardines, con la sustitución de plantas, también es crucial.  Se necesita una gran inversión y una colaboración entre especialistas, políticos y mecenas para preservar estos monumentos históricos ante los desafíos climáticos.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo trata un tema de impacto internacional: la afectación del cambio climático a un patrimonio cultural mundialmente reconocido.  Su alcance trasciende las fronteras francesas, mostrando un problema global que afecta a sitios históricos de gran importancia."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Week-end de chassé-croisé : déjà 400 kilomètres de bouchons, la circulation sera «extrêmement difficile» sur les routes de France ce samedi",
-      "link": "https://www.lefigaro.fr/conso/week-end-de-chasse-croise-samedi-2-aout-sera-la-journee-la-plus-chargee-de-l-ete-sur-les-routes-de-france-20250730",
-      "fecha_obj": "2025-08-02T07:11:37+00:00",
-      "fecha_str": "02-08-2025 07:11 UTC",
+      "titulo": "Tour de France Femmes : combien va toucher la gagnante de la quatrième édition ?",
+      "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-femmes-combien-va-toucher-la-gagnante-de-la-quatrieme-edition-20250803",
+      "fecha_obj": "2025-08-03T06:59:56+00:00",
+      "fecha_str": "03-08-2025 06:59 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Caos vial en Francia: 400 km de atascos este sábado; circulación extremadamente difícil.",
-      "resumen": "Este fin de semana, Francia experimenta un gran desplazamiento de vehículos debido al cruce de vacacionistas de julio y agosto.  El sábado 2 de agosto se espera el punto álgido, con 400 km de atascos y circulación extremadamente difícil en todo el país, especialmente en las autopistas A10, A63, A11, A7, A9, A61, A75 y A20.  El domingo habrá menos tráfico, pero aún se esperan atascos en varias autopistas. El lunes se prevén más embotellamientos en el sureste y noreste del país. Bison Futé recomienda precaución y paciencia a los conductores.",
-      "relevancia_score": 4,
-      "relevancia_justificacion": "Si bien el tráfico es un tema que puede tener implicaciones internacionales (turistas afectados, etc.), el foco principal es un evento interno de Francia.  La relevancia internacional es baja, ya que se centra en un problema de tráfico dentro de un país específico."
+      "teaser_sentence": "La ganadora del Tour de France Femmes 2025 recibirá 50.000 euros, diez veces menos que el ganador masculino.",
+      "resumen": "El Tour de France Femmes 2025 concluye con una victoria que premia a la ciclista ganadora con 50.000 euros.  Esta cantidad, aunque significativa para una carrera joven, es diez veces menor a la obtenida por el ganador del Tour masculino, Tadej Pogacar (500.000 euros).  Las premios disminuyen según la posición, llegando a 1.500 euros para la décima clasificada.  Estas ganancias se reparten entre los miembros de los equipos. La disparidad se atribuye al mayor desarrollo y mediatización del ciclismo masculino, aunque se espera que las ganancias femeninas aumenten con el crecimiento de la popularidad del deporte.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El Tour de France es un evento deportivo internacional de gran relevancia.  La noticia compara las ganancias entre hombres y mujeres, un tema de actualidad global.  Su impacto trasciende lo deportivo, tocando temas de igualdad."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "INE: el valor de la autonomía de las instituciones estadísticas oficiales",
-      "link": "https://www.ciperchile.cl/2025/08/01/ine-el-valor-de-la-autonomia-de-las-instituciones-estadisticas-oficiales/?utm_source=rss&utm_medium=rss&utm_campaign=ine-el-valor-de-la-autonomia-de-las-instituciones-estadisticas-oficiales",
-      "fecha_obj": "2025-08-01T08:00:45+00:00",
-      "fecha_str": "01-08-2025 08:00 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "La autonomía del INE es crucial para una democracia chilena robusta, basada en datos veraces y transparentes.",
-      "resumen": "El artículo argumenta la importancia de la autonomía del Instituto Nacional de Estadísticas (INE) en Chile.  La independencia de las instituciones estadísticas garantiza datos confiables para la toma de decisiones políticas y el debate público. Se utilizan ejemplos internacionales como México y Canadá, y se contrasta con casos como Turquía, donde la falta de autonomía ha distorsionado datos económicos.  El caso chileno de la Comisión Asesora para la medición de la pobreza ilustra cómo la autonomía técnica permite obtener datos más precisos, incluso si esto revela problemas mayores.  El autor aboga por la pronta aprobación del proyecto de ley que otorgaría plena autonomía al INE, considerando que datos fiables son fundamentales para una democracia sólida y resistente al populismo.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo se centra en una problemática crucial para Chile: la necesidad de un INE autónomo para asegurar la transparencia y veracidad de las estadísticas nacionales, un tema de gran interés público y debate político."
-    },
-    "categoria": "nacional"
-  },
-  {
-    "info": {
-      "titulo": "Denuncian que concejala Bonvallet exigía parte del sueldo de exasesora en la municipalidad de Ñuñoa y que rindió boletas falsas en campaña",
-      "link": "https://www.ciperchile.cl/2025/08/01/denuncian-que-concejala-bonvallet-exigia-parte-del-sueldo-de-exasesora-en-la-municipalidad-de-nunoa-y-que-rindio-boletas-falsas-en-campana/?utm_source=rss&utm_medium=rss&utm_campaign=denuncian-que-concejala-bonvallet-exigia-parte-del-sueldo-de-exasesora-en-la-municipalidad-de-nunoa-y-que-rindio-boletas-falsas-en-campana",
-      "fecha_obj": "2025-08-02T00:56:43+00:00",
-      "fecha_str": "02-08-2025 00:56 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Concejal Bonvallet enfrenta denuncias por exigir parte del sueldo a exasesora y rendición de boletas falsas en campaña.",
-      "resumen": "Una exasesora de la concejala Daniela Bonvallet la acusa de exigirle $1 millón de su sueldo como condición para su contratación en la municipalidad de Ñuñoa.  Simultáneamente, su exadministradora electoral denuncia la inclusión de boletas falsas por $2 millones en la rendición de gastos de campaña.  El alcalde Sebastián Sichel presentó una denuncia ante la Fiscalía. Bonvallet argumenta que las transferencias fueron préstamos entre amigas, mientras que la exadministradora señala que se manipularon boletas para defraudar al fisco.  El Servel rechazó completamente el reembolso solicitado por Bonvallet. La exasesora también presentó una denuncia por maltrato laboral.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "La noticia involucra a una concejala, un cargo de elección popular, en acusaciones de corrupción y fraude, lo que tiene alta relevancia a nivel nacional.  Implica una investigación fiscal y cuestionamientos a la probidad en la política."
-    },
-    "categoria": "nacional"
-  },
-  {
-    "info": {
-      "titulo": "Video Conapran – Benjamín Miranda",
-      "link": "https://www.ciperchile.cl/2025/08/01/video-conapran-benjamin-miranda/?utm_source=rss&utm_medium=rss&utm_campaign=video-conapran-benjamin-miranda",
-      "fecha_obj": "2025-08-01T18:15:23+00:00",
-      "fecha_str": "01-08-2025 18:15 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Conapran busca financiamiento a través de socios; únete a la Comunidad +CIPER.",
-      "resumen": "El video de Conapran, presentado por Benjamín Miranda, destaca la importancia de los socios como principal fuente de financiamiento.  La pieza audiovisual hace un llamado a unirse a la Comunidad +CIPER para apoyar su trabajo.  El mensaje central se enfoca en la necesidad de colaboración para asegurar la continuidad de las actividades de Conapran.  No se proporcionan detalles específicos sobre la organización Conapran ni sus objetivos. El llamado a la acción se centra en la invitación a formar parte de la comunidad +CIPER, sugiriendo una relación entre ambas entidades.",
-      "relevancia_score": 7,
-      "relevancia_justificacion": "Si bien el video no ofrece detalles específicos sobre Conapran, el llamado a la acción y la búsqueda de financiamiento a través de una comunidad nacional sugieren una relevancia nacional.  La falta de información contextual sobre el alcance de Conapran impide una puntuación más alta."
-    },
-    "categoria": "nacional"
-  },
-  {
-    "info": {
-      "titulo": "This is the week Scotland was forced to confront its role in slavery, and say: ‘Yes, that was us’ | Hannah Lavery",
-      "link": "https://www.theguardian.com/commentisfree/2025/aug/02/scotland-slavery-edinburgh-university-race",
-      "fecha_obj": "2025-08-02T07:00:04+00:00",
-      "fecha_str": "02-08-2025 07:00 UTC",
+      "titulo": "The US attacks on Iran have backfired horribly – but a path to peace is still possible | Simon Tisdall",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/03/us-israel-iran-attacks-50-days-on-nuclear-weapons",
+      "fecha_obj": "2025-08-03T05:00:31+00:00",
+      "fecha_str": "03-08-2025 05:00 UTC",
       "source_name": "The Guardian Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Escocia confronta su pasado esclavista: un legado que exige reparación y justicia.",
-      "resumen": "El artículo analiza la creciente confrontación en Escocia con su papel en la esclavitud y el colonialismo.  Se critica la narrativa tradicional que glorifica la Ilustración escocesa sin mencionar la explotación y el sufrimiento que la sustentaron.  La autora destaca investigaciones recientes que revelan la implicación de universidades e instituciones en el tráfico de esclavos y la justificación ideológica del racismo.  Se argumenta la necesidad de ir más allá de disculpas simbólicas, abogando por cambios estructurales en educación e instituciones para desmantelar el legado del racismo y construir una narrativa histórica más inclusiva y justa, reconociendo la contribución de las comunidades marginadas.  Se mencionan iniciativas como el programa Building Racial Literacy y el proyecto Disrupting the Narrative como ejemplos de acciones reparadoras.",
+      "teaser_sentence": "Los ataques de EE. UU. e Israel a Irán han fracasado, intensificando la represión y aumentando el riesgo nuclear.",
+      "resumen": "El artículo analiza las consecuencias negativas de los ataques estadounidenses e israelíes a Irán.  A pesar de las expectativas de los atacantes, el régimen iraní se ha vuelto más represivo, aumentando las ejecuciones de disidentes políticos.  Los ataques violaron el derecho internacional, exacerbaron las divisiones internacionales y posiblemente incrementaron la probabilidad de que Irán desarrolle armas nucleares.  El autor argumenta que la única solución es la reducción de arsenales nucleares por parte de EE. UU. e Israel, el fin de las amenazas y el apoyo a un pacto nuclear regional para lograr la paz.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo es un ensayo de opinión que explora un tema relevante y controvertido: el papel de Escocia en la esclavitud y el colonialismo.  Presenta una postura clara, argumentada con evidencia y ejemplos concretos, y propone soluciones. Su estilo reflexivo y emotivo lo hace ideal para la categoría."
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre las consecuencias geopolíticas de los ataques a Irán, ofreciendo un análisis crítico y proponiendo soluciones.  Su estructura, estilo y contenido se ajustan perfectamente a la categoría de 'Opinion Ensayo'."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "Enough of the billionaires and their big tech. ‘Frugal tech’ will build us all a better world | Eleanor Drage",
-      "link": "https://www.theguardian.com/commentisfree/2025/aug/02/billionaire-big-tech-frugal-elon-musk-innovation",
-      "fecha_obj": "2025-08-02T05:00:04+00:00",
-      "fecha_str": "02-08-2025 05:00 UTC",
-      "source_name": "The Guardian Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "La tecnología frugal, impulsada por la necesidad, no por los multimillonarios, construye un mundo mejor.",
-      "resumen": "El artículo critica la visión elitista de la tecnología, dominada por grandes empresas y multimillonarios, argumentando que la verdadera innovación reside en la 'tecnología frugal'.  Esta se caracteriza por ser accesible, sostenible y desarrollada por comunidades para solucionar problemas locales, como se ejemplifica con iniciativas de conectividad en el Delta del Níger y microscopios de código abierto.  Se contrasta con tecnologías intensivas en energía y recursos como la IA generativa, inaccesibles para gran parte de la población. La autora aboga por una innovación colaborativa, descentralizada y orientada a las necesidades reales, promoviendo la participación comunitaria y políticas que garanticen el acceso a la tecnología para todos.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la naturaleza de la innovación tecnológica, contrastando modelos de desarrollo y planteando una crítica social a las grandes corporaciones.  Su estructura, estilo y contenido se ajustan perfectamente a la categoría de 'Opinión Ensayo'."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "Europe’s trade deal with the US was dead on arrival – it needs to be buried. Here’s how to do it | Georg Riekeles and Varg Folkman",
-      "link": "https://www.theguardian.com/commentisfree/2025/aug/02/us-europe-trade-deal-ursula-von-der-leyen-donald-trump",
-      "fecha_obj": "2025-08-02T04:00:01+00:00",
-      "fecha_str": "02-08-2025 04:00 UTC",
-      "source_name": "The Guardian Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "El acuerdo comercial UE-EEUU es un desastre; Europa debe rechazarlo y renegociar.",
-      "resumen": "El artículo critica duramente el acuerdo comercial entre la UE y EEUU, negociado por Von der Leyen, calificándolo de humillante y unilateralmente favorable a EEUU.  Se argumenta que perjudica la credibilidad internacional de la UE, genera desventajas económicas para los exportadores europeos y cede ante presiones de EEUU.  Los autores señalan la falta de unidad en la UE durante la negociación y la responsabilidad de Von der Leyen.  Concluyen que el acuerdo es un acuerdo interino inestable, susceptible de ser modificado gracias a la fragilidad de la posición de Trump y a la posible oposición del Parlamento Europeo y de algunos estados miembros.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente un evento político-económico relevante, ofreciendo argumentos, análisis y una propuesta de acción. Cumple con todos los requisitos de un ensayo de opinión."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "The Tariffs Kicked In. The Sky Didn’t Fall. Were the Economists Wrong?",
-      "link": "https://www.nytimes.com/2025/07/31/opinion/tariffs-economy-inflation-recession.html",
-      "fecha_obj": "2025-08-02T01:50:13+00:00",
-      "fecha_str": "02-08-2025 01:50 UTC",
+      "titulo": "Israel Must Open Its Eyes",
+      "link": "https://www.nytimes.com/2025/08/03/opinion/israel-famine-hamas-netanyahu-trump.html",
+      "fecha_obj": "2025-08-03T05:00:05+00:00",
+      "fecha_str": "03-08-2025 05:00 UTC",
       "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Los aranceles de Trump no causaron la recesión pronosticada, pero la inflación y la incertidumbre económica persisten.",
-      "resumen": "A pesar de las preocupaciones iniciales de economistas y líderes empresariales, los aranceles implementados por la administración Trump no provocaron una recesión.  El autor argumenta que esto se debe a varios factores: la pequeña proporción de importaciones en el PIB estadounidense, la fortaleza de la economía estadounidense, y la mitigación de algunos aranceles.  Si bien la inflación ha aumentado en algunos sectores, otros factores como la baja en el precio de la gasolina la han contrarrestado. El mercado bursátil también permanece estable. Sin embargo, el autor reconoce la incertidumbre que generan las políticas económicas y advierte que la situación podría empeorar con el tiempo.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta una opinión fundamentada sobre el impacto económico de los aranceles, ofreciendo argumentos y análisis.  Su estructura y estilo se ajustan a la de un ensayo de opinión, analizando un tema económico desde una perspectiva particular."
+      "teaser_sentence": "Israel tiene derecho a defenderse del terrorismo de Hamas, pero la comunidad internacional debe actuar con imparcialidad.",
+      "resumen": "El autor, un cristiano sionista y veterano de la guerra de Irak, defiende el derecho de Israel a responder a la agresión de Hamas, comparándola con la respuesta a ISIS.  Argumenta que la condena desproporcionada de Israel por la ONU refleja un antisemitismo sistémico.  Su experiencia legal defendiendo a Israel de acusaciones de crímenes de guerra refuerza su postura.  Reconoce que Israel no es perfecto, pero enfatiza la amenaza existencial que representa Hamas y la necesidad de un hogar seguro para el pueblo judío.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo expresa una opinión clara y argumentada sobre un tema de actualidad internacional, presentando evidencias y experiencias personales para apoyar su postura.  Se ajusta perfectamente a la categoría de 'Opinión Ensayo' por su carácter analítico y subjetivo."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "They Saw Their Neighbors Taken Away by ICE. Then They Made a Plan.",
-      "link": "https://www.nytimes.com/2025/07/30/opinion/ice-immigration-protest-resistance.html",
-      "fecha_obj": "2025-08-02T01:52:53+00:00",
-      "fecha_str": "02-08-2025 01:52 UTC",
+      "titulo": "The Future of Liberal Arts Education",
+      "link": "https://www.nytimes.com/2025/08/02/opinion/liberal-arts-education.html",
+      "fecha_obj": "2025-08-03T00:41:07+00:00",
+      "fecha_str": "03-08-2025 00:41 UTC",
       "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Vecinos unidos contra las redadas de ICE: vigilancia comunitaria y resistencia ante la deportación masiva.",
-      "resumen": "El artículo describe la resistencia comunitaria en Los Ángeles ante las redadas de inmigración de ICE.  Grupos activistas, como Unión del Barrio, organizan la vigilancia de las actividades de ICE, documentando arrestos y agresiones.  La viralización de estos videos está cambiando la opinión pública.  Un activista, Alvarado, que huyó de El Salvador, teme que la situación derive en desapariciones forzadas, enfatizando la importancia de la solidaridad vecinal como respuesta no violenta.  El trabajo conjunto de voluntarios en zonas afectadas ilustra la creación de redes de apoyo mutuo ante la amenaza de la deportación.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "El artículo presenta una opinión sobre la respuesta comunitaria a las políticas de inmigración, ofreciendo ejemplos concretos y análisis de las consecuencias.  Aunque no es un ensayo formal, su enfoque analítico y la expresión de una postura crítica lo acercan a la categoría."
+      "teaser_sentence": "El futuro de las humanidades: ¿crisis o adaptación?",
+      "resumen": "El artículo presenta opiniones encontradas sobre el futuro de la educación en humanidades.  Una carta apoya la vitalidad de las universidades de artes liberales pequeñas, destacando su compromiso con la rigurosidad académica y la ayuda financiera, contrastando con la percepción estereotipada. Otra carta critica un ensayo previo, acusándolo de miopía académica al priorizar intereses personales sobre un análisis riguroso, usando como ejemplo la universidad de Tulsa. Ambas cartas reflejan diferentes perspectivas sobre la situación actual y el futuro de las humanidades.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo consiste en dos cartas al editor que responden directamente a un ensayo de opinión previamente publicado, lo que lo convierte en una pieza integral del debate y la discusión propia del género 'Opinion Ensayo'."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "With Trump’s cutbacks, crew heads for ISS unsure of when they’ll come back",
-      "link": "https://arstechnica.com/space/2025/08/with-trumps-cutbacks-crew-heads-for-iss-unsure-of-when-theyll-come-back/",
-      "fecha_obj": "2025-08-01T22:06:42+00:00",
-      "fecha_str": "01-08-2025 22:06 UTC",
+      "titulo": "Parents and columnists don’t get everything right – here’s what I’ve learned from three years as both | Rhiannon Lucy Cosslett",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/03/parent-columnist-what-i-have-learned-in-three-years",
+      "fecha_obj": "2025-08-03T07:00:33+00:00",
+      "fecha_str": "03-08-2025 07:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Tres años de maternidad y escritura: reflexiones, errores y lecciones aprendidas.",
+      "resumen": "La columnista Rhiannon Lucy Cosslett reflexiona sobre sus tres años escribiendo sobre maternidad, reconociendo errores como menospreciar la alimentación complementaria autorregulada o trivializar el \"tummy time\".  Defiende otras opiniones, como la insuficiencia de la baja por paternidad y la mala política de promoción de la lactancia materna.  A pesar de los desafíos, valora la experiencia de conectar con lectores que compartieron sus vivencias y la escritura como forma de preservar recuerdos.  Concluye enfatizando la importancia de la comunidad y la solidaridad en la crianza.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión personal sobre la maternidad, reflexiona sobre experiencias y errores, y ofrece una perspectiva única basada en la propia vivencia de la autora. Se ajusta a la categoría de ensayo de opinión por su carácter reflexivo y subjetivo."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "I’m Old, but Not When I Swim",
+      "link": "https://www.nytimes.com/2025/08/02/opinion/old-age-swimming.html",
+      "fecha_obj": "2025-08-02T17:49:30+00:00",
+      "fecha_str": "02-08-2025 17:49 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El agua rejuvenece: un hombre reflexiona sobre la transformación física y mental al nadar.",
+      "resumen": "El autor narra una anécdota juvenil en Cape Cod donde una corriente marina lo aleja de su familia mientras busca una pelota de tenis.  Esta experiencia contrasta con su presente, donde a una edad avanzada, encuentra en la natación una forma de rejuvenecimiento físico y mental.  Describe la sensación de ligereza y la transformación que experimenta su cuerpo al entrar al agua, comparándola con la dificultad de moverse en tierra.  El agua se convierte en un espacio donde la edad parece desvanecerse, ofreciendo una experiencia revitalizante.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El texto presenta una opinión personal y reflexiva sobre la experiencia de nadar y cómo afecta al cuerpo y la mente, con una estructura narrativa que lo hace adecuado para un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Five children see HIV viral loads vanish after taking antiretroviral drugs",
+      "link": "https://arstechnica.com/health/2025/08/five-children-see-hiv-viral-loads-vanish-after-taking-antiretroviral-drugs/",
+      "fecha_obj": "2025-08-02T13:20:11+00:00",
+      "fecha_str": "02-08-2025 13:20 UTC",
       "source_name": "Ars Technica"
     },
     "resumen_datos": {
-      "teaser_sentence": "La Crew-11 despega hacia la ISS, mientras SpaceX se despide de su zona de aterrizaje LZ-1.",
-      "resumen": "La misión Crew-11, comandada por Zena Cardman, despegó con éxito hacia la Estación Espacial Internacional (ISS) a bordo de una cápsula Crew Dragon de SpaceX.  La misión, que incluye a Mike Fincke, Kimiya Yui y Oleg Platonov, durará entre seis y ocho meses.  Este lanzamiento marcó el último aterrizaje de un cohete Falcon 9 en la zona LZ-1 en Cabo Cañaveral, ya que el espacio será reconvertido. SpaceX planea trasladar sus aterrizajes a nuevas zonas de aterrizaje en construcción en el puerto espacial de Florida.  El vicepresidente de SpaceX, Bill Gerstenmaier, confirmó que la transición a las nuevas zonas se realizará gradualmente.",
+      "teaser_sentence": "Cinco niños con VIH muestran remisión viral tras suspender tratamiento antirretroviral.",
+      "resumen": "Un estudio revela que cinco niños infectados con VIH, tratados tempranamente con antirretrovirales, lograron la remisión viral tras interrumpir el tratamiento.  Este hallazgo, publicado tras un seguimiento de una década, sugiere que los niños podrían ser clave en la búsqueda de una cura para el VIH.  Otra investigación indica que alrededor del 5% de los niños infectados que reciben tratamiento en los primeros seis meses de vida suprimen el reservorio viral a niveles insignificantes.  Estas observaciones apuntan a características inmunológicas especiales en los niños que podrían facilitar el desarrollo de una cura para el VIH antes que en otros grupos de población.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata sobre un lanzamiento espacial, tecnología de cohetes reutilizables y la exploración espacial, temas centrales de la categoría 'Ciencia y Tecnología'."
+      "relevancia_justificacion": "El artículo presenta un avance científico significativo en la lucha contra el VIH, una enfermedad con implicaciones globales en salud pública. La investigación tiene un impacto directo en la ciencia médica y la tecnología relacionada con el tratamiento y la posible cura del VIH."
     },
     "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "Anthropic Revokes OpenAI's Access to Claude",
-      "link": "https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/",
-      "fecha_obj": "2025-08-01T21:41:53+00:00",
-      "fecha_str": "01-08-2025 21:41 UTC",
+      "titulo": "Peacock Feathers Are Stunning. They Can Also Emit Laser Beams",
+      "link": "https://www.wired.com/story/peacock-feathers-laser-beams/",
+      "fecha_obj": "2025-08-02T13:00:00+00:00",
+      "fecha_str": "02-08-2025 13:00 UTC",
       "source_name": "Wired"
     },
     "resumen_datos": {
-      "teaser_sentence": "Anthropic corta el acceso de OpenAI a Claude por violar términos de servicio, generando tensión en la industria de la IA.",
-      "resumen": "Anthropic revocó el acceso de OpenAI a su API de Claude debido a la violación de los términos de servicio. OpenAI usaba Claude para evaluar sus capacidades de codificación y seguridad en GPT-5, su nuevo modelo.  Anthropic argumenta que esto contraviene sus términos, que prohíben el uso de Claude para desarrollar productos o servicios competitivos. OpenAI, por su parte, considera esta práctica estándar en la industria para mejorar sus modelos.  Este incidente resalta las tensiones competitivas en el sector de la IA, con precedentes similares en otras empresas tecnológicas como Facebook y Salesforce.",
+      "teaser_sentence": "Plumas de pavo real: ¡emiten rayos láser al ser teñidas!",
+      "resumen": "Un estudio publicado en Scientific Reports revela que las plumas de pavo real, conocidas por sus colores iridiscentes, pueden emitir luz láser cuando se tiñen varias veces.  Esta emisión láser se debe a la estructura nanométrica de las barbas de las plumas, que actúan como cavidades láser naturales.  Los investigadores tiñeron plumas de pavo real múltiples veces, observando emisión láser en dos longitudes de onda distintas en todas las regiones de color de las manchas oculares, siendo el verde el más intenso.  Este descubrimiento podría tener implicaciones en el desarrollo de láseres biocompatibles para uso médico.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata directamente sobre una disputa entre dos compañías líderes en inteligencia artificial,  abordando temas clave como el desarrollo de modelos de IA, las APIs, las políticas de uso y la competencia en el sector.  Es altamente relevante para la categoría 'Ciencia y Tecnología'."
+      "relevancia_justificacion": "El artículo trata sobre un descubrimiento científico con implicaciones tecnológicas.  La investigación sobre las propiedades ópticas de las plumas de pavo real y su potencial para crear láseres biocompatibles es altamente relevante para la categoría 'Ciencia y Tecnología'."
     },
     "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "At $250 million, top AI salaries dwarf those of the Manhattan Project and the Space Race",
-      "link": "https://arstechnica.com/ai/2025/08/at-250-million-top-ai-salaries-dwarf-those-of-the-manhattan-project-and-the-space-race/",
-      "fecha_obj": "2025-08-01T21:23:42+00:00",
-      "fecha_str": "01-08-2025 21:23 UTC",
-      "source_name": "Ars Technica"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Salarios multimillonarios en IA superan a los de proyectos históricos como Manhattan y la carrera espacial.",
-      "resumen": "Meta ofreció 250 millones de dólares a Matt Deitke, investigador de IA, superando ampliamente las remuneraciones de proyectos científicos del pasado.  Este hecho refleja la intensa competencia en la carrera por desarrollar la inteligencia artificial general (AGI).  La oferta a Deitke, que incluye experiencia en sistemas multimodales, es 327 veces mayor al salario anual de J. Robert Oppenheimer durante el Proyecto Manhattan, ajustado por inflación.  Esta tendencia, calificada como un mercado de talento 'estilo NBA' pero con sueldos superiores, muestra la enorme inversión y expectativas en el campo de la IA.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata directamente sobre la industria de la inteligencia artificial, sus avances, la competencia entre empresas tecnológicas y el impacto económico en los profesionales del sector.  Es altamente relevante para la categoría 'Ciencia y Tecnología'."
-    },
-    "categoria": "ciencia_tecnologia"
-  },
-  {
-    "info": {
-      "titulo": "RIP Corporation for Public Broadcasting: 1967–2026",
-      "link": "https://arstechnica.com/tech-policy/2025/08/corporation-for-public-broadcasting-will-shut-down-in-2026/",
-      "fecha_obj": "2025-08-01T21:05:25+00:00",
-      "fecha_str": "01-08-2025 21:05 UTC",
-      "source_name": "Ars Technica"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Tras eliminación de fondos, la Corporación para la Radiodifusión Pública (CPB) cerrará en 2026.",
-      "resumen": "La Corporación para la Radiodifusión Pública (CPB) dejará de operar en 2026 tras la eliminación de su presupuesto por el gobierno estadounidense.  A pesar de las protestas y donaciones de ciudadanos, la medida, que rescindió 1.1 billones de dólares, resultó irreversible.  La CPB, vital para el financiamiento de emisoras locales como NPR y PBS,  cerrará sus operaciones gradualmente, con la mayoría de sus empleados cesantes en septiembre de 2025. Un equipo de transición se encargará del cierre ordenado hasta enero de 2026.  NPR lamentó la pérdida de la CPB, destacando su papel en el periodismo independiente y la programación cultural.",
-      "relevancia_score": 2,
-      "relevancia_justificacion": "La noticia se centra en la financiación y el cierre de una organización mediática, no en avances científicos o tecnológicos."
-    },
-    "categoria": "ciencia_tecnologia"
-  },
-  {
-    "info": {
-      "titulo": "Liniers: \"Divinsky fue un cometa que dejó una estela de libros que nos enseñaron a leer y a pensar\"",
-      "link": "https://www.clarin.com/cultura/liniers-divinsky-cometa-dejo-estela-libros-ensenaron-leer-pensar_0_KxI0QC9Lv2.html",
-      "fecha_obj": "2025-08-01T20:43:29+00:00",
-      "fecha_str": "01-08-2025 20:43 UTC",
-      "source_name": "Revista Ñ – Clarín Cultura"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Liniers despide a Daniel Divinsky, editor fundamental en su carrera y la cultura argentina.",
-      "resumen": "El historietista Liniers rindió homenaje a Daniel Divinsky, fallecido editor argentino, destacando su influencia en su carrera y la cultura del país.  Divinsky, quien trabajó casi seis décadas, fue un referente para Liniers desde la publicación de su primer libro, Macanudo. Liniers recuerda a Divinsky como un faro y la razón por la que él mismo se convirtió en editor, fundando la Editorial Común.  La relación entre ambos se remonta a la Feria del Libro, donde Liniers recuerda a Divinsky junto a otros grandes autores argentinos.  El artículo destaca la influencia de Divinsky en la literatura y el arte argentino, comparándolo con un cometa que dejó una estela de libros que enseñaron a leer y a pensar.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata sobre la muerte de un editor clave en la cultura argentina y su impacto en la carrera de un reconocido historietista.  Aborda temas de arte, literatura, edición y la industria cultural, por lo que es altamente relevante para la categoría 'Cultura Arte'."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "Homeland Security’s Genocidal Aesthetics",
-      "link": "https://hyperallergic.com/1031310/homeland-securitys-genocidal-aesthetics/",
-      "fecha_obj": "2025-08-01T20:41:29+00:00",
-      "fecha_str": "01-08-2025 20:41 UTC",
-      "source_name": "Hyperallergic"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "El Departamento de Seguridad Nacional (DHS) usa arte para promover una visión revisionista y peligrosa del Destino Manifiesto.",
-      "resumen": "El artículo analiza la publicación por parte del DHS de pinturas que glorifican el Destino Manifiesto, ignorando el genocidio de los indígenas americanos. Se comparan estas obras con el arte propagandístico nazi, que también idealizaba la expansión territorial y la supresión de grupos minoritarios.  El autor argumenta que la publicación de estas imágenes no es casual, sino una señal de una ideología peligrosa que minimiza el genocidio y justifica políticas actuales. Se destaca la importancia de una resistencia estética que contraponga estas visiones con alternativas que reconozcan la historia y promuevan un futuro diferente.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo analiza obras de arte específicas y su uso político, conectándolas con un contexto histórico de genocidio y propaganda, lo que lo hace altamente relevante para la categoría 'Cultura Arte'."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "TV tonight: Sam Clafin and Jeremy Irons star in a swashbuckling new period drama",
-      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/02/tv-tonight-sam-clafin-and-jeremy-irons-star-in-a-swashbuckling-new-period-drama",
-      "fecha_obj": "2025-08-02T05:20:02+00:00",
-      "fecha_str": "02-08-2025 05:20 UTC",
+      "titulo": "Lim/CBSO/Yamada review – wonderful Rachmaninov and a swirling Sinfonia",
+      "link": "https://www.theguardian.com/music/2025/aug/02/yunchan-lim-review-rachmaninov-prom-royal-albert-hall-london",
+      "fecha_obj": "2025-08-02T13:38:01+00:00",
+      "fecha_str": "02-08-2025 13:38 UTC",
       "source_name": "The Guardian Culture"
     },
     "resumen_datos": {
-      "teaser_sentence": "Esta noche, disfruta de dramas históricos, conciertos clásicos, documentales musicales y thrillers policiales en la televisión.",
-      "resumen": "La programación televisiva de esta noche ofrece una variada selección de opciones.  Se destaca una nueva adaptación de \"El Conde de Montecristo\" con Sam Claflin y Jeremy Irons; un concierto de la Quinta Sinfonía de Beethoven; un documental sobre la vida de Billy Joel; nuevos episodios de \"Annika\" y \"Suspicion\"; un programa de viajes por el sur de Estados Unidos; y la película neo-western \"The Thicket\". Además, se incluye una amplia cobertura de eventos deportivos como rugby, cricket, golf y ciclismo.",
-      "relevancia_score": 7,
-      "relevancia_justificacion": "El artículo incluye eventos relevantes para la categoría 'Cultura y Arte', como la adaptación de una novela clásica, un concierto de música clásica y un documental sobre un músico reconocido. Sin embargo, también incluye otros programas de géneros diferentes, lo que reduce la puntuación."
+      "teaser_sentence": "Un concierto de Rachmaninov interrumpido por una alarma, y una Sinfonia de Berio que refleja una época pasada.",
+      "resumen": "El concierto de Yunchan Lim y la CBSO en el Royal Albert Hall estuvo marcado por un incidente: una alarma que interrumpió la interpretación del Concierto para piano n.º 4 de Rachmaninov. A pesar del susto, Lim ofreció una actuación maravillosa, aunque se sugiere que una interpretación más espaciosa habría mejorado la pieza.  Previamente, se interpretó 'The Chairman Dances' de Adams, mostrando la excelencia de la CBSO. Tras el intermedio, se ejecutó la 'Sinfonia' de Berio, una obra que captura un momento histórico en la música, contrastando con la reacción del público que abandonó la sala durante la interpretación. El evento destaca la popularidad de Lim y la contrastante recepción de piezas clásicas y contemporáneas.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre un concierto clásico, incluyendo reseñas de las interpretaciones, el contexto histórico de las piezas y la reacción del público.  Todos estos elementos son inherentemente relevantes para la categoría 'Cultura Arte'."
     },
     "categoria": "cultura_arte"
   },
   {
     "info": {
-      "titulo": "Smithsonian Removes Trump Impeachment Reference",
-      "link": "https://hyperallergic.com/1031561/smithsonian-removes-trump-impeachment-reference/",
-      "fecha_obj": "2025-08-01T21:31:13+00:00",
-      "fecha_str": "01-08-2025 21:31 UTC",
-      "source_name": "Hyperallergic"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "El Smithsonian elimina referencias a los juicios políticos de Trump, generando controversia.",
-      "resumen": "El Smithsonian retiró una etiqueta en su exhibición sobre la presidencia estadounidense que mencionaba los dos juicios políticos a Donald Trump.  La institución justificó la decisión argumentando que otras secciones no se habían actualizado desde 2008, calificando la inclusión de Trump como una medida temporal.  Esta acción ocurre tras las presiones de la administración Trump para eliminar contenido considerado \"antiamericano\". La remoción ha generado críticas y preocupación por la independencia del Smithsonian, especialmente considerando la renuncia de la directora de la Galería Nacional de Retratos y la cancelación de una exposición por presiones similares.",
-      "relevancia_score": 7,
-      "relevancia_justificacion": "El tema impacta la cultura al involucrar la censura en un museo importante y la reacción de artistas ante presiones políticas.  Aunque el foco principal no es el arte en sí, la censura y las consecuencias para las exhibiciones artísticas le dan relevancia a la categoría."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "Beatriz Sarlo: La revelación periodística de la pericia caligráfica puede dejar fuera esa prueba clave",
-      "link": "https://www.clarin.com/cultura/beatriz-sarlo-revelacion-periodistica-pericia-caligrafica-puede-dejar-prueba-clave_0_Jj82BiDVSG.html",
-      "fecha_obj": "2025-08-01T22:59:15+00:00",
-      "fecha_str": "01-08-2025 22:59 UTC",
+      "titulo": "Daniel Divinsky, más allá de Quino y Fontanarrosa: el encuentro con Alfonsín en el exilio y su paso por radio Belgrano",
+      "link": "https://www.clarin.com/cultura/daniel-divinsky-alla-quino-fontanarrosa-encuentro-alfonsin-exilio-paso-radio-belgrano_0_3tVF5dYc9X.html",
+      "fecha_obj": "2025-08-02T14:48:17+00:00",
+      "fecha_str": "02-08-2025 14:48 UTC",
       "source_name": "Revista Ñ – Clarín Cultura"
     },
     "resumen_datos": {
-      "teaser_sentence": "La pericia caligráfica en el juicio sucesorio de Beatriz Sarlo podría ser impugnada por filtración, retrasando la resolución.",
-      "resumen": "El juicio sucesorio de Beatriz Sarlo presenta complicaciones. Una pericia caligráfica clave, realizada por Liliana Ibañez, se filtró antes de ser trasladada a las partes (el portero Melanio Meza López, el exmarido Alberto Sato y la prima Ernestina del Río).  Esto podría llevar a su impugnación y a la realización de una nueva pericia.  La validez de los manuscritos como testamento ológrafo y la decisión sobre el heredero único son los puntos centrales.  La salud de Sarlo antes de su muerte y la interpretación de los manuscritos, que podrían indicar un comodato y no una transmisión de propiedad, son otros factores que complican el proceso. El privilegio legal a los herederos de sangre también influye.",
-      "relevancia_score": 4,
-      "relevancia_justificacion": "Si bien el artículo trata sobre la sucesión de una figura relevante de la cultura, el foco principal es el proceso legal, no su obra o legado artístico."
+      "teaser_sentence": "Daniel Divinsky: editor, exiliado, artífice cultural clave en el triunfo de Alfonsín y director de Radio Belgrano.",
+      "resumen": "El artículo narra la vida de Daniel Divinsky, editor fundamental que apoyó a Quino y Fontanarrosa.  Tras su encarcelamiento en Argentina, se exilió en Venezuela, donde conoció a Alfonsín. Divinsky coordinó una campaña de apoyo intelectual a Alfonsín antes de las elecciones de 1983. Luego de la victoria, dirigió Radio Belgrano, creando una programación plural que generó controversias y un atentado contra la emisora. El texto destaca su rol político y cultural en la transición democrática argentina.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "Si bien el artículo tiene un fuerte componente político, la figura de Divinsky se centra en su rol como editor y director de medios. Su relación con figuras culturales como Quino y Fontanarrosa, y su gestión en Radio Belgrano, con una programación que impulsó nuevas voces, lo ubican dentro de la categoría 'Cultura y Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: David Attenborough’s skin-crawling new nature series",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/03/tv-tonight-david-attenboroughs-skin-crawling-new-nature-series",
+      "fecha_obj": "2025-08-03T05:00:32+00:00",
+      "fecha_str": "03-08-2025 05:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "David Attenborough, crímenes, y dramas: una noche llena de emociones en la televisión.",
+      "resumen": "La programación televisiva ofrece una variedad de opciones: la nueva serie de Attenborough sobre paternidad animal, un documental sobre el caso Lucy Letby, el final de 'Karen Pirie', una investigación sobre la Iglesia Jesús Fellowship, 'Celebrity SAS', la continuación de 'The Narrow Road to the Deep North', y varias opciones de películas, incluyendo 'The Room Next Door' de Almodóvar y 'Kensuke’s Kingdom'.  Los temas abarcan desde la naturaleza y la crianza animal hasta crímenes reales, investigaciones periodísticas y dramas de guerra. La programación promete una noche emocionante y diversa para el espectador.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo incluye la reseña de la película 'The Room Next Door' de Pedro Almodóvar, relevante para la categoría 'Cultura Arte'.  Sin embargo, la mayor parte del contenido se centra en programas de televisión de otros géneros, reduciendo la puntuación."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Goodbye, And Just Like That: why it’s the right time to end the cursed spin-off | Francesca Carington",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/02/goodbye-and-just-like-that-right-time-to-end-cursed-spin-off",
+      "fecha_obj": "2025-08-02T13:31:47+00:00",
+      "fecha_str": "02-08-2025 13:31 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El final de 'And Just Like That' llega tras tres temporadas irregulares, dejando un sabor agridulce.",
+      "resumen": "Francesca Carington analiza la tercera y última temporada de 'And Just Like That...', la secuela de 'Sex and the City'.  Critica la inconsistencia de la trama,  la superficialidad de algunos personajes, y la falta de profundidad en comparación con la serie original.  Si bien destaca algunos momentos de lucidez, especialmente en la relación de Carrie y Aidan, considera que la serie se ha perdido en tramas absurdas y personajes poco desarrollados.  A pesar del intento de explorar temas de mediana edad y relaciones, la serie se queda corta, ofreciendo un final que, aunque esperado, deja un sentimiento de decepción.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo trata sobre una serie de televisión, un producto cultural relevante. Analiza sus aspectos narrativos y de producción, lo que lo relaciona con el ámbito del arte y la cultura popular."
     },
     "categoria": "cultura_arte"
   }
