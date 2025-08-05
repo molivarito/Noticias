@@ -1,257 +1,321 @@
 [
   {
     "info": {
-      "titulo": "Tracteurs, voitures de sport, minivans… Entre l’Espagne et la France, la drogue circule jusqu’à saturation",
-      "link": "https://www.lemonde.fr/societe/article/2025/08/04/entre-l-espagne-et-la-france-des-trafics-de-drogue-jusqu-a-saturation_6626558_3224.html",
-      "fecha_obj": "2025-08-04T07:08:24+00:00",
-      "fecha_str": "04-08-2025 07:08 UTC",
+      "titulo": "Le Rwanda a conclu un accord pour accueillir jusqu’à 250 migrants expulsés des Etats-Unis",
+      "link": "https://www.lemonde.fr/afrique/article/2025/08/05/le-rwanda-a-conclu-un-accord-pour-accueillir-jusqu-a-250-migrants-expulses-des-etats-unis_6626782_3212.html",
+      "fecha_obj": "2025-08-05T07:19:41+00:00",
+      "fecha_str": "05-08-2025 07:19 UTC",
       "source_name": "Le Monde International"
     },
     "resumen_datos": {
-      "teaser_sentence": "Récord de incautación de cocaína en la frontera franco-española: tractores, deportivos y minivans transportan la droga.",
-      "resumen": "Las autoridades francesas han registrado un aumento significativo en la incautación de cocaína procedente de España.  Entre enero y mayo de 2025, se confiscaron 2,9 toneladas, un incremento del 160% respecto al periodo 2022-2024.  La droga se transporta en una variedad de vehículos, desde tractores hasta coches deportivos y minivans, utilizando métodos creativos para ocultar la mercancía. Los controles en los peajes de Biriatou y Boulou son casi diarios, reflejando una \"saturación\" del tráfico de drogas en la zona.  Un caso reciente destaca la incautación de 206,6 kilos de cocaína pura en un camión que transportaba madera y aluminio.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo trata sobre el tráfico internacional de drogas entre España y Francia, un tema de gran relevancia internacional por sus implicaciones en la seguridad y el crimen organizado."
+      "teaser_sentence": "Rwanda acuerda recibir hasta 250 migrantes expulsados de EE.UU., un acuerdo que ha generado controversia.",
+      "resumen": "El gobierno de Rwanda ha llegado a un acuerdo con Estados Unidos para aceptar hasta 250 migrantes expulsados del país norteamericano.  El acuerdo, firmado en junio de 2022, ya ha resultado en la transferencia de una primera lista de diez migrantes.  Según la portavoz del gobierno rwandés, este acuerdo se basa en la experiencia del país con el desplazamiento y en sus valores de reintegración. Los migrantes recibirán formación profesional, atención médica y alojamiento.  Aunque el acuerdo permite a Rwanda rechazar a cualquier persona propuesta por EE.UU., la iniciativa recuerda a políticas similares de la administración Trump y a un acuerdo fallido con Reino Unido sobre asilo.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El acuerdo entre Rwanda y Estados Unidos sobre la expulsión de migrantes es una noticia de gran relevancia internacional, ya que involucra a dos países con diferentes sistemas políticos y afecta a la política migratoria global.  La controversia que genera y sus implicaciones humanitarias lo convierten en un tema de interés internacional."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "En direct, Gaza : des centaines d’ex-responsables de l’appareil sécuritaire en Israël demandent à Donald Trump de faire pression pour « arrêter la guerre »",
-      "link": "https://www.lemonde.fr/international/live/2025/08/04/en-direct-gaza-des-centaines-d-ex-responsables-de-l-appareil-securitaire-en-israel-demandent-a-donald-trump-de-faire-pression-pour-arreter-la-guerre_6624772_3210.html",
-      "fecha_obj": "2025-08-04T07:04:54+00:00",
-      "fecha_str": "04-08-2025 07:04 UTC",
+      "titulo": "Gaza : Israël réautorise partiellement l’entrée des marchandises privées",
+      "link": "https://www.lefigaro.fr/international/gaza-israel-reautorise-partiellement-l-entree-des-marchandises-privees-20250805",
+      "fecha_obj": "2025-08-05T07:07:11+00:00",
+      "fecha_str": "05-08-2025 07:07 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Israel reanuda parcialmente la entrada de mercancías privadas a Gaza, bajo estricto control para evitar al Hamas.",
+      "resumen": "Israel ha reanudado parcialmente la importación de bienes privados a Gaza, según anunció el Coordinador de Actividades Gubernamentales en los Territorios (COGAT).  Esta decisión, tomada tras la aprobación del gabinete israelí, busca aumentar la ayuda humanitaria y reducir la dependencia de la ONU.  Se permitirá la entrada de alimentos básicos, productos para bebés y artículos de higiene,  pero solo a través de un número limitado de comerciantes previamente aprobados y con un estricto control de seguridad para prevenir la implicación del Hamas.  El pago se realizará únicamente por transferencia bancaria.  La medida llega en un contexto de grave crisis humanitaria en Gaza, con la ONU alertando sobre el riesgo de una hambruna generalizada.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La noticia afecta directamente a la situación política y humanitaria internacional, involucrando a dos actores clave en el conflicto israelo-palestino, con implicaciones geopolíticas y humanitarias de gran alcance."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Le Japon a enregistré une température historiquement haute de 41,8°C",
+      "link": "https://www.lemonde.fr/international/article/2025/08/05/le-japon-a-enregistre-mardi-une-temperature-de-41-8-c-la-plus-elevee-jamais-enregistree-dans-le-pays_6626749_3210.html",
+      "fecha_obj": "2025-08-05T07:00:42+00:00",
+      "fecha_str": "05-08-2025 07:00 UTC",
       "source_name": "Le Monde International"
     },
     "resumen_datos": {
-      "teaser_sentence": "Exfuncionarios israelíes piden a Trump que detenga la guerra en Gaza.",
-      "resumen": "El artículo original, en francés, informa sobre cientos de exresponsables del aparato de seguridad israelí que solicitan al expresidente Donald Trump que interceda para detener la guerra en Gaza.  El texto no ofrece detalles sobre la petición o la respuesta de Trump, pero destaca la inusual solicitud de exfuncionarios israelíes a una figura política estadounidense. La noticia se centra en la preocupación por el conflicto y la búsqueda de una intervención externa para su finalización.  Sin embargo, el acceso al contenido completo del artículo está limitado por un mensaje indicando que el usuario está accediendo a la cuenta desde múltiples dispositivos.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "La noticia trata sobre un conflicto bélico en Gaza, con la intervención solicitada de una figura política estadounidense, lo que la hace altamente relevante para la categoría 'Internacional'. La solicitud de exfuncionarios israelíes añade un elemento de interés geopolítico."
+      "teaser_sentence": "Japón registra temperatura récord de 41.8°C, la más alta de su historia, agravando la crisis climática.",
+      "resumen": "Japón alcanzó una temperatura histórica de 41.8°C en Isesaki, superando el anterior récord de 41.2°C.  Este evento, ocurrido el 5 de agosto, se suma a una serie de temperaturas extremas en los últimos años, incluyendo los meses de junio y julio más calurosos registrados.  La escasez de lluvias y el calor intenso preocupan a los agricultores, temiendo malas cosechas.  El cambio climático se señala como la causa principal de estas anomalías, afectando incluso la floración de los cerezos y la capa de nieve del monte Fuji.  Los científicos confirman que el calentamiento global intensifica y aumenta la frecuencia de estas olas de calor.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo reporta un evento de impacto global: un nuevo récord de temperatura en Japón, directamente relacionado con el cambio climático, un tema de relevancia internacional."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "« Toute ma vérité » : Kendji Girac annonce la sortie de son autobiographie Mi Vida à paraître cet automne",
-      "link": "https://www.lefigaro.fr/livres/toute-ma-verite-kendji-girac-annonce-la-sortie-de-son-autobiographie-mi-vida-a-paraitre-cet-automne-20250804",
-      "fecha_obj": "2025-08-04T07:06:04+00:00",
-      "fecha_str": "04-08-2025 07:06 UTC",
+      "titulo": "Vers une occupation totale de la bande de Gaza ? Netanyahou va préparer des «instructions» sur la poursuite de la guerre",
+      "link": "https://www.lefigaro.fr/international/vers-une-occupation-totale-de-la-bande-de-gaza-netanyahou-va-preparer-des-instructions-sur-la-poursuite-de-la-guerre-20250805",
+      "fecha_obj": "2025-08-05T06:57:47+00:00",
+      "fecha_str": "05-08-2025 06:57 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Kendji Girac revela su verdad en \"Mi vida\", autobiografía que sale en octubre.",
-      "resumen": "Kendji Girac, ganador de The Voice Francia, lanzará su autobiografía \"Mi vida\" el 1 de octubre.  En ella, el cantante de 29 años promete sinceridad sobre su vida, incluyendo su infancia, carrera musical, familia y el incidente mediático de su hospitalización tras una herida de bala.  Aunque inicialmente negó las circunstancias,  el libro abordará este episodio y otros aspectos ocultos tras su imagen pública.  La publicación llega tras un período de reflexión y un deseo de conectar con sus fans a un nivel más profundo.",
-      "relevancia_score": 7,
-      "relevancia_justificacion": "La noticia tiene relevancia internacional por ser Kendji Girac una figura pública reconocida en Europa, especialmente en Francia y España. Su autobiografía, que incluye un evento de alto impacto mediático, genera interés más allá de sus fronteras nacionales."
+      "teaser_sentence": "Netanyahu planea ocupar Gaza tras el ataque de Hamas; crece la presión internacional.",
+      "resumen": "Tras el ataque de Hamas del 7 de octubre, Israel, liderado por Netanyahu, considera la ocupación total de Gaza.  Fuentes anónimas confirman esta decisión, que busca liberar a los rehenes y eliminar la amenaza de Gaza.  Esta decisión genera fuertes presiones internacionales, incluyendo un llamado de ex-funcionarios de seguridad israelíes a Trump para que intervenga.  La Autoridad Palestina pide ayuda internacional para evitar la ocupación.  Mientras, Netanyahu afirma que se darán instrucciones al ejército para lograr los objetivos de guerra: vencer al enemigo, liberar a los rehenes y garantizar la seguridad de Israel.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre un conflicto armado internacional de gran magnitud, con implicaciones geopolíticas globales y una alta tensión entre Israel y Palestina. La posible ocupación de Gaza es una noticia de relevancia internacional crucial."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Gers : incendie dans un Ehpad, trois victimes en urgence absolue",
-      "link": "https://www.lefigaro.fr/actualite-france/gers-incendie-dans-un-ehpad-trois-victimes-en-urgence-absolue-20250804",
-      "fecha_obj": "2025-08-04T07:15:09+00:00",
-      "fecha_str": "04-08-2025 07:15 UTC",
-      "source_name": "Le Figaro"
+      "titulo": "Le trafic TGV entre Paris et Arras a repris mardi matin après un accident électrique lundi",
+      "link": "https://www.lemonde.fr/economie/article/2025/08/05/le-trafic-tgv-entre-paris-et-arras-a-repris-mardi-matin-apres-un-accident-electrique-lundi_6626571_3235.html",
+      "fecha_obj": "2025-08-05T06:54:41+00:00",
+      "fecha_str": "05-08-2025 06:54 UTC",
+      "source_name": "Le Monde International"
     },
     "resumen_datos": {
-      "teaser_sentence": "Incendio en residencia de ancianos en Gers, Francia: tres críticos, 17 heridos.",
-      "resumen": "Un incendio en una residencia de ancianos (Ehpad) en Isle-Jourdain, Gers, Francia, dejó 17 heridos, tres de ellos en estado crítico. El fuego, originado en un colchón, provocó una gran cantidad de humo que afectó a 81 personas (75 residentes y 6 empleados).  Tres personas, dos hombres de 85 años y una mujer de 86, fueron trasladadas en estado grave al hospital de Purpan en Toulouse.  Se movilizaron 70 bomberos y 25 vehículos. La residencia sufrió daños importantes por el humo y no será habitable inicialmente.",
-      "relevancia_score": 4,
-      "relevancia_justificacion": "Si bien el suceso es un hecho de cierta importancia, su alcance se limita a una región específica de Francia.  No tiene implicaciones internacionales de gran envergadura."
+      "teaser_sentence": "Repuesto el servicio TGV entre París y Arras tras incidente eléctrico.",
+      "resumen": "El tráfico ferroviario en la línea de alta velocidad Norte entre París y Arras se interrumpió el lunes 4 de agosto debido a una falla eléctrica cerca de Moussy (Val-d'Oise).  Al menos 17 trenes Eurostar fueron cancelados, afectando rutas a Londres, Bruselas y Ámsterdam.  SNCF Réseau identificó un problema en la caténaire, implementando rutas alternativas por la línea convencional.  Tras trabajos nocturnos, el servicio se restableció completamente el martes 5 de agosto por la mañana, con trenes partiendo de París y Lille a las 7:55 y 7:00, respectivamente.",
+      "relevancia_score": 6,
+      "relevancia_justificacion": "Si bien afecta el transporte, el incidente es de ámbito nacional francés. Su impacto internacional se limita a los trenes Eurostar, justificando una puntuación media."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Valérie Chansigaud : «Le végétarisme n’est ni un danger, ni une formule magique qui garantirait la santé»",
-      "link": "https://sante.lefigaro.fr/mieux-etre/nutrition-aliments/valerie-chansigaud-le-vegetarisme-n-est-ni-un-danger-ni-une-formule-magique-qui-garantirait-la-sante-20250804",
-      "fecha_obj": "2025-08-04T07:00:00+00:00",
-      "fecha_str": "04-08-2025 07:00 UTC",
-      "source_name": "Le Figaro"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "La historiadora Valérie Chansigaud desmiente mitos sobre el vegetarianismo: ni dañino ni garantía de salud.",
-      "resumen": "Valérie Chansigaud, historiadora de ciencias y el medio ambiente, analiza la larga historia del vegetarianismo, desvinculándolo de la idea moderna de que es una práctica exclusivamente ambiental.  Su investigación revela que la motivación inicial del vegetarianismo se centraba en la salud,  considerando el consumo excesivo de carne como un vicio desde la época del Renacimiento.  Chansigaud destaca que un régimen vegetal es beneficioso, pero solo si está bien planificado y ejecutado.  Su trabajo explora la percepción humana de la naturaleza y su impacto en las decisiones dietéticas, mostrando la evolución histórica de la relación entre el ser humano y su alimentación.",
-      "relevancia_score": 4,
-      "relevancia_justificacion": "Si bien el tema de la alimentación es universal, el artículo se centra en una perspectiva histórica y científica específica, sin abordar temas de actualidad internacional de gran impacto."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Democracia Cristiana: «Supervivencia al desnudo»",
-      "link": "https://www.ciperchile.cl/2025/08/03/democracia-cristiana-supervivencia-al-desnudo/?utm_source=rss&utm_medium=rss&utm_campaign=democracia-cristiana-supervivencia-al-desnudo",
-      "fecha_obj": "2025-08-03T08:00:39+00:00",
-      "fecha_str": "03-08-2025 08:00 UTC",
+      "titulo": "La Subsecretaría de Seguridad Pública: ¿Legitimidad institucional en riesgo?",
+      "link": "https://www.ciperchile.cl/2025/08/04/la-subsecretaria-de-seguridad-publica-legitimidad-institucional-en-riesgo/?utm_source=rss&utm_medium=rss&utm_campaign=la-subsecretaria-de-seguridad-publica-legitimidad-institucional-en-riesgo",
+      "fecha_obj": "2025-08-05T01:41:55+00:00",
+      "fecha_str": "05-08-2025 01:41 UTC",
       "source_name": "CIPER Chile"
     },
     "resumen_datos": {
-      "teaser_sentence": "La Democracia Cristiana chilena apoya a Jara: ¿supervivencia o traición?",
-      "resumen": "El artículo analiza el apoyo de la Democracia Cristiana (DC) a la candidatura presidencial de Jeannette Jara.  Se argumenta que esta decisión, aunque aparentemente contradictoria, es una estrategia pragmática para asegurar la supervivencia del partido ante su declive.  La DC, históricamente un partido de poder, ha perdido influencia y protagonismo.  El apoyo a Jara se interpreta como una jugada política para mantener cierta influencia, en lugar de una adhesión ideológica.  El autor compara la situación de la DC con la de otros partidos conservadores europeos, destacando su pragmatismo y su búsqueda de un rol secundario pero relevante en el escenario político chileno.",
+      "teaser_sentence": "Precariedad y altos sueldos cuestionan la legitimidad de la Subsecretaría de Seguridad Pública.",
+      "resumen": "La Subsecretaría de Seguridad Pública enfrenta críticas por precariedad laboral de sus funcionarios, a pesar de los altos sueldos percibidos por algunos.  Funcionarios denuncian falta de estructura, presupuesto para oficinas regionales, incumplimiento en pagos de viáticos y un clima laboral tenso.  La Subsecretaría justifica la situación, pero las discrepancias sobre las remuneraciones y la falta de transparencia generan desconfianza ciudadana.  La situación ha motivado un requerimiento de auditoría a la Contraloría, exacerbando la preocupación por la gestión y la posible priorización de perfiles políticos sobre la experiencia técnica.  El artículo concluye que la falta de enfoque en la estructura interna y el mérito perjudica la confianza pública en la institución.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata directamente sobre la política nacional chilena, específicamente el análisis de una decisión crucial de un partido político importante en el contexto de una elección presidencial.  Su impacto y relevancia para la política nacional son innegables."
+      "relevancia_justificacion": "El artículo aborda un tema de alta relevancia nacional: la gestión y funcionamiento de un organismo clave para la seguridad pública, generando preocupación ciudadana y debate político."
     },
     "categoria": "nacional"
   },
   {
     "info": {
-      "titulo": "With Trump wreaking havoc, a question for the US Democrats: when will you ever learn? | Timothy Garton Ash",
-      "link": "https://www.theguardian.com/commentisfree/2025/aug/04/donald-trump-us-democrats-joe-biden-election",
-      "fecha_obj": "2025-08-04T07:00:03+00:00",
-      "fecha_str": "04-08-2025 07:00 UTC",
+      "titulo": "A un año de la Ley Karin: avances, límites y tareas pendientes",
+      "link": "https://www.ciperchile.cl/2025/08/04/a-un-ano-de-la-ley-karin-avances-limites-y-tareas-pendientes/?utm_source=rss&utm_medium=rss&utm_campaign=a-un-ano-de-la-ley-karin-avances-limites-y-tareas-pendientes",
+      "fecha_obj": "2025-08-04T12:21:44+00:00",
+      "fecha_str": "04-08-2025 12:21 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ley Karin: un año después, avances en la lucha contra el acoso laboral, pero con graves problemas de implementación.",
+      "resumen": "A un año de la entrada en vigencia de la Ley Karin (N° 21.643), se evidencian avances en la protección contra el acoso laboral, pero persisten serios problemas. La principal dificultad radica en la falta de financiamiento adecuado, lo que genera una excesiva carga de trabajo en la Dirección del Trabajo y los municipios, imposibilitando una implementación eficiente.  Los tiempos de tramitación de los sumarios superan ampliamente los plazos legales, llegando a extenderse por años.  Se requieren más recursos humanos y la implementación de mecanismos alternativos de resolución de conflictos para evitar que la vía sancionatoria sea la primera opción.  La actualización del Estatuto Administrativo también se presenta como una necesidad urgente.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La Ley Karin tiene un impacto directo en el ámbito laboral nacional, afectando a trabajadores y empleadores de todo el país.  Su implementación y los desafíos que presenta son de gran interés para la opinión pública y el debate político nacional."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Pushing airport expansion while rail travel languishes – so much for Labour’s green agenda | Polly Toynbee",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/05/airport-expansion-labour-climate-damage",
+      "fecha_obj": "2025-08-05T07:00:45+00:00",
+      "fecha_str": "05-08-2025 07:00 UTC",
       "source_name": "The Guardian Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "La ceguera de los demócratas ante la decadencia de Biden les costó la presidencia y una lección crucial.",
-      "resumen": "El artículo analiza el error del partido demócrata al apoyar la candidatura de Joe Biden en 2024, a pesar de su avanzada edad y declive cognitivo.  El autor critica la complicidad de los medios y la élite demócrata en ocultar este hecho, priorizando la imagen y el miedo a Trump sobre la realidad. Se argumenta que esta estrategia, basada en el temor a perder el acceso al poder y el tribalismo político, llevó a la victoria de Trump.  El texto concluye instando a los demócratas a renovar su liderazgo, escuchar a la población y a los periodistas a informar con objetividad, incluso si es incómodo para su bando.",
+      "teaser_sentence": "Expansión aeroportuaria vs. inversión ferroviaria: ¿prioriza el gobierno británico el crecimiento económico sobre la sostenibilidad?",
+      "resumen": "El artículo critica la decisión del gobierno británico de apoyar la expansión de aeropuertos, contradiciendo sus objetivos climáticos.  Se destaca el aumento significativo de vuelos previsto, que anularía las reducciones de carbono logradas en otras áreas.  Se cuestiona la viabilidad económica del crecimiento del sector aéreo, argumentando que beneficiaría principalmente a viajeros frecuentes de ocio, no a negocios.  La autora propone incentivar el transporte ferroviario, abogando por una bajada de precios y la prohibición de vuelos domésticos donde el tren sea una alternativa viable en menos de 2.5 horas,  así como la imposición de un impuesto a los viajeros frecuentes.  Finalmente,  se enfatiza la necesidad de un moratorio en la expansión aeroportuaria hasta que la tecnología de vuelos verdes sea una realidad.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente un evento político reciente, ofreciendo argumentos, reflexiones y propuestas.  Su estructura, estilo y contenido encajan perfectamente en la categoría."
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente una política pública, ofreciendo argumentos, datos y propuestas alternativas.  Presenta una postura clara y argumentada sobre la contradicción entre el discurso político sobre sostenibilidad y las acciones gubernamentales en materia de transporte."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "Someone Is Defying the Supreme Court, but It Isn’t Trump",
-      "link": "https://www.nytimes.com/2025/07/31/opinion/supreme-court-trump-judges-defiance.html",
-      "fecha_obj": "2025-08-04T05:19:06+00:00",
-      "fecha_str": "04-08-2025 05:19 UTC",
-      "source_name": "The New York Times Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Jueces inferiores desafían a la Corte Suprema, generando una crisis interna en el sistema judicial estadounidense.",
-      "resumen": "El artículo analiza la creciente problemática del desafío a las órdenes de la Corte Suprema de Estados Unidos, no por parte del poder ejecutivo, sino desde dentro del poder judicial.  Se observa una 'mutación' donde jueces de cortes inferiores desobedecen o cumplen de mala fe las decisiones de la Corte Suprema.  Esto se considera un grave problema que amenaza la integridad del sistema judicial y la capacidad del poder ejecutivo para implementar sus políticas.  El autor argumenta que esta insubordinación judicial ha perjudicado a presidentes de ambos partidos y podría llevar a medidas extremas para restablecer el orden.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre un tema de alta relevancia política y jurídica: el desafío a la autoridad de la Corte Suprema.  Analiza las consecuencias de este fenómeno y ofrece una perspectiva crítica sobre el funcionamiento del sistema judicial estadounidense.  Su naturaleza opinativa y su análisis en profundidad lo hacen ideal para la categoría de 'Opinion Ensayo'."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "I Was Banished by My Country’s Dictator. What Happened to Me Is a Warning.",
-      "link": "https://www.nytimes.com/2025/08/04/opinion/nicaragua-ortega-dictatorship-exile.html",
-      "fecha_obj": "2025-08-04T05:00:04+00:00",
-      "fecha_str": "04-08-2025 05:00 UTC",
-      "source_name": "The New York Times Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Exiliado dos veces, un revolucionario nicaragüense denuncia la dictadura de Ortega y la amenaza trasnacional a disidentes.",
-      "resumen": "El autor, un revolucionario que huyó de Somoza en 1975, describe su segundo exilio forzado por el presidente Ortega.  Despojado de su ciudadanía junto a cientos de intelectuales y disidentes, el autor resalta el asesinato de Roberto Samcam Ruiz en Costa Rica como ejemplo de la violencia que se extiende más allá de las fronteras nicaragüenses.  Ortega, otrora compañero de lucha, se ha transformado en un dictador que utiliza la apatridia y el control del movimiento como herramientas de represión, silenciando voces críticas incluso en el extranjero.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo es un ensayo de opinión que expresa la experiencia personal del autor como testimonio de la opresión política en Nicaragua bajo el régimen de Ortega.  Su perspectiva única y la gravedad de la situación descrita lo hacen altamente relevante para la categoría."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "The real danger in this permacrisis is not the political drama: it’s the risk that nothing changes | Nesrine Malik",
-      "link": "https://www.theguardian.com/commentisfree/2025/aug/04/real-danger-permacrisis-political-drama-risk-nothing-changes",
-      "fecha_obj": "2025-08-04T05:00:02+00:00",
-      "fecha_str": "04-08-2025 05:00 UTC",
+      "titulo": "Poland is sliding back towards populism. Democrats elsewhere should heed our mistakes | Karolina Wigura and Jarosław Kuisz",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/05/poland-populism-democrats-donald-tusk",
+      "fecha_obj": "2025-08-05T04:00:45+00:00",
+      "fecha_str": "05-08-2025 04:00 UTC",
       "source_name": "The Guardian Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "El verdadero peligro no es el drama político, sino la incapacidad de cambio ante una crisis permanente.",
-      "resumen": "El artículo analiza la fragmentación política actual, ejemplificada por el surgimiento de nuevos partidos y la ineficacia de los gobiernos tradicionales.  Señala la baja participación electoral, la impopularidad de los partidos mayoritarios y la incapacidad de estos para abordar problemas como el costo de vida o la política exterior.  La autora argumenta que el sistema político, con su falta de representación proporcional y altas barreras de entrada, perpetúa el statu quo, a pesar del descontento popular.  La proliferación de medios alternativos refleja esta desconexión, mostrando una creciente demanda de discursos más comprometidos.  El riesgo, concluye, es una bifurcación permanente: gobiernos impotentes frente a una creciente polarización y histeria.",
+      "teaser_sentence": "El auge y la caída del gobierno liberal polaco: una lección para los demócratas globales.",
+      "resumen": "El artículo analiza el breve periodo de gobierno liberal en Polonia tras la derrota del partido populista Ley y Justicia.  A pesar del triunfo inicial, el gobierno de Tusk ha perdido popularidad, mostrando la dificultad de gobernar tras un régimen populista.  Los autores argumentan que la falta de una visión de futuro y la incapacidad de marcar un rumbo propio, copiando las políticas populistas, han llevado a este fracaso.  Se destaca la necesidad de una estrategia proactiva que ofrezca una alternativa atractiva a las propuestas populistas, más allá de la simple oposición, para asegurar la estabilidad democrática a largo plazo, aprendiendo de los errores cometidos en Polonia y otros países.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo presenta una opinión argumentada y analítica sobre un tema de actualidad política, con ejemplos concretos y una estructura de ensayo.  Su análisis profundo y su estilo reflexivo lo hacen altamente relevante para la categoría 'Opinión Ensayo'."
+      "relevancia_justificacion": "El artículo presenta un análisis profundo y argumentado sobre el populismo, ofreciendo una perspectiva global y ejemplos concretos. Se enmarca perfectamente en la categoría 'Opinión Ensayo' por su carácter analítico, reflexivo y basado en una opinión fundamentada."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "Trump’s Campaign to Coerce Advertisers Into Backing Conservative Media",
-      "link": "https://www.nytimes.com/2025/07/30/opinion/ftc-advertiser-media-boycott.html",
-      "fecha_obj": "2025-08-04T05:18:38+00:00",
-      "fecha_str": "04-08-2025 05:18 UTC",
+      "titulo": "Trump Has Soured on Putin. Putin Couldn’t Care Less.",
+      "link": "https://www.nytimes.com/2025/08/05/opinion/putin-trump-deadline-ukraine.html",
+      "fecha_obj": "2025-08-05T05:31:06+00:00",
+      "fecha_str": "05-08-2025 05:31 UTC",
       "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "La FTC presiona a agencias publicitarias para que anuncien en medios conservadores, generando controversia.",
-      "resumen": "La administración Trump, conocida por reprimir la oposición política, intenta impedir que anunciantes boicoteen medios conservadores.  La FTC, rompiendo con su práctica habitual, condicionó la aprobación de una fusión de agencias publicitarias a que no se nieguen a colocar anuncios en sitios web por razones políticas.  Aunque aparentemente neutral, la medida parece dirigida a apoyar a medios de comunicación de derecha, generando debate sobre el uso del poder gubernamental para influir en la publicidad y la libertad de expresión.",
+      "teaser_sentence": "Trump amenaza a Putin, pero Rusia lo ignora; la relación entre ambos países se deteriora.",
+      "resumen": "El artículo analiza la deteriorada relación entre Trump y Putin.  A pesar de las amenazas de Trump con sanciones y aranceles a Rusia y sus socios comerciales, Putin y su círculo muestran indiferencia. Creen que Trump no se atreverá a tomar medidas drásticas que afectarían los precios del petróleo y sus relaciones con China, India y Turquía.  La respuesta de Rusia a las amenazas de Trump ha sido delegada a figuras como Dmitri Medvedev, quien emite declaraciones incendiarias, incluyendo amenazas nucleares.  El artículo concluye que Putin considera cualquier acuerdo con Estados Unidos como temporal y sin valor, mostrando una falta de confianza en la posibilidad de una relación funcional con el gobierno estadounidense.",
       "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta una postura crítica sobre la acción de la FTC, analizando sus implicaciones políticas y económicas.  Su naturaleza argumentativa y su análisis de una situación controvertida lo hacen altamente relevante para un ensayo de opinión."
+      "relevancia_justificacion": "El artículo presenta una opinión sobre la dinámica geopolítica entre Estados Unidos y Rusia bajo la administración Trump, ofreciendo un análisis interpretativo de las acciones y reacciones de ambos líderes y sus consecuencias.  Su enfoque analítico y la interpretación de las acciones de los actores involucrados lo hacen adecuado para un ensayo de opinión."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "‘We can hear their saliva’: why are so many actors suddenly using microphones?",
-      "link": "https://www.theguardian.com/stage/2025/aug/04/handheld-microphones-inter-alia-national-chekhov-rosamund-pike",
-      "fecha_obj": "2025-08-04T07:01:03+00:00",
-      "fecha_str": "04-08-2025 07:01 UTC",
-      "source_name": "The Guardian Culture"
+      "titulo": "Lust and anger drive the Bonnie Blue saga, but moral outrage misses the point: this is hardcore economics | Gaby Hinsliff",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/05/bonnie-blue-porn-empire-economics-market-profit",
+      "fecha_obj": "2025-08-05T05:00:44+00:00",
+      "fecha_str": "05-08-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "El auge del micrófono en el teatro: ¿moda o revolución escénica?",
-      "resumen": "El uso de micrófonos de mano en producciones teatrales, antes poco común, está experimentando un aumento significativo. Directores como Thomas Ostermeier y Daniel Fish los utilizan para potenciar la voz del actor, creando efectos sonoros y otorgando un nuevo significado a la puesta en escena.  Si bien algunos lo ven como una herramienta para la innovación y la intimidad con el público, otros lo critican como una moda pasajera que menosprecia la tradición de la proyección vocal.  El debate gira en torno a si se trata de una herramienta que enriquece la expresión artística o una simple tendencia efímera, pero la discusión destaca la evolución y la exploración constante en el mundo del teatro.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo analiza una tendencia actual en el teatro, un tema central en la categoría 'Cultura Arte'.  Discute las implicaciones artísticas, técnicas y sociales de esta práctica, ofreciendo una perspectiva profunda y relevante sobre la evolución de las artes escénicas."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "Jillian Conrad Redefines the Limits of Drawing",
-      "link": "https://hyperallergic.com/1030737/jillian-conrad-redefines-the-limits-of-drawing-menil-institute/",
-      "fecha_obj": "2025-08-03T20:01:00+00:00",
-      "fecha_str": "03-08-2025 20:01 UTC",
-      "source_name": "Hyperallergic"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Jillian Conrad redefine los límites del dibujo con esculturas que exploran el espacio, el tiempo y la conexión entre lo visible y lo invisible.",
-      "resumen": "La exposición \"What drawing can be: four responses\" presenta las nuevas esculturas de Jillian Conrad, que combinan materiales inesperados y referencias históricas. Piezas como \"Cetus\", \"Letter\" y \"Fork\" exploran la relación entre dibujo, escultura y la percepción del espacio.  Conrad utiliza elementos cotidianos y referencias mitológicas para crear obras que invitan a la reflexión sobre la conexión entre pasado y presente, lo visible y lo invisible, y la naturaleza misma del arte. La muestra, en el Menil Drawing Institute, destaca la capacidad del dibujo para trascender sus límites tradicionales.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata exclusivamente sobre una exposición de arte contemporáneo, analizando en profundidad la obra de una artista y su impacto.  Es altamente relevante para la categoría 'Cultura Arte' por su enfoque en la creación artística, la crítica de arte y el contexto de una muestra específica."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "Hande Sever Tells a Story of War and Art",
-      "link": "https://hyperallergic.com/1031165/hande-sever-tells-a-story-of-war-and-art-redcat/",
-      "fecha_obj": "2025-08-03T20:00:00+00:00",
-      "fecha_str": "03-08-2025 20:00 UTC",
-      "source_name": "Hyperallergic"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Hande Sever explora la intersección entre arte, guerra e imperialismo otomano en una impactante muestra.",
-      "resumen": "La exposición individual de Hande Sever, \"Take off your eyes\", en REDCAT, Los Ángeles, analiza la relación entre arte y violencia a través de dos instalaciones.  \"To Thread Air\" utiliza un ensayo fílmico y fotos para examinar la propaganda bélica estadounidense y turca, conectando figuras como Reagan y Evren.  \"In Search of ‘My Beloved Pauline’\" contrapone fotos de un soldado alemán en Anatolia durante el genocidio armenio con imágenes contemporáneas, revelando la ocultación histórica. La muestra, montada en estructuras de madera provisionales, invita a la reflexión sobre la manipulación de la narrativa a través de los medios y el arte, y la conexión íntima entre historias aparentemente dispares.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "La exposición se centra directamente en el análisis del arte como herramienta de propaganda y reflejo de conflictos históricos, siendo altamente relevante para la categoría 'Cultura Arte'."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "‘Who was going to carry Elvis’s drugs and guns?’ How Colonel Tom Parker always looked out for the King",
-      "link": "https://www.theguardian.com/music/2025/aug/04/elvis-presley-manager-colonel-tom-parker-guns-drugs",
-      "fecha_obj": "2025-08-04T04:00:59+00:00",
-      "fecha_str": "04-08-2025 04:00 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Nueva biografía revela la compleja relación entre Elvis Presley y su manager, el Coronel Tom Parker, desmintiendo mitos.",
-      "resumen": "Peter Guralnick, en su nueva biografía \"The Colonel and the King\", ofrece una visión matizada del Coronel Tom Parker, manager de Elvis Presley.  A través de miles de cartas y documentos, Guralnick revela un hombre más complejo que el estereotipo del explotador.  Se destaca la lealtad y dedicación de Parker a Presley, su papel en protegerlo de la industria, y la negación de la teoría de que Parker impidió las giras internacionales de Elvis.  La biografía argumenta que la incapacidad de Elvis para viajar se debió a sus adicciones y posesión de armas.  Guralnick muestra una relación profundamente entrelazada, aunque no exenta de tensiones, entre ambos hombres,  revelando una \"tragedia compartida\".",
+      "teaser_sentence": "Bonnie Blue, estrella de OnlyFans, monetiza la lujuria y la ira, desafiando las normas y generando un debate ético y económico.",
+      "resumen": "El artículo analiza el fenómeno de Bonnie Blue, una creadora de contenido para adultos en OnlyFans que ha generado controversia por sus videos explícitos y su estrategia de marketing. Su modelo de negocio se basa en la interacción directa con sus fans, llevando las relaciones parasociales al extremo.  La autora argumenta que el éxito de Bonnie Blue no se debe solo a la sexualidad, sino a la habilidad de monetizar la lujuria y la ira, aprovechando la atención en la era digital.  El artículo plantea un debate sobre la regulación del contenido para adultos, la explotación, y el impacto en la sociedad, especialmente en jóvenes, cuestionando si la respuesta debe ser la censura o la regulación.",
       "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo analiza la figura clave del manager de Elvis Presley, un personaje fundamental en la historia de la música popular del siglo XX, explorando su relación con el artista y su impacto en su carrera. Esto lo hace altamente relevante para la categoría 'Cultura Arte'."
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre un tema de actualidad con implicaciones sociales y económicas, analizando críticamente el fenómeno de Bonnie Blue y sus consecuencias.  Se estructura como un ensayo de opinión, ofreciendo una perspectiva analítica y reflexiva, más allá de una simple descripción de hechos."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "I’m Old, but Not When I Swim",
+      "link": "https://www.nytimes.com/2025/08/02/opinion/old-age-swimming.html",
+      "fecha_obj": "2025-08-05T01:36:01+00:00",
+      "fecha_str": "05-08-2025 01:36 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El agua rejuvenece: un hombre reflexiona sobre el paso del tiempo y la transformación que experimenta al nadar.",
+      "resumen": "El autor recuerda una experiencia en Cape Cod donde una corriente de resaca lo alejó de su familia mientras buscaba una pelota de tenis.  Este recuerdo contrasta con su experiencia actual nadando en una piscina de Long Island.  A pesar de su edad, siente una transformación rejuvenecedora al entrar en el agua, describiendo su cuerpo como un 'carguero de los años 40' en tierra, que se vuelve ligero y ágil en la piscina.  El agua, para él, representa un milagro silencioso que contrarresta los efectos del envejecimiento, ofreciendo una sensación de juventud renovada.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo es una reflexión personal sobre el envejecimiento y la experiencia subjetiva del autor, expresada a través de una anécdota y una descripción introspectiva.  Su naturaleza reflexiva y la opinión personal del autor lo hacen altamente relevante para la categoría 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Samsung Promo Codes: 30% Off | August 2025",
+      "link": "https://www.wired.com/story/samsung-promo-codes/",
+      "fecha_obj": "2025-08-05T06:00:00+00:00",
+      "fecha_str": "05-08-2025 06:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ahorra hasta un 40% en electrodomésticos Samsung y un 30% extra para empleados públicos.",
+      "resumen": "El artículo detalla las promociones de Samsung en agosto de 2025, incluyendo descuentos de hasta un 40% en refrigeradores y hornos Bespoke,  hasta un 35% en televisores (con ofertas adicionales por intercambio), y un 30% para empleados públicos, militares y educadores.  Se ofrecen descuentos adicionales en smartphones Galaxy (S25, Z Fold7, Z Flip7),  con opciones de intercambio y bundles.  También hay promociones para nuevos suscriptores al newsletter y un programa de referidos.  El artículo destaca la conveniencia de registrarse en Samsung Rewards para acceder a ofertas exclusivas.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo se centra en productos tecnológicos de Samsung (smartphones, tablets, TVs, electrodomésticos inteligentes), promociones y ofertas, lo que lo hace altamente relevante para la categoría 'Ciencia y Tecnología'."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "HP Coupon Codes and Deals: Up to 60% Off | August 2025",
+      "link": "https://www.wired.com/story/hp-coupon-code/",
+      "fecha_obj": "2025-08-05T05:30:00+00:00",
+      "fecha_str": "05-08-2025 05:30 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ahorra hasta un 60% en ordenadores, monitores y más con los códigos de descuento de HP.",
+      "resumen": "El artículo detalla diversas ofertas y códigos de descuento de HP para agosto de 2025.  Se destacan promociones para monitores (HP Omen Transcend 32 y HP V27i G5), ordenadores de sobremesa y portátiles (EliteBook 860, ProBook, OmniBook Ultra Flip, Victus y Omen), impresoras y accesorios.  Se ofrecen descuentos para estudiantes, militares, personal sanitario y de emergencias, además de un descuento de $20 en el primer pedido y promociones especiales por packs.  Las ofertas incluyen hasta un 40% de descuento para estudiantes y militares, y un 60% en otras promociones.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo se centra en productos tecnológicos (monitores, ordenadores, impresoras) y sus ofertas, lo que lo hace altamente relevante para la categoría 'Ciencia y Tecnología'. La información sobre descuentos y promociones también es útil para el público interesado en tecnología."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
+      "link": "https://www.wired.com/story/legalzoom-promo-code/",
+      "fecha_obj": "2025-08-05T05:20:00+00:00",
+      "fecha_str": "05-08-2025 05:20 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Forma tu LLC con LegalZoom y obtén un 10% de descuento con nuestro código exclusivo.",
+      "resumen": "El artículo describe la experiencia del autor usando LegalZoom para formar una LLC, destacando su facilidad de uso a pesar del costo, que puede variar entre $35 y $500 dependiendo del estado.  Se ofrece un código de promoción para un 10% de descuento en la formación de LLCs.  Además, menciona otras ofertas de LegalZoom, incluyendo descuentos en planes testamentarios y promociones estacionales.  El autor recomienda investigar los requisitos estatales antes de contratar servicios adicionales.",
+      "relevancia_score": 2,
+      "relevancia_justificacion": "El artículo se centra en un servicio legal online. Si bien LegalZoom utiliza tecnología, la temática principal no es ciencia ni tecnología, sino servicios legales para negocios."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "TonyInterruptor by Nicola Barker review – satire that sees right through you",
+      "link": "https://www.theguardian.com/books/2025/aug/05/tonyinterruptor-by-nicola-barker-review-satire-that-sees-right-through-you",
+      "fecha_obj": "2025-08-05T06:00:45+00:00",
+      "fecha_str": "05-08-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Una sátira hilarante sobre la autenticidad en el arte y la vida, donde la búsqueda de la honestidad lleva a situaciones inesperadas.",
+      "resumen": "La novela \"TonyInterruptor\" de Nicola Barker sigue el juicio en redes sociales de una músico acusada de fraude artístico.  La historia se expande a los personajes cercanos al evento, explorando la hipocresía y la búsqueda incesante de autenticidad en un mundo lleno de falsedades.  Con un estilo narrativo exuberante y metafórico, Barker critica la autoconciencia y la afectación, tanto en el arte como en la vida personal.  La novela culmina con un giro romántico, donde el amor se convierte en el camino hacia la iluminación, demostrando que los errores y las imperfecciones son parte del proceso de autodescubrimiento.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La reseña analiza una novela que explora la naturaleza del arte, la autenticidad y la crítica artística, temas centrales en la categoría 'Cultura Arte'.  La discusión sobre la recepción del arte en la era digital y la relación entre el artista y la audiencia es altamente relevante."
     },
     "categoria": "cultura_arte"
   },
   {
     "info": {
-      "titulo": "TV tonight: Jordan Dunbar meets survivors of the Hiroshima nuclear bomb",
-      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/04/tv-tonight-jordan-dunbar-survivors-hiroshima-nuclear-bomb-documentary",
-      "fecha_obj": "2025-08-04T05:20:00+00:00",
-      "fecha_str": "04-08-2025 05:20 UTC",
+      "titulo": "She’s Behind You review – Christmas comes early to Edinburgh with panto songs, sweets and subversive spirit",
+      "link": "https://www.theguardian.com/stage/2025/aug/05/shes-behind-you-review-traverse-theatre-edinburgh",
+      "fecha_obj": "2025-08-05T07:00:46+00:00",
+      "fecha_str": "05-08-2025 07:00 UTC",
       "source_name": "The Guardian Culture"
     },
     "resumen_datos": {
-      "teaser_sentence": "Esta noche en TV: desde supervivientes de Hiroshima hasta secuestros y la edad dorada.",
-      "resumen": "La programación televisiva de esta noche ofrece una variada selección de documentales y series.  'What Happened at Hiroshima' muestra el testimonio de supervivientes del bombardeo atómico. 'Panorama: Why I Joined a Riot' explora las causas de los disturbios en Southport. 'Michael Mosley: Secrets of the Superagers' investiga los secretos de la longevidad. 'Human' documenta la llegada del hombre a América. 'Chloe Ayling: My Unbelievable Kidnapping' relata el secuestro de la modelo. Finalmente, 'The Gilded Age' continúa con su tercera temporada.",
-      "relevancia_score": 3,
-      "relevancia_justificacion": "Si bien 'The Gilded Age' podría considerarse relevante para la categoría 'Cultura Arte' por ser una serie de época, el resto de la programación se centra en temas de actualidad, historia y ciencia, con poca relación directa con las artes."
+      "teaser_sentence": "She’s Behind You: Un espectáculo de pantomima escocés que reimagina la tradición, subvirtiendo clichés y celebrando la inclusión.",
+      "resumen": "La obra \"She’s Behind You\" protagonizada por la icónica Dorothy Blawna-Gale, creación de Johnny McKnight, no solo entretiene con canciones y juegos, sino que explora el potencial radical del pantomima. McKnight narra su trayectoria, desde sus inicios imitando a Johnny Beattie hasta su transformación del pantomima tradicional, desafiando estereotipos de género y homofobia.  La pieza celebra la inclusión, cuestiona las convenciones y reivindica el espíritu subversivo del género, mostrando cómo la evolución de McKnight refleja un cambio social. El espectáculo es una comedia divertida con un mensaje poderoso sobre la identidad, la representación y la lucha contra la discriminación.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre una obra de teatro que explora la cultura y el arte del pantomima, analizando su evolución y su capacidad para abordar temas sociales relevantes como la inclusión y la representación.  Su alto nivel de análisis cultural y artístico justifica la puntuación."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Spot the human! Bodies embedded in nature – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2025/aug/05/human-bodies-in-nature-pictures-azita-gandjei-photos",
+      "fecha_obj": "2025-08-05T06:00:44+00:00",
+      "fecha_str": "05-08-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Cuerpos entrelazados con la naturaleza: una fusión de humanidad y paisaje.",
+      "resumen": "La imagen \"Persephone II\" muestra un cuerpo humano entrelazado con raíces, representando la profunda conexión entre la humanidad y la tierra.  La obra artística ilustra la idea mítica de que la tierra nos moldea a la vez que nosotros la moldeamos. Las raíces simbolizan la ascendencia, la memoria y la pertenencia.  La pieza explora la relación íntima e inseparable entre el ser humano y el entorno natural, donde la forma humana se convierte en un recipiente y un paisaje simultáneamente. Se trata de una reflexión visual sobre nuestra conexión ancestral y nuestra identidad en relación con el mundo natural.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La obra de arte explora la relación entre el cuerpo humano y la naturaleza, un tema recurrente en la historia del arte.  Su simbolismo y la reflexión sobre la identidad humana la hacen altamente relevante para la categoría 'Cultura Arte', aunque podría considerarse también en otras categorías."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Can’t Look Away review – a harrowing, heartbreaking indictment of social media’s ruthlessness",
+      "link": "https://www.theguardian.com/film/2025/aug/05/cant-look-away-review-a-harrowing-heartbreaking-indictment-of-social-medias-ruthlessness",
+      "fecha_obj": "2025-08-05T06:00:43+00:00",
+      "fecha_str": "05-08-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Documental impactante revela la responsabilidad de las redes sociales en tragedias juveniles.",
+      "resumen": "El documental \"Can’t Look Away\" expone la negligencia de compañías de redes sociales como Facebook y Snapchat ante el contenido dañino que afecta a jóvenes.  Basado en la investigación de Olivia Carville, el film sigue la lucha del Social Media Victims Law Center contra gigantes tecnológicos, representando a familias que han sufrido pérdidas debido a contenido como videos de autoasfixia o sextorsión.  El documental cuestiona la inmunidad legal de estas empresas (sección 230) y la priorización de beneficios sobre la salud de los usuarios, comparándolas con las tabacaleras. Si bien logra un triunfo al evitar el despido de un caso contra Snapchat, la película destaca la magnitud del desafío para demostrar la manipulación sistemática de algoritmos para explotar las tendencias negativas de los usuarios.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien el tema principal es la responsabilidad social y legal, el documental utiliza el cine como medio para abordar un asunto de interés público con gran impacto cultural, generando debate y reflexión sobre el uso de las redes sociales y su influencia en la sociedad."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: are you one of the 2.6 million in UK with ADHD?",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/05/tv-tonight-do-you-have-adhd-mosley",
+      "fecha_obj": "2025-08-05T05:20:43+00:00",
+      "fecha_str": "05-08-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: documentales, restauración, costura y la vida en Pompeya.",
+      "resumen": "La programación televisiva de esta noche ofrece una variada selección de programas.  'Do You Have ADHD?' explora el trastorno por déficit de atención e hiperactividad. 'The Repair Shop' restaura una pintura de un apicultor. 'The Great British Sewing Bee' celebra las tradiciones textiles coreanas. 'Pompeii: Life in the City' muestra excavaciones en Pompeya. 'The Nazi Cartel' continúa su relato sobre el narcotráfico en Bolivia. Finalmente, 'Creature Commandos' ofrece una entrega de dibujos animados para adultos. También se incluye un evento deportivo: The Hundred Cricket.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien 'The Repair Shop' se centra en la restauración de arte y 'The Great British Sewing Bee' en la tradición textil, el resto de la programación se centra en otros temas, limitando la relevancia general para la categoría 'Cultura Arte'."
     },
     "categoria": "cultura_arte"
   }
