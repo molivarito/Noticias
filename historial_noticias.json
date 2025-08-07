@@ -1,321 +1,257 @@
 [
   {
     "info": {
-      "titulo": "Guerre à Gaza : 20 morts dans l’accident d’un camion de vivres, selon la Défense civile",
-      "link": "https://www.lefigaro.fr/international/guerre-a-gaza-20-morts-dans-l-accident-d-un-camion-de-vivres-selon-la-defense-civile-20250806",
-      "fecha_obj": "2025-08-06T07:11:29+00:00",
-      "fecha_str": "06-08-2025 07:11 UTC",
-      "source_name": "Le Figaro"
+      "titulo": "Emmanuel Macron se résout à l’épreuve de force avec l’Algérie",
+      "link": "https://www.lemonde.fr/afrique/article/2025/08/07/emmanuel-macron-se-resout-a-l-epreuve-de-force-avec-l-algerie_6627268_3212.html",
+      "fecha_obj": "2025-08-07T07:16:29+00:00",
+      "fecha_str": "07-08-2025 07:16 UTC",
+      "source_name": "Le Monde International"
     },
     "resumen_datos": {
-      "teaser_sentence": "Accidente de camión con ayuda humanitaria en Gaza deja 20 muertos; Israel investiga.",
-      "resumen": "Un camión que transportaba ayuda humanitaria se volcó en la zona de Nusseirat, Gaza, causando la muerte de 20 civiles y decenas de heridos.  El suceso ocurrió mientras cientos de personas esperaban comida. La Defensa Civil de Gaza acusa al ejército israelí de obligar al camión a usar rutas peligrosas previamente bombardeadas, mientras que el gobierno de Gaza, dirigido por Hamas, denuncia un comportamiento deliberadamente criminal por parte de Israel.  El ejército israelí está verificando la información.",
+      "teaser_sentence": "Macron endurece postura contra Argelia, amenazando con sanciones por temas migratorios y de seguridad.",
+      "resumen": "El presidente francés Emmanuel Macron ha adoptado una postura inédita y más dura contra Argelia, instando al gobierno a responder con \"más firmeza y determinación\" a las dificultades migratorias y de seguridad.  En una carta al primer ministro, Macron sugiere medidas de represalia, incluyendo la suspensión de un acuerdo sobre pasaportes oficiales y diplomáticos.  Esta acción representa un cambio significativo en la política francesa hacia Argelia, adoptando un tono más maximalista y de confrontación, similar al del ministro del Interior.  Aunque Macron menciona el respeto a los socios, la sugerencia de sanciones indica una postura firme y una posible escalada de tensiones entre ambos países.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El suceso es un evento de gran magnitud con consecuencias humanitarias graves que involucra a dos actores internacionales, Israel y el gobierno de Gaza, en medio de un conflicto. Es relevante para la categoría internacional por su impacto geopolítico y humanitario."
+      "relevancia_justificacion": "La noticia trata sobre una decisión política de gran importancia entre dos países, Francia y Argelia, con implicaciones internacionales en materia de migración y seguridad.  Afecta directamente las relaciones internacionales y la política exterior de ambos estados."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Hiroshima, 80 ans après le largage de la bombe, appelle le monde à abandonner l’arme nucléaire",
-      "link": "https://www.lefigaro.fr/flash-actu/hiroshima-80-ans-apres-minute-de-silence-a-l-heure-du-largage-de-la-bombe-atomique-20250806",
-      "fecha_obj": "2025-08-06T07:05:32+00:00",
-      "fecha_str": "06-08-2025 07:05 UTC",
+      "titulo": "Le déficit commercial français se creuse encore en juin à 7,7 milliards d’euros",
+      "link": "https://www.lefigaro.fr/conjoncture/le-deficit-commercial-francais-se-creuse-encore-en-juin-a-7-7-milliards-d-euros-20250807",
+      "fecha_obj": "2025-08-07T07:08:19+00:00",
+      "fecha_str": "07-08-2025 07:08 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "80 años de Hiroshima: un llamado mundial al abandono de las armas nucleares ante crecientes tensiones geopolíticas.",
-      "resumen": "El 6 de agosto se conmemoraron 80 años del bombardeo atómico de Hiroshima.  La ceremonia, con representantes de cien países, sirvió para recordar las 140.000 víctimas y las 74.000 de Nagasaki. El alcalde de Hiroshima, Kazumi Matsui, criticó la creciente militarización, especialmente la posesión del 90% de las armas nucleares por parte de EEUU y Rusia,  y la aceptación de estas armas como elemento de defensa nacional.  Matsui instó a un mundo sin armas nucleares,  mientras que el Primer Ministro japonés, Shigeru Ishiba, recalcó el papel de Japón como líder en este esfuerzo, tras ser la única nación bombardeada atómicamente en guerra.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata sobre un evento de conmemoración internacional de gran importancia histórica y geopolítica,  con implicaciones globales sobre el desarme nuclear y las tensiones internacionales actuales.  La conmemoración de Hiroshima es un evento de relevancia mundial."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "L’ONU estime qu’un élargissement des opérations israéliennes à Gaza aurait «des conséquences catastrophiques»",
-      "link": "https://www.lefigaro.fr/flash-actu/l-onu-estime-qu-un-elargissement-des-operations-israeliennes-a-gaza-aurait-des-consequences-catastrophiques-20250805",
-      "fecha_obj": "2025-08-06T07:03:59+00:00",
-      "fecha_str": "06-08-2025 07:03 UTC",
-      "source_name": "Le Figaro"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "ONU advierte consecuencias catastróficas si Israel amplía la operación militar en Gaza.",
-      "resumen": "La ONU expresa su profunda preocupación por una posible expansión de la ofensiva militar israelí en Gaza, calificándola de potencialmente catastrófica.  Declaraciones del primer ministro israelí, Benjamín Netanyahu, sobre la necesidad de \"vencer totalmente al enemigo\" en Gaza, junto con reportes de prensa que sugieren una inminente ocupación total del territorio, alimentan estos temores.  Un alto funcionario de la ONU recordó que Gaza debe formar parte de un futuro Estado palestino, según el derecho internacional.  La situación se considera crítica, con reuniones de seguridad de alto nivel en Israel para determinar el curso de las operaciones militares.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata sobre un conflicto internacional de gran magnitud, con implicaciones geopolíticas globales y una alta participación de la ONU. La amenaza de una escalada bélica y las declaraciones de líderes mundiales lo convierten en una noticia de relevancia internacional máxima."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Foot : snobé par l’Angleterre, Mason Greenwood opte pour une autre sélection",
-      "link": "https://www.lefigaro.fr/sports/football/ligue-1/foot-snobe-par-l-angleterre-mason-greenwood-opte-pour-une-autre-selection-20250806",
-      "fecha_obj": "2025-08-06T07:09:44+00:00",
-      "fecha_str": "06-08-2025 07:09 UTC",
-      "source_name": "Le Figaro"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Mason Greenwood jugará con la selección de Jamaica tras ser descartado por Inglaterra.",
-      "resumen": "Mason Greenwood, jugador del Olympique de Marseille, jugará para la selección de Jamaica, su país de origen.  Descartado por Inglaterra tras un incidente de cuarentena y acusaciones de violencia doméstica (de las que fue absuelto), Greenwood ha obtenido la ciudadanía jamaicana.  La selección jamaicana, con miras a la próxima Copa del Mundo, busca repatriar jugadores con raíces en el país.  Greenwood podría debutar en las eliminatorias de septiembre contra Bermudas y Trinidad y Tobago, bajo la dirección del seleccionador Steve McClaren.",
+      "teaser_sentence": "El déficit comercial francés empeora en junio, alcanzando los 7,7 mil millones de euros.",
+      "resumen": "Las cifras oficiales de aduanas francesas revelan un creciente déficit comercial en junio, llegando a 7,7 mil millones de euros.  Este aumento se debe principalmente al incremento de las importaciones de productos manufacturados y energía, superando el crecimiento de las exportaciones.  El déficit acumulado en el primer semestre del año asciende a 43 mil millones de euros, mostrando un deterioro de 4,4 mil millones de euros en comparación con el segundo semestre de 2024.  Se espera más información al respecto.",
       "relevancia_score": 9,
-      "relevancia_justificacion": "La noticia tiene relevancia internacional por el cambio de selección de un jugador conocido, involucrando a dos países y un tema con resonancia mediática.  El interés en el futbolista y la competición por la Copa del Mundo incrementan su importancia."
+      "relevancia_justificacion": "La noticia afecta directamente a la economía francesa, un actor importante en el escenario internacional.  El déficit comercial es un indicador clave de la salud económica de un país y tiene implicaciones globales."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Incendie dans l’Aude : une femme est décédée, déjà 11.000 hectares ravagés dans les Corbières",
-      "link": "https://www.lefigaro.fr/actualite-france/direct-incendie-aude-devastateur-ravagent-mort-blesses-20250806",
-      "fecha_obj": "2025-08-06T07:25:38+00:00",
-      "fecha_str": "06-08-2025 07:25 UTC",
+      "titulo": "«Il est possible que l’on ait tout perdu» : dans l’Aude, des vignerons très inquiets pour leurs vignes",
+      "link": "https://avis-vin.lefigaro.fr/terroir-viticulture/il-est-possible-que-l-on-ait-tout-perdu-dans-l-aude-des-vignerons-tres-inquiets-pour-leurs-vignes-20250806",
+      "fecha_obj": "2025-08-07T07:12:26+00:00",
+      "fecha_str": "07-08-2025 07:12 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Incendio en Aude, Francia: un muerto, 11.000 hectáreas arrasadas y casas destruidas.",
-      "resumen": "Un devastador incendio forestal en las Corbières, Aude (Francia), ha consumido más de 11.000 hectáreas de terreno, destruyendo o dañando 25 viviendas.  El fuego, lejos de estar controlado, sigue en progresión.  El balance trágico incluye una víctima mortal, dos civiles heridos (uno de gravedad) y siete bomberos lesionados, dos de ellos hospitalizados.  Una familia reporta la desaparición de un familiar en Saint-Laurent-de-la-Cabrerisse.  Las autoridades recomiendan el confinamiento como medida de protección.",
+      "teaser_sentence": "Incendio devasta viñedos en Aude, Francia; vitivinicultores temen pérdidas totales.",
+      "resumen": "Un devastador incendio en Aude, Francia, ha arrasado 15.000 hectáreas, incluyendo numerosos viñedos.  Vitivinicultores describen la situación como apocalíptica, con pérdidas totales esperadas por algunos.  Una mujer falleció al negarse a evacuar.  Además de la pérdida de cosechas (a 15 días de la vendimia), se lamenta la destrucción de cortafuegos naturales que representaban las viñas.  La falta de recursos como aviones cisterna también se critica. La situación resalta la vulnerabilidad de la región ante eventos climáticos extremos y la necesidad de mayor inversión en prevención de incendios.",
       "relevancia_score": 8,
-      "relevancia_justificacion": "El suceso es una noticia internacional por su magnitud (11.000 hectáreas afectadas, víctimas mortales y heridos), impacto en la población y alcance geográfico.  Aunque localizado en Francia, la escala del desastre lo hace relevante para un público internacional."
+      "relevancia_justificacion": "El evento tiene impacto internacional por sus consecuencias económicas (viticultura francesa) y humanas (víctimas).  La magnitud del desastre y la preocupación por el cambio climático lo hacen relevante a nivel global."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Minería en Chile: ¿cuántas toneladas cuesta una vida?",
-      "link": "https://www.ciperchile.cl/2025/08/05/mineria-en-chile-cuantas-toneladas-cuesta-una-vida/?utm_source=rss&utm_medium=rss&utm_campaign=mineria-en-chile-cuantas-toneladas-cuesta-una-vida",
-      "fecha_obj": "2025-08-05T16:52:07+00:00",
-      "fecha_str": "05-08-2025 16:52 UTC",
+      "titulo": "Municipales : le nouveau mode de scrutin à Paris, Lyon et Marseille examiné par le Conseil constitutionnel",
+      "link": "https://www.lefigaro.fr/politique/municipales-le-nouveau-mode-de-scrutin-a-paris-lyon-et-marseille-examine-par-le-conseil-constitutionnel-20250807",
+      "fecha_obj": "2025-08-07T07:18:54+00:00",
+      "fecha_str": "07-08-2025 07:18 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El Consejo Constitucional de Francia decidirá sobre la reforma del sistema electoral municipal en París, Lyon y Marsella.",
+      "resumen": "El Consejo Constitucional francés revisará una reforma electoral que cambiaría el sistema de votación municipal en París, Lyon y Marsella para 2026.  Actualmente, estas ciudades utilizan un sistema que divide la ciudad en sectores, eligiendo consejeros municipales por sectores y luego el consejo municipal elige al alcalde. La reforma propone un sistema más directo con dos rondas de votación para el consejo municipal, reduciendo el poder de los ayuntamientos de distrito y la prima mayoritaria.  La reforma es controversial, con oposición de algunos partidos de derecha e izquierda, quienes la consideran un 'tripatouillage electoral' y una maniobra para favorecer a ciertos candidatos.  Simulaciones sugieren que la izquierda mantendría el control en las tres ciudades, aunque una alianza entre derecha y centro podría cambiar la situación en París.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "La noticia afecta a tres importantes ciudades francesas, tiene implicaciones políticas nacionales y podría servir como ejemplo para otras reformas electorales.  Aunque centrada en Francia, su alcance político y el potencial impacto en el sistema electoral lo hacen relevante internacionalmente."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "EN DIRECT - Incendie dans l’Aude : les pompiers espèrent pouvoir «fixer dans la journée» l’immense feu dans le massif des Corbières",
+      "link": "https://www.lefigaro.fr/actualite-france/en-direct-incendie-dans-l-aude-l-immense-feu-dans-le-massif-des-corbieres-continue-de-progresser-16-000-hectares-brules-20250807",
+      "fecha_obj": "2025-08-07T07:11:02+00:00",
+      "fecha_str": "07-08-2025 07:11 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Incendio en Corbières, Aude: las llamas amenazan y la ministra propone repensar la agricultura de la región.",
+      "resumen": "Un gran incendio forestal azota el macizo de Corbières en el departamento de Aude, Francia.  Los bomberos esperan controlarlo durante el día.  La situación ha generado controversia, ya que viticultores culpan al gobierno por la disminución de viñedos, que actúan como cortafuegos naturales.  La ministra Agnès Pannier-Runacher, en respuesta a la creciente indignación,  ha afirmado que la agricultura de la región necesita una revisión, argumentando que las prácticas agrícolas tradicionales ya no son sostenibles y que el objetivo debe ser alimentar a la población.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El incendio es una noticia de relevancia internacional por su magnitud y por la implicación de la política agrícola francesa, que tiene consecuencias más allá de las fronteras del país."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "El mito del “voto evangélico”… otra vez",
+      "link": "https://www.ciperchile.cl/2025/08/06/el-mito-del-voto-evangelico-otra-vez/?utm_source=rss&utm_medium=rss&utm_campaign=el-mito-del-voto-evangelico-otra-vez",
+      "fecha_obj": "2025-08-06T19:24:18+00:00",
+      "fecha_str": "06-08-2025 19:24 UTC",
       "source_name": "CIPER Chile"
     },
     "resumen_datos": {
-      "teaser_sentence": "Seis mineros muertos en El Teniente: ¿falla sistémica o accidente aislado?",
-      "resumen": "El accidente en la mina El Teniente, que cobró la vida de seis jóvenes mineros, expone las deficiencias en la seguridad minera chilena.  A pesar de un marco normativo robusto, la fiscalización es insuficiente, reactiva y fragmentada, con limitaciones en recursos y autonomía.  Se critica la priorización de la productividad sobre la seguridad, prácticas organizacionales deficientes, la complejidad de la tercerización y la falta de transferencia de aprendizajes tras accidentes previos.  El artículo propone un cambio de enfoque hacia la Reducción del Riesgo de Desastres (RRD), mayor inversión en investigación y una gestión integrada que priorice la vida humana, involucrando a todos los actores, desde los directorios hasta las comunidades.",
+      "teaser_sentence": "El supuesto voto evangélico unificado es un mito; la diversidad religiosa trasciende las etiquetas políticas.",
+      "resumen": "El artículo desmonta la idea de un \"voto evangélico\" monolítico en las elecciones chilenas.  Argumenta que la diversidad de creencias y opiniones dentro del mundo evangélico impide reducirlo a un bloque político homogéneo.  Critica la instrumentalización de la fe por parte de actores políticos que buscan capitalizar electoralmente esta diversidad, sin el consentimiento de la comunidad.  El autor enfatiza la necesidad de una democracia inclusiva que reconozca la complejidad de las identidades políticas y rechace la manipulación simbólica en nombre de la religión. Señala que si bien un político puede expresar su fe, no puede hablar en nombre de toda una comunidad religiosa.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El accidente minero en El Teniente es una tragedia nacional que involucra la muerte de trabajadores, cuestiona políticas públicas y el modelo de desarrollo del país.  Tiene un impacto directo en la economía, la seguridad laboral y la opinión pública, haciendolo altamente relevante a nivel nacional."
+      "relevancia_justificacion": "El artículo analiza un fenómeno político-religioso relevante en el contexto de las elecciones chilenas, un tema de gran interés nacional que impacta directamente en el debate político y social del país."
     },
     "categoria": "nacional"
   },
   {
     "info": {
-      "titulo": "Exconcejal de Las Condes, Carlos Larraín Hurtado, fue multado con $1 millón por no presentar declaraciones de intereses y patrimonio",
-      "link": "https://www.ciperchile.cl/2025/08/05/exconcejal-de-las-condes-carlos-larrain-hurtado-fue-multado-con-1-millon-por-no-presentar-declaraciones-de-intereses-y-patrimonio/?utm_source=rss&utm_medium=rss&utm_campaign=exconcejal-de-las-condes-carlos-larrain-hurtado-fue-multado-con-1-millon-por-no-presentar-declaraciones-de-intereses-y-patrimonio",
-      "fecha_obj": "2025-08-06T01:48:49+00:00",
-      "fecha_str": "06-08-2025 01:48 UTC",
+      "titulo": "Día Nacional de la Miel: más allá del dulzor",
+      "link": "https://www.ciperchile.cl/2025/08/06/dia-nacional-de-la-miel-mas-alla-del-dulzor/?utm_source=rss&utm_medium=rss&utm_campaign=dia-nacional-de-la-miel-mas-alla-del-dulzor",
+      "fecha_obj": "2025-08-06T12:56:04+00:00",
+      "fecha_str": "06-08-2025 12:56 UTC",
       "source_name": "CIPER Chile"
     },
     "resumen_datos": {
-      "teaser_sentence": "Exconcejal de Las Condes multado por no declarar patrimonio, otro concejal con el mismo problema.",
-      "resumen": "El exconcejal de Las Condes, Carlos Larraín Hurtado, fue multado con $1 millón por no presentar sus declaraciones de intereses y patrimonio (DIP) en el periodo 2012-2021.  Similarmente, el actual concejal Guillermo Ureta Larraín enfrenta problemas para publicar sus DIP.  Ambos casos destacan la falta de cumplimiento y la ineficacia de las sanciones actuales para asegurar la transparencia en la gestión pública. Larraín apelará la multa, alegando problemas con el sistema de la CGR. Ureta asegura haber enviado sus declaraciones pero no sabe cómo firmarlas para su publicación. Expertos en transparencia critican la falta de disuasión de las multas, proponiendo sanciones más estrictas y públicas.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo trata sobre la falta de transparencia en la gestión pública de una comuna importante, involucra a autoridades electas y cuestiona la efectividad de los mecanismos de control.  Es un tema de interés nacional por su impacto en la probidad y la confianza ciudadana."
+      "teaser_sentence": "El Día Nacional de la Miel en Chile revela la amenaza de agroquímicos en la producción, instando a políticas públicas para proteger a las abejas y la calidad de la miel.",
+      "resumen": "El artículo conmemora el Día Nacional de la Miel en Chile, destacando la importancia de las abejas y la amenaza de la contaminación por agroquímicos en la miel.  Se menciona la investigación científica para purificar la cera (Cleanwax) y la Ley N°21.489 para regular la actividad apícola. Sin embargo, persiste la problemática de pequeños productores sin recursos para enfrentar la contaminación.  El texto aboga por políticas públicas que protejan a las abejas, promuevan prácticas agrícolas sostenibles y financien investigación, además de fomentar el consumo directo de miel para asegurar su calidad y trazabilidad.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata directamente sobre una celebración nacional en Chile (Día Nacional de la Miel),  analiza políticas públicas nacionales relacionadas con la apicultura y la producción de miel, y aborda problemáticas que afectan al sector apícola chileno."
     },
     "categoria": "nacional"
   },
   {
     "info": {
-      "titulo": "13 médicos han ejercido en la salud pública a pesar de que se inscribieron entre siete y nueve veces para rendir el Eunacom sin aprobarlo",
-      "link": "https://www.ciperchile.cl/2025/08/05/13-medicos-han-ejercido-en-la-salud-publica-a-pesar-de-que-se-inscribieron-entre-siete-y-nueve-veces-para-rendir-el-eunacom-sin-aprobarlo/?utm_source=rss&utm_medium=rss&utm_campaign=13-medicos-han-ejercido-en-la-salud-publica-a-pesar-de-que-se-inscribieron-entre-siete-y-nueve-veces-para-rendir-el-eunacom-sin-aprobarlo",
-      "fecha_obj": "2025-08-05T19:26:24+00:00",
-      "fecha_str": "05-08-2025 19:26 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Médicos extranjeros ejercen en Chile sin aprobar el Eunacom tras múltiples intentos fallidos.",
-      "resumen": "Un reportaje de CIPER revela que al menos 13 médicos extranjeros han trabajado en la salud pública chilena sin aprobar el Examen Único Nacional de Conocimientos Médicos (Eunacom), inscribiéndose entre siete y nueve veces sin éxito.  Cinco aún ejercen.  La investigación, basada en registros públicos, muestra que las contrataciones se realizaron, en muchos casos, bajo excepciones legales durante la pandemia o por escasez de profesionales.  Si bien existieron autorizaciones excepcionales, la situación genera preocupación por la calidad de la atención médica y la posible mala praxis.  La Asociación de Facultades de Medicina de Chile (Asofamech) busca mejorar los estándares del Eunacom y limitar el número de intentos.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El tema afecta directamente al sistema de salud público chileno, a la calidad de atención médica y a la regulación de profesionales extranjeros.  La investigación involucra a múltiples instituciones públicas y tiene implicaciones a nivel nacional."
-    },
-    "categoria": "nacional"
-  },
-  {
-    "info": {
-      "titulo": "Gendarmes en la mira",
-      "link": "https://www.ciperchile.cl/2025/08/05/gendarmes-en-la-mira/?utm_source=rss&utm_medium=rss&utm_campaign=gendarmes-en-la-mira",
-      "fecha_obj": "2025-08-05T14:34:03+00:00",
-      "fecha_str": "05-08-2025 14:34 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Financiamiento de CIPER en riesgo: socios claves para su operación.",
-      "resumen": "El artículo 'Gendarmes en la mira' de CIPER no presenta un contenido informativo sobre gendarmes, sino que se centra en la necesidad de financiamiento del medio.  Su principal fuente de ingresos proviene de sus socios, a quienes invita a unirse a la 'Comunidad +CIPER'.  El texto no profundiza en ninguna noticia específica, sino que apela directamente a la audiencia para asegurar la sostenibilidad económica del medio.  La falta de información sobre gendarmes en el artículo es notable, y el enfoque se desplaza completamente hacia la situación financiera de CIPER y un llamado a la acción para sus lectores.",
-      "relevancia_score": 2,
-      "relevancia_justificacion": "El artículo carece de contenido noticioso relevante para la categoría 'Nacional'. Su enfoque principal es el llamado a la donación para el medio, sin información de interés público sobre gendarmes o temas de relevancia nacional."
-    },
-    "categoria": "nacional"
-  },
-  {
-    "info": {
-      "titulo": "We’re being deafened by digital noise. Pause it and you hear the sound of democracy in crisis | Rafael Behr",
-      "link": "https://www.theguardian.com/commentisfree/2025/aug/06/digital-democracy-crisis-politics-technological-change",
-      "fecha_obj": "2025-08-06T05:00:47+00:00",
-      "fecha_str": "06-08-2025 05:00 UTC",
+      "titulo": "What’s the best thing world leaders could do now? 'Let go' and 'embrace uncertainty' | Fran Boait",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/07/world-leaders-keir-starmer-donald-trump-self-help",
+      "fecha_obj": "2025-08-07T07:00:28+00:00",
+      "fecha_str": "07-08-2025 07:00 UTC",
       "source_name": "The Guardian Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "El ruido digital ahoga la democracia; la desconexión revela una crisis de poder.",
-      "resumen": "El autor reflexiona sobre la sobrecarga de información digital, comparándola con crisis históricas como la invención de la imprenta y la escritura.  Argumenta que esta 'crisis de información' afecta nuestra capacidad de juicio y dificulta la adaptación de la política democrática.  Analiza la reciente ley de seguridad online británica, destacando el conflicto entre la regulación de contenido dañino y la libertad de expresión, y la resistencia de las empresas tecnológicas.  Concluye que la ley, aunque imperfecta, representa un intento necesario de las instituciones políticas por controlar el flujo tóxico de información en un mundo digital.",
+      "teaser_sentence": "El control, enemigo del cambio: líderes deben abrazar la incertidumbre para afrontar las crisis globales.",
+      "resumen": "El artículo critica la tendencia al control en la política y las instituciones, argumentando que obstaculiza la capacidad de respuesta ante crisis complejas como el cambio climático y el auge del fascismo.  Se destaca la necesidad de abandonar la búsqueda de certeza, propia de la naturaleza humana y exacerbada por la cultura política actual, para adoptar un enfoque colaborativo y pluralista.  El autor propone un cambio cultural e institucional que priorice la incertidumbre y la humildad en la toma de decisiones, en lugar del control y la dominación, como camino hacia la creación de soluciones efectivas.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo es un ensayo de opinión que explora un tema de actualidad: el impacto de la tecnología en la democracia y la libertad de expresión. Presenta un argumento claro, con ejemplos y análisis, y refleja una postura crítica sobre el poder de las empresas tecnológicas."
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la necesidad de un cambio de paradigma en la gestión política y social, encajando perfectamente en la categoría de ensayo de opinión.  Su análisis profundo, ejemplos concretos y propuesta de solución lo convierten en un texto relevante y bien estructurado para esta categoría."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "Eighty Years of Nuclear Weapons Is Enough",
-      "link": "https://www.nytimes.com/2025/08/06/opinion/hiroshima-nagasaki-anniversary-nuclear-weapons.html",
-      "fecha_obj": "2025-08-06T05:00:05+00:00",
-      "fecha_str": "06-08-2025 05:00 UTC",
+      "titulo": "The biggest problem for Starmer and co: the machinery of government is broken and they can’t fix it | Martin Kettle",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/07/prisons-report-crisis-overcrowding-keir-starmer-labour-uk",
+      "fecha_obj": "2025-08-07T05:00:25+00:00",
+      "fecha_str": "07-08-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Gobierno británico al borde del colapso: un informe revela la ineficacia sistémica y la falta de liderazgo.",
+      "resumen": "Un devastador informe de Anne Owers expone el fracaso del sistema penitenciario británico, atribuyéndolo a la mala gestión gubernamental durante años.  La contradicción entre promesas de mayor seguridad y recortes presupuestarios provocó hacinamiento y una crisis inminente.  Owers critica la burocracia excesiva, la falta de liderazgo ministerial y la resistencia de otros departamentos.  Si bien el actual gobierno laborista ha tomado algunas medidas, el problema es sistémico, afectando a otros sectores.  El artículo argumenta la necesidad de una reforma drástica de prioridades, reconociendo la dificultad pero la imposibilidad de continuar con el sistema actual.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre un problema político relevante, analizando sus causas y consecuencias con evidencia del informe de Owers.  Se ajusta perfectamente a la categoría de ensayo de opinión por su análisis crítico y propuesta de soluciones."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "I’ve Seen How Russia Is Torturing Prisoners of War",
+      "link": "https://www.nytimes.com/2025/08/07/opinion/russia-ukraine-torture.html",
+      "fecha_obj": "2025-08-07T05:00:05+00:00",
+      "fecha_str": "07-08-2025 05:00 UTC",
       "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Testimonio desgarrador de sobreviviente de Nagasaki: 80 años después, el horror nuclear exige la abolición de estas armas.",
-      "resumen": "El artículo presenta el conmovedor relato de una sobreviviente de la bomba atómica en Nagasaki, quien perdió a varios familiares.  Describe los horrores del bombardeo, incluyendo la muerte de aproximadamente 70,000 personas en Nagasaki y 140,000 en Hiroshima, la mayoría civiles. La autora, aceptando el Premio Nobel de la Paz en nombre de Nihon Hidankyo, destaca la labor de esta organización en los últimos 70 años para construir un tabú global contra el uso de armas nucleares, utilizando los testimonios de hibakusha (sobrevivientes de bombas atómicas) para mostrar las consecuencias devastadoras de estas armas.",
+      "teaser_sentence": "Tortura sistemática a prisioneros ucranianos por parte de Rusia: un informe desgarrador.",
+      "resumen": "El artículo denuncia la tortura sistemática de prisioneros de guerra ucranianos por parte de Rusia.  A pesar de los intercambios de prisioneros, miles siguen detenidos en condiciones inhumanas en centros de detención rusos, bielorrusos y en la propia Rusia.  Los testimonios recogidos describen abusos físicos y psicológicos generalizados, incluyendo golpizas, violencia sexual, descargas eléctricas, simulacros de ejecución y desnutrición.  La autora concluye que la tortura es una práctica sistemática e institucionalizada en Rusia, respaldada por el Estado, lo que mina la confianza en Rusia como interlocutor en negociaciones.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo es un ensayo de opinión basado en la experiencia personal de la autora, expresando una postura firme contra las armas nucleares. Su testimonio, junto con la descripción de la labor de Nihon Hidankyo, refuerza la opinión y la convierte en un argumento poderoso para la abolición de estas armas."
+      "relevancia_justificacion": "El artículo presenta una opinión contundente sobre la práctica de tortura por parte de Rusia, basada en evidencia recopilada por la autora.  Su naturaleza argumentativa, basada en hechos y conclusiones, lo hace altamente relevante para la categoría de 'Opinión Ensayo'."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "The Promise of Palestinian Statehood Is Ringing Hollow",
-      "link": "https://www.nytimes.com/2025/08/06/opinion/israel-palestinians-un-statehood.html",
-      "fecha_obj": "2025-08-06T05:00:05+00:00",
-      "fecha_str": "06-08-2025 05:00 UTC",
+      "titulo": "A new coffee-table book shows one thing: celebrity artists should not be allowed near Auschwitz | Agata Pyzik",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/07/juergen-teller-auschwitz-book-artists",
+      "fecha_obj": "2025-08-07T04:00:24+00:00",
+      "fecha_str": "07-08-2025 04:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El nuevo libro de fotos de Auschwitz de Juergen Teller: ¿narcisismo o banalización del horror?",
+      "resumen": "El artículo critica el libro de fotografías de Juergen Teller sobre Auschwitz-Birkenau, argumentando que su enfoque banal y carente de profundidad no contribuye a una comprensión significativa del Holocausto.  La autora cuestiona la invitación a un artista famoso para documentar el campo, destacando el narcisismo de Teller al enfocarse en su propio apellido en el Libro de los Nombres.  Se contrasta el trabajo de Teller con el de Gerhard Richter y Leon Kahane, quienes abordan el tema con enfoques más reflexivos sobre la representación del Holocausto y la persistencia del antisemitismo.  El artículo concluye que el libro de Teller trivializa la memoria del Holocausto y su importancia histórica.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente una obra artística en relación con un evento histórico significativo.  Expresa una opinión fundamentada, ofrece argumentos y contraargumentos, y reflexiona sobre las implicaciones éticas y estéticas de la representación del Holocausto."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "They Let Their Children Cross the Street, and Now They’re Felons",
+      "link": "https://www.nytimes.com/2025/08/06/opinion/children-traffic-death-parents.html",
+      "fecha_obj": "2025-08-06T22:41:32+00:00",
+      "fecha_str": "06-08-2025 22:41 UTC",
       "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Francia, Gran Bretaña y Canadá reconocen Palestina, generando alarma en Israel y EE.UU., mientras la hambruna acecha Gaza.",
-      "resumen": "La decisión de Francia, Gran Bretaña y Canadá de reconocer a Palestina como estado ha generado controversia.  Israel y Estados Unidos lo consideran una recompensa a Hamas tras el ataque del 7 de octubre.  Si bien el reconocimiento afirma la independencia palestina y podría fortalecer su posición legal internacional,  se critica su insuficiencia ante la crisis humanitaria en Gaza, calificada por algunos como genocidio.  A pesar de que 147 países ya reconocen a Palestina, la adhesión de estas potencias occidentales sería un paso significativo, aislando aún más a Estados Unidos.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo presenta una opinión clara sobre el reconocimiento de Palestina, analizando sus implicaciones políticas e internacionales, y criticando su ineficacia ante la crisis humanitaria.  Su estructura argumentativa y análisis crítico lo hacen ideal para la categoría 'Opinión Ensayo'."
+      "teaser_sentence": "Padres encarcelados por dejar a sus hijos caminar: ¿un exceso de control parental?",
+      "resumen": "El artículo relata la historia de los Jenkins, encarcelados por permitir que sus hijos cruzaran la calle sin supervisión.  Esta situación cuestiona el derecho parental a la libertad de crianza en un contexto donde la seguridad infantil se prioriza excesivamente, limitando la autonomía infantil.  La comparación con otro caso de negligencia infantil, donde un padre dejó un arma desprotegida, resalta la inconsistencia en la aplicación de la justicia.  El autor observa la ausencia de niños en las calles de Gastonia, una ciudad que refleja la creciente preocupación por la seguridad y el control en la crianza moderna, contrastando con prácticas más permisivas del pasado.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión clara sobre el exceso de control y la inconsistencia legal en casos de crianza.  Analiza un suceso específico para argumentar sobre un problema social más amplio, lo que lo hace adecuado para un ensayo de opinión."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "Animals keep evolving into anteaters. Could this be the future of humanity? | Helen Pilcher",
-      "link": "https://www.theguardian.com/commentisfree/2025/aug/06/animals-evolving-anteaters-future-of-humanity",
-      "fecha_obj": "2025-08-06T07:00:48+00:00",
-      "fecha_str": "06-08-2025 07:00 UTC",
-      "source_name": "The Guardian Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "La evolución ha producido sorprendentemente anteaters múltiples veces; ¿será el humano el siguiente?",
-      "resumen": "Un estudio revela que mamíferos han evolucionado hacia anteaters en 12 ocasiones.  Este fenómeno de convergencia evolutiva, donde especies desarrollan características similares ante presiones ambientales similares (abundancia de hormigas y termitas), plantea la pregunta: ¿podría la humanidad seguir este camino?  El artículo explora la convergencia evolutiva en otros ejemplos, como la ecolocación y el vuelo.  Sin embargo, se argumenta que aunque predecible en parte, la evolución también es impredecible, influenciada por eventos aleatorios.  Si bien la evolución hacia anteaters representa sostenibilidad, no es un destino inevitable para la humanidad.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "El artículo presenta una opinión basada en evidencia científica sobre la evolución y la posibilidad de un futuro evolutivo para la humanidad,  analizando la convergencia evolutiva y su impredecibilidad.  Combina datos científicos con especulación, propio de un ensayo de opinión."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "We published a photo of a malnourished child in Gaza. It made an impact globally – and created controversy | Elisabeth Ribbans",
-      "link": "https://www.theguardian.com/commentisfree/2025/aug/06/gaza-photo-child-malnourished-medical",
-      "fecha_obj": "2025-08-06T06:00:48+00:00",
-      "fecha_str": "06-08-2025 06:00 UTC",
-      "source_name": "The Guardian Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Foto de niño desnutrido en Gaza genera controversia: ¿falta de información o reflejo de la crisis?",
-      "resumen": "La publicación de una foto de un niño desnutrido en Gaza por The Guardian provocó polémica.  Algunos acusaron al medio de manipulación, alegando que el niño tenía parálisis cerebral y que la imagen no reflejaba una hambruna.  El medio defiende la publicación, argumentando que el niño sufría desnutrición severa agravada por sus condiciones preexistentes, y que la imagen refleja la vulnerabilidad de los niños en la crisis.  Aunque se reconoce la falta de información inicial sobre las otras condiciones del niño, The Guardian sostiene que la imagen no buscaba engañar y refleja la dura realidad de la situación en Gaza.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "El artículo presenta una opinión sobre la ética periodística en la cobertura de crisis humanitarias, analiza las consecuencias de la publicación de una imagen impactante y genera un debate sobre la responsabilidad de los medios.  Se basa en hechos y argumentos, pero también incluye la perspectiva de la autora."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "Police Report: Edward ‘Big Balls’ Coristine Assaulted in Alleged Carjacking",
-      "link": "https://www.wired.com/story/edward-coristine-big-balls-assaulted-alleged-carjacking/",
-      "fecha_obj": "2025-08-06T02:03:26+00:00",
-      "fecha_str": "06-08-2025 02:03 UTC",
+      "titulo": "LG Promo Codes: 20% Off | August 2025",
+      "link": "https://www.wired.com/story/lg-promo-code/",
+      "fecha_obj": "2025-08-07T05:00:00+00:00",
+      "fecha_str": "07-08-2025 05:00 UTC",
       "source_name": "Wired"
     },
     "resumen_datos": {
-      "teaser_sentence": "Atacante de 'Big Balls' Coristine, empleado de DOGE, en presunto carjacking en DC.",
-      "resumen": "Edward \"Big Balls\" Coristine, ingeniero de software de DOGE, y su pareja fueron víctimas de un presunto carjacking en Washington D.C.  La policía arrestó a dos sospechosos, presuntamente menores de edad, tras una agresión que dejó a Coristine herido. El incidente fue reportado por la policía, aunque inicialmente negaron tener un reporte con el nombre de Coristine.  El presidente Trump publicó una foto del incidente en Truth Social, lo que añade complejidad a la situación.  La conexión entre el incidente, la publicación de Trump y la afiliación de Coristine a DOGE generan incertidumbre sobre el trasfondo del evento.",
-      "relevancia_score": 3,
-      "relevancia_justificacion": "Si bien el incidente involucra a un empleado de una organización tecnológica (DOGE), el enfoque principal es el crimen y la respuesta policial, no un avance tecnológico o científico."
+      "teaser_sentence": "Ahorra hasta un 67% en electrodomésticos LG: ¡Ofertas de verano y Labor Day!",
+      "resumen": "El artículo detalla las promociones de LG para agosto de 2025, incluyendo descuentos de hasta el 20% en la primera compra con el código WELCOME20, el 10% en aires acondicionados con SUMMER10, y ofertas especiales por Labor Day con hasta un 67% de descuento en electrodomésticos.  También se mencionan descuentos en televisores (hasta 40%), laptops (hasta 40%), monitores y bundles con importantes rebajas.  Se ofrecen descuentos adicionales para estudiantes, profesores y personal de emergencias, así como programas de recompensas y referidos.  Finalmente, se destacan las ofertas en los nuevos modelos de televisores OLED evo G5, con descuentos y regalos incluidos.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo se centra en productos tecnológicos de LG (TVs, laptops, monitores, electrodomésticos inteligentes),  ofreciendo información relevante sobre precios, promociones y características de los mismos. La mención de tecnología AI en algunos productos aumenta su relevancia en esta categoría."
     },
     "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "Wednesday season two review – Jenna Ortega’s charisma could power 1,000 hearses",
-      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/06/wednesday-season-two-review-jenna-ortega-netflix-tim-burton-steve-buscemi",
-      "fecha_obj": "2025-08-06T07:01:48+00:00",
-      "fecha_str": "06-08-2025 07:01 UTC",
+      "titulo": "‘We’ve got a lot less competitive’: Stanley Donwood on creating Radiohead’s iconic artwork",
+      "link": "https://www.theguardian.com/artanddesign/2025/aug/07/stanley-donwood-interview-radiohead-thom-yorke-art-oxford",
+      "fecha_obj": "2025-08-07T07:00:27+00:00",
+      "fecha_str": "07-08-2025 07:00 UTC",
       "source_name": "The Guardian Culture"
     },
     "resumen_datos": {
-      "teaser_sentence": "Wednesday regresa con nuevos misterios, un acosador y el carismático personaje de Jenna Ortega.",
-      "resumen": "La segunda temporada de Wednesday arranca con Wednesday enfrentando su nueva fama tras los eventos de la primera temporada.  Un nuevo villano, el Kansas City Scalper, aparece brevemente, mientras que un misterioso acosador amenaza a Wednesday.  La academia Nevermore tiene un nuevo director sospechoso y una nueva profesora enigmática.  La dinámica familiar Addams continúa, con Morticia brillando más que Gómez.  La temporada mantiene el humor negro y el ritmo frenético característico, con la carismática Jenna Ortega como eje central.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "La serie es una producción de gran envergadura con una estética cuidada, pertenece al género de misterio y fantasía, y su popularidad la convierte en un fenómeno cultural relevante.  Aborda temas de identidad y relaciones interpersonales dentro de un contexto fantástico."
+      "teaser_sentence": "La colaboración artística entre Stanley Donwood y Thom Yorke de Radiohead, expuesta en el Ashmolean Museum.",
+      "resumen": "El artículo describe la colaboración de 31 años entre Stanley Donwood y Thom Yorke, creando el arte de Radiohead y otros proyectos.  Inicia casualmente, con Donwood, un artista, conociendo a Yorke y posteriormente diseñando portadas. Su proceso es improvisado e in situ, respondiendo a la música en tiempo real. A veces colaboran simultáneamente, otras, Yorke modifica el trabajo de Donwood. La exposición \"This Is What You Get\" en el Ashmolean Museum muestra la variedad de técnicas y el reflejo de la angustia existencial de la música de Radiohead.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo se centra en una exposición de arte, la colaboración entre un artista y un músico famoso, y el proceso creativo detrás de las icónicas portadas de Radiohead.  Es altamente relevante para la categoría 'Cultura Arte'."
     },
     "categoria": "cultura_arte"
   },
   {
     "info": {
-      "titulo": "Wonder women: the bond between sisters – in pictures",
-      "link": "https://www.theguardian.com/artanddesign/gallery/2025/aug/06/siri-kaur-wonder-women-the-bond-between-sisters-in-pictures",
-      "fecha_obj": "2025-08-06T06:00:47+00:00",
-      "fecha_str": "06-08-2025 06:00 UTC",
+      "titulo": "Great Eastern Hotel by Ruchir Joshi review – a panoramic view of India in flux",
+      "link": "https://www.theguardian.com/books/2025/aug/07/great-eastern-hotel-by-ruchir-joshi-review-a-panoramic-view-of-india-in-flux",
+      "fecha_obj": "2025-08-07T06:00:27+00:00",
+      "fecha_str": "07-08-2025 06:00 UTC",
       "source_name": "The Guardian Culture"
     },
     "resumen_datos": {
-      "teaser_sentence": "Un vínculo inquebrantable entre hermanas: una historia de arte y familia contada en imágenes.",
-      "resumen": "La fotógrafa reflexiona sobre su relación con su media hermana, Simran, a través de una imagen tomada en 1999.  A pesar de la diferencia de edad, la conexión entre ambas es palpable.  La fotógrafa destaca la comprensión innata de Simran por su pasión artística y su interés compartido en la observación y comprensión de las personas. La fotografía, tomada en una tarde dorada, captura la mirada penetrante de Simran, revelando una madurez que trasciende su edad. La anécdota ilustra la creación de lazos familiares más allá de los vínculos sanguíneos, resaltando la importancia de la conexión emocional y la influencia mutua en el desarrollo artístico.",
+      "teaser_sentence": "Una novela épica ambientada en el Gran Hotel del Este de Calcuta, un microcosmos de la India en el siglo XX.",
+      "resumen": "La reseña analiza \"Great Eastern Hotel\", la segunda novela de Ruchir Joshi, una extensa obra de más de 300.000 palabras ambientada en el icónico hotel de Calcuta. La trama sigue a Nirupama, una revolucionaria comunista, y a su hijo Saki, quien reconstruye su historia familiar. La novela abarca la época de la Segunda Guerra Mundial, la independencia de la India y el posterior gobierno comunista en Bengala Occidental.  El hotel sirve como metáfora de la ciudad y de la India misma, un espacio de encuentro de diversas culturas y conflictos políticos. A pesar de algunas debilidades narrativas, la reseña destaca la capacidad de Joshi para describir vívidamente el lugar y el tiempo, celebrando su amor por la historia y la cultura de Calcuta.",
       "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo trata sobre una fotografía que refleja una relación familiar, y cómo esta relación ha influenciado el trabajo artístico de la fotógrafa.  La imagen misma es el foco, y la historia que la acompaña profundiza en el significado cultural de la familia y la creación artística."
+      "relevancia_justificacion": "La novela explora temas culturales e históricos de la India, centrándose en la ciudad de Calcuta y su evolución a lo largo del siglo XX.  La reseña destaca la riqueza descriptiva y el valor histórico-cultural de la obra, lo que la hace altamente relevante para la categoría 'Cultura Arte'."
     },
     "categoria": "cultura_arte"
   },
   {
     "info": {
-      "titulo": "The all-female rescue mission to Mars: my opera about a toxic tech bro takeover of the red planet",
-      "link": "https://www.theguardian.com/music/2025/aug/06/all-female-rescue-mission-mars-opera-toxic-tech-bro-takeover-red-planet-jennifer-walshe-abbey",
-      "fecha_obj": "2025-08-06T04:00:47+00:00",
-      "fecha_str": "06-08-2025 04:00 UTC",
+      "titulo": "Wild swimming and TikTok dances: Hiroshima today – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2025/aug/07/wild-swimming-and-tiktok-dances-hiroshima-today-in-pictures",
+      "fecha_obj": "2025-08-07T06:00:26+00:00",
+      "fecha_str": "07-08-2025 06:00 UTC",
       "source_name": "The Guardian Culture"
     },
     "resumen_datos": {
-      "teaser_sentence": "Ópera sobre una misión femenina a Marte: ¿resistencia o sumisión a la corporación?",
-      "resumen": "La ópera describe una misión espacial femenina a Marte, donde cuatro astronautas enfrentan una toma hostil por parte de una empresa liderada por un multimillonario.  La obra explora temas de colonización, tecnología, poder corporativo y la posibilidad de resistencia.  La composición musical se basa en sonidos espaciales reales y sintetizadores, contrastando la atmósfera de la misión con la música electrónica del villano.  El artículo analiza la evolución de la percepción de Marte, desde la decepción de 1965 hasta la actual fascinación empresarial, reflejando las ansiedades y esperanzas de la humanidad.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo describe una ópera, una forma de arte, y analiza su contenido que incluye temas relevantes para la cultura y la sociedad actual, como la exploración espacial, el poder corporativo y la resistencia. La creación misma de la obra y su contexto son inherentemente relevantes para la categoría 'Cultura Arte'."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "TV tonight: Johnny Vegas’s lovely public art project",
-      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/06/tv-tonight-johnny-vegass-lovely-public-art-project",
-      "fecha_obj": "2025-08-06T05:20:46+00:00",
-      "fecha_str": "06-08-2025 05:20 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Esta noche en TV: arte, cocina, misterio y un thriller caribeño.",
-      "resumen": "La programación televisiva incluye el documental \"Johnny Vegas: Art, ADHD and Me\", que sigue al comediante en la creación de una escultura para su ciudad natal.  También se presentan nuevos episodios de MasterChef (con cambios en el jurado), Destination X (un concurso geográfico), y The Moors Murders: A Search for Justice.  Otros programas incluyen el juego de misterio The Fortune Hotel y un documental sobre el accidente del Air India.  Finalmente, se anuncia la transmisión en vivo de partidos de cricket de The Hundred.",
+      "teaser_sentence": "El río de Hiroshima: una imagen invisible del horror atómico, vista desde la cotidianidad.",
+      "resumen": "El artículo reflexiona sobre la paradoja de la experiencia atómica en Hiroshima.  A través de la imagen de un río que fluye inmutable bajo la explosión atómica, representada en un diorama del Museo de la Paz, el autor contrasta la perspectiva distante del bombardero Enola Gay con la visión cotidiana de un habitante contemporáneo.  Esta yuxtaposición invita a imaginar la vida que existía antes de la devastación,  estableciendo una conexión entre el pasado y el presente a través de una imagen aparentemente trivial, pero profundamente simbólica.  La imagen del río, inalterable ante la catástrofe, sirve como un potente recordatorio de la vida interrumpida y la persistencia de la cotidianidad, incluso ante la destrucción masiva.",
       "relevancia_score": 7,
-      "relevancia_justificacion": "El programa de Johnny Vegas se centra en un proyecto de arte público, lo que lo hace altamente relevante.  Si bien otros programas no son directamente de arte, la programación general tiene un elemento cultural significativo."
-    },
-    "categoria": "cultura_arte"
-  },
-  {
-    "info": {
-      "titulo": "The Origin of Language by Madeleine Beekman review – the suprising history of speech",
-      "link": "https://www.theguardian.com/books/2025/aug/06/the-origin-of-language-by-madeleine-beekman-review-the-suprising-history-of-speech",
-      "fecha_obj": "2025-08-06T06:00:49+00:00",
-      "fecha_str": "06-08-2025 06:00 UTC",
-      "source_name": "The Guardian Culture"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "El origen del lenguaje humano: ¿una historia de cuidado infantil y cooperación femenina?",
-      "resumen": "Madeleine Beekman propone una nueva teoría sobre el origen del lenguaje, argumentando que evolucionó paralelamente al cuidado de bebés humanos, que nacen prematuros.  La necesidad de cooperación entre individuos para alimentar, proteger y criar a estos niños indefensos impulsó el desarrollo de la comunicación compleja.  Beekman contrasta la idea tradicional de que el lenguaje surgió entre grupos de hombres cazadores,  destacando el papel crucial de las mujeres y los \"aloparentes\" (cuidadores no biológicos) en la crianza y transmisión de conocimiento.  Aunque la evidencia es circunstancial, Beekman utiliza la anatomía humana y el estudio de insectos sociales para apoyar su hipótesis, sugiriendo que un lenguaje menos sofisticado pudo haber sido suficiente para especies previas a Homo Sapiens. Finalmente, cuestiona la idea de que la familia nuclear redujo la eficacia del sistema de crianza colaborativo.",
-      "relevancia_score": 3,
-      "relevancia_justificacion": "Si bien el lenguaje es un aspecto fundamental de la cultura, el artículo se centra principalmente en la evolución biológica y antropológica del lenguaje, con poca exploración de su impacto en el arte o la cultura en sentido estricto."
+      "relevancia_justificacion": "El artículo conecta la historia y la memoria de un evento culturalmente significativo (la bomba atómica) con la experiencia personal y la observación artística. La reflexión sobre la imagen del río y su simbolismo lo relaciona con la categoría 'Cultura Arte', aunque el enfoque principal no sea estrictamente artístico."
     },
     "categoria": "cultura_arte"
   }
