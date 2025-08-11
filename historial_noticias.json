@@ -1,1 +1,306 @@
-[]
+[
+  {
+    "info": {
+      "titulo": "Le Japon appelle à évacuer à la suite d’inondations et de glissements de terrain dans le Sud-Ouest",
+      "link": "https://www.lemonde.fr/international/article/2025/08/11/le-japon-appelle-a-evacuer-a-la-suite-d-inondations-et-de-glissements-de-terrain-dans-le-sud-ouest_6628219_3210.html",
+      "fecha_obj": "2025-08-11T07:22:04+00:00",
+      "fecha_str": "11-08-2025 07:22 UTC",
+      "source_name": "Le Monde International"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Lluvias torrenciales en Japón provocan inundaciones, deslizamientos y múltiples desaparecidos.",
+      "resumen": "Intensas lluvias en el suroeste de Japón han causado inundaciones y deslizamientos de tierra, dejando varias personas desaparecidas y obligando a las autoridades a ordenar la evacuación de más de 3 millones de habitantes.  En Kumamoto, la ciudad más afectada, las imágenes muestran casas y negocios inundados.  Más de 37 centímetros de lluvia cayeron en seis horas en Tamana, una cifra sin precedentes.  Un hombre en Kosa desapareció tras un deslizamiento, mientras que en Misato, los rescatistas buscan a un anciano atrapado.  Dos personas también están desaparecidas en Fukuoka tras ser arrastradas por una corriente. La agencia meteorológica ha emitido una alerta máxima, calificando la situación como de peligro mortal.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El suceso es de gran magnitud, afectando a millones de personas y causando víctimas.  La noticia tiene impacto internacional por tratarse de un desastre natural en un país desarrollado."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Quels pays reconnaissent l’existence de l’État palestinien et lesquels s’apprêtent à le faire ?",
+      "link": "https://www.lefigaro.fr/international/quels-pays-reconnaissent-desormais-l-existence-de-l-etat-palestinien-20240528",
+      "fecha_obj": "2025-08-11T06:58:31+00:00",
+      "fecha_str": "11-08-2025 06:58 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Francia, Australia y Canadá reconocen a Palestina; más países se suman a la creciente ola de apoyo.",
+      "resumen": "Un número creciente de países, incluyendo Francia, Australia y Canadá, anunciaron su reconocimiento del Estado de Palestina, uniéndose a más de 145 naciones que ya lo habían hecho.  Esta decisión, que se formalizará en la Asamblea General de la ONU en septiembre, refleja una postura favorable a la solución de dos estados.  Aunque la mayoría de los miembros de la ONU apoyan el reconocimiento, muchos países occidentales condicionan su decisión a un acuerdo previo entre Israel y Palestina.  El artículo destaca la evolución histórica de este reconocimiento, desde 1988 hasta la actualidad, incluyendo la participación de países de diversos continentes y bloques geopolíticos.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El tema trata sobre relaciones internacionales, específicamente el reconocimiento de un estado por parte de otros países, un asunto de gran relevancia en la política global y las noticias internacionales."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Israeli Strike Kills 4 Al Jazeera Journalists, Network Says",
+      "link": "https://www.nytimes.com/2025/08/10/world/middleeast/israel-gaza-journalists-killed.html",
+      "fecha_obj": "2025-08-11T06:53:52+00:00",
+      "fecha_str": "11-08-2025 06:53 UTC",
+      "source_name": "The New York Times World"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ataque israelí mata a cuatro periodistas de Al Jazeera en Gaza; Israel afirma que uno era combatiente de Hamas.",
+      "resumen": "Un ataque israelí cerca de un hospital en Gaza mató a cuatro periodistas de Al Jazeera, según la cadena. El ejército israelí confirmó el ataque, alegando que uno de los fallecidos era un combatiente de Hamas disfrazado de reportero, algo que Al Jazeera niega.  El Gobierno de Gaza, dirigido por Hamas, informó de la muerte de cinco periodistas en un ataque contra una zona donde se encontraban periodistas cerca del hospital Al-Shifa.  El director del hospital confirmó siete muertos y ocho heridos en el ataque con dron israelí a una carpa que albergaba a periodistas.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El suceso involucra a un país (Israel), un conflicto armado (Gaza), víctimas mortales y una organización mediática internacional.  Es un evento de gran impacto con consecuencias geopolíticas y humanitarias, claramente relevante para la categoría 'Internacional'."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "À 61 ans, Brad Pitt signe son nouveau record au box-office grâce à F1, Le film",
+      "link": "https://www.lefigaro.fr/cinema/a-61-ans-brad-pitt-signe-son-nouveau-record-au-box-office-grace-a-f1-le-film-20250811",
+      "fecha_obj": "2025-08-11T07:16:30+00:00",
+      "fecha_str": "11-08-2025 07:16 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Brad Pitt bate su propio récord en taquilla con la película de Fórmula 1, superando los 560 millones de dólares.",
+      "resumen": "La película \"F1, Le Film\", protagonizada por Brad Pitt, ha superado los 560 millones de dólares en taquilla mundial, convirtiéndose en el mayor éxito de la carrera del actor y superando a su anterior récord con \"World War Z\".  El film, distribuido por Apple TV, ha sorprendido en la taquilla estival, incluso compitiendo con otros grandes estrenos.  Su éxito también representa un triunfo para Apple TV, que nunca antes había obtenido tales ingresos en taquilla. La película continúa en cartelera y tendrá reestreno en IMAX, consolidando su éxito a nivel internacional.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia tiene relevancia internacional por el éxito global de la película, la participación de una estrella de Hollywood y el impacto en la industria cinematográfica a nivel mundial, incluyendo el récord de taquilla y el éxito de Apple TV como distribuidora."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Inde : six faux policiers qui dirigeaient «un bureau anti-criminalité» arrêtés",
+      "link": "https://www.lefigaro.fr/international/inde-six-faux-policiers-qui-dirigeaient-un-bureau-anti-criminalite-arretes-20250811",
+      "fecha_obj": "2025-08-11T07:08:14+00:00",
+      "fecha_str": "11-08-2025 07:08 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Seis falsos policías detenidos en India por dirigir una oficina de lucha contra la delincuencia fraudulenta.",
+      "resumen": "La policía india arrestó a seis hombres que operaban una falsa oficina de investigación criminal en Nueva Delhi.  Se hacían pasar por oficiales, afiliados a Interpol y a organismos internacionales de lucha contra el crimen, extorsionando dinero y solicitando \"donaciones\" a través de un sitio web.  Utilizaban documentos falsificados y uniformes que imitaban a la policía.  Las autoridades incautaron teléfonos, chequeras, sellos oficiales y tarjetas de identidad. Este caso se suma a la reciente detención de un hombre que se hacía pasar por embajador de naciones ficticias para estafar a solicitantes de empleo.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "La noticia involucra un crimen organizado en India, un país relevante en el ámbito internacional. El engaño a gran escala y la implicación de la falsificación de documentos y suplantación de identidad tienen repercusiones internacionales."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Federico Assler es impulso vital",
+      "link": "https://www.ciperchile.cl/2025/08/10/federico-assler-es-impulso-vital/?utm_source=rss&utm_medium=rss&utm_campaign=federico-assler-es-impulso-vital",
+      "fecha_obj": "2025-08-10T15:32:46+00:00",
+      "fecha_str": "10-08-2025 15:32 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El libro \"Federico Assler, Dibujos 1970-2022\" revela el proceso creativo del destacado escultor chileno.",
+      "resumen": "El artículo analiza la obra del escultor chileno Federico Assler, Premio Nacional de Arte 2009, a partir de la publicación de su libro \"Federico Assler, Dibujos 1970-2022\".  Se destaca su trayectoria innovadora, el uso del hormigón, y la creación del parque escultórico Roca Negra. El libro muestra la evolución de su pensamiento a través de bocetos y dibujos, revelando el proceso creativo detrás de sus esculturas, concebidas como espacios de encuentro.  El texto enfatiza la vitalidad y disciplina de Assler, quien a sus 96 años continúa creando, plasmando en sus dibujos la fuerza y delicadeza de su obra.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre Federico Assler, un artista chileno reconocido con el Premio Nacional de Arte, destacando su obra y su impacto en el arte y el desarrollo urbano del país. Su relevancia nacional es indiscutible."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Dependencia militar del Estado de Chile con Israel y los límites del discurso progresista frente al sionismo",
+      "link": "https://www.ciperchile.cl/2025/08/10/dependencia-militar-del-estado-de-chile-con-israel-y-los-limites-del-discurso-progresista-frente-al-sionismo/?utm_source=rss&utm_medium=rss&utm_campaign=dependencia-militar-del-estado-de-chile-con-israel-y-los-limites-del-discurso-progresista-frente-al-sionismo",
+      "fecha_obj": "2025-08-10T08:00:51+00:00",
+      "fecha_str": "10-08-2025 08:00 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La dependencia militar de Chile con Israel: un desafío para el discurso progresista y la soberanía nacional.",
+      "resumen": "El artículo analiza la compleja relación militar entre Chile e Israel, destacando la dependencia tecnológica de Chile en sistemas de armas israelíes utilizados en la ocupación palestina.  A pesar de las declaraciones del presidente Boric de revisar esta relación, los contratos militares y flujos comerciales persisten.  El autor argumenta que la dependencia no solo compromete la autonomía operativa de Chile, sino que también legitima tecnologías de represión.  Se detalla la participación de Israel en el equipamiento del Ejército, Armada, Fuerza Aérea y Carabineros, incluyendo drones, misiles, sistemas de radar y satélites.  Se concluye que un cambio real requiere una decisión estatal profunda, más allá de medidas simbólicas, para romper la dependencia estructural y cuestionar la política de Estado que la sustenta.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo aborda una problemática crucial para Chile: su dependencia militar con un país cuestionado internacionalmente por sus prácticas en Palestina.  Tiene implicaciones directas en la soberanía, seguridad nacional y la política exterior chilena, además de generar un debate político relevante."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Volver a jugar como antes: una urgencia social, de salud y de educación para los niños",
+      "link": "https://www.ciperchile.cl/2025/08/10/volver-a-jugar-como-antes-una-urgencia-social-de-salud-y-de-educacion-para-los-ninos/?utm_source=rss&utm_medium=rss&utm_campaign=volver-a-jugar-como-antes-una-urgencia-social-de-salud-y-de-educacion-para-los-ninos",
+      "fecha_obj": "2025-08-10T15:44:42+00:00",
+      "fecha_str": "10-08-2025 15:44 UTC",
+      "source_name": "CIPER Chile"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La falta de juego infantil al aire libre es una urgencia social, sanitaria y educativa con consecuencias a largo plazo.",
+      "resumen": "El artículo lamenta la disminución del juego infantil al aire libre y social, atribuyéndolo a múltiples factores: la percepción de inseguridad, la falta de infraestructura (áreas verdes, parques), la debilidad del tejido social (influencia de la tecnología, falta de interacción), y la falta de tiempo por las jornadas laborales.  Señala que esto afecta el desarrollo psicológico y educativo de los niños, y urge la implementación de políticas públicas que promuevan el juego social, incluyendo la mejora de la seguridad, la creación de espacios verdes, y la flexibilización de las jornadas laborales.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo aborda un problema social chileno con impacto nacional, afectando a niños de todas las regiones.  La falta de espacios verdes, inseguridad y jornadas laborales extensas son problemas relevantes en el contexto nacional.  La propuesta de soluciones requiere de políticas públicas a nivel nacional."
+    },
+    "categoria": "nacional"
+  },
+  {
+    "info": {
+      "titulo": "Netanyahu’s Gaza City outrage fulfils his messianic fantasy of a Greater Israel. The world must stop him | Nimer Sultany",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/11/benjamin-netanyahu-gaza-city-israel-palestinians",
+      "fecha_obj": "2025-08-11T06:00:45+00:00",
+      "fecha_str": "11-08-2025 06:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Netanyahu's actions in Gaza constitute a genocidal campaign aiming for a 'Greater Israel', demanding immediate global intervention.",
+      "resumen": "El artículo argumenta que las acciones de Israel en Gaza, bajo el liderazgo de Netanyahu, constituyen un genocidio que busca la creación de un \"Gran Israel\".  Se detalla la destrucción sistemática de Gaza, violando múltiples resoluciones de la Corte Internacional de Justicia.  El autor acusa a Israel de limpieza étnica y de perseguir una agenda de supremacía judía,  culpando a Occidente por su complicidad al armar a Israel y permitir su impunidad.  Se exige una acción internacional inmediata, incluyendo sanciones y un embargo de armas, para detener el genocidio en curso.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión contundente y argumentada sobre la situación en Gaza, enmarcada en un ensayo que analiza las acciones de Israel, su contexto histórico y las implicaciones legales y morales.  Su estructura, análisis y llamada a la acción lo califican como un ensayo de opinión completo y relevante."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Here’s the truth about Britain’s immigration hysteria: Starmer and co have whipped it up to get cheap votes | Nesrine Malik",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/11/labour-immigration-small-boat-crossings-reform-uk",
+      "fecha_obj": "2025-08-11T05:00:45+00:00",
+      "fecha_str": "11-08-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La histeria anti-inmigración en Reino Unido es una herramienta política barata, alimentada por la desinformación y la irresponsabilidad.",
+      "resumen": "El artículo critica la instrumentalización política del tema de la inmigración en Reino Unido, argumentando que tanto el Partido Laborista como los medios de comunicación exacerban el problema con fines electorales. Señala la desconexión entre el discurso político, que promueve políticas cada vez más restrictivas e incluso de deportación masiva, y la realidad de las cifras de inmigración.  La autora destaca la manipulación de la información, centrándose en la inmigración irregular para crear una sensación de crisis, ignorando el impacto real de la inmigración legal.  Se acusa a los políticos de alimentar un ciclo vicioso de miedo e intolerancia, en detrimento de la cohesión social y la búsqueda de soluciones reales a los problemas del país.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente un tema político relevante, ofreciendo una perspectiva argumentada y sustentada en datos, encuestas y ejemplos concretos.  Su estructura, estilo y enfoque lo clasifican perfectamente dentro de la categoría 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "What if Dred Scott Had Been Decided Correctly?",
+      "link": "https://www.nytimes.com/2025/08/09/opinion/dred-scott-taney-curtis-lincoln.html",
+      "fecha_obj": "2025-08-11T07:25:47+00:00",
+      "fecha_str": "11-08-2025 07:25 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El juez Curtis refuta la decisión de Dred Scott, defendiendo el derecho a la ciudadanía de los afroamericanos libres.",
+      "resumen": "El artículo analiza la disidencia del juez Curtis a la decisión de Dred Scott, que negaba la ciudadanía a los afroamericanos. Curtis argumenta que varios estados reconocieron a los afroamericanos libres como ciudadanos antes y después de la Constitución, y que la Constitución no excluye explícitamente a los afroamericanos de la ciudadanía.  Si bien Curtis no abogaba por una ciudadanía expansiva, rechazaba las calificaciones raciales para la ciudadanía y las distinciones raciales en los derechos ciudadanos, afirmando que el color no es un requisito constitucional para la ciudadanía.  Su postura, aunque limitada en su concepción de la ciudadanía, significó una fuerte refutación de la decisión de Dred Scott basada en la raza.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta un análisis crítico de una decisión judicial histórica, ofreciendo una perspectiva contraria y argumentando a favor de una interpretación inclusiva de la ciudadanía.  Su enfoque en la disidencia y el análisis de los argumentos legales lo hacen adecuado para un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Want to know what’s going right in Britain? Come to the capital, look at the Elizabeth line railway | Jonn Elledge",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/11/britain-elizabeth-line-railway-treasury-birmingham-manchester-leeds",
+      "fecha_obj": "2025-08-11T07:00:46+00:00",
+      "fecha_str": "11-08-2025 07:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El éxito de la línea Elizabeth en Londres demuestra el potencial transformador de las inversiones en infraestructura ferroviaria.",
+      "resumen": "El artículo analiza el éxito de la línea Elizabeth en Londres, destacando su impacto positivo a pesar de los retrasos y sobrecostos iniciales.  Tras un comienzo problemático, la línea ha superado las expectativas, transportando más de 500 millones de pasajeros y transformando la geografía de la ciudad.  Sin embargo, el autor critica la falta de inversión en proyectos ferroviarios similares en otras regiones del Reino Unido, argumentando que la visión a corto plazo del Tesoro impide el desarrollo de infraestructuras que generarían crecimiento económico y empleo.  Se utilizan ejemplos como la necesidad de una Crossrail en Birmingham o la mejora de la conexión Manchester-Leeds para ilustrar la falta de inversión en infraestructura ferroviaria fuera de Londres.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la necesidad de inversión en infraestructura ferroviaria, apoyada en ejemplos concretos y datos.  Su estructura, análisis y conclusión lo hacen adecuado para la categoría 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Spain Is Going Its Own Way",
+      "link": "https://www.nytimes.com/2025/08/11/opinion/spain-immigration-sanchez-amnesty.html",
+      "fecha_obj": "2025-08-11T05:00:05+00:00",
+      "fecha_str": "11-08-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "España desafía las tendencias occidentales con una política migratoria audaz y acogedora.",
+      "resumen": "España contrasta con otras democracias occidentales al adoptar una política migratoria abierta.  Nuevas regulaciones facilitan la obtención de permisos de residencia y trabajo para inmigrantes, e incluso se debate una ley de amnistía para indocumentados.  Este cambio se debe a la necesidad de mano de obra, especialmente en el sector turístico, y a una baja tasa de natalidad.  Sorprendentemente, la reacción pública ha sido moderada, impulsada por una petición popular con amplio apoyo de la sociedad civil, incluyendo la Iglesia. El gobierno ha respondido con un enfoque pragmático y humano, ofreciendo un modelo a seguir para otros países.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo presenta un análisis de la política migratoria española, ofreciendo una perspectiva crítica y comparativa con otros países.  Su enfoque argumentativo y la inclusión de diferentes opiniones lo hacen adecuado para un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "The 4 Best Hearing Aids for Seniors in 2025, Tested and Reviewed",
+      "link": "https://www.wired.com/gallery/best-hearing-aids-for-seniors/",
+      "fecha_obj": "2025-08-10T13:00:00+00:00",
+      "fecha_str": "10-08-2025 13:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Guía de compra de audífonos para personas mayores: estilo, facilidad de uso, soporte remoto y coste.",
+      "resumen": "El artículo analiza los mejores audífonos para personas mayores en 2025, considerando aspectos clave como el estilo (detrás de la oreja o intrauditivos), la facilidad de uso, el soporte médico remoto y la tecnología de la batería (recargable o con pilas).  Se destaca la importancia de la comodidad y la accesibilidad para los usuarios mayores.  El coste es otro factor crucial,  aconsejando buscar garantías de devolución.  Se menciona la existencia de audífonos con forma de gafas para mayor discreción.  El artículo enfatiza la necesidad de evaluar las necesidades individuales antes de la compra, considerando si se requiere o no soporte médico a distancia.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo trata sobre tecnología aplicada a la salud, específicamente audífonos con características tecnológicas como conectividad Bluetooth y recarga inalámbrica. Si bien se centra en el aspecto de salud, la tecnología empleada y sus avances son relevantes."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "FED 2025: Un éxito rotundo para el libro independiente con ventas que superan el 30% y 30 mil asistentes",
+      "link": "https://www.clarin.com/cultura/fed-2025-exito-rotundo-libro-independiente-ventas-superan-30-30-mil-asistentes_0_bAegVswx6c.html",
+      "fecha_obj": "2025-08-10T23:18:44+00:00",
+      "fecha_str": "10-08-2025 23:18 UTC",
+      "source_name": "Revista Ñ – Clarín Cultura"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "FED 2025: ¡Éxito rotundo! 30.000 asistentes y ventas un 30% superiores a 2024.",
+      "resumen": "La Feria de Editores (FED) 2025 superó las expectativas con 30.800 asistentes, un 25% más que en 2024.  Las ventas en muchos stands aumentaron entre un 20% y un 30%. Editores independientes destacaron el crecimiento, la fidelidad del público lector, y la alta estima por el libro, incluso en contextos económicos adversos.  Si bien hubo colas importantes, la organización fue elogiada.  Algunos editores sugieren ampliar el espacio o la duración de la feria para futuras ediciones.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata exclusivamente sobre la FED, un evento cultural clave para la industria editorial independiente,  abordando aspectos relevantes de la cultura del libro, la bibliodiversidad y el consumo cultural."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Apocalipsis y literatura: Juan Mattio y Michel Nieva exploraron la ficción Weird y el futuro postpandémico",
+      "link": "https://www.clarin.com/cultura/apocalipsis-literatura-juan-mattio-michel-nieva-exploraron-ficcion-weird-futuro-postpandemico_0_BSfqmWvGc1.html",
+      "fecha_obj": "2025-08-10T21:38:32+00:00",
+      "fecha_str": "10-08-2025 21:38 UTC",
+      "source_name": "Revista Ñ – Clarín Cultura"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Mattio y Nieva: la ciencia ficción como herramienta para analizar un futuro postpandémico.",
+      "resumen": "En la Feria de Editores, Juan Mattio y Michel Nieva discutieron el uso de la ciencia ficción y la ficción Weird para explorar el futuro postpandémico.  Nieva, con su concepto de \"retrofuturismo\", busca subvertir narrativas del norte global, mientras Mattio destaca la utilidad del género para analizar el inconsciente político y la relación entre naturaleza y tecnología. Ambos coinciden en la importancia de la ciencia ficción para abordar temas ecológicos y cuestionar la narrativa tecnológica dominante, inspirándose en autores como Borges y Sarmiento. La charla también tocó la relación intrínseca entre literatura y política, aunque reconociendo los límites de la ciencia ficción en la acción colectiva.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre literatura argentina contemporánea, un tema central en la categoría 'Cultura Arte'.  Analiza la obra y las ideas de dos autores relevantes, su participación en un evento cultural importante y la discusión sobre temas cruciales como la ecología y la política."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "‘Oh God no, Dad!’ The makers of TV’s most terrifying monsters reveal their repulsive secrets",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/11/sfx-tv-monsters-makers-reveal-repulsive-secrets-alien-earth-stranger-things-the-last-of-us",
+      "fecha_obj": "2025-08-11T04:00:45+00:00",
+      "fecha_str": "11-08-2025 04:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Monstruos de TV: secretos repulsivos de sus aterradores diseños.",
+      "resumen": "El artículo explora el proceso creativo detrás de icónicos monstruos de series como Stranger Things, The Last of Us y Game of Thrones. Se destaca la inspiración en la naturaleza (plantas carnívoras, hongos) y las dificultades técnicas, como el calor excesivo en los trajes y la limitación de presupuesto.  Los diseñadores recurren a la fobia y la repulsión para crear diseños aterradores, combinando elementos realistas con elementos sobrenaturales. Se enfatiza la importancia de la colaboración entre diseñadores y actores, así como la búsqueda de soluciones creativas ante limitaciones presupuestarias o técnicas.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo analiza la creación de monstruos en la televisión, un aspecto relevante para la cultura popular y el arte de los efectos especiales.  Profundiza en el proceso creativo, diseño y realización, conectándolo con la industria del entretenimiento y su impacto cultural."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "‘I was too good’: Sharon Stone on stardom, family secrets, sexual abuse – and her comeback after a stroke",
+      "link": "https://www.theguardian.com/lifeandstyle/2025/aug/11/sharon-stone-interview-stardom-family-secrets-sexual-abuse-comeback-after-stroke",
+      "fecha_obj": "2025-08-11T04:00:43+00:00",
+      "fecha_str": "11-08-2025 04:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Sharon Stone revela traumas familiares, éxito en Basic Instinct y lucha contra la industria cinematográfica.",
+      "resumen": "En una entrevista, Sharon Stone habla sobre su vida, marcada por el abuso infantil, la compleja relación con su madre, el éxito y posterior ostracismo tras Basic Instinct, y su recuperación tras un derrame cerebral.  Critica la misoginia en Hollywood y revela experiencias negativas con Harvey Weinstein.  A pesar de los traumas, Stone muestra resiliencia, retoma su carrera y se mantiene activa en activismo y filantropía.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "La entrevista profundiza en la vida y carrera de una figura icónica de Hollywood, abordando aspectos relevantes de la cultura cinematográfica, la industria del cine, y el impacto de las obras en la sociedad.  También toca temas de abuso y violencia de género, relevantes para la cultura."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: unpicking all the questions about the Lucy Letby case",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/11/tv-tonight-unpicking-all-the-questions-about-the-lucy-letby-case",
+      "fecha_obj": "2025-08-11T05:15:42+00:00",
+      "fecha_str": "11-08-2025 05:15 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: desde el caso Letby hasta secretos de longevidad, ¡una programación variada!",
+      "resumen": "La programación televisiva de esta noche ofrece una variedad de opciones.  'Panorama' analiza el controvertido caso Lucy Letby, mientras que 'Holiday Parks Exposed' investiga las prácticas de los parques vacacionales en Reino Unido.  'Nicola Sturgeon: The Interview' presenta una entrevista con la ex primera ministra escocesa.  'Michael Mosley: Secrets of the Superagers' explora la longevidad, y 'Human' concluye su serie sobre la evolución humana. Finalmente, 'The Gilded Age' llega a su fin de temporada.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien 'The Gilded Age' es una serie de época que podría relacionarse con la cultura, el resto de la programación se centra en temas de actualidad, investigación periodística y documentales científicos, con poca relevancia para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  }
+]
