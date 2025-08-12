@@ -1,305 +1,353 @@
 [
   {
     "info": {
-      "titulo": "Le Japon appelle à évacuer à la suite d’inondations et de glissements de terrain dans le Sud-Ouest",
-      "link": "https://www.lemonde.fr/international/article/2025/08/11/le-japon-appelle-a-evacuer-a-la-suite-d-inondations-et-de-glissements-de-terrain-dans-le-sud-ouest_6628219_3210.html",
-      "fecha_obj": "2025-08-11T07:22:04+00:00",
-      "fecha_str": "11-08-2025 07:22 UTC",
+      "titulo": "Taylor Swift annonce la sortie de son douzième album, « The Life of a Showgirl »",
+      "link": "https://www.lemonde.fr/culture/article/2025/08/12/taylor-swift-annonce-la-sortie-de-son-douzieme-album-the-life-of-a-showgirl_6628502_3246.html",
+      "fecha_obj": "2025-08-12T07:05:38+00:00",
+      "fecha_str": "12-08-2025 07:05 UTC",
       "source_name": "Le Monde International"
     },
     "resumen_datos": {
-      "teaser_sentence": "Lluvias torrenciales en Japón provocan inundaciones, deslizamientos y múltiples desaparecidos.",
-      "resumen": "Intensas lluvias en el suroeste de Japón han causado inundaciones y deslizamientos de tierra, dejando varias personas desaparecidas y obligando a las autoridades a ordenar la evacuación de más de 3 millones de habitantes.  En Kumamoto, la ciudad más afectada, las imágenes muestran casas y negocios inundados.  Más de 37 centímetros de lluvia cayeron en seis horas en Tamana, una cifra sin precedentes.  Un hombre en Kosa desapareció tras un deslizamiento, mientras que en Misato, los rescatistas buscan a un anciano atrapado.  Dos personas también están desaparecidas en Fukuoka tras ser arrastradas por una corriente. La agencia meteorológica ha emitido una alerta máxima, calificando la situación como de peligro mortal.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El suceso es de gran magnitud, afectando a millones de personas y causando víctimas.  La noticia tiene impacto internacional por tratarse de un desastre natural en un país desarrollado."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Quels pays reconnaissent l’existence de l’État palestinien et lesquels s’apprêtent à le faire ?",
-      "link": "https://www.lefigaro.fr/international/quels-pays-reconnaissent-desormais-l-existence-de-l-etat-palestinien-20240528",
-      "fecha_obj": "2025-08-11T06:58:31+00:00",
-      "fecha_str": "11-08-2025 06:58 UTC",
-      "source_name": "Le Figaro"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Francia, Australia y Canadá reconocen a Palestina; más países se suman a la creciente ola de apoyo.",
-      "resumen": "Un número creciente de países, incluyendo Francia, Australia y Canadá, anunciaron su reconocimiento del Estado de Palestina, uniéndose a más de 145 naciones que ya lo habían hecho.  Esta decisión, que se formalizará en la Asamblea General de la ONU en septiembre, refleja una postura favorable a la solución de dos estados.  Aunque la mayoría de los miembros de la ONU apoyan el reconocimiento, muchos países occidentales condicionan su decisión a un acuerdo previo entre Israel y Palestina.  El artículo destaca la evolución histórica de este reconocimiento, desde 1988 hasta la actualidad, incluyendo la participación de países de diversos continentes y bloques geopolíticos.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El tema trata sobre relaciones internacionales, específicamente el reconocimiento de un estado por parte de otros países, un asunto de gran relevancia en la política global y las noticias internacionales."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "Israeli Strike Kills 4 Al Jazeera Journalists, Network Says",
-      "link": "https://www.nytimes.com/2025/08/10/world/middleeast/israel-gaza-journalists-killed.html",
-      "fecha_obj": "2025-08-11T06:53:52+00:00",
-      "fecha_str": "11-08-2025 06:53 UTC",
-      "source_name": "The New York Times World"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Ataque israelí mata a cuatro periodistas de Al Jazeera en Gaza; Israel afirma que uno era combatiente de Hamas.",
-      "resumen": "Un ataque israelí cerca de un hospital en Gaza mató a cuatro periodistas de Al Jazeera, según la cadena. El ejército israelí confirmó el ataque, alegando que uno de los fallecidos era un combatiente de Hamas disfrazado de reportero, algo que Al Jazeera niega.  El Gobierno de Gaza, dirigido por Hamas, informó de la muerte de cinco periodistas en un ataque contra una zona donde se encontraban periodistas cerca del hospital Al-Shifa.  El director del hospital confirmó siete muertos y ocho heridos en el ataque con dron israelí a una carpa que albergaba a periodistas.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El suceso involucra a un país (Israel), un conflicto armado (Gaza), víctimas mortales y una organización mediática internacional.  Es un evento de gran impacto con consecuencias geopolíticas y humanitarias, claramente relevante para la categoría 'Internacional'."
-    },
-    "categoria": "internacional"
-  },
-  {
-    "info": {
-      "titulo": "À 61 ans, Brad Pitt signe son nouveau record au box-office grâce à F1, Le film",
-      "link": "https://www.lefigaro.fr/cinema/a-61-ans-brad-pitt-signe-son-nouveau-record-au-box-office-grace-a-f1-le-film-20250811",
-      "fecha_obj": "2025-08-11T07:16:30+00:00",
-      "fecha_str": "11-08-2025 07:16 UTC",
-      "source_name": "Le Figaro"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "Brad Pitt bate su propio récord en taquilla con la película de Fórmula 1, superando los 560 millones de dólares.",
-      "resumen": "La película \"F1, Le Film\", protagonizada por Brad Pitt, ha superado los 560 millones de dólares en taquilla mundial, convirtiéndose en el mayor éxito de la carrera del actor y superando a su anterior récord con \"World War Z\".  El film, distribuido por Apple TV, ha sorprendido en la taquilla estival, incluso compitiendo con otros grandes estrenos.  Su éxito también representa un triunfo para Apple TV, que nunca antes había obtenido tales ingresos en taquilla. La película continúa en cartelera y tendrá reestreno en IMAX, consolidando su éxito a nivel internacional.",
+      "teaser_sentence": "Taylor Swift anuncia su doceavo álbum, \"The Life of a Showgirl\", batiendo récords previos.",
+      "resumen": "Taylor Swift anunció el lanzamiento de su duodécimo álbum, \"The Life of a Showgirl\", a través de sus redes sociales.  Si bien la fecha de lanzamiento y la portada aún no se revelan, el anuncio se hizo con un breve video en Instagram.  Este nuevo álbum llega tras el éxito de \"The Tortured Poets Department\", que vendió 1.4 millones de copias en su primer día, y después de que Swift lograra comprar los derechos de sus seis primeros álbumes.  A sus 35 años, la cantante continúa rompiendo récords, con su \"Eras Tour\" convirtiéndose en la gira más lucrativa de la historia, recaudando cerca de dos mil millones de dólares.",
       "relevancia_score": 9,
-      "relevancia_justificacion": "La noticia tiene relevancia internacional por el éxito global de la película, la participación de una estrella de Hollywood y el impacto en la industria cinematográfica a nivel mundial, incluyendo el récord de taquilla y el éxito de Apple TV como distribuidora."
+      "relevancia_justificacion": "Taylor Swift es una figura internacional de gran impacto en la industria musical.  El anuncio de un nuevo álbum y el contexto de sus logros recientes (compra de derechos, gira multimillonaria) son noticias relevantes a nivel mundial."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Inde : six faux policiers qui dirigeaient «un bureau anti-criminalité» arrêtés",
-      "link": "https://www.lefigaro.fr/international/inde-six-faux-policiers-qui-dirigeaient-un-bureau-anti-criminalite-arretes-20250811",
-      "fecha_obj": "2025-08-11T07:08:14+00:00",
-      "fecha_str": "11-08-2025 07:08 UTC",
+      "titulo": "EN DIRECT - La France touchée par une canicule intense, les fortes chaleurs s’étendent au Nord-Est et à l’Île-de-France.",
+      "link": "https://www.lefigaro.fr/meteo/en-direct-canicule-bordeaux-toulouse-lyon-la-france-fait-face-a-une-vague-de-chaleur-intense-14-departements-en-vigilance-rouge-20250812",
+      "fecha_obj": "2025-08-12T07:10:39+00:00",
+      "fecha_str": "12-08-2025 07:10 UTC",
       "source_name": "Le Figaro"
     },
     "resumen_datos": {
-      "teaser_sentence": "Seis falsos policías detenidos en India por dirigir una oficina de lucha contra la delincuencia fraudulenta.",
-      "resumen": "La policía india arrestó a seis hombres que operaban una falsa oficina de investigación criminal en Nueva Delhi.  Se hacían pasar por oficiales, afiliados a Interpol y a organismos internacionales de lucha contra el crimen, extorsionando dinero y solicitando \"donaciones\" a través de un sitio web.  Utilizaban documentos falsificados y uniformes que imitaban a la policía.  Las autoridades incautaron teléfonos, chequeras, sellos oficiales y tarjetas de identidad. Este caso se suma a la reciente detención de un hombre que se hacía pasar por embajador de naciones ficticias para estafar a solicitantes de empleo.",
+      "teaser_sentence": "Francia sufre una intensa ola de calor, batiendo récords de temperatura en varias regiones.",
+      "resumen": "Una nueva ola de calor afecta a Francia, con 65 departamentos en alerta naranja y 12 en alerta roja.  El suroeste del país registró temperaturas extremadamente altas, superando récords históricos.  Ciudades como Bergerac (42.1°C) y Bordeaux (41.6°C) marcaron temperaturas sin precedentes.  Esta ola de calor también se extiende al noreste y la región de Île-de-France, generando preocupación por la salud pública.",
       "relevancia_score": 8,
-      "relevancia_justificacion": "La noticia involucra un crimen organizado en India, un país relevante en el ámbito internacional. El engaño a gran escala y la implicación de la falsificación de documentos y suplantación de identidad tienen repercusiones internacionales."
+      "relevancia_justificacion": "El evento impacta a nivel nacional en Francia, un país relevante internacionalmente.  La ola de calor es un fenómeno con consecuencias significativas, generando noticias de interés global."
     },
     "categoria": "internacional"
   },
   {
     "info": {
-      "titulo": "Federico Assler es impulso vital",
-      "link": "https://www.ciperchile.cl/2025/08/10/federico-assler-es-impulso-vital/?utm_source=rss&utm_medium=rss&utm_campaign=federico-assler-es-impulso-vital",
-      "fecha_obj": "2025-08-10T15:32:46+00:00",
-      "fecha_str": "10-08-2025 15:32 UTC",
+      "titulo": "Feux de forêt : 29 départements en vigilance orange ce mardi",
+      "link": "https://www.lefigaro.fr/sciences/feux-de-forets-visualisez-la-carte-des-zones-en-danger-20250715",
+      "fecha_obj": "2025-08-12T07:05:25+00:00",
+      "fecha_str": "12-08-2025 07:05 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Francia en alerta naranja por incendios forestales: 29 departamentos en riesgo extremo.",
+      "resumen": "Francia se enfrenta a un alto riesgo de incendios forestales.  29 departamentos están en alerta naranja, principalmente en el centro y el Mediterráneo, debido a las altas temperaturas y la sequía.  52 departamentos más están en alerta amarilla.  El riesgo es principalmente de origen humano (barbacoas, colillas, etc.).  Desde el comienzo del verano, se han quemado 36.000 hectáreas en 242 incendios, superando las cifras de 2024.  La ola de calor, con temperaturas cercanas a los 40°C, agrava la situación.  Météo-France utiliza un sistema de cuatro niveles de alerta para informar al público.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien el evento es local a Francia, la magnitud del problema (36.000 hectáreas quemadas) y la alerta nacional tienen implicaciones internacionales, especialmente considerando la creciente preocupación mundial por el cambio climático y los incendios forestales."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Charente : l’incendie qui a détruit plus de 200 hectares de végétation, est «fixé et maîtrisé»",
+      "link": "https://www.lefigaro.fr/actualite-france/charente-un-incendie-detruit-plus-de-200-hectares-de-vegetation-20250811",
+      "fecha_obj": "2025-08-12T06:55:16+00:00",
+      "fecha_str": "12-08-2025 06:55 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Incendio en Charente, Francia, controlado tras destruir 200 hectáreas.",
+      "resumen": "Un incendio forestal en el sur de Charente, Francia, ha sido controlado después de arrasar más de 200 hectáreas de vegetación.  Más de 300 bomberos trabajaron para extinguir las llamas, que comenzaron el lunes por la tarde en Saint-Vallier.  Varias casas fueron evacuadas preventivamente y se realizaron cortes de electricidad en 12 comunas. La línea LGV también fue cerrada temporalmente.  La región está en alerta naranja por riesgo de incendios y alerta roja por ola de calor. Este incidente recuerda a los devastadores incendios de septiembre de 2022, que quemaron 400 hectáreas, los mayores en la historia de Charente.",
+      "relevancia_score": 6,
+      "relevancia_justificacion": "Si bien el evento es de ámbito regional, su magnitud (200 hectáreas destruidas, evacuaciones, cortes de servicios) y la alerta por olas de calor lo hacen relevante a nivel internacional, aunque no sea una noticia de primera plana."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Bordeaux : malgré l’opposition de riverains, la rénovation de la place des Chartrons en «place à l’italienne» se poursuit",
+      "link": "https://www.lefigaro.fr/bordeaux/bordeaux-malgre-l-opposition-de-riverains-la-renovation-de-la-place-des-chartrons-en-place-a-l-italienne-se-poursuit-20250812",
+      "fecha_obj": "2025-08-12T07:01:00+00:00",
+      "fecha_str": "12-08-2025 07:01 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Vecinos de Burdeos pierden batalla legal contra remodelación de la plaza des Chartrons.",
+      "resumen": "La remodelación de la plaza des Chartrons en Burdeos, Francia, continúa a pesar de la oposición de un colectivo de vecinos.  El tribunal administrativo rechazó la solicitud de suspensión del proyecto por un error procesal en el recurso presentado por el colectivo \"C les Chartrons\", que critica la eliminación de estacionamientos, la peatonalización y la insuficiente vegetación.  A pesar de la derrota legal, el colectivo planea continuar la lucha a través del diálogo con el ayuntamiento. La remodelación, que costará 1,6 millones de euros,  transformará la plaza en un espacio peatonal con más árboles y arbustos, con finalización prevista para principios de 2026.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien la noticia trata un tema de urbanismo, su alcance se limita a una ciudad específica de Francia.  Aunque podría tener implicaciones locales, su impacto internacional es mínimo.  La relevancia es baja a nivel internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "La orquesta silenciosa de los pagos electrónicos en Chile",
+      "link": "https://www.ciperchile.cl/2025/08/11/la-orquesta-silenciosa-de-los-pagos-electronicos-en-chile/?utm_source=rss&utm_medium=rss&utm_campaign=la-orquesta-silenciosa-de-los-pagos-electronicos-en-chile",
+      "fecha_obj": "2025-08-11T17:15:47+00:00",
+      "fecha_str": "11-08-2025 17:15 UTC",
       "source_name": "CIPER Chile"
     },
     "resumen_datos": {
-      "teaser_sentence": "El libro \"Federico Assler, Dibujos 1970-2022\" revela el proceso creativo del destacado escultor chileno.",
-      "resumen": "El artículo analiza la obra del escultor chileno Federico Assler, Premio Nacional de Arte 2009, a partir de la publicación de su libro \"Federico Assler, Dibujos 1970-2022\".  Se destaca su trayectoria innovadora, el uso del hormigón, y la creación del parque escultórico Roca Negra. El libro muestra la evolución de su pensamiento a través de bocetos y dibujos, revelando el proceso creativo detrás de sus esculturas, concebidas como espacios de encuentro.  El texto enfatiza la vitalidad y disciplina de Assler, quien a sus 96 años continúa creando, plasmando en sus dibujos la fuerza y delicadeza de su obra.",
+      "teaser_sentence": "Chile moderniza sus pagos: el auge digital trae inclusión, pero requiere una orquesta afinada para todos.",
+      "resumen": "El crecimiento de 18.4% en pagos digitales en Chile revela una transformación cultural profunda, impulsada por la inclusión financiera que ofrecen las tarjetas prepago.  Si bien el efectivo disminuye en transacciones diarias, persiste como reserva de valor.  El artículo destaca la complejidad del ecosistema, comparándolo a una orquesta donde cada instrumento (tarjetas débito, transferencias, prepago, efectivo) juega un rol.  Se advierte sobre la necesidad de regulación para evitar riesgos y asegurar que la transición digital beneficie a toda la población, evitando la exclusión.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata sobre Federico Assler, un artista chileno reconocido con el Premio Nacional de Arte, destacando su obra y su impacto en el arte y el desarrollo urbano del país. Su relevancia nacional es indiscutible."
+      "relevancia_justificacion": "El artículo analiza un fenómeno económico clave en Chile, con impacto social y cultural,  afectando directamente a la población y las políticas públicas.  Su relevancia nacional es máxima."
     },
     "categoria": "nacional"
   },
   {
     "info": {
-      "titulo": "Dependencia militar del Estado de Chile con Israel y los límites del discurso progresista frente al sionismo",
-      "link": "https://www.ciperchile.cl/2025/08/10/dependencia-militar-del-estado-de-chile-con-israel-y-los-limites-del-discurso-progresista-frente-al-sionismo/?utm_source=rss&utm_medium=rss&utm_campaign=dependencia-militar-del-estado-de-chile-con-israel-y-los-limites-del-discurso-progresista-frente-al-sionismo",
-      "fecha_obj": "2025-08-10T08:00:51+00:00",
-      "fecha_str": "10-08-2025 08:00 UTC",
+      "titulo": "Hiroshima, Nagasaki y la herencia del trauma",
+      "link": "https://www.ciperchile.cl/2025/08/11/hiroshima-nagasaki-y-la-herencia-del-trauma/?utm_source=rss&utm_medium=rss&utm_campaign=hiroshima-nagasaki-y-la-herencia-del-trauma",
+      "fecha_obj": "2025-08-11T20:20:10+00:00",
+      "fecha_str": "11-08-2025 20:20 UTC",
       "source_name": "CIPER Chile"
     },
     "resumen_datos": {
-      "teaser_sentence": "La dependencia militar de Chile con Israel: un desafío para el discurso progresista y la soberanía nacional.",
-      "resumen": "El artículo analiza la compleja relación militar entre Chile e Israel, destacando la dependencia tecnológica de Chile en sistemas de armas israelíes utilizados en la ocupación palestina.  A pesar de las declaraciones del presidente Boric de revisar esta relación, los contratos militares y flujos comerciales persisten.  El autor argumenta que la dependencia no solo compromete la autonomía operativa de Chile, sino que también legitima tecnologías de represión.  Se detalla la participación de Israel en el equipamiento del Ejército, Armada, Fuerza Aérea y Carabineros, incluyendo drones, misiles, sistemas de radar y satélites.  Se concluye que un cambio real requiere una decisión estatal profunda, más allá de medidas simbólicas, para romper la dependencia estructural y cuestionar la política de Estado que la sustenta.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo aborda una problemática crucial para Chile: su dependencia militar con un país cuestionado internacionalmente por sus prácticas en Palestina.  Tiene implicaciones directas en la soberanía, seguridad nacional y la política exterior chilena, además de generar un debate político relevante."
+      "teaser_sentence": "Hiroshima y Nagasaki: 80 años del trauma atómico y su legado intergeneracional.",
+      "resumen": "El artículo analiza las consecuencias psicosociales a largo plazo de las bombas atómicas en Hiroshima y Nagasaki.  Se destaca el trastorno de estrés postraumático (TEPT) en los hibakusha y su transmisión intergeneracional.  La destrucción causó duelo masivo, estigma social y problemas de salud, afectando la confianza colectiva y la recuperación.  Se introduce el concepto japonés 'shoganai', no como resignación, sino como aceptación activa que impulsa a la reparación y prevención. El Premio Nobel de la Paz 2024 a Nihon Hidankyo refuerza la importancia de transformar el dolor en compromiso contra la violencia nuclear, enfatizando la necesidad de atención a las víctimas y la prevención de la herencia del trauma.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien el artículo trata un tema de importancia mundial, su relevancia para la categoría 'Nacional' es limitada.  No se centra en eventos o políticas nacionales específicas, sino en las consecuencias globales de un evento histórico."
     },
     "categoria": "nacional"
   },
   {
     "info": {
-      "titulo": "Volver a jugar como antes: una urgencia social, de salud y de educación para los niños",
-      "link": "https://www.ciperchile.cl/2025/08/10/volver-a-jugar-como-antes-una-urgencia-social-de-salud-y-de-educacion-para-los-ninos/?utm_source=rss&utm_medium=rss&utm_campaign=volver-a-jugar-como-antes-una-urgencia-social-de-salud-y-de-educacion-para-los-ninos",
-      "fecha_obj": "2025-08-10T15:44:42+00:00",
-      "fecha_str": "10-08-2025 15:44 UTC",
-      "source_name": "CIPER Chile"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "La falta de juego infantil al aire libre es una urgencia social, sanitaria y educativa con consecuencias a largo plazo.",
-      "resumen": "El artículo lamenta la disminución del juego infantil al aire libre y social, atribuyéndolo a múltiples factores: la percepción de inseguridad, la falta de infraestructura (áreas verdes, parques), la debilidad del tejido social (influencia de la tecnología, falta de interacción), y la falta de tiempo por las jornadas laborales.  Señala que esto afecta el desarrollo psicológico y educativo de los niños, y urge la implementación de políticas públicas que promuevan el juego social, incluyendo la mejora de la seguridad, la creación de espacios verdes, y la flexibilización de las jornadas laborales.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo aborda un problema social chileno con impacto nacional, afectando a niños de todas las regiones.  La falta de espacios verdes, inseguridad y jornadas laborales extensas son problemas relevantes en el contexto nacional.  La propuesta de soluciones requiere de políticas públicas a nivel nacional."
-    },
-    "categoria": "nacional"
-  },
-  {
-    "info": {
-      "titulo": "Netanyahu’s Gaza City outrage fulfils his messianic fantasy of a Greater Israel. The world must stop him | Nimer Sultany",
-      "link": "https://www.theguardian.com/commentisfree/2025/aug/11/benjamin-netanyahu-gaza-city-israel-palestinians",
-      "fecha_obj": "2025-08-11T06:00:45+00:00",
-      "fecha_str": "11-08-2025 06:00 UTC",
+      "titulo": "Both left and right agree taxes must rise. Time for Labour to get creative | Polly Toynbee",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/12/left-right-agree-taxes-rise-labour-rachel-reeves-wealth-tax",
+      "fecha_obj": "2025-08-12T07:00:15+00:00",
+      "fecha_str": "12-08-2025 07:00 UTC",
       "source_name": "The Guardian Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "Netanyahu's actions in Gaza constitute a genocidal campaign aiming for a 'Greater Israel', demanding immediate global intervention.",
-      "resumen": "El artículo argumenta que las acciones de Israel en Gaza, bajo el liderazgo de Netanyahu, constituyen un genocidio que busca la creación de un \"Gran Israel\".  Se detalla la destrucción sistemática de Gaza, violando múltiples resoluciones de la Corte Internacional de Justicia.  El autor acusa a Israel de limpieza étnica y de perseguir una agenda de supremacía judía,  culpando a Occidente por su complicidad al armar a Israel y permitir su impunidad.  Se exige una acción internacional inmediata, incluyendo sanciones y un embargo de armas, para detener el genocidio en curso.",
+      "teaser_sentence": "Subir impuestos es inevitable; el debate está en cómo hacerlo, y la izquierda debe ser creativa.",
+      "resumen": "El artículo de Polly Toynbee analiza la necesidad inminente de aumentar los impuestos en Reino Unido, un hecho reconocido incluso por figuras de derecha.  Se discuten varias opciones, incluyendo impuestos sobre la riqueza, la eliminación de exenciones del IVA y la reforma del impuesto sobre bienes inmuebles.  Si bien existen preocupaciones sobre la efectividad y posibles consecuencias negativas de algunos métodos, como un impuesto sobre la riqueza, Toynbee argumenta que el gobierno laborista debe adoptar un enfoque radical para abordar el déficit presupuestario y financiar servicios públicos esenciales.  La autora recalca la necesidad de una conversación honesta sobre impuestos y la importancia de combatir la evasión fiscal.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo presenta una opinión contundente y argumentada sobre la situación en Gaza, enmarcada en un ensayo que analiza las acciones de Israel, su contexto histórico y las implicaciones legales y morales.  Su estructura, análisis y llamada a la acción lo califican como un ensayo de opinión completo y relevante."
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que explora un tema político y económico de gran relevancia, ofreciendo argumentos y propuestas con un estilo analítico y persuasivo.  Presenta diferentes perspectivas y analiza sus posibles consecuencias, lo que lo enmarca perfectamente dentro de la categoría de 'Opinión Ensayo'."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "Here’s the truth about Britain’s immigration hysteria: Starmer and co have whipped it up to get cheap votes | Nesrine Malik",
-      "link": "https://www.theguardian.com/commentisfree/2025/aug/11/labour-immigration-small-boat-crossings-reform-uk",
-      "fecha_obj": "2025-08-11T05:00:45+00:00",
-      "fecha_str": "11-08-2025 05:00 UTC",
+      "titulo": "As asylum seekers are engulfed by slurs and lies, our leaders shrug. Truly, this is shameful | Frances Ryan",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/12/asylum-seekers-leaders-sexual-offences-women-girls",
+      "fecha_obj": "2025-08-12T05:00:14+00:00",
+      "fecha_str": "12-08-2025 05:00 UTC",
       "source_name": "The Guardian Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "La histeria anti-inmigración en Reino Unido es una herramienta política barata, alimentada por la desinformación y la irresponsabilidad.",
-      "resumen": "El artículo critica la instrumentalización política del tema de la inmigración en Reino Unido, argumentando que tanto el Partido Laborista como los medios de comunicación exacerban el problema con fines electorales. Señala la desconexión entre el discurso político, que promueve políticas cada vez más restrictivas e incluso de deportación masiva, y la realidad de las cifras de inmigración.  La autora destaca la manipulación de la información, centrándose en la inmigración irregular para crear una sensación de crisis, ignorando el impacto real de la inmigración legal.  Se acusa a los políticos de alimentar un ciclo vicioso de miedo e intolerancia, en detrimento de la cohesión social y la búsqueda de soluciones reales a los problemas del país.",
+      "teaser_sentence": "El auge de la narrativa anti-inmigrante en Reino Unido desata un debate sobre seguridad y prejuicios.",
+      "resumen": "El artículo analiza el incremento de protestas anti-migrantes en Reino Unido, alimentadas por una narrativa que vincula erróneamente a los solicitantes de asilo con un aumento de la delincuencia, especialmente la violencia sexual. Medios y políticos contribuyen a difundir esta idea, mientras el gobierno se mantiene ambiguo y evita desmentirla con datos. La autora critica esta omisión, argumentando que se fomenta la xenofobia y se ignora la epidemia real de violencia de género.  Señala que esta narrativa se basa en prejuicios históricos y que desvía la atención de los problemas reales. Finalmente, critica la falta de acción de los partidos políticos, que buscan capitalizar electoralmente con medidas punitivas contra los inmigrantes.",
       "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente un tema político relevante, ofreciendo una perspectiva argumentada y sustentada en datos, encuestas y ejemplos concretos.  Su estructura, estilo y enfoque lo clasifican perfectamente dentro de la categoría 'Opinión Ensayo'."
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente un tema de actualidad: la narrativa anti-inmigrante y su impacto en la sociedad británica. Presenta argumentos, evidencia y opiniones de expertos, lo que lo califica como un ensayo de opinión completo y relevante."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "What if Dred Scott Had Been Decided Correctly?",
-      "link": "https://www.nytimes.com/2025/08/09/opinion/dred-scott-taney-curtis-lincoln.html",
-      "fecha_obj": "2025-08-11T07:25:47+00:00",
-      "fecha_str": "11-08-2025 07:25 UTC",
+      "titulo": "The Reasons Israelis Have Closed Their Eyes to Gaza",
+      "link": "https://www.nytimes.com/2025/08/12/opinion/israel-gaza-starvation-aid.html",
+      "fecha_obj": "2025-08-12T05:58:29+00:00",
+      "fecha_str": "12-08-2025 05:58 UTC",
       "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "El juez Curtis refuta la decisión de Dred Scott, defendiendo el derecho a la ciudadanía de los afroamericanos libres.",
-      "resumen": "El artículo analiza la disidencia del juez Curtis a la decisión de Dred Scott, que negaba la ciudadanía a los afroamericanos. Curtis argumenta que varios estados reconocieron a los afroamericanos libres como ciudadanos antes y después de la Constitución, y que la Constitución no excluye explícitamente a los afroamericanos de la ciudadanía.  Si bien Curtis no abogaba por una ciudadanía expansiva, rechazaba las calificaciones raciales para la ciudadanía y las distinciones raciales en los derechos ciudadanos, afirmando que el color no es un requisito constitucional para la ciudadanía.  Su postura, aunque limitada en su concepción de la ciudadanía, significó una fuerte refutación de la decisión de Dred Scott basada en la raza.",
+      "teaser_sentence": "La ceguera israelí ante el sufrimiento en Gaza: una mezcla de ira, recuerdos amargos y desinformación.",
+      "resumen": "El artículo analiza la aparente indiferencia de la sociedad israelí ante la crisis humanitaria en Gaza.  Una encuesta revela que la mayoría de los israelíes creen que Israel evita causar sufrimiento, incluso ante informes de hambruna.  Se argumenta que esta 'ceguera voluntaria' se debe a una combinación de factores: la influencia de medios locales que autocensuran, la indignación por la respuesta internacional al ataque de Hamas del 7 de octubre de 2023, y la memoria histórica de la desvinculación de Gaza y las subsecuentes acciones de Hamas.  La percepción de una lucha de suma cero por la tierra y la soberanía, exacerbada por la barbarie del ataque, dificulta la empatía y la búsqueda de soluciones.",
       "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta un análisis crítico de una decisión judicial histórica, ofreciendo una perspectiva contraria y argumentando a favor de una interpretación inclusiva de la ciudadanía.  Su enfoque en la disidencia y el análisis de los argumentos legales lo hacen adecuado para un ensayo de opinión."
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre un tema de actualidad, ofreciendo un análisis de las causas detrás de una postura política controvertida.  Su estructura, con tesis, argumentos y evidencia, lo hace adecuado para un ensayo de opinión."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "Want to know what’s going right in Britain? Come to the capital, look at the Elizabeth line railway | Jonn Elledge",
-      "link": "https://www.theguardian.com/commentisfree/2025/aug/11/britain-elizabeth-line-railway-treasury-birmingham-manchester-leeds",
-      "fecha_obj": "2025-08-11T07:00:46+00:00",
-      "fecha_str": "11-08-2025 07:00 UTC",
-      "source_name": "The Guardian Opinion"
-    },
-    "resumen_datos": {
-      "teaser_sentence": "El éxito de la línea Elizabeth en Londres demuestra el potencial transformador de las inversiones en infraestructura ferroviaria.",
-      "resumen": "El artículo analiza el éxito de la línea Elizabeth en Londres, destacando su impacto positivo a pesar de los retrasos y sobrecostos iniciales.  Tras un comienzo problemático, la línea ha superado las expectativas, transportando más de 500 millones de pasajeros y transformando la geografía de la ciudad.  Sin embargo, el autor critica la falta de inversión en proyectos ferroviarios similares en otras regiones del Reino Unido, argumentando que la visión a corto plazo del Tesoro impide el desarrollo de infraestructuras que generarían crecimiento económico y empleo.  Se utilizan ejemplos como la necesidad de una Crossrail en Birmingham o la mejora de la conexión Manchester-Leeds para ilustrar la falta de inversión en infraestructura ferroviaria fuera de Londres.",
-      "relevancia_score": 9,
-      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la necesidad de inversión en infraestructura ferroviaria, apoyada en ejemplos concretos y datos.  Su estructura, análisis y conclusión lo hacen adecuado para la categoría 'Opinión Ensayo'."
-    },
-    "categoria": "opinion_ensayo"
-  },
-  {
-    "info": {
-      "titulo": "Spain Is Going Its Own Way",
-      "link": "https://www.nytimes.com/2025/08/11/opinion/spain-immigration-sanchez-amnesty.html",
-      "fecha_obj": "2025-08-11T05:00:05+00:00",
-      "fecha_str": "11-08-2025 05:00 UTC",
+      "titulo": "A Right-Wing Influencer Tried to Be a Tradwife. It Almost Broke Her.",
+      "link": "https://www.nytimes.com/2025/08/11/opinion/lauren-southern-tradwife-maga.html",
+      "fecha_obj": "2025-08-12T00:20:48+00:00",
+      "fecha_str": "12-08-2025 00:20 UTC",
       "source_name": "The New York Times Opinion"
     },
     "resumen_datos": {
-      "teaser_sentence": "España desafía las tendencias occidentales con una política migratoria audaz y acogedora.",
-      "resumen": "España contrasta con otras democracias occidentales al adoptar una política migratoria abierta.  Nuevas regulaciones facilitan la obtención de permisos de residencia y trabajo para inmigrantes, e incluso se debate una ley de amnistía para indocumentados.  Este cambio se debe a la necesidad de mano de obra, especialmente en el sector turístico, y a una baja tasa de natalidad.  Sorprendentemente, la reacción pública ha sido moderada, impulsada por una petición popular con amplio apoyo de la sociedad civil, incluyendo la Iglesia. El gobierno ha respondido con un enfoque pragmático y humano, ofreciendo un modelo a seguir para otros países.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "El artículo presenta un análisis de la política migratoria española, ofreciendo una perspectiva crítica y comparativa con otros países.  Su enfoque argumentativo y la inclusión de diferentes opiniones lo hacen adecuado para un ensayo de opinión."
+      "teaser_sentence": "Influencer de ultraderecha intenta ser ama de casa tradicional, y el resultado es devastador.",
+      "resumen": "Una influencer de extrema derecha, tras una vida de controversias y un asalto por parte de Andrew Tate, busca refugio en la vida de ama de casa tradicional.  Su intento de escapar de la fama online y construir una familia en Australia resulta en un matrimonio abusivo y una experiencia desgarradora.  A pesar de sus esfuerzos por ser la esposa perfecta, su marido la trata con desprecio, lo que la lleva a una situación de aislamiento y sufrimiento.  La historia contrasta la idealización de la vida doméstica tradicional con la realidad de la violencia doméstica y el control.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión sobre la idealización de la vida de ama de casa tradicional en el contexto político actual y la contrasta con una experiencia personal de abuso doméstico. Ofrece una crítica implícita a ciertos movimientos sociales y explora las consecuencias negativas de las expectativas de género."
     },
     "categoria": "opinion_ensayo"
   },
   {
     "info": {
-      "titulo": "The 4 Best Hearing Aids for Seniors in 2025, Tested and Reviewed",
-      "link": "https://www.wired.com/gallery/best-hearing-aids-for-seniors/",
-      "fecha_obj": "2025-08-10T13:00:00+00:00",
-      "fecha_str": "10-08-2025 13:00 UTC",
+      "titulo": "Trump Is a ‘Totem for Wealth.’ What Happens if the Economy Crashes?",
+      "link": "https://www.nytimes.com/2025/08/09/opinion/trump-bls-texas-economy.html",
+      "fecha_obj": "2025-08-11T22:52:23+00:00",
+      "fecha_str": "11-08-2025 22:52 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El legado de Trump: ¿un cambio político tras su salida o una profunda transformación moral?",
+      "resumen": "El artículo analiza el impacto de Trump en la política estadounidense, más allá de su presidencia.  Se discute el temor de los legisladores republicanos hacia él, incluso ante la posibilidad de un fracaso electoral.  Se plantea la cuestión de si su salida de la escena política solucionará los problemas generados por su influencia, o si su legado, incluyendo la normalización de la corrupción y la intolerancia, perdurará.  Se destaca que una generación de políticos y votantes republicanos consideran a Trump su figura central, lo que sugiere una transformación profunda de la moral política estadounidense.  La incertidumbre sobre el futuro político tras la era Trump es el eje central del debate.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre el impacto a largo plazo de Trump en la política estadounidense, ofreciendo análisis y perspectivas sobre su legado.  Su naturaleza analítica y reflexiva, junto con la presentación de diferentes puntos de vista, lo hacen adecuado para la categoría 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Newegg Promo Code: 10% Off August 2025",
+      "link": "https://www.wired.com/story/newegg-promo-code/",
+      "fecha_obj": "2025-08-12T05:30:00+00:00",
+      "fecha_str": "12-08-2025 05:30 UTC",
       "source_name": "Wired"
     },
     "resumen_datos": {
-      "teaser_sentence": "Guía de compra de audífonos para personas mayores: estilo, facilidad de uso, soporte remoto y coste.",
-      "resumen": "El artículo analiza los mejores audífonos para personas mayores en 2025, considerando aspectos clave como el estilo (detrás de la oreja o intrauditivos), la facilidad de uso, el soporte médico remoto y la tecnología de la batería (recargable o con pilas).  Se destaca la importancia de la comodidad y la accesibilidad para los usuarios mayores.  El coste es otro factor crucial,  aconsejando buscar garantías de devolución.  Se menciona la existencia de audífonos con forma de gafas para mayor discreción.  El artículo enfatiza la necesidad de evaluar las necesidades individuales antes de la compra, considerando si se requiere o no soporte médico a distancia.",
-      "relevancia_score": 7,
-      "relevancia_justificacion": "El artículo trata sobre tecnología aplicada a la salud, específicamente audífonos con características tecnológicas como conectividad Bluetooth y recarga inalámbrica. Si bien se centra en el aspecto de salud, la tecnología empleada y sus avances son relevantes."
+      "teaser_sentence": "Ahorra en electrónica con los códigos promocionales de Newegg: ¡ofertas, descuentos y envío gratis!",
+      "resumen": "Newegg, un gigante del comercio electrónico, ofrece una amplia gama de productos electrónicos, desde piezas de PC hasta electrodomésticos.  El artículo destaca varios métodos para ahorrar dinero, incluyendo códigos promocionales exclusivos (como WIREDMN3OFF para un 3% de descuento en monitores), descuentos para estudiantes (hasta 10%), el programa de membresía Newegg+ con envío gratuito y ofertas exclusivas, y el programa de recompensas EggPoints.  Además, menciona las ofertas diarias Shell Shocker,  las ventas estacionales (Black Friday, Cyber Monday, etc.) y la posibilidad de construir tu propio PC con el Newegg PC Builder.  Se anima a los lectores a suscribirse al boletín de Newegg para mantenerse informados sobre las promociones.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata exclusivamente sobre Newegg, un importante vendedor online de tecnología,  detallando sus ofertas, promociones y programas de fidelización.  Toda la información se centra en productos y servicios tecnológicos, haciendolo altamente relevante para la categoría."
     },
     "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "FED 2025: Un éxito rotundo para el libro independiente con ventas que superan el 30% y 30 mil asistentes",
-      "link": "https://www.clarin.com/cultura/fed-2025-exito-rotundo-libro-independiente-ventas-superan-30-30-mil-asistentes_0_bAegVswx6c.html",
-      "fecha_obj": "2025-08-10T23:18:44+00:00",
-      "fecha_str": "10-08-2025 23:18 UTC",
-      "source_name": "Revista Ñ – Clarín Cultura"
+      "titulo": "LG Promo Codes: 20% Off | August 2025",
+      "link": "https://www.wired.com/story/lg-promo-code/",
+      "fecha_obj": "2025-08-12T05:00:00+00:00",
+      "fecha_str": "12-08-2025 05:00 UTC",
+      "source_name": "Wired"
     },
     "resumen_datos": {
-      "teaser_sentence": "FED 2025: ¡Éxito rotundo! 30.000 asistentes y ventas un 30% superiores a 2024.",
-      "resumen": "La Feria de Editores (FED) 2025 superó las expectativas con 30.800 asistentes, un 25% más que en 2024.  Las ventas en muchos stands aumentaron entre un 20% y un 30%. Editores independientes destacaron el crecimiento, la fidelidad del público lector, y la alta estima por el libro, incluso en contextos económicos adversos.  Si bien hubo colas importantes, la organización fue elogiada.  Algunos editores sugieren ampliar el espacio o la duración de la feria para futuras ediciones.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata exclusivamente sobre la FED, un evento cultural clave para la industria editorial independiente,  abordando aspectos relevantes de la cultura del libro, la bibliodiversidad y el consumo cultural."
+      "teaser_sentence": "Ahorra hasta un 67% en electrodomésticos LG, ofertas especiales por tiempo limitado.",
+      "resumen": "El artículo detalla las promociones de LG para agosto de 2025, incluyendo descuentos de hasta el 67% en electrodomésticos (refrigeradoras, lavadoras, secadoras, hornos), hasta el 40% en televisores y laptops, y hasta un 20% en la primera compra al registrarse en My LG Rewards.  Se ofrecen descuentos adicionales para estudiantes, maestros y personal de emergencias, además de promociones por bundles y programas de referidos.  También se destacan ofertas especiales por el Labor Day y para la vuelta al cole.  Se mencionan los nuevos modelos de televisores OLED evo G5, con descuentos y ofertas especiales.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo se centra en productos tecnológicos de LG (TVs, laptops, monitores) y electrodomésticos inteligentes, con promociones y descuentos.  Su alta relevancia se debe a la descripción detallada de las ofertas tecnológicas y la información sobre nuevos productos."
     },
-    "categoria": "cultura_arte"
+    "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "Apocalipsis y literatura: Juan Mattio y Michel Nieva exploraron la ficción Weird y el futuro postpandémico",
-      "link": "https://www.clarin.com/cultura/apocalipsis-literatura-juan-mattio-michel-nieva-exploraron-ficcion-weird-futuro-postpandemico_0_BSfqmWvGc1.html",
-      "fecha_obj": "2025-08-10T21:38:32+00:00",
-      "fecha_str": "10-08-2025 21:38 UTC",
-      "source_name": "Revista Ñ – Clarín Cultura"
+      "titulo": "Un fossile de mammifère du temps des dinosaures découvert au Chili",
+      "link": "https://www.sciencesetavenir.fr/sciences/un-fossile-de-mammifere-du-temps-des-dinosaures-decouvert-au-chili_187604?xtor=RSS-18",
+      "fecha_obj": "2025-08-12T03:03:49+00:00",
+      "fecha_str": "12-08-2025 03:03 UTC",
+      "source_name": "Sciences et Avenir"
     },
     "resumen_datos": {
-      "teaser_sentence": "Mattio y Nieva: la ciencia ficción como herramienta para analizar un futuro postpandémico.",
-      "resumen": "En la Feria de Editores, Juan Mattio y Michel Nieva discutieron el uso de la ciencia ficción y la ficción Weird para explorar el futuro postpandémico.  Nieva, con su concepto de \"retrofuturismo\", busca subvertir narrativas del norte global, mientras Mattio destaca la utilidad del género para analizar el inconsciente político y la relación entre naturaleza y tecnología. Ambos coinciden en la importancia de la ciencia ficción para abordar temas ecológicos y cuestionar la narrativa tecnológica dominante, inspirándose en autores como Borges y Sarmiento. La charla también tocó la relación intrínseca entre literatura y política, aunque reconociendo los límites de la ciencia ficción en la acción colectiva.",
-      "relevancia_score": 10,
-      "relevancia_justificacion": "El artículo trata sobre literatura argentina contemporánea, un tema central en la categoría 'Cultura Arte'.  Analiza la obra y las ideas de dos autores relevantes, su participación en un evento cultural importante y la discusión sobre temas cruciales como la ecología y la política."
+      "teaser_sentence": "Descubierto en Chile: fósil de mamífero del Cretácico superior, tan pequeño como un ratón.",
+      "resumen": "Un equipo de científicos chilenos ha descubierto en la Patagonia el fósil de un pequeño mamífero, *Yeutherium pressor*, que vivió durante el Cretácico superior, hace aproximadamente 74 millones de años.  Con un peso estimado entre 30 y 40 gramos, es el mamífero más pequeño encontrado en la región. El fósil, consistente en una pequeña porción de mandíbula con molares, fue hallado en la región de Magallanes.  Se cree que era un mamífero monotrema, capaz de poner huevos y criar a sus crías en una bolsa marsupial. Su dieta probablemente consistía en vegetales duros, y se extinguió hace 66 millones de años, al final del Cretácico, junto con los dinosaurios.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El descubrimiento de un nuevo fósil de mamífero aporta información significativa a la comprensión de la evolución de los mamíferos y su coexistencia con los dinosaurios.  La investigación palentológica es un pilar de la ciencia y la tecnología, especialmente en el desarrollo de técnicas de análisis y datación."
     },
-    "categoria": "cultura_arte"
+    "categoria": "ciencia_tecnologia"
   },
   {
     "info": {
-      "titulo": "‘Oh God no, Dad!’ The makers of TV’s most terrifying monsters reveal their repulsive secrets",
-      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/11/sfx-tv-monsters-makers-reveal-repulsive-secrets-alien-earth-stranger-things-the-last-of-us",
-      "fecha_obj": "2025-08-11T04:00:45+00:00",
-      "fecha_str": "11-08-2025 04:00 UTC",
-      "source_name": "The Guardian Culture"
+      "titulo": "Sécheresse: plus de la moitié de l'Europe et du pourtour méditerranéen affectés depuis avril",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/secheresse-plus-de-la-moitie-de-l-europe-et-du-pourtour-mediterraneen-affectes-depuis-avril_187603?xtor=RSS-15",
+      "fecha_obj": "2025-08-12T04:00:11+00:00",
+      "fecha_str": "12-08-2025 04:00 UTC",
+      "source_name": "Sciences et Avenir"
     },
     "resumen_datos": {
-      "teaser_sentence": "Monstruos de TV: secretos repulsivos de sus aterradores diseños.",
-      "resumen": "El artículo explora el proceso creativo detrás de icónicos monstruos de series como Stranger Things, The Last of Us y Game of Thrones. Se destaca la inspiración en la naturaleza (plantas carnívoras, hongos) y las dificultades técnicas, como el calor excesivo en los trajes y la limitación de presupuesto.  Los diseñadores recurren a la fobia y la repulsión para crear diseños aterradores, combinando elementos realistas con elementos sobrenaturales. Se enfatiza la importancia de la colaboración entre diseñadores y actores, así como la búsqueda de soluciones creativas ante limitaciones presupuestarias o técnicas.",
+      "teaser_sentence": "Sequía extrema en Europa: más del 50% de los suelos afectados en julio, según el Observatorio Europeo de la Sequía.",
+      "resumen": "Un análisis de la AFP sobre datos del Observatorio Europeo de la Sequía (EDO) revela que más del 50% de los suelos de Europa y la región mediterránea sufrieron sequía en julio de 2025, la cifra más alta desde 2012.  Europa del Este y los Balcanes son las zonas más afectadas, con incrementos significativos en la proporción de suelos en alerta.  Turquía también enfrenta una sequía persistente desde marzo, con incendios devastadores.  Mientras que Francia experimentó uno de sus mayores incendios forestales, el Reino Unido muestra una leve mejoría, aunque persiste el déficit hídrico. España y Portugal presentan tasas bajas de sequía.  El EDO combina datos de precipitaciones, humedad del suelo y estado de la vegetación para determinar los niveles de sequía.",
       "relevancia_score": 8,
-      "relevancia_justificacion": "El artículo analiza la creación de monstruos en la televisión, un aspecto relevante para la cultura popular y el arte de los efectos especiales.  Profundiza en el proceso creativo, diseño y realización, conectándolo con la industria del entretenimiento y su impacto cultural."
+      "relevancia_justificacion": "El artículo presenta datos científicos sobre un fenómeno climático de gran impacto, utilizando observaciones satelitales y un indicador compuesto.  La sequía tiene implicaciones tecnológicas en la gestión de recursos hídricos y la respuesta a emergencias (incendios)."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "30% Off Tempur-Pedic Promo Codes | August 2025",
+      "link": "https://www.wired.com/story/tempur-pedic-promo-code/",
+      "fecha_obj": "2025-08-12T05:10:00+00:00",
+      "fecha_str": "12-08-2025 05:10 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ahorra hasta un 50% en colchones Tempur-Pedic durante tiempo limitado ¡Ofertas Labor Day incluidas!",
+      "resumen": "Tempur-Pedic ofrece diversas promociones en colchones y accesorios hasta septiembre.  Se destaca un 30% de descuento al suscribirse a su correo electrónico,  descuentos de hasta $700 en colchones durante Labor Day (del 12 de agosto al 9 de septiembre), $300 de descuento al comprar un colchón con bases Tempur-Ergo o ProSmart, y ofertas en paquetes de almohadas con descuentos de hasta $39.  Las ofertas incluyen descuentos en almohadas, sábanas y bases ajustables, enfatizando la comodidad y el alivio de la presión.",
+      "relevancia_score": 2,
+      "relevancia_justificacion": "El artículo se centra en una promoción de colchones y accesorios para el descanso. No hay relación con avances científicos o tecnológicos."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Visitors Can’t Keep Their Hands Off This Eggplant Artwork",
+      "link": "https://hyperallergic.com/1033461/visitors-cant-keep-their-hands-off-this-eggplant-artwork/",
+      "fecha_obj": "2025-08-11T21:18:27+00:00",
+      "fecha_str": "11-08-2025 21:18 UTC",
+      "source_name": "Hyperallergic"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Instalación artística de berenjenas en Singapur sufre robos y tocamientos por parte de visitantes.",
+      "resumen": "La instalación artística \"Still Life\" (1992/2025) de Suzann Victor, compuesta por 200 berenjenas, en la National Gallery Singapore, ha sufrido actos de vandalismo.  Visitantes han tocado y robado berenjenas de la obra, a pesar de la señalización que prohíbe el contacto.  La artista, consciente de los desafíos de exponer arte orgánico en un espacio público, reconoce la dificultad de controlar la interacción del público. La decadencia de las berenjenas es parte integral de la obra, que explora temas feministas y la sostenibilidad del patriarcado. El museo ha reforzado la señalización y reemplaza las berenjenas dañadas, buscando un equilibrio entre la preservación y la interacción pública.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata directamente sobre una obra de arte, su exhibición, la interacción del público con ella y los problemas de conservación que esto genera.  Es un tema inherente a la categoría 'Cultura Arte', cubriendo aspectos de creación artística, exhibición museística y el impacto social de la misma."
     },
     "categoria": "cultura_arte"
   },
   {
     "info": {
-      "titulo": "‘I was too good’: Sharon Stone on stardom, family secrets, sexual abuse – and her comeback after a stroke",
-      "link": "https://www.theguardian.com/lifeandstyle/2025/aug/11/sharon-stone-interview-stardom-family-secrets-sexual-abuse-comeback-after-stroke",
-      "fecha_obj": "2025-08-11T04:00:43+00:00",
-      "fecha_str": "11-08-2025 04:00 UTC",
-      "source_name": "The Guardian Culture"
+      "titulo": "The Artists Who Made a “Sculpto-Pictorama” of Manhattan",
+      "link": "https://hyperallergic.com/1033335/the-artists-who-made-a-sculpto-pictorama-of-manhattan/",
+      "fecha_obj": "2025-08-11T21:13:46+00:00",
+      "fecha_str": "11-08-2025 21:13 UTC",
+      "source_name": "Hyperallergic"
     },
     "resumen_datos": {
-      "teaser_sentence": "Sharon Stone revela traumas familiares, éxito en Basic Instinct y lucha contra la industria cinematográfica.",
-      "resumen": "En una entrevista, Sharon Stone habla sobre su vida, marcada por el abuso infantil, la compleja relación con su madre, el éxito y posterior ostracismo tras Basic Instinct, y su recuperación tras un derrame cerebral.  Critica la misoginia en Hollywood y revela experiencias negativas con Harvey Weinstein.  A pesar de los traumas, Stone muestra resiliencia, retoma su carrera y se mantiene activa en activismo y filantropía.",
-      "relevancia_score": 8,
-      "relevancia_justificacion": "La entrevista profundiza en la vida y carrera de una figura icónica de Hollywood, abordando aspectos relevantes de la cultura cinematográfica, la industria del cine, y el impacto de las obras en la sociedad.  También toca temas de abuso y violencia de género, relevantes para la cultura."
+      "teaser_sentence": "En medio del caos de los 70 en Nueva York, una instalación artística monumental celebra la vida urbana.",
+      "resumen": "En 1975, en medio de una crisis fiscal y una ciudad percibida como peligrosa, Mimi Gross y Red Grooms crearon \"Ruckus Manhattan\", una instalación artística tridimensional que representaba una visión vibrante y optimista de Nueva York.  Esta \"sculpto-pictorama\", construida con la colaboración de más de 20 artistas, permitía a los visitantes interactuar con una representación exagerada pero cálida de la ciudad. El Brooklyn Museum exhibe actualmente dos secciones de la obra original, \"Dame of the Narrows\" y \"42nd Street Porno Bookstore\", junto con un documental sobre su creación, ofreciendo una mirada nostálgica y divertida a la cultura urbana de los años 70.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre una importante obra de arte instalativo, sus creadores, su contexto histórico y su exhibición en un museo reconocido.  Es un análisis completo de una pieza cultural relevante dentro del ámbito del arte."
     },
     "categoria": "cultura_arte"
   },
   {
     "info": {
-      "titulo": "TV tonight: unpicking all the questions about the Lucy Letby case",
-      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/11/tv-tonight-unpicking-all-the-questions-about-the-lucy-letby-case",
-      "fecha_obj": "2025-08-11T05:15:42+00:00",
-      "fecha_str": "11-08-2025 05:15 UTC",
+      "titulo": "Fish, teapots and a pineapple! Ghana’s most stylish coffins – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2025/aug/12/fish-teapots-and-a-pineapple-ghanas-most-stylish-coffins-in-pictures",
+      "fecha_obj": "2025-08-12T06:00:15+00:00",
+      "fecha_str": "12-08-2025 06:00 UTC",
       "source_name": "The Guardian Culture"
     },
     "resumen_datos": {
-      "teaser_sentence": "Esta noche en TV: desde el caso Letby hasta secretos de longevidad, ¡una programación variada!",
-      "resumen": "La programación televisiva de esta noche ofrece una variedad de opciones.  'Panorama' analiza el controvertido caso Lucy Letby, mientras que 'Holiday Parks Exposed' investiga las prácticas de los parques vacacionales en Reino Unido.  'Nicola Sturgeon: The Interview' presenta una entrevista con la ex primera ministra escocesa.  'Michael Mosley: Secrets of the Superagers' explora la longevidad, y 'Human' concluye su serie sobre la evolución humana. Finalmente, 'The Gilded Age' llega a su fin de temporada.",
+      "teaser_sentence": "Ataúdes con forma de pescado, teteras y piñas: descubre el arte funerario de Ghana.",
+      "resumen": "El artículo presenta una galería de imágenes de ataúdes ghaneses, mostrando la gran variedad de formas y diseños, desde peces hasta teteras y piñas.  Estos ataúdes reflejan la personalidad del difunto y las tradiciones culturales.  Se describe brevemente la velada antes del entierro, que puede tener lugar en la casa de la familia o en una carpa, variando según la religión, el estatus y las preferencias de la familia. La preparación del difunto también difiere según estas variables. Las imágenes muestran la creatividad y el colorido de esta tradición funeraria única de Ghana.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo se centra en los ataúdes ghaneses como una forma de expresión artística y cultural, mostrando su significado dentro de las tradiciones funerarias del país.  La relevancia es alta, ya que ilustra una práctica cultural única con un fuerte componente artístico."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "A Hiroshima Survivor’s Message for Jerry Saltz",
+      "link": "https://hyperallergic.com/1033479/a-hiroshima-survivors-message-for-jerry-saltz/",
+      "fecha_obj": "2025-08-11T21:16:13+00:00",
+      "fecha_str": "11-08-2025 21:16 UTC",
+      "source_name": "Hyperallergic"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Superviviente de Hiroshima critica la justificación de Jerry Saltz sobre los bombardeos atómicos.",
+      "resumen": "El artículo critica una publicación de Instagram de Jerry Saltz que justificaba los bombardeos atómicos de Hiroshima y Nagasaki.  La crítica se basa en el testimonio de Howard Kakita, hibakusha (superviviente del bombardeo), quien describe los horrores que presenció y sufrió. Kakita refuta la idea de que los bombardeos fueran necesarios, señalando la falta de alternativas y el fracaso del liderazgo tanto japonés como estadounidense.  El artículo explora el racismo inherente a la decisión y la falta de empatía en la justificación de Saltz, concluyendo con la esperanza de que las futuras generaciones aprendan de la tragedia de Hiroshima y Nagasaki.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien el tema central es político e histórico, la pieza se centra en la respuesta de un crítico de arte a un evento histórico, conectándolo con la falta de empatía en el discurso público. La perspectiva de un superviviente y la reflexión sobre el papel de la crítica de arte en la promoción de la humanidad le dan relevancia a la categoría."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: Katherine Kelly stars in new thriller from Slow Horses director",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/12/tv-tonight-katherine-kelly-stars-in-new-thriller-from-slow-horses-director",
+      "fecha_obj": "2025-08-12T05:20:12+00:00",
+      "fecha_str": "12-08-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en la TV: thrillers, realities y documentales, ¡para todos los gustos!",
+      "resumen": "La programación televisiva de esta noche ofrece una variada selección de programas.  'In Flight' presenta a Katherine Kelly como una azafata envuelta en un thriller criminal. 'The Big Pound Shop Swap' muestra a una familia intentando sobrevivir con productos de bajo costo. 'The Great British Sewing Bee' desafía a los participantes a reciclar ropa. 'Pompeii: Life in the City With Dan Snow' explora la vida en Pompeya. 'Confessions of a Steroid Gang' narra la historia de un imperio ilegal de esteroides. 'Resident Alien' continúa con la cuarta temporada. Finalmente, se anuncia la transmisión de partidos de cricket de 'The Hundred'.",
       "relevancia_score": 3,
-      "relevancia_justificacion": "Si bien 'The Gilded Age' es una serie de época que podría relacionarse con la cultura, el resto de la programación se centra en temas de actualidad, investigación periodística y documentales científicos, con poca relevancia para la categoría 'Cultura Arte'."
+      "relevancia_justificacion": "Si bien 'Pompeii' podría tener cierta conexión con la historia y la cultura, el resto de la programación se centra en el entretenimiento y la realidad, con poca relevancia para la categoría 'Cultura Arte'."
     },
     "categoria": "cultura_arte"
   }
