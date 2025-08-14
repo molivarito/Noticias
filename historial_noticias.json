@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "info": {
+      "titulo": "Russia Seeks to Add Trade and Arms Control Into Trump-Putin Talks",
+      "link": "https://www.nytimes.com/2025/08/14/world/europe/trump-putin-talks-russia-trade-arms-control.html",
+      "fecha_obj": "2025-08-14T18:44:35+00:00",
+      "fecha_str": "14-08-2025 18:44 UTC",
+      "source_name": "The New York Times World"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Rusia busca ampliar la agenda de la cumbre Trump-Putin a comercio y control de armas, además de Ucrania.",
+      "resumen": "Previo a la reunión entre Trump y Putin, el Kremlin manifestó su interés en discutir temas adicionales a la guerra en Ucrania, como la cooperación económica y el control de armas.  Putin destacó la importancia de un acuerdo sobre Ucrania para lograr la paz, vinculándolo a futuros acuerdos de control de armas estratégicas.  Las declaraciones del Kremlin sugieren una estrategia rusa para diversificar la agenda bilateral con Estados Unidos, diluyendo así el foco en el conflicto ucraniano.  Putin expresó su creencia en los esfuerzos estadounidenses por detener la guerra y alcanzar acuerdos que beneficien a todas las partes involucradas.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La noticia trata sobre una reunión de alto nivel entre líderes mundiales que involucra temas de conflicto, control de armas y relaciones internacionales, lo que la hace altamente relevante para la categoría 'Internacional'."
+    },
+    "categoria": "internacional"
+  }
+]
