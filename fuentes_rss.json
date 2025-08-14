@@ -9,6 +9,7 @@
         { "name": "The New York Times World", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "lang": "en" }
     ],
     "nacional": [
+        { "name": "Google News Chile", "url": "https://news.google.com/rss?hl=es-419&gl=CL&ceid=CL:es-419", "lang": "es" },
         { "name": "La Tercera", "url": "https://www.latercera.com/feed/", "lang": "es" },
         { "name": "CIPER Chile", "url": "https://www.ciperchile.cl/feed/", "lang": "es" },
         { "name": "BioBioChile", "url": "https://www.biobiochile.cl/lista/categorias/actualidad/feed", "lang": "es" },
