@@ -32,13 +32,13 @@ jobs:
     - name: Checkout del repositorio
       uses: actions/checkout@v4
 
-    - name: Cache del historial de noticias
-      id: cache-historial
-      uses: actions/cache@v4
-      with:
-        path: historial_noticias.json
-        key: ${{ runner.os }}-historial-noticias
-
+    - name: Restaurar historial desde gh-pages
+      run: |
+        # Clonamos la rama gh-pages a un directorio temporal para obtener el historial más reciente
+        git clone --depth=1 --branch=gh-pages "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" .gh-pages-temp
+        # Si el historial existe, lo movemos al directorio de trabajo actual
+        if [ -f .gh-pages-temp/historial_noticias.json ]; then mv .gh-pages-temp/historial_noticias.json .; fi
+        
     - name: Configurar Python
       uses: actions/setup-python@v4
       with:

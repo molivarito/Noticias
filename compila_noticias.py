@@ -338,6 +338,9 @@ class NewsProcessor:
         articles_by_category = {}
         for art in weekly_articles:
             categoria = art.get('categoria')
+            if not categoria:
+                print(f"⚠️ Omitiendo artículo del historial sin categoría: {art.get('info', {}).get('titulo', 'N/A')}")
+                continue
             if categoria not in articles_by_category: articles_by_category[categoria] = []
             articles_by_category[categoria].append(art)
 
