@@ -143,14 +143,26 @@ class NewsProcessor:
         Responde ESTRICTAMENTE en este formato JSON:
         {{ "teaser_sentence": "...", "resumen": "...", "relevancia_score": <int>, "relevancia_justificacion": "..." }}
         """
-        try:
-            print(f"    📝 Solicitando resumen para: {titulo}")
-            response = self.gemini_model.generate_content(prompt)
-            clean_response_text = response.text.strip().lstrip("```json").rstrip("```")
-            return json.loads(clean_response_text)
-        except (json.JSONDecodeError, Exception) as e:
-            print(f"    ❌ Error procesando con Gemini para '{titulo}': {e}")
-            return None
+        max_retries = 3
+        delay = 5  # Empezar con 5 segundos de espera
+        for attempt in range(max_retries):
+            try:
+                print(f"    📝 Solicitando resumen para: {titulo} (Intento {attempt + 1}/{max_retries})")
+                response = self.gemini_model.generate_content(prompt)
+                clean_response_text = response.text.strip().lstrip("```json").rstrip("```")
+                return json.loads(clean_response_text)
+            except Exception as e:
+                error_str = str(e).lower()
+                if "429" in error_str or "quota" in error_str:
+                    print(f"    ⚠️ Error de cuota de API (429). Reintentando en {delay} segundos...")
+                    time.sleep(delay)
+                    delay *= 2  # Duplicar la espera para el siguiente intento (espera exponencial)
+                else:
+                    print(f"    ❌ Error inesperado procesando con Gemini para '{titulo}': {e}")
+                    return None # No reintentar en errores no relacionados con la cuota
+        
+        print(f"    ❌ Fallaron todos los reintentos para '{titulo}'. Se omite el artículo.")
+        return None
 
     def save_to_history(self, processed_articles: Dict[str, List[Dict]]):
         history = []
@@ -268,11 +280,14 @@ class NewsProcessor:
                 print(f"  ▶️ ({i+1}/{len(articles_to_process)}) Artículo: '{art['titulo']}'")
                 contenido = self.extraer_contenido(art['link'])
                 if not contenido: continue
-                time.sleep(1)
+                
                 resumen_datos = self.resumir_con_gemini(art['titulo'], contenido, categoria)
                 if resumen_datos:
                     processed_list.append({"info": art, "resumen_datos": resumen_datos})
-            processed_list.sort(key=lambda x: x['resumen_datos'].get('relevancia_score', 0), reverse=True)
+                
+                # Pausa para no saturar la API, la lógica de reintento manejará los picos.
+                time.sleep(2) 
+            
             processed_articles[categoria] = processed_list
             if processed_list:
                 print(f"  ✅ Procesados con éxito {len(processed_list)} artículos para '{categoria}'.")
