@@ -50,17 +50,20 @@ jobs:
         BASE_WEB_URL: "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
         GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
         GITHUB_REPOSITORY_NAME: ${{ github.event.repository.name }}
+
+    - name: Ejecutar Reporte Diario
+      if: (github.event_name == 'schedule' && github.event.schedule == '0 7 * * *') || (github.event_name == 'workflow_dispatch' && github.event.inputs.report_type == 'diario')
       run: |
-        if [[ "${{ github.event_name }}" == "schedule" && "${{ github.event.schedule }}" == "0 8 * * 0" ]]; then
-          echo "Ejecutando reporte semanal (agendado)..."
-          python compila_noticias.py --weekly
-        elif [[ "${{ github.event_name }}" == "workflow_dispatch" && "${{ github.event.inputs.report_type }}" == "semanal" ]]; then
-          echo "Ejecutando reporte semanal (manual)..."
-          python compila_noticias.py --weekly
-        else
-          echo "Ejecutando reporte diario (agendado o manual por defecto)..."
-          python compila_noticias.py
-        fi
+        echo "Ejecutando reporte diario..."
+        python compila_noticias.py
+      env:
+        # Las variables de entorno se heredan del job, no es necesario repetirlas si son las mismas
+
+    - name: Ejecutar Reporte Semanal
+      if: (github.event_name == 'schedule' && github.event.schedule == '0 8 * * 0') || (github.event_name == 'workflow_dispatch' && github.event.inputs.report_type == 'semanal')
+      run: |
+        echo "Ejecutando reporte semanal..."
+        python compila_noticias.py --weekly
 
     - name: Desplegar reportes a GitHub Pages
       if: success()
