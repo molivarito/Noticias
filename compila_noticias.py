@@ -41,8 +41,12 @@ class Config:
     FUENTES_RSS_JSON_PATH = SCRIPT_DIR / "fuentes_rss.json"
     HISTORIAL_JSON_PATH = SCRIPT_DIR / "historial_noticias.json"
     DEFAULT_HOURS_AGO = 24
+    WEEKLY_REPORT_DAYS = 7
     USER_AGENT = "NewsAggregatorBot/1.0 (+https://github.com/features/actions)"
     MAX_ARTICLES_TO_SUMMARIZE_PER_CATEGORY = 5
+    MAX_ARTICLES_WEEKLY_PER_CATEGORY = 7
+    DAILY_REPORT_FILENAME = "index.html"
+    WEEKLY_REPORT_FILENAME = "semanal.html"
     GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
     GMAIL_USER = os.getenv("GMAIL_USER")
     GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD")
@@ -276,18 +280,70 @@ class NewsProcessor:
 
         self.save_to_history(processed_articles)
         html_content = self.generate_html_report(processed_articles, "Diario")
-        output_path = self.config.SCRIPT_DIR / "index.html"
+        output_path = self.config.SCRIPT_DIR / self.config.DAILY_REPORT_FILENAME
         output_path.write_text(html_content, encoding="utf-8")
         print(f"\n📄 Reporte Diario guardado en: {output_path}")
-        print(f"🔗 URL de despliegue: {self.config.BASE_WEB_URL}index.html")
+        daily_report_url = f"{self.config.BASE_WEB_URL}{self.config.DAILY_REPORT_FILENAME}"
+        print(f"🔗 URL de despliegue: {daily_report_url}")
 
         if total_processed_count > 0:
             email_subject = f"Resumen Diario de Noticias ({total_processed_count} artículos)"
-            email_body = f"Tu resumen diario de noticias está listo.\nSe procesaron {total_processed_count} artículos.\n\nPuedes verlo en: {self.config.BASE_WEB_URL}index.html"
+            email_body = f"Tu resumen diario de noticias está listo.\nSe procesaron {total_processed_count} artículos.\n\nPuedes verlo en: {daily_report_url}"
             send_email_notification(self.config, email_body, email_subject)
 
     def run_weekly_report(self):
         print("✨ Iniciando procesamiento del reporte semanal desde el historial.")
+        if not self.config.HISTORIAL_JSON_PATH.exists():
+            print("❌ No se encontró el archivo de historial. No se puede generar el reporte semanal.")
+            return
+
+        try:
+            history = json.loads(self.config.HISTORIAL_JSON_PATH.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            print("❌ Error al leer el archivo de historial. Está corrupto.")
+            return
+
+        limite_tiempo_utc = datetime.now(timezone.utc) - timedelta(days=self.config.WEEKLY_REPORT_DAYS)
+        weekly_articles = []
+        for art in history:
+            try:
+                fecha_articulo_utc = datetime.fromisoformat(art['info']['fecha_obj'])
+                if fecha_articulo_utc > limite_tiempo_utc:
+                    weekly_articles.append(art)
+            except (KeyError, TypeError, ValueError) as e:
+                print(f"⚠️ Omitiendo artículo del historial por datos inválidos: {e}")
+                continue
+
+        if not weekly_articles:
+            print("ℹ️ No se encontraron artículos en la última semana para generar el reporte.")
+            return
+
+        print(f"🔍 Encontrados {len(weekly_articles)} artículos en el historial de la última semana.")
+
+        articles_by_category = {}
+        for art in weekly_articles:
+            categoria = art.get('categoria')
+            if categoria not in articles_by_category: articles_by_category[categoria] = []
+            articles_by_category[categoria].append(art)
+
+        top_articles_by_category = {}
+        for categoria, articles in articles_by_category.items():
+            articles.sort(key=lambda x: x['resumen_datos'].get('relevancia_score', 0), reverse=True)
+            top_articles_by_category[categoria] = articles[:self.config.MAX_ARTICLES_WEEKLY_PER_CATEGORY]
+
+        html_content = self.generate_html_report(top_articles_by_category, "Semanal")
+        output_path = self.config.SCRIPT_DIR / self.config.WEEKLY_REPORT_FILENAME
+        output_path.write_text(html_content, encoding="utf-8")
+        print(f"\n📄 Reporte Semanal guardado en: {output_path}")
+
+        weekly_report_url = f"{self.config.BASE_WEB_URL}{self.config.WEEKLY_REPORT_FILENAME}"
+        print(f"🔗 URL de despliegue: {weekly_report_url}")
+
+        total_articles = sum(len(arts) for arts in top_articles_by_category.values())
+        if total_articles > 0:
+            email_subject = f"🏆 Tu Resumen Semanal de Noticias está listo"
+            email_body = f"El resumen con las noticias más relevantes de la semana está listo.\nSe seleccionaron {total_articles} artículos.\n\nPuedes verlo en: {weekly_report_url}"
+            send_email_notification(self.config, email_body, email_subject)
 
 def send_email_notification(config: Config, body_text: str, subject: str):
     if not all([config.GMAIL_USER, config.GMAIL_APP_PASSWORD, config.GMAIL_DESTINATARIO]):
