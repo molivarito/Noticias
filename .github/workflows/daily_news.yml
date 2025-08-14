@@ -20,6 +20,14 @@ jobs:
   generate_and_deploy_reports:
     name: Generar y Desplegar Reportes
     runs-on: ubuntu-latest
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      GMAIL_USER: ${{ secrets.GMAIL_USER }}
+      GMAIL_DESTINATARIO: ${{ secrets.GMAIL_DESTINATARIO || secrets.GMAIL_USER }}
+      BASE_WEB_URL: "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
+      GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+      GITHUB_REPOSITORY_NAME: ${{ github.event.repository.name }}
     steps:
     - name: Checkout del repositorio
       uses: actions/checkout@v4
@@ -41,23 +49,11 @@ jobs:
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-    - name: Ejecutar script de noticias
-      env:
-        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-        GMAIL_USER: ${{ secrets.GMAIL_USER }}
-        GMAIL_DESTINATARIO: ${{ secrets.GMAIL_DESTINATARIO || secrets.GMAIL_USER }}
-        BASE_WEB_URL: "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
-        GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
-        GITHUB_REPOSITORY_NAME: ${{ github.event.repository.name }}
-
     - name: Ejecutar Reporte Diario
       if: (github.event_name == 'schedule' && github.event.schedule == '0 7 * * *') || (github.event_name == 'workflow_dispatch' && github.event.inputs.report_type == 'diario')
       run: |
         echo "Ejecutando reporte diario..."
         python compila_noticias.py
-      env:
-        # Las variables de entorno se heredan del job, no es necesario repetirlas si son las mismas
 
     - name: Ejecutar Reporte Semanal
       if: (github.event_name == 'schedule' && github.event.schedule == '0 8 * * 0') || (github.event_name == 'workflow_dispatch' && github.event.inputs.report_type == 'semanal')
@@ -75,4 +71,4 @@ jobs:
         user_name: 'github-actions[bot]'
         user_email: 'github-actions[bot]@users.noreply.github.com'
         commit_message: 'Deploy news summary to GitHub Pages'
-        keep_files: true # <--- ESTA ES LA LÍNEA DE LA SOLUCIÓN
+        keep_files: true
