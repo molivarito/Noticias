@@ -67,8 +67,13 @@ jobs:
       if: success()
       uses: peaceiris/actions-gh-pages@v3
       with:
+        # Mover los artefactos generados a un directorio de publicación
+        # para mantener la rama gh-pages limpia.
+        run: |
+          mkdir -p public
+          mv index.html semanal.html historial_noticias.json public/ 2>/dev/null || true
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./
+        publish_dir: ./public
         publish_branch: gh-pages
         user_name: 'github-actions[bot]'
         user_email: 'github-actions[bot]@users.noreply.github.com'

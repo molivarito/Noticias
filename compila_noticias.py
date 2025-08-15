@@ -17,6 +17,7 @@ try:
     import feedparser
     from newspaper import Article, ArticleException
 except ImportError as e:
+    # ... (el resto de las importaciones)
     print(f"Error: Falta una librería necesaria: {e}. Por favor, instala las dependencias con 'pip install -r requirements.txt'")
     exit(1)
 
@@ -39,6 +40,7 @@ except Exception as e:
 class Config:
     SCRIPT_DIR = Path(__file__).resolve().parent
     FUENTES_RSS_JSON_PATH = SCRIPT_DIR / "fuentes_rss.json"
+    TEMPLATE_DIR = SCRIPT_DIR / "templates"
     HISTORIAL_JSON_PATH = SCRIPT_DIR / "historial_noticias.json"
     DEFAULT_HOURS_AGO = 24
     WEEKLY_REPORT_DAYS = 7
@@ -66,6 +68,7 @@ class NewsProcessor:
     def __init__(self, config: Config):
         self.config = config
         self.gemini_model = self._init_gemini_model()
+        self.jinja_env = self._init_jinja_env()
 
     def _init_gemini_model(self) -> Optional[genai.GenerativeModel]:
         if not self.config.GEMINI_API_KEY:
@@ -78,6 +81,14 @@ class NewsProcessor:
             return model
         except Exception as e:
             print(f"❌ Error CRÍTICO al inicializar el modelo de Gemini: {e}")
+            return None
+
+    def _init_jinja_env(self):
+        try:
+            from jinja2 import Environment, FileSystemLoader
+            return Environment(loader=FileSystemLoader(self.config.TEMPLATE_DIR), autoescape=True)
+        except ImportError:
+            print("⚠️ Advertencia: Jinja2 no está instalado. El reporte HTML no se podrá generar.")
             return None
 
     def _cargar_fuentes(self) -> Dict[str, Any]:
@@ -186,73 +197,24 @@ class NewsProcessor:
         if count > 0:
             print(f"💾 Historial actualizado con {count} nuevos artículos.")
 
-    def generate_html_report(self, processed_articles_by_category: Dict[str, list], report_type: str) -> str:
+    def generate_html_report(self, articles_by_category: Dict[str, list], report_type: str) -> str:
+        if not self.jinja_env:
+            return "<html><body>Error: Jinja2 no está configurado. No se puede generar el reporte.</body></html>"
+        
+        template = self.jinja_env.get_template("report_template.html")
         generation_timestamp = datetime.now(timezone.utc)
         generation_timestamp_str = generation_timestamp.strftime("%d de %B de %Y, %H:%M:%S UTC")
 
-        category_icons = {
-            "internacional": "🌍", "nacional": "🇨🇱", "opinion_ensayo": "✍️",
-            "ciencia_tecnologia": "🔬", "cultura_arte": "🎨", "default": "🔹"
+        context = {
+            "report_type": report_type.title(),
+            "generation_timestamp": generation_timestamp_str,
+            "articles_by_category": articles_by_category,
+            "category_icons": {
+                "internacional": "🌍", "nacional": "🇨🇱", "opinion_ensayo": "✍️",
+                "ciencia_tecnologia": "🔬", "cultura_arte": "🎨", "default": "🔹"
+            }
         }
-
-        html_content = f"""
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-    <title>Resumen {report_type.title()} de Noticias</title>
-    <style>
-        body {{ font-family: 'Roboto', sans-serif; line-height: 1.6; margin: 0; padding: 20px; background-color: #f4f7f6; color: #333; }}
-        .container {{ max-width: 900px; margin: 30px auto; background-color: #ffffff; padding: 30px; border-radius: 10px; box-shadow: 0 6px 12px rgba(0,0,0,0.08); }}
-        h1 {{ font-family: 'Montserrat', sans-serif; color: #2c3e50; text-align: center; margin-bottom: 15px; font-weight: 700; font-size: 2.2em; }}
-        .report-timestamp {{ text-align: center; font-size: 0.9em; color: #555; margin-top: -10px; margin-bottom: 35px; }}
-        h2 {{ font-family: 'Montserrat', sans-serif; color: #34495e; border-bottom: 3px solid #1abc9c; padding-bottom: 12px; margin-top: 40px; margin-bottom: 25px; font-weight: 600; font-size: 1.8em; }}
-        details {{ background-color: #fdfdfd; border: 1px solid #e0e0e0; border-radius: 8px; margin-bottom: 20px; padding: 20px; box-shadow: 0 3px 6px rgba(0,0,0,0.04); transition: box-shadow 0.3s ease; }}
-        details:hover {{ box-shadow: 0 5px 10px rgba(0,0,0,0.06); }}
-        details[open] {{ background-color: #ffffff; border-left: 5px solid #1abc9c; }}
-        summary {{ font-family: 'Montserrat', sans-serif; font-weight: 600; cursor: pointer; color: #2980b9; font-size: 1.15em; margin-bottom: 8px; list-style-position: inside; outline: none; }}
-        .article-content-wrapper {{ padding-top: 10px; }}
-        .article-title {{ font-size: 1.15em; font-weight: bold; color: #343a40; margin-bottom: 5px; }}
-        .article-meta {{ font-size: 0.85em; color: #6c757d; margin-bottom: 8px; }}
-        .article-summary {{ margin-top: 10px; color: #495057; }}
-        a {{ color: #007bff; text-decoration: none; }}
-        a:hover {{ text-decoration: underline; }}
-        .no-articles {{ text-align: center; font-style: italic; color: #6c757d; margin: 40px 10px; font-size: 1.1em; }}
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Resumen {report_type.title()} de Noticias</h1>
-        <p class="report-timestamp">Generado el: {generation_timestamp_str}</p>
-        """
-        
-        if not processed_articles_by_category or not any(processed_articles_by_category.values()):
-            html_content += "<p class='no-articles'>No se encontraron noticias nuevas en las últimas 24 horas.</p>"
-        else:
-            for categoria, articulos in processed_articles_by_category.items():
-                if not articulos: continue
-                icon = category_icons.get(categoria, category_icons["default"])
-                html_content += f"<h2>{icon} {categoria.replace('_', ' ').title()}</h2>"
-                for item in articulos:
-                    info = item["info"]
-                    resumen = item["resumen_datos"]
-                    html_content += f"""
-                    <details>
-                        <summary>{resumen.get('teaser_sentence', 'Click para ver más')} (Puntuación: {resumen.get('relevancia_score', 'N/A')}/10)</summary>
-                        <div class="article-content-wrapper">
-                            <p class="article-title">{info.get('titulo', 'Sin título')}</p>
-                            <p class="article-meta">
-                                Fuente: {info.get('source_name', 'N/A')} | Fecha: {info.get('fecha_str', 'N/A')} | Justificación: {resumen.get('relevancia_justificacion', 'N/A')}
-                            </p>
-                            <p class="article-summary">{resumen.get('resumen', 'No hay resumen disponible.')}</p>
-                            <a href='{info.get('link', '#')}' target='_blank'>Leer más en la fuente original</a>
-                        </div>
-                    </details>
-                    """
-        html_content += "</div></body></html>"
-        return html_content
+        return template.render(context)
 
     def run_daily_report(self):
         fuentes = self._cargar_fuentes()
