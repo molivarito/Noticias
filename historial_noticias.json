@@ -334,5 +334,309 @@
       "relevancia_justificacion": "La exposición se centra en el arte como medio para explorar la relación entre la humanidad y el cosmos, abarcando historia del arte, arte contemporáneo y reflexiones culturales.  Es altamente relevante para la categoría 'Cultura Arte' por su enfoque interdisciplinario y su análisis de la influencia de la cosmología en la creación artística."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Live Updates: Trump Flies to Alaska for High-Stakes Summit With Putin",
+      "link": "https://www.nytimes.com/live/2025/08/15/world/trump-putin-meeting-alaska",
+      "fecha_obj": "2025-08-15T13:57:27+00:00",
+      "fecha_str": "15-08-2025 13:57 UTC",
+      "source_name": "The New York Times World"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Trump y Putin se reúnen en Alaska: una cumbre con altas apuestas y una relación compleja.",
+      "resumen": "El artículo analiza la volátil relación entre Donald Trump y Vladimir Putin, desde elogios iniciales hasta fuertes críticas.  Se revisan sus encuentros previos, incluyendo las reuniones del G20 y las declaraciones de Trump sobre la interferencia rusa en las elecciones de 2016.  Se destaca la contradicción entre los halagos iniciales de Trump hacia Putin y su posterior condena a la invasión de Ucrania. El enfoque del artículo está en la cumbre en Alaska, donde se espera que Trump busque una solución para la guerra en Ucrania, a pesar de sus cambiantes posturas sobre Putin.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La cumbre entre Trump y Putin es un evento de alta relevancia internacional, impactando las relaciones entre Estados Unidos y Rusia, y la guerra en Ucrania. El artículo cubre un tema geopolítico crucial."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Au Pakistan, près de 200 personnes sont mortes à cause des pluies liées à la mousson",
+      "link": "https://www.lemonde.fr/planete/article/2025/08/15/au-pakistan-pres-de-200-personnes-sont-mortes-a-cause-des-pluies-liees-a-la-mousson_6629906_3245.html",
+      "fecha_obj": "2025-08-15T13:54:18+00:00",
+      "fecha_str": "15-08-2025 13:54 UTC",
+      "source_name": "Le Monde International"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Más de 500 muertos en Pakistán por lluvias monzónicas; se intensificarán hasta septiembre.",
+      "resumen": "Las fuertes lluvias monzónicas en el norte de Pakistán han causado al menos 194 muertes en 24 horas, elevando el total a más de 500 desde finales de junio.  La provincia de Khyber-Pakhtunkhwa ha sido la más afectada, con 180 muertes.  Un helicóptero de rescate se estrelló, matando a sus cinco tripulantes.  Las lluvias superan las del año anterior, con el Punjab registrando un 73% más de precipitaciones en julio.  Las autoridades advierten que las lluvias se intensificarán hasta mediados de septiembre, recordando las devastadoras inundaciones de 2022.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La noticia reporta una tragedia de gran escala internacional, con un alto número de víctimas mortales y un impacto significativo en una región densamente poblada.  La crisis humanitaria y el desastre natural tienen relevancia global."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "How Trump’s Meeting With Putin Could Unfold, as Trump Seeks Cease-Fire in Ukraine",
+      "link": "https://www.nytimes.com/2025/08/15/us/politics/trump-putin-summit-ukraine.html",
+      "fecha_obj": "2025-08-15T13:50:27+00:00",
+      "fecha_str": "15-08-2025 13:50 UTC",
+      "source_name": "The New York Times World"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Trump y Putin se reunirán en Alaska para discutir el conflicto en Ucrania; el éxito es incierto.",
+      "resumen": "El artículo analiza la inminente reunión entre Trump y Putin en Alaska, la primera entre líderes estadounidenses y rusos desde la invasión de Ucrania.  Se exploran posibles escenarios, desde un fracaso total si no hay acuerdo, hasta un encuentro exitoso que podría incluir la mediación de Zelensky. Trump confía en su capacidad para negociar con Putin, a quien considera capaz de resolver el conflicto rápidamente. La reunión se presenta como impredecible, con la posibilidad de desacuerdos, resentimientos y reproches. El resultado dependerá en gran medida de la dinámica personal entre ambos líderes.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La reunión entre Trump y Putin, líderes de dos potencias mundiales, para discutir el conflicto en Ucrania, es un evento de máxima relevancia internacional.  Afecta directamente las relaciones entre Rusia y Estados Unidos, y tiene implicaciones globales para la paz y la seguridad."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "A Timeline of Trump’s Complicated Relationship With Putin",
+      "link": "https://www.nytimes.com/2025/08/15/world/europe/trump-putin-timeline.html",
+      "fecha_obj": "2025-08-15T13:50:04+00:00",
+      "fecha_str": "15-08-2025 13:50 UTC",
+      "source_name": "The New York Times World"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La compleja relación entre Trump y Putin: de admiración a enfrentamiento.",
+      "resumen": "El artículo traza la evolución de la relación entre Donald Trump y Vladimir Putin, destacando encuentros desde 2007 hasta la actualidad. Inicialmente, Trump expresó admiración hacia Putin, incluso enviándole una carta de felicitación y preguntándose si se convertirían en amigos.  Durante la campaña presidencial de 2016, Trump manifestó su creencia de que se llevaría bien con Putin. El texto menciona al menos seis encuentros cara a cara entre ambos líderes, anticipando un séptimo encuentro en Anchorage. La naturaleza cambiante de su relación, oscilando entre la admiración y la tensión,  es el tema central del artículo.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La relación entre los líderes de Estados Unidos y Rusia es un tema de máxima relevancia internacional, impactando en la geopolítica global y la seguridad mundial.  El artículo analiza un aspecto clave de esta relación."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Flash Floods in Pakistan Kill at Least 150 People in a Single Day",
+      "link": "https://www.nytimes.com/2025/08/15/world/asia/pakistan-flash-floods-india.html",
+      "fecha_obj": "2025-08-15T13:47:58+00:00",
+      "fecha_str": "15-08-2025 13:47 UTC",
+      "source_name": "The New York Times World"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Inundaciones repentinas en Pakistán dejan al menos 185 muertos en un día, devastando aldeas enteras.",
+      "resumen": "Las fuertes lluvias monzónicas en Pakistán han causado inundaciones repentinas que han dejado al menos 185 muertos en un solo día, la mayoría en la región noroccidental de Khyber-Pakhtunkhwa.  El distrito de Buner fue particularmente afectado, con 78 víctimas.  La mayoría de las muertes se debieron al colapso de viviendas y a personas arrastradas por las aguas. Los equipos de rescate enfrentan dificultades para acceder a las zonas afectadas debido a las carreteras dañadas y las malas condiciones climáticas, incluso un helicóptero que transportaba ayuda se estrelló, causando cinco muertes adicionales.  La situación se describe como catastrófica, con aldeas enteras destruidas y carreteras arrasadas.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La noticia reporta una tragedia de gran escala internacional, con un alto número de víctimas mortales debido a un desastre natural en Pakistán.  Su impacto y alcance global justifican una puntuación máxima de relevancia."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "First it was family, now it’s a feud. But even in meltdown, Brand Beckham is raking it in | Marina Hyde",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/15/beckham-family-feud-brooklyn-nicola-peltz",
+      "fecha_obj": "2025-08-15T12:49:43+00:00",
+      "fecha_str": "15-08-2025 12:49 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La familia Beckham, un imperio construido en redes sociales, se enfrenta a una crisis familiar que amenaza su imagen pública.",
+      "resumen": "El artículo analiza la marca Beckham, construida en torno a la imagen de una familia unida.  David y Victoria Beckham han monetizado su vida privada, compartiendo momentos familiares en redes sociales. Sin embargo, la fractura entre Brooklyn y el resto de la familia ha expuesto las grietas en esta imagen cuidadosamente cultivada. La ausencia de los Beckham en la renovación de votos de Brooklyn y Nicola Peltz, publicada en Instagram, ha generado un conflicto público.  El artículo cuestiona la autenticidad de la imagen familiar y cómo las redes sociales, inicialmente utilizadas para controlar la narrativa, ahora exponen sus conflictos internos, comparándolos incluso con la Casa Windsor.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la familia Beckham, su imagen pública y el impacto de las redes sociales en la misma.  Analiza un caso específico y lo usa para reflexionar sobre temas más amplios como la mercantilización de la vida privada y la construcción de la imagen pública en la era digital.  Es un ensayo de opinión bien estructurado y con una tesis clara."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Trump’s Attempt to Make Museums Submit Feels Familiar",
+      "link": "https://www.nytimes.com/2025/08/15/opinion/trump-history-museums-censorship.html",
+      "fecha_obj": "2025-08-15T09:54:32+00:00",
+      "fecha_str": "15-08-2025 09:54 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Trump presiona a museos estadounidenses para que presenten una visión triunfalista de la historia, generando controversia y censura.",
+      "resumen": "La administración Trump busca imponer una narrativa histórica nacionalista en los museos estadounidenses, ordenando la remoción o modificación de exhibiciones que no concuerden con su visión.  Ejemplos incluyen la eliminación y posterior restauración modificada de referencias a los juicios políticos de Trump en el Museo Nacional de Historia Americana, y la cancelación de una exposición en la Galería Nacional de Retratos tras rumores de la remoción de una obra que representaba a la Estatua de la Libertad transgénero.  Esta acción se interpreta como un intento de borrar cualquier crítica o contexto negativo de la historia estadounidense, promoviendo en su lugar una imagen autoglorificadora y triunfalista, característica de regímenes autoritarios.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión crítica sobre las acciones de la administración Trump, analizando sus implicaciones políticas y culturales.  Su enfoque argumentativo y la evaluación de un evento con relevancia social lo hacen adecuado para un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Boy Crisis of 2025, Meet the ‘Boy Problem’ of the 1900s",
+      "link": "https://www.nytimes.com/2025/08/15/opinion/men-boys-crisis-progressive-era.html",
+      "fecha_obj": "2025-08-15T09:02:02+00:00",
+      "fecha_str": "15-08-2025 09:02 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La desaparición de instituciones para niños y la escasez de voluntarios masculinos crean una brecha de oportunidades para los niños.",
+      "resumen": "El artículo analiza la 'crisis de los niños' actual, argumentando que la disminución de organizaciones dedicadas exclusivamente a niños, como Boy Scouts (ahora Scouting America) y YMCA,  ha creado una brecha de género.  La mayoría de estas organizaciones se han vuelto mixtas o están dominadas por mujeres, tanto en personal como en voluntarios.  Esta falta de instituciones centradas en niños, combinada con la escasez de voluntarios masculinos (ej. Big Brothers Big Sisters), dificulta la orientación y el apoyo a los niños, ampliando la brecha de oportunidades con las niñas.  El autor sugiere que la inclusión no debe ir en detrimento de la creación de espacios específicos para el desarrollo de los niños.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre un problema social, ofreciendo datos y ejemplos para apoyar su tesis.  Su naturaleza analítica y la propuesta de una solución implícita lo hacen adecuado para un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "California Democrats Are Fighting Trump’s Battle for Him",
+      "link": "https://www.nytimes.com/2025/08/15/opinion/california-democrat-jewish-trump.html",
+      "fecha_obj": "2025-08-15T09:01:56+00:00",
+      "fecha_str": "15-08-2025 09:01 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ley de California silencia debate sobre Palestina, uniéndose a la represión impulsada por Trump.",
+      "resumen": "El artículo critica el proyecto de ley A.B. 715 en California, que adopta una amplia definición de antisemitismo basada en la Alianza Internacional para el Recuerdo del Holocausto.  Esta ley, según el autor, silenciaría la crítica a Israel, reprimiendo el discurso político de estudiantes y profesores que abogan por los derechos palestinos.  Se argumenta que esta medida, en lugar de proteger a los judíos, imita las políticas represivas de Trump y otros gobernadores republicanos,  amenazando la libertad académica y la discusión abierta.  Diversas organizaciones, incluyendo sindicatos de maestros, se oponen a la ley,  considerándola innecesaria y perjudicial para la libertad de expresión.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada y crítica sobre una ley específica,  analizando sus implicaciones políticas y sociales.  Su estructura, tono y contenido se ajustan perfectamente a la categoría de 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Quick! Get the Wind and Solar Discounts Before It’s Too Late!",
+      "link": "https://www.nytimes.com/2025/08/15/opinion/clean-energy-tax-credits-discounts.html",
+      "fecha_obj": "2025-08-15T09:01:43+00:00",
+      "fecha_str": "15-08-2025 09:01 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Apúrate, ¡incentivos para energía solar y eólica caducan pronto!",
+      "resumen": "El artículo critica la ley \"One Big Beautiful Bill Act\", argumentando que perjudica la economía estadounidense y el medio ambiente al eliminar incentivos fiscales para proyectos de energía limpia a partir de 2025 y 2027.  Señala que los créditos fiscales permiten ahorrar entre 30% y 50% en proyectos de energía eólica y solar.  Urge a los estados a aprovechar estos descuentos temporales para la construcción de proyectos de energías renovables antes de que sea demasiado tarde,  recomendando la firma de contratos antes de finales de 2025 para asegurar los beneficios.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo presenta una opinión sobre una ley específica y sus consecuencias económicas y ambientales.  Aunque incluye datos, el enfoque principal es expresar una postura crítica y una recomendación de acción, lo que lo hace relevante para la categoría de 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Here’s Acura’s next all-electric RSX crossover",
+      "link": "https://arstechnica.com/cars/2025/08/acura-unveils-next-rdx-crossover-will-feature-asimo-os/",
+      "fecha_obj": "2025-08-15T13:44:59+00:00",
+      "fecha_str": "15-08-2025 13:44 UTC",
+      "source_name": "Ars Technica"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Acura revela prototipo eléctrico RSX: ¡crossover deportivo y completamente eléctrico!",
+      "resumen": "Acura presentó en Monterey Car Week un prototipo amarillo del RSX, su próximo crossover totalmente eléctrico.  A diferencia del ZDX, su primer vehículo eléctrico, el RSX fue diseñado internamente. Se fabricará en la planta de Honda en Marysville, Ohio, modernizada para la producción de vehículos eléctricos.  Este lanzamiento representa un esfuerzo de Acura por reforzar su imagen como marca de alto rendimiento, alejándose de la percepción puramente de lujo. El RSX se espera a la venta el próximo año, marcando un paso significativo en la electrificación de la marca.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo trata sobre un nuevo vehículo eléctrico, un desarrollo tecnológico importante. La modernización de la planta de producción para vehículos eléctricos también es relevante.  La puntuación no es 10 porque el enfoque principal es el anuncio de un nuevo auto, no un avance científico específico."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "The Download: Taiwan’s silicon shield, and ChatGPT’s personality misstep",
+      "link": "https://www.technologyreview.com/2025/08/15/1121920/the-download-taiwans-silicon-shield-and-chatgpts-personality-misstep/",
+      "fecha_obj": "2025-08-15T12:10:00+00:00",
+      "fecha_str": "15-08-2025 12:10 UTC",
+      "source_name": "MIT Technology Review"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Taiwán, la amenaza china, el cambio de personalidad de ChatGPT y el abandono de vacunas de ARNm.",
+      "resumen": "El artículo analiza la tensión geopolítica en Taiwán, destacando el papel crucial de la isla en la producción de semiconductores y la preocupación sobre la vulnerabilidad de su 'escudo de silicio'.  Paralelamente, se discute la reacción negativa de los usuarios de ChatGPT al cambio al modelo GPT-5, que eliminó temporalmente el modelo anterior, GPT-4, con el que algunos usuarios habían desarrollado vínculos emocionales. Finalmente, se menciona el abandono de las vacunas de ARNm por parte de agencias federales de salud de EE. UU., aunque no se proporcionan detalles sobre los motivos. ",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo cubre temas relevantes para la ciencia y la tecnología: la producción de semiconductores, la inteligencia artificial (ChatGPT) y las vacunas de ARNm. La geopolítica de Taiwán está intrínsecamente ligada a la tecnología, por lo que la puntuación es alta."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Now You Can Get Your Flu Vaccine at Home",
+      "link": "https://www.wired.com/story/now-you-can-get-your-flu-vaccine-at-home/",
+      "fecha_obj": "2025-08-15T12:00:00+00:00",
+      "fecha_str": "15-08-2025 12:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Vacuna antigripal FluMist ahora disponible a domicilio; autoadministrable y cubre cuatro cepas.",
+      "resumen": "AstraZeneca lanza FluMist, una vacuna antigripal nasal autoadministrable, a través de una farmacia online en 34 estados de EE. UU.  Aprobada por la FDA en septiembre de 2024 tras un estudio de seguridad y eficacia,  se envía a domicilio tras una evaluación médica online.  FluMist protege contra cuatro cepas de influenza y está indicada para personas de 2 a 49 años (menores de 18 deben ser vacunados por un adulto).  Esta iniciativa busca aumentar las tasas de vacunación contra la gripe, que son bajas en adultos y niños. La vacuna está cubierta por la mayoría de los seguros, con un cargo adicional por envío. AstraZeneca planea expandir su disponibilidad a todos los estados contiguos.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo describe un avance tecnológico en la administración de vacunas, utilizando una plataforma online y la autoadministración.  Representa una innovación en el campo de la salud y la tecnología médica, con implicaciones para la accesibilidad y la eficiencia de la vacunación."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Dyson Airwrap Co-anda 2x Review: Great, Not a Must-Have",
+      "link": "https://www.wired.com/review/dyson-airwrap-co-anda2x/",
+      "fecha_obj": "2025-08-15T11:30:00+00:00",
+      "fecha_str": "15-08-2025 11:30 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Dyson Airwrap Co-anda 2x: mejoras sutiles, pero ¿merece la pena la actualización?",
+      "resumen": "La reseña del Dyson Airwrap Co-anda 2x destaca sus mejoras, como la tecnología RFID para ajustes automáticos de calor y flujo de aire, y un diseño más ergonómico con accesorios mejorados.  El nuevo alisador Airsmooth impresiona, ofreciendo un resultado suave y pulido.  Aunque los rizos siguen siendo efímeros, las mejoras en los cepillos reducen el tirón y mejoran el volumen.  Sin embargo, la compatibilidad con accesorios antiguos es limitada y el precio sigue siendo elevado.  La conclusión es que es una excelente opción para quienes no poseen un multistyler, pero no una compra esencial para quienes ya tienen un Airwrap o un producto similar.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo analiza un producto tecnológico innovador, destacando sus avances en diseño, ergonomía y tecnología (RFID).  Su relevancia en ciencia y tecnología se basa en la descripción de la tecnología incorporada y la comparación con otros productos similares, mostrando el avance en la ingeniería de herramientas de peinado."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "\"La nueva tierra\", de Sebastiano Mauri: Una novela sobre la autodestrucción y el futuro del planeta",
+      "link": "https://www.clarin.com/cultura/nueva-tierra-sebastiano-mauri-novela-autodestruccion-futuro-planeta_0_NfmVaNeVww.html",
+      "fecha_obj": "2025-08-15T13:00:26+00:00",
+      "fecha_str": "15-08-2025 13:00 UTC",
+      "source_name": "Revista Ñ – Clarín Cultura"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La nueva novela de Sebastiano Mauri explora la autodestrucción, la identidad y la conexión chamánica con la naturaleza.",
+      "resumen": "Sebastiano Mauri, artista italo-argentino, presenta su novela \"La nueva tierra\", donde el protagonista emprende un viaje chamánico con ayahuasca para explorar su identidad y confrontar su masculinidad tóxica.  La novela, que sigue a su anterior \"Disfruta del problema\", aborda temas de identidad sexual, la condición de extranjero y la relación con la naturaleza. Mauri reflexiona sobre su proceso creativo multidisciplinar, la autoficción y el humor como herramienta para abordar temas serios.  La narrativa conecta la búsqueda espiritual con la crisis ambiental, planteando un posible colapso del sistema actual y la necesidad de un equilibrio entre lo masculino y lo femenino para un futuro sostenible.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo se centra en la obra de un artista multidisciplinar, analizando su novela y proceso creativo.  Aborda temas relevantes para la cultura, como la identidad, la espiritualidad y la relación entre arte y naturaleza.  Su alta relevancia justifica la puntuación máxima."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Royal Philharmonic Orchestra/Hisaishi review – frothing strings and quacking brass as Studio Ghibli’s composer debuts",
+      "link": "https://www.theguardian.com/music/2025/aug/15/royal-philharmonic-orchestra-joe-hisaishi-review-royal-albert-hall-london-studio-ghibli",
+      "fecha_obj": "2025-08-15T12:04:04+00:00",
+      "fecha_str": "15-08-2025 12:04 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Joe Hisaishi debuta en los Proms con una suite de Studio Ghibli y obras de Reich, cautivando al público.",
+      "resumen": "El compositor de Studio Ghibli, Joe Hisaishi, hizo su debut en los BBC Proms con un concierto que incluyó el estreno europeo de la suite sinfónica de su última película, \"The Boy and the Heron\", así como su suite \"The End of the World\".  La actuación, con la Royal Philharmonic Orchestra, BBC Singers y Philharmonia Chorus, mostró una mezcla de estilos, desde el post-minimalismo hasta el jazz big band.  El concierto también incluyó la obra \"The Desert Music\" de Steve Reich, dirigida por el mismo Hisaishi.  La crítica destaca la ambición de las piezas y la maestría orquestal, aunque considera la suite de \"The Boy and the Heron\" como una de las partituras más insípidas de Hisaishi.  La actuación de John Holiday como contra tenor también recibió elogios.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre un concierto de música clásica con un compositor reconocido internacionalmente,  cubriendo aspectos de la composición, la interpretación y la recepción de la obra por parte del público y la crítica. Esto lo hace altamente relevante para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "‘I was bawling my eyes out’: Sheridan Smith on drink, death and the hardest role of her career",
+      "link": "https://www.theguardian.com/culture/2025/aug/15/sheridan-smith-interview-ann-ming-i-foughgt-the-law",
+      "fecha_obj": "2025-08-15T12:00:32+00:00",
+      "fecha_str": "15-08-2025 12:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Sheridan Smith encarna a Ann Ming en \"I Fought the Law\", una serie sobre su lucha por la justicia tras el asesinato de su hija.",
+      "resumen": "El artículo describe la filmación de la serie \"I Fought the Law\", basada en la historia real de Ann Ming, quien luchó durante 17 años para cambiar la ley de doble incriminación tras el asesinato de su hija.  Se destaca la interpretación de Sheridan Smith, quien recrea con gran intensidad el dolor y la lucha de Ming.  Smith habla sobre la dificultad emocional del papel, su pasado con el alcohol y su compromiso con la interpretación de historias reales.  El artículo también incluye comentarios del guionista y la propia Ming sobre el caso y la ley de doble incriminación.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo trata sobre una serie de televisión basada en una historia real, con foco en la actuación de una actriz reconocida. Esto lo relaciona con la categoría 'Cultura Arte' por su contenido sobre producción televisiva, interpretación y la narrativa de una historia real adaptada a la ficción."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "‘We made it our catwalk’: the photos showing Black British women’s Saturday night fashion through the ages",
+      "link": "https://www.theguardian.com/artanddesign/2025/aug/15/how-black-women-dress-saturday-night-deborah-carnegie-photograph-archive",
+      "fecha_obj": "2025-08-15T12:00:31+00:00",
+      "fecha_str": "15-08-2025 12:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La moda nocturna de las mujeres británicas negras: un legado de estilo y resistencia a través de décadas.",
+      "resumen": "El artículo explora la historia de la moda nocturna de las mujeres británicas negras desde 1950 hasta la actualidad, a través del trabajo de la archivista Deborah Carnegie.  Su colección fotográfica, mostrada en el London College of Fashion, revela cómo estas mujeres, a menudo marginadas en la industria de la moda, crearon su propio estilo, combinando influencias africanas, caribeñas y británicas.  Desde la confección casera con telas recicladas hasta la adopción de tendencias contemporáneas, la colección destaca la creatividad y la influencia de estas mujeres como auténticas pioneras de la moda, convirtiendo sus salidas nocturnas en una pasarela personal.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo se centra en un aspecto cultural significativo: la historia de la moda como expresión de identidad y resistencia dentro de una comunidad específica.  La colección fotográfica es una obra artística que documenta esta historia, por lo que su relevancia para la categoría 'Cultura Arte' es muy alta."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Mafia: The Old Country review – by-numbers action game is elevated by Sicilian period setting",
+      "link": "https://www.theguardian.com/games/2025/aug/15/mafia-the-old-country-review",
+      "fecha_obj": "2025-08-15T11:00:32+00:00",
+      "fecha_str": "15-08-2025 11:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Mafia: The Old Country, una odisea siciliana de 1904 que cautiva por su ambientación histórica, a pesar de su jugabilidad clásica.",
+      "resumen": "Mafia: The Old Country, ambientado en la Sicilia de 1904, ofrece una experiencia de acción en solitario con una historia que sigue la ascensión de Enzo Favara en una familia mafiosa. Si bien la jugabilidad se considera clásica y poco innovadora, con misiones lineales y mecánicas de combate funcionales, el juego destaca por su detallada ambientación histórica.  El juego recrea fielmente la época, desde la vida en las minas de azufre hasta las costumbres sicilianas, incluyendo el idioma y la gastronomía. A pesar de sus mecánicas de juego tradicionales, la riqueza de su ambientación histórica lo convierte en una experiencia atractiva.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El juego se centra en la recreación histórica de la Sicilia de principios del siglo XX, incluyendo detalles culturales, gastronómicos y lingüísticos. Aunque es un videojuego, su valor reside en la inmersión cultural que ofrece, lo que justifica una puntuación alta en la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
   }
 ]
