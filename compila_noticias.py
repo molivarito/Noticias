@@ -248,7 +248,7 @@ class NewsProcessor:
                     processed_list.append({"info": art, "resumen_datos": resumen_datos})
                 
                 # Pausa para no saturar la API, la lógica de reintento manejará los picos.
-                time.sleep(2) 
+                time.sleep(5) 
             
             processed_articles[categoria] = processed_list
             if processed_list:
