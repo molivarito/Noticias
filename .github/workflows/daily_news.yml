@@ -32,14 +32,16 @@ jobs:
     - name: Checkout del repositorio
       uses: actions/checkout@v4
 
-    - name: Restaurar historial desde gh-pages
+    - name: Preparar directorio de publicación y restaurar estado anterior
       run: |
-        # Clonamos la rama gh-pages a un directorio temporal para obtener el historial más reciente
+        mkdir -p public
+        # Clonamos la rama gh-pages para obtener el estado actual del sitio
         git clone --depth=1 --branch=gh-pages "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" .gh-pages-temp
-        # Si el historial existe, lo movemos al directorio de trabajo actual
-        if [ -f .gh-pages-temp/historial_noticias.json ]; then mv .gh-pages-temp/historial_noticias.json .; fi
-        # Limpiamos el directorio temporal para evitar que Git lo interprete como un submódulo no válido
+        # Copiamos el contenido existente (si lo hay) a la carpeta public. Esto preserva los archivos que no se regeneran en esta ejecución.
+        cp -a .gh-pages-temp/. public/ 2>/dev/null || true
         rm -rf .gh-pages-temp
+        # Copiamos el historial restaurado al directorio raíz para que el script lo pueda leer y actualizar
+        if [ -f public/historial_noticias.json ]; then cp public/historial_noticias.json .; fi
         
     - name: Configurar Python
       uses: actions/setup-python@v4
@@ -62,12 +64,14 @@ jobs:
       run: |
         echo "Ejecutando reporte semanal..."
         python compila_noticias.py --weekly
-        
-    - name: Organizar artefactos para despliegue
+
+    - name: Mover artefactos generados al directorio de publicación
       if: success()
       run: |
-        mkdir -p public
-        mv index.html semanal.html historial_noticias.json public/ 2>/dev/null || true
+        # Mover cada archivo individualmente para evitar errores si uno no existe, sobrescribiendo el antiguo en public/
+        if [ -f index.html ]; then mv index.html public/; fi
+        if [ -f semanal.html ]; then mv semanal.html public/; fi
+        if [ -f historial_noticias.json ]; then mv historial_noticias.json public/; fi
         
     - name: Desplegar reportes a GitHub Pages
       if: success()
@@ -79,4 +83,6 @@ jobs:
         user_name: 'github-actions[bot]'
         user_email: 'github-actions[bot]@users.noreply.github.com'
         commit_message: 'Deploy news summary to GitHub Pages'
-        keep_files: true
+        # La opción keep_files ya no es necesaria, ya que 'public' contiene el estado completo del sitio.
+        # Al eliminarla, se realiza un despliegue limpio del contenido de 'public'.
+        # keep_files: true
