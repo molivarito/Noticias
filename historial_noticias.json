@@ -638,5 +638,53 @@
       "relevancia_justificacion": "El juego se centra en la recreación histórica de la Sicilia de principios del siglo XX, incluyendo detalles culturales, gastronómicos y lingüísticos. Aunque es un videojuego, su valor reside en la inmersión cultural que ofrece, lo que justifica una puntuación alta en la categoría 'Cultura Arte'."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Israelis Join Nationwide Rallies to Call for Release of Hostages",
+      "link": "https://www.nytimes.com/2025/08/17/world/middleeast/israel-rallies-labor-strike.html",
+      "fecha_obj": "2025-08-17T20:47:03+00:00",
+      "fecha_str": "17-08-2025 20:47 UTC",
+      "source_name": "The New York Times World"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Israelíes exigen liberación de rehenes en multitudinarias protestas.",
+      "resumen": "Cientos de miles de israelíes se manifestaron en Tel Aviv el domingo para exigir al gobierno de Netanyahu una tregua inmediata con Hamas y la liberación de los rehenes en Gaza.  Las protestas, convocadas por familiares de los cautivos, se extendieron por todo el país, bloqueando carreteras y generando detenciones por parte de la policía.  A pesar de la condena internacional y los llamados a detener la guerra, Israel se prepara para ampliar su ofensiva en Gaza.  Aunque se esperaba una mayor participación, la huelga general no tuvo el apoyo total de la Histadrut y se vio afectada por el receso académico.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El evento descrito es de gran relevancia internacional debido a su impacto geopolítico en el conflicto israelo-palestino, la participación masiva de la población israelí y la atención mediática global que ha generado."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Zelensky Brings Backup to the White House as Trump Aligns More Closely With Putin",
+      "link": "https://www.nytimes.com/2025/08/17/us/politics/europe-trump-zelensky-putin.html",
+      "fecha_obj": "2025-08-17T20:34:10+00:00",
+      "fecha_str": "17-08-2025 20:34 UTC",
+      "source_name": "The New York Times World"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Zelensky visita la Casa Blanca con apoyo europeo ante la incertidumbre por la postura de Trump hacia Putin.",
+      "resumen": "La visita de Zelensky a la Casa Blanca el lunes incluye el apoyo de varios líderes europeos.  Su presencia busca asegurar la supervivencia de Ucrania y la integridad de la alianza transatlántica, ante la preocupación generada por el cambio de postura de Trump sobre el cese al fuego en Ucrania, que algunos interpretan como una inclinación hacia Putin.  Los líderes europeos buscan evitar que Trump presione a Zelensky a aceptar un acuerdo desfavorable para Ucrania y que Estados Unidos, pilar de la OTAN, menoscabe los intereses europeos y ucranianos.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata directamente sobre relaciones internacionales, específicamente la situación en Ucrania, la relación entre Estados Unidos y Rusia, y el papel de la OTAN.  Es un evento geopolítico de alta relevancia internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "The Guardian view on the Alaska summit: there must be no more gifts to Vladimir Putin | Editorial",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/17/the-guardian-view-on-the-alaska-summit-there-must-be-no-more-gifts-to-vladimir-putin",
+      "fecha_obj": "2025-08-17T17:30:36+00:00",
+      "fecha_str": "17-08-2025 17:30 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Cumbre Alaska: Trump cede ante Putin, peligrando la soberanía ucraniana.",
+      "resumen": "La cumbre Trump-Putin en Alaska finalizó sin un alto el fuego en Ucrania, con Trump cediendo a las demandas de Putin de un acuerdo de paz integral que podría implicar la cesión de territorio ucraniano.  Esto representa una traición a las promesas hechas a Ucrania y sus aliados. Putin busca la rendición de territorios en el Donbás, mientras Trump presiona a Zelenskyy para que 'llegue a un acuerdo', repitiendo una actitud intimidatoria.  El artículo critica duramente la postura de Trump, instando a Europa a aumentar el apoyo militar y económico a Ucrania para evitar una ventajosa negociación para Putin y una rendición territorial ucraniana.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente la cumbre Trump-Putin y sus implicaciones para la guerra en Ucrania. Ofrece una perspectiva clara y argumentada sobre las decisiones políticas y sus consecuencias geopolíticas, encajando perfectamente en la categoría."
+    },
+    "categoria": "opinion_ensayo"
   }
 ]
