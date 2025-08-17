@@ -45,7 +45,7 @@ class Config:
     DEFAULT_HOURS_AGO = 24
     WEEKLY_REPORT_DAYS = 7
     USER_AGENT = "NewsAggregatorBot/1.0 (+https://github.com/features/actions)"
-    MAX_ARTICLES_TO_SUMMARIZE_PER_CATEGORY = 5
+    MAX_ARTICLES_TO_SUMMARIZE_PER_CATEGORY = 3
     MAX_ARTICLES_WEEKLY_PER_CATEGORY = 7
     DAILY_REPORT_FILENAME = "index.html"
     WEEKLY_REPORT_FILENAME = "semanal.html"
@@ -248,7 +248,7 @@ class NewsProcessor:
                     processed_list.append({"info": art, "resumen_datos": resumen_datos})
                 
                 # Pausa para no saturar la API, la lógica de reintento manejará los picos.
-                time.sleep(5) 
+                time.sleep(15) 
             
             processed_articles[categoria] = processed_list
             if processed_list:
