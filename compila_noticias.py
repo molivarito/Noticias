@@ -40,7 +40,7 @@ except Exception as e:
 class Config:
     SCRIPT_DIR = Path(__file__).resolve().parent
     FUENTES_RSS_JSON_PATH = SCRIPT_DIR / "fuentes_rss.json"
-    TEMPLATE_DIR = SCRIPT_DIR / "templates"
+    TEMPLATE_DIR = SCRIPT_DIR
     HISTORIAL_JSON_PATH = SCRIPT_DIR / "historial_noticias.json"
     DEFAULT_HOURS_AGO = 24
     WEEKLY_REPORT_DAYS = 7
