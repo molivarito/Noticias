@@ -29,7 +29,7 @@
         <h1>Resumen {{ report_type }} de Noticias</h1>
         <p class="report-timestamp">Generado el: {{ generation_timestamp }}</p>
         
-        {% if not articles_by_category or not articles_by_category.values() | select('any') | list %}
+        {% if not articles_by_category or not (articles_by_category.values() | select | list) %}
             <p class='no-articles'>No se encontraron noticias nuevas para este reporte.</p>
         {% else %}
             {% for categoria, articulos in articles_by_category.items() %}
