@@ -686,5 +686,197 @@
       "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente la cumbre Trump-Putin y sus implicaciones para la guerra en Ucrania. Ofrece una perspectiva clara y argumentada sobre las decisiones políticas y sus consecuencias geopolíticas, encajando perfectamente en la categoría."
     },
     "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Vénissieux : un mort après l'explosion d'une bonbonne de gaz provoquant un incendie dans un appartement",
+      "link": "https://www.lefigaro.fr/lyon/venissieux-un-mort-apres-l-explosion-d-une-bonbonne-de-gaz-provoquant-un-incendie-dans-un-appartement-20250818",
+      "fecha_obj": "2025-08-18T07:03:56+00:00",
+      "fecha_str": "18-08-2025 07:03 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Explosión de bombona de gas en Vénissieux causa un muerto y varios heridos.",
+      "resumen": "Una explosión de una bombona de gas en un apartamento de un edificio de siete pisos en Vénissieux, Francia, causó la muerte de una persona y heridas a otras nueve. El incidente ocurrió alrededor de las 3:30 a.m. del lunes.  Los bomberos y equipos de emergencia respondieron rápidamente, movilizando un importante despliegue de personal y vehículos.  La policía investiga el suceso, que se cree accidental.  El cuerpo fue encontrado en el apartamento del cuarto piso donde se originó la explosión. Los heridos fueron trasladados a hospitales cercanos.",
+      "relevancia_score": 5,
+      "relevancia_justificacion": "Si bien el suceso es una tragedia, su impacto se limita a una ciudad específica en Francia.  Aunque es noticia, no tiene las repercusiones internacionales de eventos de mayor escala política o social."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Guerre en Ukraine : Volodymyr Zelensky est arrivé à Washington et dit vouloir mettre fin à la guerre «rapidement»",
+      "link": "https://www.lefigaro.fr/international/guerre-ukraine-en-direct-zelensky-trump-poutine-paix-rencontre-etats-unis-russie-20250818",
+      "fecha_obj": "2025-08-18T07:02:02+00:00",
+      "fecha_str": "18-08-2025 07:02 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Bompard critica la dependencia de Francia y la UE de EE.UU. en la guerra de Ucrania, obstaculizando una paz justa.",
+      "resumen": "Manuel Bompard, diputado de La France Insoumise, critica la alineación de Francia y la UE con la política estadounidense respecto a la guerra en Ucrania.  Argumenta que esta dependencia impide a Europa desempeñar un papel activo en la búsqueda de una paz duradera y justa entre Rusia y Ucrania.  Bompard considera que la reunión entre Trump y Putin, y la posterior visita de Zelensky a Washington, evidencian la incapacidad europea para actuar de forma independiente y lograr una solución negociada al conflicto.  Para él, esta situación es consecuencia de meses de advertencias desoídas sobre la peligrosa dependencia de la estrategia estadounidense.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata directamente sobre la guerra en Ucrania, un conflicto internacional de gran relevancia, analizando la postura de Francia y la UE, y su relación con Estados Unidos y Rusia. La opinión de un político francés añade una perspectiva relevante al debate internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Guerre en Ukraine : 5 morts dans des frappes russes, avant les discussions à Washington",
+      "link": "https://www.lefigaro.fr/international/ukraine-13-blesses-dans-des-frappes-russes-avant-les-discussions-a-washington-20250818",
+      "fecha_obj": "2025-08-18T07:01:04+00:00",
+      "fecha_str": "18-08-2025 07:01 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ataques rusos en Ucrania dejan cinco muertos, incluyendo dos niños, antes de conversaciones cruciales en Washington.",
+      "resumen": "Ataques aéreos rusos en Kharkiv y otras regiones de Ucrania causaron al menos cinco muertes, entre ellas dos niños, y varios heridos.  Estos ataques ocurrieron horas antes de una reunión en Washington entre el presidente ucraniano Zelensky, el expresidente estadounidense Trump, líderes europeos y la OTAN.  La reunión sigue al reciente encuentro entre Trump y Putin en Alaska, que no logró detener los combates.  Trump sugirió una cláusula de seguridad colectiva fuera del marco de la OTAN, mientras que su emisario mencionó concesiones territoriales rusas, información que Zelensky rechaza.  Las conversaciones en Washington buscan abordar la guerra en Ucrania, iniciada en febrero de 2022.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata directamente sobre un conflicto internacional mayor, reportando muertes, ataques militares y negociaciones internacionales de alto nivel.  Su impacto geopolítico es significativo."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Trump Wants to Let A.I. Run Wild. This Might Stop Him.",
+      "link": "https://www.nytimes.com/2025/08/18/opinion/trump-ai-europe.html",
+      "fecha_obj": "2025-08-18T06:28:19+00:00",
+      "fecha_str": "18-08-2025 06:28 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La visión de Trump de una IA estadounidense sin restricciones choca con las regulaciones de la Unión Europea, que podrían frenar su plan.",
+      "resumen": "El presidente Trump busca liberar a las empresas estadounidenses de IA de regulaciones, apostando por la supremacía tecnológica.  Sin embargo, esta estrategia ignora la influencia de las regulaciones internacionales, especialmente las de la Unión Europea.  La UE, con su Ley de IA, establece normas estrictas para la transparencia y la seguridad, creando un \"efecto Bruselas\" que impulsa la adopción global de sus estándares.  Las empresas estadounidenses que deseen acceder al mercado europeo deberán cumplir con estas regulaciones, lo que podría limitar la visión de Trump de una IA sin control.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión sobre la política de IA de Trump y su viabilidad, analizando las implicaciones internacionales y ofreciendo una perspectiva crítica sobre el optimismo tecnológico del presidente.  Su estructura argumentativa y análisis de la situación lo hacen adecuado para un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Gaza’s journalists are talented, professional and dignified. That’s why Israel targets them | Nesrine Malik",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/18/israel-gaza-war-journalist-killed-safety-al-jazeera",
+      "fecha_obj": "2025-08-18T06:00:53+00:00",
+      "fecha_str": "18-08-2025 06:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Israel asesina periodistas en Gaza para silenciar la verdad sobre su campaña genocida.",
+      "resumen": "El artículo denuncia el asesinato sistemático de periodistas palestinos en Gaza por parte de Israel.  La autora destaca la profesionalidad y valentía de estos periodistas, quienes a pesar de las amenazas y la muerte de compañeros, continúan informando.  Israel intenta desacreditarlos, presentándolos como militantes de Hamas, una estrategia que cuenta con la complicidad de medios occidentales que aceptan sus afirmaciones sin verificación.  La autora argumenta que este accionar busca silenciar las voces palestinas y justificar la ocupación y el bloqueo de Gaza.  El artículo concluye con un llamado a la responsabilidad de los medios internacionales ante esta situación.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente un tema político actual, ofreciendo una perspectiva argumentada y con evidencia sobre la situación de los periodistas en Gaza y la responsabilidad de Israel y los medios internacionales."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "As summers of extreme heat become more common, the UK must protect its workers | John Harris",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/18/outdoor-workers-extreme-heat-risk-lives-politicians-spain-street-cleaner",
+      "fecha_obj": "2025-08-18T05:00:52+00:00",
+      "fecha_str": "18-08-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El calor extremo mata trabajadores; ¿está el Reino Unido preparado?",
+      "resumen": "La muerte por insolación de Montse Aguilar, una limpiadora española, resalta la urgencia de proteger a los trabajadores del calor extremo.  El artículo compara la situación en España, con regulaciones incompletas, con la del Reino Unido, donde la legislación sobre temperaturas máximas en el trabajo es deficiente. Se critica la falta de medidas para trabajadores de sectores como la construcción, reparto de comida o almacenes, con condiciones precarias.  Se mencionan ejemplos de otros países con problemas similares, y las presiones de sindicatos británicos para establecer límites de temperatura.  El autor destaca la incongruencia entre la resistencia política a regular las temperaturas máximas y la creciente mortalidad relacionada con el calor, especialmente en trabajadores mayores.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente la falta de regulación sobre las temperaturas laborales extremas en el Reino Unido, ofreciendo ejemplos, comparaciones internacionales y perspectivas políticas.  Su tono argumentativo y su propuesta de soluciones lo ubican claramente en esta categoría."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "The case of the coke-snorting Chihuahua",
+      "link": "https://arstechnica.com/science/2025/08/the-case-of-the-coke-snorting-chihauhua/",
+      "fecha_obj": "2025-08-18T04:01:55+00:00",
+      "fecha_str": "18-08-2025 04:01 UTC",
+      "source_name": "Ars Technica"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Chihuahua con sobredosis de cocaína: caso clínico revela efectos inesperados.",
+      "resumen": "Un estudio de caso publicado en Frontiers in Veterinary Science describe a un chihuahua de 2 años que sufrió una sobredosis de cocaína y fentanilo. El perro presentó letargo, bradicardia, pupilas dilatadas y membranas mucosas azuladas. Tras la administración de atropina y epinefrina, sus síntomas remitieron.  Un análisis de orina confirmó la presencia de cocaína y fentanilo.  El caso resalta la importancia de los reportes clínicos en veterinaria para comprender mejor las presentaciones inusuales de intoxicaciones y mejorar los protocolos de tratamiento de emergencias, especialmente en casos de ingestión accidental de sustancias tóxicas.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien el caso tiene un componente científico al describir los efectos de la cocaína en un animal y el proceso de diagnóstico, su relevancia para la categoría 'Ciencia y Tecnología' es limitada.  Se centra más en un caso clínico veterinario específico que en avances tecnológicos o científicos generales."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Les bureaux vitrés, des fours en surchauffe de moins en moins adaptés au climat",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/les-bureaux-vitres-des-fours-en-surchauffe-de-moins-en-moins-adaptes-au-climat_187689?xtor=RSS-15",
+      "fecha_obj": "2025-08-18T03:00:20+00:00",
+      "fecha_str": "18-08-2025 03:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Oficinas acristaladas: ¿fuegos infernales en la era del calentamiento global?",
+      "resumen": "El artículo analiza el problema del sobrecalentamiento en edificios de oficinas con grandes superficies acristaladas, especialmente en verano.  Este diseño, popular por razones estéticas y económicas, resulta inadecuado ante el cambio climático, llevando a temperaturas excesivas que afectan la productividad y salud de los empleados.  Expertos señalan que las normativas actuales, enfocadas en la descarbonización, no abordan suficientemente la adaptación al calor.  Se critica la falta de consideración del contexto climático en nuevos proyectos,  y se destaca la necesidad de mayores inversiones para la adaptación de edificios existentes y la construcción de nuevos, más sostenibles y resistentes al calor.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien el tema principal es la arquitectura y la construcción, el artículo toca aspectos relevantes de la ciencia y tecnología relacionados con la eficiencia energética, el impacto del cambio climático en la construcción, y las soluciones tecnológicas para mitigar el problema del sobrecalentamiento en edificios."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Les grandes découvertes : GLP-1, l'hormone à tout faire",
+      "link": "https://www.sciencesetavenir.fr/sante/glp-1-l-hormone-a-tout-faire_186756?xtor=RSS-16",
+      "fecha_obj": "2025-08-17T18:00:00+00:00",
+      "fecha_str": "17-08-2025 18:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La hormona GLP-1: una revolución médica con potencial para tratar diabetes, obesidad, enfermedades neurodegenerativas y más.",
+      "resumen": "La hormona GLP-1, producida en el intestino, regula la glucosa y la sensación de saciedad.  Análogos sintéticos como el liraglutide y el semaglutide han mostrado resultados espectaculares en el tratamiento de la diabetes tipo 2 y la obesidad.  Además, investigaciones prometedoras indican su eficacia en enfermedades cardiovasculares y neurodegenerativas como Alzheimer y Parkinson, al reducir la inflamación cerebral y mejorar el metabolismo de la glucosa.  Aunque presenta efectos secundarios como gastroparesia, náuseas, vómitos, diarreas, pancreatitis y obstrucción intestinal, su potencial terapéutico es amplio, incluso en pacientes con VIH y disfunción metabólica. ",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo describe un avance científico y tecnológico significativo en el campo de la medicina, con implicaciones en múltiples áreas de la salud.  La investigación y desarrollo de fármacos basados en la hormona GLP-1 representan un gran avance tecnológico con alta relevancia científica."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "‘Not the tea-cosy Yorkshire’: the film about carwash workers showing the dark side of the Dales",
+      "link": "https://www.theguardian.com/film/2025/aug/18/tea-cosy-ceremony-carwash-workers-yorkshire-dales",
+      "fecha_obj": "2025-08-18T07:00:54+00:00",
+      "fecha_str": "18-08-2025 07:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "En los páramos de Yorkshire, un cadáver y una cabra desvelan el lado oscuro de la migración.",
+      "resumen": "The Ceremony, ópera prima de Jack King, retrata la vida de trabajadores migrantes en un lavadero de coches de Bradford.  Tras una década de investigación, King muestra la realidad de estos individuos, más allá de los estereotipos de víctimas o criminales. La película, filmada en condiciones climáticas adversas, sigue a dos trabajadores, uno rumano y otro kurdo, en una macabra misión en el campo de Yorkshire.  El director se inspira en Werner Herzog, abrazando las dificultades para lograr una estética visual impactante. La película, ganadora del premio Sean Connery, ha generado curiosidad por su elemento surrealista: una cabra que aparece en la trama. The Ceremony explora temas de explotación laboral, diferencias culturales y la compleja naturaleza humana.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La película es una obra cinematográfica independiente que explora temas sociales relevantes a través de una narrativa con elementos de realismo mágico. Su impacto en festivales y la discusión que genera la califican como altamente relevante para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: the final, extraordinary chapter of Ozzy Osbourne’s life",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/18/tv-tonight-the-final-extraordinary-chapter-of-ozzy-osbournes-life",
+      "fecha_obj": "2025-08-18T05:20:50+00:00",
+      "fecha_str": "18-08-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: documentales sobre Ozzy Osbourne, Matthew Perry y más, ¡además de un clásico de Tarantino!",
+      "resumen": "La programación televisiva de esta noche ofrece una variada selección de documentales.  'Ozzy Osbourne: Coming Home' muestra el último capítulo de la vida del músico. 'Matthew Perry: A Hollywood Tragedy' explora la vida y muerte del actor de Friends. 'Fake Or Fortune?' analiza la autenticidad de una pintura. 'Michael Mosley: Secrets of the Superagers' investiga la longevidad. También se incluyen 'University Challenge' y 'Confessions of a Brain Surgeon'.  Finalmente, se proyecta 'Reservoir Dogs' como homenaje a Michael Madsen.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien la programación incluye temas de farándula, la mención a un documental sobre un músico y la proyección de una película clásica de Tarantino le otorgan relevancia a la categoría 'Cultura y Arte'.  La inclusión de otros programas de televisión reduce la puntuación."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "‘I got a nosebleed in minutes!’ How the Wedding Present’s indie banger classics inspired a musical",
+      "link": "https://www.theguardian.com/stage/2025/aug/18/wedding-present-indie-banger-classics-musical-david-gedge",
+      "fecha_obj": "2025-08-18T04:00:51+00:00",
+      "fecha_str": "18-08-2025 04:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Las canciones de The Wedding Present inspiran un nuevo musical, \"Reception\", que celebra 40 años de la banda.",
+      "resumen": "El director teatral Matt Aston, fanático de The Wedding Present desde su adolescencia, crea un musical basado en las letras de la banda.  El musical, \"Reception\", cuenta una historia de amistad y relaciones, utilizando las emotivas letras de David Gedge, líder de la banda, como diálogo.  A pesar de las dudas iniciales de Gedge, el proyecto se materializa, coincidiendo con el 40 aniversario de la banda. El musical no es biográfico, pero sí refleja la esencia y el espíritu de The Wedding Present, incluyendo referencias sutiles a la vida de Gedge y a sus canciones icónicas.  El musical se estrena en Leeds, ciudad natal de la banda.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre la creación de un musical basado en la música de una banda icónica, lo que lo relaciona directamente con la música, el teatro, y la cultura popular británica.  La historia detrás de la creación del musical, incluyendo la relación entre el director y el artista, también añade valor cultural."
+    },
+    "categoria": "cultura_arte"
   }
 ]
