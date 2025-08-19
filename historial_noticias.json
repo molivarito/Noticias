@@ -878,5 +878,197 @@
       "relevancia_justificacion": "El artículo trata sobre la creación de un musical basado en la música de una banda icónica, lo que lo relaciona directamente con la música, el teatro, y la cultura popular británica.  La historia detrás de la creación del musical, incluyendo la relación entre el director y el artista, también añade valor cultural."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Guerre en Ukraine : au lendemain de la rencontre à Washington, posez toutes vos questions à Philippe Gélie, directeur adjoint de la rédaction du Figaro",
+      "link": "https://www.lefigaro.fr/international/guerre-ukraine-en-direct-trump-zelensky-poutine-macron-washington-rencontre-paix-20250819",
+      "fecha_obj": "2025-08-19T07:10:24+00:00",
+      "fecha_str": "19-08-2025 07:10 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Macron propone Ginebra como sede para una reunión entre Putin y Zelensky.",
+      "resumen": "El presidente francés, Emmanuel Macron, aboga por una reunión entre Vladimir Putin y Volodymyr Zelensky en un país neutral europeo, sugiriendo Ginebra como posible sede.  Macron afirma que esta reunión, planteada tras un encuentro en Washington entre Donald Trump y líderes europeos, es una voluntad colectiva.  Recuerda que la última vez que hubo conversaciones bilaterales fue en Estambul.  La propuesta de Macron enfatiza la necesidad de un espacio neutral para facilitar el diálogo entre ambos líderes en medio del conflicto en Ucrania.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La noticia trata sobre un conflicto bélico internacional, las negociaciones de paz y la participación de líderes mundiales, lo que la hace altamente relevante para la categoría 'Internacional'."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "«Je pense qu’il...» : quand Donald Trump chuchote à l’oreille d’Emmanuel Macron à propos de Vladimir Poutine",
+      "link": "https://www.lefigaro.fr/flash-actu/je-pense-qu-il-quand-donald-trump-chuchote-a-l-oreille-d-emmanuel-macron-a-propos-de-vladimir-poutine-20250819",
+      "fecha_obj": "2025-08-19T07:01:27+00:00",
+      "fecha_str": "19-08-2025 07:01 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Trump susurra a Macron que Putin quiere firmar un acuerdo de paz, generando especulaciones internacionales.",
+      "resumen": "Durante una reunión en Washington sobre Ucrania, Donald Trump le susurró a Emmanuel Macron que cree que Vladimir Putin desea firmar un acuerdo de paz, incluso insinuando que sería por él.  Esta declaración, captada por micrófonos, ha generado mucha especulación.  Además, el enviado especial de Trump, Steve Witkoff, afirmó haber logrado un acuerdo con Putin para que las fuerzas estadounidenses y de la OTAN defiendan Ucrania si Rusia viola un posible acuerdo de paz.  Esta información ha generado debate sobre la diplomacia entre Estados Unidos y Rusia, y el posible papel de Trump en la resolución del conflicto ucraniano.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata directamente sobre relaciones internacionales, específicamente la interacción entre Estados Unidos, Rusia, Ucrania y Francia en el contexto del conflicto bélico.  La información es de alta relevancia geopolítica."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "En direct, guerre en Ukraine : Emmanuel Macron plaide pour que la rencontre entre Volodymyr Zelensky et Vladimir Poutine se tienne à Genève",
+      "link": "https://www.lemonde.fr/international/live/2025/08/19/en-direct-guerre-en-ukraine-emmanuel-macron-plaide-pour-que-la-rencontre-entre-volodymyr-zelensky-et-vladimir-poutine-se-tienne-a-geneve_6630797_3210.html",
+      "fecha_obj": "2025-08-19T06:59:32+00:00",
+      "fecha_str": "19-08-2025 06:59 UTC",
+      "source_name": "Le Monde International"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Macron aboga por una cumbre Zelensky-Putin en Ginebra para abordar la guerra en Ucrania.",
+      "resumen": "El artículo informa sobre la cobertura en directo de la guerra en Ucrania, donde el presidente francés Emmanuel Macron impulsa una reunión entre el presidente ucraniano Volodymyr Zelensky y el presidente ruso Vladimir Putin en Ginebra.  El objetivo de esta propuesta es avanzar en la resolución del conflicto.  El artículo forma parte de una serie de informes y análisis sobre la guerra en Ucrania, ofreciendo actualizaciones en tiempo real y análisis del conflicto. Se menciona también la participación de Glenn Cloarec en la cobertura en directo.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La noticia trata directamente sobre un conflicto internacional de gran envergadura, involucrando a líderes mundiales clave y con implicaciones geopolíticas globales.  Su relevancia para la categoría 'Internacional' es máxima."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "I spent years unlearning an eating disorder – then I was told to diet for health reasons. This is what it taught me | Amelia Tait",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/19/eating-disorders-anorexia-diet-exercise-health-weight-loss",
+      "fecha_obj": "2025-08-19T07:00:11+00:00",
+      "fecha_str": "19-08-2025 07:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Recuperada de anorexia, una alta cifra de colesterol la obliga a replantear su relación con la comida y el mensaje social sobre salud.",
+      "resumen": "Amelia Tait, tras superar la anorexia, desarrolló altos niveles de colesterol.  Su experiencia expone la contradicción entre la salud mental y física, y critica la cultura que prioriza la delgadez sobre la nutrición.  A pesar de su recuperación, la presión social y la cultura de las dietas la llevaron a recaer brevemente.  Tait reflexiona sobre la necesidad de un mensaje de salud más integral, que no se centre únicamente en el peso, y cuestiona la obsesión con las calorías en detrimento de la calidad nutricional.  Su lucha personal sirve para denunciar la presión social y la contradicción de los mensajes sobre salud y alimentación.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que reflexiona críticamente sobre la cultura de la dieta, la salud y la imagen corporal, basado en la experiencia personal de la autora.  Expresa una opinión argumentada y con ejemplos concretos, lo que lo hace altamente relevante para la categoría."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "The Labour right wants Wes Streeting in No 10. Why? What does he really stand for? | Oliver Eagleton",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/19/labour-right-wes-streeting-downing-street-health-secretary-nhs",
+      "fecha_obj": "2025-08-19T05:00:09+00:00",
+      "fecha_str": "19-08-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El ala derechista del Partido Laborista impulsa a Wes Streeting para liderar, ¿pero cuáles son sus verdaderas convicciones?",
+      "resumen": "El artículo analiza el ascenso de Wes Streeting dentro del Partido Laborista Británico,  destacando su ideología neoliberal y su postura conservadora en temas sociales.  Se le presenta como un político ambicioso, cercano al ala blairista, que aboga por la privatización y la austeridad, incluso dentro del NHS.  Su gestión en el Ministerio de Salud se caracteriza por recortes y la creciente participación del sector privado.  A pesar de su imagen pública de luchador contra la extrema derecha, sus políticas se acercan al populismo reaccionario, generando controversia y cuestionamientos sobre su verdadera ideología.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta un análisis crítico y argumentado de la figura política de Wes Streeting,  expresando una opinión clara sobre sus acciones y sus implicaciones.  Se basa en hechos y evidencia,  lo que lo convierte en un ensayo de opinión sólido y relevante."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "The Man Who Saw the Future of Africa",
+      "link": "https://www.nytimes.com/2025/08/19/opinion/africa-future-kwame-nkrumah.html",
+      "fecha_obj": "2025-08-19T05:00:05+00:00",
+      "fecha_str": "19-08-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Nkrumah: ¿Un visionario que previó el futuro de África a través de la unión continental?",
+      "resumen": "El artículo analiza la visión de Kwame Nkrumah sobre el desarrollo de África, destacando su propuesta de una unión continental inspirada en los Federalist Papers.  Nkrumah abogaba por la integración económica y política de los países africanos, considerando que su pequeño tamaño y la dependencia de la extracción de recursos impedían su desarrollo.  Su visión, inicialmente criticada, se basaba en la creación de unidades económicas y políticas más grandes, mediante pasos sucesivos de integración regional, para finalmente lograr una unión continental.  A pesar del rechazo inicial, su lógica sobre la no alineación y la necesidad de un desarrollo liderado por los propios africanos, se presenta como notablemente acertada a la luz de las tendencias actuales.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la visión de Nkrumah, analizando su validez a la luz de la historia y la actualidad.  Su estructura, análisis y conclusión lo hacen adecuado para un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Au Pakistan, la recherche des disparus de la mousson, à la lueur des téléphones",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/au-pakistan-la-recherche-des-disparus-de-la-mousson-a-la-lueur-des-telephones_187705?xtor=RSS-15",
+      "fecha_obj": "2025-08-19T06:17:03+00:00",
+      "fecha_str": "19-08-2025 06:17 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Las lluvias monzónicas en Pakistán dejan cientos de muertos y desaparecidos, dificultando las labores de rescate.",
+      "resumen": "Las fuertes lluvias monzónicas en el norte de Pakistán han causado devastación en el pueblo de Dalori y otros lugares de la provincia de Khyber-Pakhtunkhwa.  Más de 350 personas han muerto y decenas siguen desaparecidas bajo los escombros.  Los aldeanos, con pocos recursos, buscan a sus seres queridos a la luz de sus teléfonos móviles.  La falta de electricidad, el acceso limitado a maquinaria pesada y la construcción de casas en zonas de riesgo han complicado las tareas de rescate y recuperación. El desastre ha resaltado los problemas de urbanismo y la vulnerabilidad ante eventos climáticos extremos en la región.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Aunque la noticia menciona el uso de teléfonos móviles para la búsqueda de desaparecidos, el enfoque principal es el desastre natural y sus consecuencias humanitarias. La tecnología juega un papel secundario en la narración."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "SoftBank va investir $2 mds dans Intel",
+      "link": "https://www.sciencesetavenir.fr/softbank-va-investir-2-mds-dans-intel_187704",
+      "fecha_obj": "2025-08-19T05:31:40+00:00",
+      "fecha_str": "19-08-2025 05:31 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Fracaso en la negociación global para reducir la contaminación plástica; las conversaciones continuarán.",
+      "resumen": "La conferencia internacional en Ginebra, con 183 países participantes, para negociar un tratado sobre la reducción de la contaminación plástica, finalizó sin un acuerdo común.  A pesar del fracaso en alcanzar un marco global, el tema sigue siendo prioritario y se espera que las discusiones se reanuden en una fecha y lugar aún por determinar.  La falta de consenso entre las naciones participantes subraya la complejidad de abordar este desafío ambiental a escala global.  Se espera que las futuras negociaciones aborden las diferencias entre los países y busquen soluciones más efectivas para reducir la contaminación plástica.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien el tema de la contaminación por plástico tiene implicaciones tecnológicas en cuanto a soluciones de reciclaje y nuevos materiales, el artículo se centra en el aspecto político y diplomático de las negociaciones internacionales, no en avances científicos o tecnológicos concretos."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "AT&T Promo Code: Get Up to $300 in August",
+      "link": "https://www.wired.com/story/att-promo-code/",
+      "fecha_obj": "2025-08-19T05:30:00+00:00",
+      "fecha_str": "19-08-2025 05:30 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ahorra hasta \\u0024300 en AT&T: Promociones para internet, planes móviles y descuentos exclusivos.",
+      "resumen": "El artículo describe diversas promociones de AT&T.  Para nuevos clientes de internet de fibra óptica, se ofrecen hasta \\u0024300 en tarjetas de recompensa Visa al contratar planes de 300 Mbps, 500 Mbps o 1 Gig. Los clientes actuales pueden ahorrar un 20% al agrupar servicios de internet y telefonía móvil.  Existen descuentos adicionales para profesores, militares, estudiantes y empleados de ciertas empresas.  AT&T también ofrece un periodo de prueba gratuito de 30 días y descuentos por la compra de un nuevo teléfono con intercambio. Finalmente, se menciona la posibilidad de ofertas especiales en el Cyber Monday.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo trata sobre ofertas y promociones de un operador de telecomunicaciones, un sector estrechamente relacionado con la tecnología.  Si bien no se centra en avances científicos, la información sobre servicios de internet de fibra óptica y planes de telefonía móvil tiene relevancia en el contexto de la tecnología de comunicaciones."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: Tommy Fury reflects on the worst year of his life",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/19/tv-tonight-tommy-fury-reflects-on-the-worst-year-of-his-life",
+      "fecha_obj": "2025-08-19T05:20:09+00:00",
+      "fecha_str": "19-08-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: desde la vida de Tommy Fury hasta el drama en Pompeya, ¡hay algo para todos!",
+      "resumen": "La programación televisiva de esta noche ofrece una variedad de opciones.  Se presenta un vistazo a la vida de Tommy Fury, hermano de Tyson, en un documental que cubre su año difícil y su reconciliación con Molly-Mae Hague.  Otros programas incluyen 'The Big Pound Shop Swap', donde familias intercambian sus compras de supermercado; 'The Great British Sewing Bee', con un desafío infantil; el thriller 'In Flight'; y un documental sobre Pompeya, explorando su vida cotidiana.  También se incluyen 'Resident Alien', una comedia de ciencia ficción, y dos películas: 'And Then We Danced' y 'Hi, Mom!'.  Finalmente, se anuncia la cobertura deportiva de The Hundred Cricket y el US Open de tenis.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien se menciona la película \"And Then We Danced\", el resto de la programación se centra en realities, documentales y deportes. La película mencionada tiene un enfoque en la cultura y las artes, pero no es el tema principal del artículo."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "LEI-LDN review – teenage delights and dilemmas, from the Midlands to the capital",
+      "link": "https://www.theguardian.com/stage/2025/aug/19/lei-ldn-review-pleasance-courtyard-edinburgh",
+      "fecha_obj": "2025-08-19T04:00:08+00:00",
+      "fecha_str": "19-08-2025 04:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Adolescente birracial se muda de Leicester a Londres, explorando identidad y pertenencia en un viaje conmovedor.",
+      "resumen": "LEI-LDN es una obra de teatro unipersonal que narra la historia de Chardaye, una joven de 17 años que se muda de Leicester a Peckham, Londres, tras un incidente racista en su escuela.  La obra explora su experiencia como joven birracial, los desafíos de adaptarse a un nuevo entorno y la búsqueda de identidad.  Chardaye enfrenta preguntas sobre su suficiencia como persona negra y la presión de elegir un bando.  La actuación de Na-keisha Pebody captura la incertidumbre adolescente, combinada con momentos alegres de música, baile e interacción con el público. La obra también incluye un monólogo más serio donde Chardaye aprende sobre la historia de los niños de doble herencia en el Reino Unido.  LEI-LDN es una historia conmovedora de autodescubrimiento y aceptación.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La obra de teatro LEI-LDN es altamente relevante para la categoría 'Cultura Arte' por ser una pieza teatral que explora temas sociales y de identidad a través de la actuación, la música y la interacción con el público. Su análisis de la experiencia birracial y la migración interna dentro del Reino Unido la posiciona como una obra con valor cultural y artístico."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Una visita guiada por la historia de amor entre San Martín y Remedios, de la mano de Florencia Canale",
+      "link": "https://www.clarin.com/cultura/visita-guiada-historia-amor-san-martin-remedios-mano-florencia-canale_0_LecsOqx1Eh.html",
+      "fecha_obj": "2025-08-18T22:58:41+00:00",
+      "fecha_str": "18-08-2025 22:58 UTC",
+      "source_name": "Revista Ñ – Clarín Cultura"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Florencia Canale recrea el romance de San Martín y Remedios de Escalada en un tour porteño.",
+      "resumen": "La escritora Florencia Canale guio un tour por Buenos Aires, reconstruyendo la historia de amor entre José de San Martín y Remedios de Escalada.  Basado en su novela \"Pasión y Traición\", el recorrido incluyó sitios emblemáticos como la iglesia de San Miguel Arcángel y el solar de los Escalada.  Canale combinó datos históricos con escenas noveladas, mostrando tanto la idealización del amor como sus sombras.  El tour, que atrajo a un público diverso, ofreció una mirada íntima a la vida de ambos personajes, incluyendo las otras relaciones de San Martín y la temprana muerte de Remedios.  El recorrido terminó en la Plaza de Mayo, evocando la vida cotidiana de la época.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo se centra en un evento cultural que combina literatura, historia y un recorrido turístico por sitios históricos de Buenos Aires.  La novela de Canale y el tour mismo son manifestaciones culturales relevantes. La puntuación es alta porque el tema se relaciona directamente con la historia, la literatura y el patrimonio cultural argentino."
+    },
+    "categoria": "cultura_arte"
   }
 ]
