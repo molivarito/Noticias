@@ -1070,5 +1070,197 @@
       "relevancia_justificacion": "El artículo se centra en un evento cultural que combina literatura, historia y un recorrido turístico por sitios históricos de Buenos Aires.  La novela de Canale y el tour mismo son manifestaciones culturales relevantes. La puntuación es alta porque el tema se relaciona directamente con la historia, la literatura y el patrimonio cultural argentino."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Saint-Nazaire : sur la plage, des cours pour apprendre à cuisiner les algues",
+      "link": "https://www.lefigaro.fr/nantes/saint-nazaire-sur-la-plage-des-cours-pour-apprendre-a-cuisiner-les-algues-20250820",
+      "fecha_obj": "2025-08-20T07:01:00+00:00",
+      "fecha_str": "20-08-2025 07:01 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Aprende a cocinar algas en talleres gratuitos en las playas de Saint-Nazaire.",
+      "resumen": "Durante el verano, Saint-Nazaire ofrece talleres semanales de cocina con algas impartidos por Echos Nature.  Vincent Leroux y Julie Hennefent enseñan a preparar un tartare de algas, desde la recolección hasta la preparación.  Los talleres promueven el consumo de algas como 'superalimento', destacando sus propiedades nutricionales y su origen local.  La iniciativa forma parte de un evento estival y busca sensibilizar sobre la alimentación sostenible y el medio ambiente. El creciente interés en las algas, antes vistas con prejuicios, se refleja en la popularidad de estos talleres y en la comercialización de productos a base de algas por Echos Nature.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien el artículo describe una iniciativa local interesante, su alcance geográfico es limitado a Saint-Nazaire, Francia.  La temática de la alimentación sostenible tiene relevancia internacional, pero el evento en sí mismo no tiene un impacto global significativo."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Droits TV : illustration de la crise, le champion de Ligue 1 en 2026 touchera moins que Montpellier, lanterne rouge la saison passée",
+      "link": "https://www.lefigaro.fr/sports/football/ligue-1/droits-tv-illustration-de-la-crise-le-champion-de-ligue-1-en-2026-touchera-moins-que-montpellier-lanterne-rouge-la-saison-passee-20250820",
+      "fecha_obj": "2025-08-20T06:58:11+00:00",
+      "fecha_str": "20-08-2025 06:58 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El campeón de la Ligue 1 2026 ganará menos que el último clasificado de la temporada pasada.",
+      "resumen": "La Ligue 1 enfrenta una crisis financiera.  Los ingresos por derechos de televisión para la temporada 2025-2026 se reducen a 80,5 millones de euros, una cifra considerablemente baja. El campeón de Francia recibirá un máximo de 4,67 millones de euros, menos de lo que obtuvo Montpellier, el último clasificado de la temporada anterior (5,18 millones). Esta reducción se debe a diferentes factores, incluyendo pagos a CVC y ayudas a equipos descendidos.  La situación financiera precaria de la liga francesa se ve reflejada en esta drástica disminución de los ingresos para los clubes.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "La noticia afecta a una liga de fútbol importante a nivel europeo, con implicaciones financieras que podrían tener repercusiones internacionales.  El impacto en el panorama futbolístico europeo le da relevancia internacional, aunque el foco principal es Francia."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Au Pakistan, de nouvelles pluies font plus de vingt morts alors que l’épisode de mousson gagne le sud du pays",
+      "link": "https://www.lemonde.fr/international/article/2025/08/20/au-pakistan-de-nouvelles-pluies-font-plus-de-vingt-morts-alors-que-l-episode-de-mousson-gagne-le-sud-du-pays_6632281_3210.html",
+      "fecha_obj": "2025-08-20T06:53:20+00:00",
+      "fecha_str": "20-08-2025 06:53 UTC",
+      "source_name": "Le Monde International"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Más de 20 muertos en Pakistán por nuevas lluvias monzónicas tras semana catastrófica.",
+      "resumen": "Las lluvias monzónicas en Pakistán han causado más de 20 muertes adicionales, elevando el total a cerca de 750 desde finales de junio.  El sur del país, incluyendo Karachi, se ha visto afectado por inundaciones y electrocuciones, mientras que el norte sigue lidiando con las consecuencias de las lluvias torrenciales de la semana pasada en el Kyber Pakhtunkhwa.  Las autoridades advierten sobre la posibilidad de propagación de enfermedades debido al agua estancada y continúan los esfuerzos de rescate y ayuda humanitaria.  El cambio climático se señala como un factor contribuyente al aumento de eventos meteorológicos extremos.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo describe una catástrofe natural de gran magnitud con numerosas víctimas mortales en Pakistán, un evento de clara relevancia internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "We Need a New Language After This War",
+      "link": "https://www.nytimes.com/2025/08/20/opinion/israel-war-language-humanity.html",
+      "fecha_obj": "2025-08-20T06:27:13+00:00",
+      "fecha_str": "20-08-2025 06:27 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La imposibilidad de comunicación tras el conflicto nos lleva a una nueva Babel, ¿encontraremos un nuevo lenguaje común?",
+      "resumen": "El artículo describe un encuentro entre el autor y un hombre en bañador, donde la discrepancia sobre la imagen de un niño palestino muerto revela una profunda dificultad de comunicación.  Ambos comparten sentimientos de pérdida y desilusión con el gobierno, pero sus perspectivas divergen irreconciliablemente.  El autor utiliza la metáfora de la Torre de Babel para ilustrar la creciente incomunicación en la sociedad actual, donde la información fragmentada y las narrativas polarizadas impiden el entendimiento mutuo.  El texto concluye con un llamado a la búsqueda de un lenguaje común que permita la comprensión y el diálogo, incluso ante tragedias como la muerte del niño.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión reflexiva sobre la crisis de comunicación actual, utilizando una anécdota personal para desarrollar una tesis sobre la necesidad de un lenguaje común.  Su estilo es ensayístico, analítico y argumentativo, encajando perfectamente en la categoría."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "We criminalise the political stunt at our peril. It is a crucial art form that is impossible to ignore | Mark Borkowski",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/20/political-stunts-anger-criminalise-suffragettes-protest",
+      "fecha_obj": "2025-08-20T06:00:32+00:00",
+      "fecha_str": "20-08-2025 06:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Las protestas creativas, aunque ilegales, son cruciales para el cambio social; criminalizarlas es un error.",
+      "resumen": "El artículo argumenta que las protestas consideradas \"stunts\" o acciones llamativas, son una forma de arte crucial para el cambio social, a pesar de ser a menudo criminalizadas.  Se utilizan ejemplos históricos como las sufragistas, las mujeres de Greenham Common, y activistas contemporáneos para demostrar cómo estas acciones, aunque inicialmente vistas como desórdenes, lograron cambios significativos al aprovechar la atención mediática y la narrativa. El autor advierte sobre la tendencia a reprimir las protestas, argumentando que se debe reconocer su valor creativo y su papel esencial en la lucha contra la injusticia y la desigualdad.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta un argumento claro y bien sustentado sobre la importancia de las protestas creativas en el cambio social, encajando perfectamente en la categoría de 'Opinión Ensayo'.  Utiliza ejemplos históricos y contemporáneos para apoyar su tesis, ofreciendo una perspectiva analítica y reflexiva sobre la relación entre protesta y cambio social."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Young people want to ‘go private’ – I’m a lifelong supporter of the NHS, but I can see why | Frances Ryan",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/20/private-healthcare-nhs-young-people",
+      "fecha_obj": "2025-08-20T05:00:32+00:00",
+      "fecha_str": "20-08-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Jóvenes británicos optan por salud privada ante la crisis del NHS, ¿un riesgo existencial para el sistema?",
+      "resumen": "Frances Ryan, defensora del NHS, describe su propia experiencia recurriendo a la sanidad privada debido a las largas listas de espera.  Un estudio revela que la mitad de los millennials británicos planean usar servicios privados en el próximo año, principalmente por la dificultad para acceder a citas del NHS.  Ryan analiza este fenómeno como consecuencia de la falta de recursos y la degradación del servicio público, una estrategia política que normaliza la sanidad privada como una necesidad.  Señala el peligro de una privatización gradual, comparándola con la situación de la odontología, y aboga por la defensa del NHS.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente un problema social relevante: el futuro del NHS y el creciente uso de la sanidad privada en Reino Unido.  Presenta argumentos, evidencia y una perspectiva personal para defender su postura."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "La mousson fait encore 20 morts au Pakistan, les pluies gagnent le Sud",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/la-mousson-fait-encore-20-morts-au-pakistan-les-pluies-gagnent-le-sud_187720?xtor=RSS-15",
+      "fecha_obj": "2025-08-20T06:12:00+00:00",
+      "fecha_str": "20-08-2025 06:12 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Las fuertes lluvias monzónicas en Pakistán dejan más de 750 muertos y amenazan con epidemias.",
+      "resumen": "Las lluvias monzónicas en Pakistán han causado más de 750 muertes y miles de heridos.  Las peores afectaciones se concentran en el norte, especialmente en la provincia de Kyber-Pakhtunkhwa, donde las inundaciones y deslizamientos de tierra han sepultado aldeas enteras.  Las lluvias se han extendido al sur, afectando a Karachi, donde las inundaciones han provocado muertes por electrocución y derrumbes.  El gobierno ha desplegado equipos de rescate y ayuda humanitaria, pero la amenaza de nuevas lluvias y la posibilidad de epidemias debido al agua estancada persisten. La situación se agrava por el cambio climático, que incrementa la frecuencia e intensidad de estos fenómenos meteorológicos extremos.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "El artículo se centra en un desastre natural, las consecuencias y la respuesta humanitaria. Si bien el cambio climático se menciona como factor contribuyente, la temática principal no está relacionada con la ciencia o la tecnología."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Les États-Unis envisagent d'entrer au capital de fabriquants de puces bénéficiant d'aides fédérales",
+      "link": "https://www.sciencesetavenir.fr/les-etats-unis-envisagent-d-entrer-au-capital-de-fabriquants-de-puces-beneficiant-d-aides-federales_187719",
+      "fecha_obj": "2025-08-20T05:08:56+00:00",
+      "fecha_str": "20-08-2025 05:08 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "EEUU estudia invertir en empresas de chips subvencionadas con fondos federales.",
+      "resumen": "Un artículo en francés informa que Estados Unidos considera la posibilidad de invertir en fabricantes de microchips que ya reciben ayudas del gobierno federal.  Esto sugiere una mayor implicación del estado en el sector de la tecnología de semiconductores, probablemente para fortalecer la producción nacional y reducir la dependencia de otros países.  La noticia no especifica las empresas involucradas ni el monto de la inversión potencial, pero indica una estrategia para impulsar la industria tecnológica estadounidense a través de financiación pública y privada. Se destaca la importancia de la producción de chips para la economía y la seguridad nacional.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia trata directamente sobre la inversión pública en la fabricación de microchips, un tema central en ciencia y tecnología.  Implica avances tecnológicos, políticas gubernamentales y su impacto económico, haciendo la noticia altamente relevante para esta categoría."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Top pediatricians buck RFK Jr.’s anti-vaccine meddling on COVID shot guidance",
+      "link": "https://arstechnica.com/health/2025/08/top-pediatricians-buck-rfk-jr-s-anti-vaccine-meddling-on-covid-shot-guidance/",
+      "fecha_obj": "2025-08-19T22:39:36+00:00",
+      "fecha_str": "19-08-2025 22:39 UTC",
+      "source_name": "Ars Technica"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La Academia Estadounidense de Pediatría contradice las políticas antivacunas de Kennedy sobre la vacuna COVID-19 para niños.",
+      "resumen": "La Academia Estadounidense de Pediatría (AAP) publicó su propio calendario de vacunación infantil en respuesta a las políticas antivacunas del secretario de salud Robert F. Kennedy Jr.  Kennedy despidió a asesores de vacunas del CDC y restringió el acceso a las vacunas COVID-19. La AAP, junto con otras organizaciones médicas, demandó al departamento de salud.  El calendario de vacunación de la AAP difiere del del CDC, recomendando vacunas COVID-19 para niños de 6 meses a 23 meses y niños de alto riesgo de 2 a 18 años.  La AAP afirma que los niños merecen mejores recomendaciones basadas en evidencia, en contraste con las decisiones políticas de Kennedy.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo trata sobre un conflicto entre políticas de salud pública y evidencia científica relacionada con vacunas, un tema relevante para la ciencia y la tecnología en salud."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "‘If the devil did exist, he’d be just such a gentleman’: Neil Jordan remembers Terence Stamp",
+      "link": "https://www.theguardian.com/film/2025/aug/20/if-the-devil-did-exist-hed-be-just-such-a-gentleman-neil-jordan-remembers-terence-stamp",
+      "fecha_obj": "2025-08-20T06:30:33+00:00",
+      "fecha_str": "20-08-2025 06:30 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Neil Jordan recuerda a Terence Stamp como el gentil diablo de 'The Company of Wolves'.",
+      "resumen": "Neil Jordan relata la elección de Terence Stamp para interpretar al diablo en 'The Company of Wolves'.  Inicialmente consideró a Andy Warhol, pero problemas logísticos llevaron a Stamp.  Jordan describe el ambiente misterioso del encuentro en el Albany, y la actuación memorable de Stamp, quien encarnó un diablo elegante y encantador manejando un Rolls-Royce en un bosque surrealista diseñado por Anton Furst. La escena, filmada en una hora, incluyó un cráneo y un ungüento, y Jordan cree que Stamp aceptó por el traje.  El director destaca los ojos azules y el encanto peligroso del actor.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre la realización de una escena de una película, con detalles sobre la dirección, el diseño de producción, la actuación y la elección del reparto. Esto lo relaciona directamente con el cine, una rama importante de la cultura y el arte."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "An outsider’s view: a portrait of post-Brexit northern Britain – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2025/aug/20/outsiders-view-post-brexit-northern-britain-in-pictures",
+      "fecha_obj": "2025-08-20T06:00:33+00:00",
+      "fecha_str": "20-08-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El Brexit agudiza la brecha entre el norte y el sur de Gran Bretaña, mostrando una realidad económica desigual.",
+      "resumen": "El artículo presenta una perspectiva externa de la situación en el norte de Gran Bretaña tras el Brexit, destacando la disparidad económica entre el norte y el sur.  La economía de Londres supera a las 14 ciudades británicas más grandes juntas, lo que genera un sentimiento de injusticia y desconexión en el norte.  Esta desigualdad económica se considera un factor clave en el éxito de la campaña del Brexit, interpretada como una especie de 'motín' contra el status quo.  La imagen de carritos de compra abandonados en un río cerca de un supermercado social en Birmingham ilustra la situación de pobreza y abandono en algunas zonas.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien el artículo toca aspectos sociales que pueden influir en la cultura, su enfoque principal es político y económico. La imagen incluida aporta un elemento visual, pero no se centra en el arte o la cultura en sí."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Everything Evolves by Mark Vellend review – can Darwin explain JD Vance?",
+      "link": "https://www.theguardian.com/books/2025/aug/20/everything-evolves-by-mark-vellend-review-can-darwin-explain-jd-vance",
+      "fecha_obj": "2025-08-20T06:00:33+00:00",
+      "fecha_str": "20-08-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Evolución: ¿la clave para entender el mundo, desde la biología a la política?",
+      "resumen": "Mark Vellend argumenta que la física y la evolución son suficientes para comprender el mundo.  Distingue entre la 'primera ciencia' (necesidad física) y la 'segunda ciencia' (contingencia histórica), esta última abarca disciplinas como la antropología y la economía.  Si bien la teoría de la evolución por selección natural es central, Vellend advierte contra una visión demasiado darwiniana, destacando la complejidad y la influencia del azar.  Aplica la teoría evolutiva a sistemas sociales y artefactos, aunque reconoce que no todos evolucionan de forma estrictamente darwiniana. Finalmente, cuestiona la división tajante entre determinismo físico y contingencia evolutiva, concluyendo que los sistemas evolutivos son omnipresentes y extremadamente complejos.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien el libro toca temas sociales y culturales, su enfoque principal es científico y filosófico, explorando la aplicación de la teoría evolutiva a diversos campos.  Su relevancia para 'Cultura Arte' es limitada, ya que no se centra en las expresiones artísticas o culturales en sí mismas."
+    },
+    "categoria": "cultura_arte"
   }
 ]
