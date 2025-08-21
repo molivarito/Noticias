@@ -1262,5 +1262,197 @@
       "relevancia_justificacion": "Si bien el libro toca temas sociales y culturales, su enfoque principal es científico y filosófico, explorando la aplicación de la teoría evolutiva a diversos campos.  Su relevancia para 'Cultura Arte' es limitada, ya que no se centra en las expresiones artísticas o culturales en sí mismas."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Guerre en Ukraine : plus de 600 drones et missiles russes se sont abattus dans l’ouest du pays, un record depuis un mois",
+      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-d-importantes-frappes-russes-sur-l-ouest-du-pays-font-un-mort-et-14-blesses-20250821",
+      "fecha_obj": "2025-08-21T07:14:58+00:00",
+      "fecha_str": "21-08-2025 07:14 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ataque récord: Rusia lanza más de 600 drones y misiles sobre el oeste de Ucrania.",
+      "resumen": "Un ataque sin precedentes tuvo lugar en el oeste de Ucrania, donde Rusia lanzó más de 600 drones y misiles, causando al menos una muerte y varios heridos en Lviv.  El ejército ucraniano afirma haber derribado la mayoría de los proyectiles, mientras que el Ministerio de Defensa ruso reporta la destrucción de 49 drones ucranianos.  A pesar de los esfuerzos de paz internacionales, los ataques continúan en el este, sur y oeste del país, marcando un incremento significativo en la intensidad de la ofensiva rusa desde mediados de julio.  Las ciudades de Mukachenko y Loutsk también sufrieron ataques, reportando daños y heridos.  El oeste de Ucrania, usualmente menos afectado, se convirtió en el blanco de este ataque masivo.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre un conflicto bélico de gran envergadura internacional, con implicaciones geopolíticas globales y un alto impacto humanitario.  La escala del ataque y su impacto en la población civil lo convierten en una noticia de relevancia internacional máxima."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "États-Unis : les frères Menendez comparaissent devant une commission judiciaire pour leur libération conditionnelle",
+      "link": "https://www.lefigaro.fr/flash-actu/etats-unis-les-freres-menendez-comparaissent-devant-une-commission-judiciaire-pour-leur-liberation-conditionnelle-20250821",
+      "fecha_obj": "2025-08-21T07:06:50+00:00",
+      "fecha_str": "21-08-2025 07:06 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Los hermanos Menéndez, condenados por matar a sus padres, buscan la libertad condicional tras más de 30 años en prisión.",
+      "resumen": "Lyle y Erik Menéndez, conocidos por asesinar a sus padres en 1989, comparecen ante una comisión para evaluar su libertad condicional.  Condenados a cadena perpetua, su pena fue revisada, haciéndolos elegibles.  Si bien su familia y celebridades como Kim Kardashian apoyan su liberación, alegando abuso sexual por parte del padre como motivación, el fiscal de Los Ángeles se opone, argumentando que nunca asumieron completamente la responsabilidad del crimen y que su narrativa de autodefensa fue rechazada en el juicio. La comisión deberá decidir si representan un peligro para la sociedad.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El caso Menéndez tiene relevancia internacional por su alta notoriedad mediática a lo largo de décadas, involucrando a figuras públicas y generando debates sobre justicia, abuso y el impacto de los medios."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Le château de la Cosse, classé aux monuments historiques, ravagé par un incendie en Haute-Vienne",
+      "link": "https://www.lefigaro.fr/culture/patrimoine/le-chateau-de-la-cosse-classe-aux-monuments-historiques-ravage-par-un-incendie-en-haute-vienne-20250821",
+      "fecha_obj": "2025-08-21T07:06:17+00:00",
+      "fecha_str": "21-08-2025 07:06 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Incendio destruye el Château de la Cosse, monumento histórico francés, tras ser alcanzado por un rayo.",
+      "resumen": "Un incendio devastó el Château de la Cosse, en Haute-Vienne, Francia, el miércoles 20 de agosto.  El fuego, originado por un rayo que impactó el edificio del siglo XVIII, causó el colapso de la estructura del primer piso. Más de 50 bomberos trabajaron para controlar las llamas, logrando salvar el mobiliario de la planta baja.  El castillo, clasificado como monumento histórico en 1977, era un popular lugar para eventos. La Ministra de Cultura, Rachida Dati, manifestó su seguimiento a la situación y agradeció la labor de los bomberos.",
+      "relevancia_score": 6,
+      "relevancia_justificacion": "Si bien el evento es de ámbito local, la clasificación del castillo como monumento histórico y la atención de la Ministra de Cultura le dan una relevancia internacional, aunque limitada.  La noticia podría interesar a personas interesadas en la historia francesa y la preservación del patrimonio cultural."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Israel Is Making Sure There Is No One to Document the Horror of Its War",
+      "link": "https://www.nytimes.com/2025/08/21/opinion/israel-al-sharif-killing-gaza.html",
+      "fecha_obj": "2025-08-21T06:08:07+00:00",
+      "fecha_str": "21-08-2025 06:08 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Israel silencia a la prensa en Gaza para ocultar las atrocidades de la guerra.",
+      "resumen": "El artículo denuncia la eliminación sistemática de periodistas en Gaza por parte de Israel, argumentando que busca silenciar los horrores de la guerra.  Se critica la justificación israelí, que equipara a todos los gazatíes con Hamas, permitiendo así la eliminación indiscriminada de civiles, incluyendo periodistas.  Se destaca el contraste entre periodistas extranjeros que pueden regresar a casa y los periodistas locales que enfrentan la violencia directamente. El asesinato de periodistas como al-Sharif y Shabat se presenta como un intento deliberado de suprimir la información y la verdad sobre el conflicto.  El autor enfatiza la valentía y el sacrificio de los periodistas locales que documentan la guerra, a diferencia de los corresponsales extranjeros.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión contundente sobre la situación en Gaza, analizando las acciones de Israel y su impacto en la libertad de prensa.  Su tono es argumentativo y reflexivo, adecuado para un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "I'm a legal refugee in Britain. So why am I always being treated like a criminal? | Ayman Alhussein",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/21/refugee-syria-treated-like-criminal-britain",
+      "fecha_obj": "2025-08-21T06:00:02+00:00",
+      "fecha_str": "21-08-2025 06:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Refugiado legal en Reino Unido, pero tratado como criminal: una historia de discriminación y lucha por la aceptación.",
+      "resumen": "Ayman Alhussein, refugiado sirio en Reino Unido, relata su experiencia de constante discriminación a pesar de su estatus legal.  Tras huir de la guerra en Siria, su viaje a Reino Unido estuvo lleno de peligros y obstáculos.  Una vez allí, aunque encontró apoyo en la sociedad, la política gubernamental, especialmente tras el plan de deportación a Ruanda, le generó un miedo constante a la deportación.  Ayman critica la deshumanización de los refugiados, la facilidad con que se les culpabiliza y el aumento del racismo, instando a la acción para evitar que la situación empeore.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que expresa la perspectiva personal de un refugiado sobre su experiencia con la discriminación y el sistema de asilo en Reino Unido.  Expone sus argumentos con ejemplos concretos y un tono emotivo, lo que lo hace altamente relevante para la categoría."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "The Folly of Trump’s Cartel-Bombing Fantasy",
+      "link": "https://www.nytimes.com/2025/08/21/opinion/trump-cartel-mexico-fentanyl.html",
+      "fecha_obj": "2025-08-21T05:00:06+00:00",
+      "fecha_str": "21-08-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Bombardear cárteles mexicanos sería contraproducente, intensificando la violencia y dañando la cooperación binacional.",
+      "resumen": "El artículo argumenta contra la propuesta de bombardear cárteles mexicanos.  Señala que los cárteles, a diferencia de grupos extremistas, son organizaciones criminales motivadas por el lucro del narcotráfico y otras actividades ilegales.  Eliminar líderes solo fragmentaría los cárteles, aumentando la violencia.  Además, una acción unilateral estadounidense perjudicaría la cooperación entre México y EE.UU., que ha mostrado resultados positivos en la lucha contra el narcotráfico, como la disminución de incautaciones de fentanilo.  La colaboración actual es vital y se vería comprometida por una acción militar unilateral.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión fundamentada sobre una política específica, ofreciendo argumentos y datos que sustentan su postura.  Su estructura, análisis y conclusión lo hacen adecuado para la categoría de 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Humans intervened every 9 minutes in AAA test of driver assists",
+      "link": "https://arstechnica.com/cars/2025/08/humans-intervened-every-9-minutes-in-aaa-test-of-driver-assists/",
+      "fecha_obj": "2025-08-21T04:00:34+00:00",
+      "fecha_str": "21-08-2025 04:00 UTC",
+      "source_name": "Ars Technica"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Los sistemas avanzados de asistencia al conductor necesitan intervención humana cada 9 minutos, según AAA.",
+      "resumen": "AAA probó cinco sistemas avanzados de asistencia a la conducción (ADAS) en Los Ángeles, descubriendo que requieren intervención humana cada 9 minutos en promedio durante 16.2 horas de conducción en tráfico pesado.  Los sistemas, que incluyen control de crucero adaptativo y mantenimiento de carril, se probaron en condiciones reales de tráfico.  El 85% de los eventos registrados requirieron la intervención del conductor, limitando significativamente el tiempo de conducción autónoma.  La prueba destaca la necesidad de una mayor sofisticación en los ADAS de nivel 2, donde el conductor debe mantener la conciencia situacional, antes de que se pueda confiar completamente en la conducción autónoma.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre la evaluación de tecnologías de conducción autónoma, un tema central en ciencia y tecnología.  La investigación de AAA aporta datos relevantes sobre el desarrollo y las limitaciones actuales de los ADAS."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Contamination au cadmium: gare à l’abus de chocolat, avertit l’UFC-Que Choisir",
+      "link": "https://www.sciencesetavenir.fr/sante/contamination-au-cadmium-gare-a-l-abus-de-chocolat-avertit-l-ufc-que-choisir_187751?xtor=RSS-16",
+      "fecha_obj": "2025-08-21T03:00:04+00:00",
+      "fecha_str": "21-08-2025 03:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El chocolate contiene cadmio, un metal pesado nocivo; modera su consumo, especialmente niños.",
+      "resumen": "La UFC-Que Choisir alerta sobre la presencia de cadmio en el chocolate, un metal pesado dañino para la salud.  Consumir varias porciones de productos con chocolate como galletas, cereales y chocolate caliente puede superar la dosis diaria tolerable de cadmio, especialmente en niños.  Aunque los productos analizados cumplen la normativa, la UFC recomienda moderar el consumo de chocolate, especialmente el bio de América Latina, donde el cadmio está presente de forma natural en el suelo.  La Anses está investigando la exposición al cadmio en Francia para reducir la impregnación en la población.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo trata un tema de salud pública relacionado con la contaminación de alimentos,  con implicaciones científicas en la toxicología y análisis de metales pesados.  Si bien no es estrictamente tecnología, la investigación y el análisis de la contaminación son relevantes para la ciencia."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Des batteries de voitures reconditionnées pour la transition énergétique de l'Allemagne",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/des-batteries-de-voitures-reconditionnees-pour-la-transition-energetique-de-l-allemagne_187752?xtor=RSS-15",
+      "fecha_obj": "2025-08-21T03:00:03+00:00",
+      "fecha_str": "21-08-2025 03:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Voltfang, la startup alemana, da una segunda vida a baterías de coches eléctricos para impulsar la transición energética del país.",
+      "resumen": "La empresa alemana Voltfang inauguró la planta de recondicionamiento de baterías de coches eléctricos más grande de Europa.  Estas baterías usadas se reutilizan para almacenar energía renovable, contribuyendo a la transición energética alemana, que aún depende del carbón y el gas.  La iniciativa busca mitigar la intermitencia de las energías renovables y reducir la dependencia de combustibles fósiles.  Aunque el mercado crece exponencialmente, enfrenta desafíos como la competencia de baterías nuevas, la limitada disponibilidad de baterías usadas y la incertidumbre política.  Voltfang aspira a una capacidad de almacenamiento de 1 GWh anual para 2030, representando un 5% del mercado proyectado.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre una innovación tecnológica en el campo de las energías renovables y el almacenamiento de energía, un tema altamente relevante para la categoría 'Ciencia y Tecnología'. Describe una solución práctica e innovadora a un problema real, con datos e información relevante sobre el mercado y los desafíos del sector."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "‘We were the runt of the litter at the BBC’: Johnny Vegas and Graham Duff on resurrecting their sitcom Ideal",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/21/jonny-vegas-graham-duff-interview-ideal-bbc-comedy-stage-show",
+      "fecha_obj": "2025-08-21T07:00:03+00:00",
+      "fecha_str": "21-08-2025 07:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ideal, la sitcom de culto, regresa con una producción teatral 20 años después.",
+      "resumen": "La exitosa pero infravalorada serie de la BBC, Ideal, vuelve con una adaptación teatral.  Tras su cancelación abrupta, la comedia negra sobre un traficante de marihuana y sus peculiares personajes, recupera su popularidad gracias a su reciente disponibilidad en iPlayer.  Los creadores, Johnny Vegas y Graham Duff, prometen una historia nueva, un misterio de asesinato con un elenco que incluye a algunos de los actores originales y nuevos personajes.  A pesar de la nostalgia, buscan ofrecer una obra independiente y cautivadora para nuevos y antiguos fans, alejándose de una simple repetición de momentos icónicos.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre el regreso de una serie de televisión de culto, un evento relevante en el ámbito de la cultura popular y la televisión británica.  Analiza la creación, el éxito y el legado de la serie, aspectos clave para comprender su impacto cultural."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Psychedelic rock! Formations that mess with your mind – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2025/aug/21/psychedelic-rock-glass-mountain-michael-lundgren",
+      "fecha_obj": "2025-08-21T06:01:01+00:00",
+      "fecha_str": "21-08-2025 06:01 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Un viaje psicodélico a través de imágenes que alteran la percepción de la realidad.",
+      "resumen": "El artículo explora la experiencia psicodélica a través de una descripción personal. El autor recuerda una experiencia infantil donde, desde una perspectiva extracorpórea, reflexionaba sobre su existencia, expandiendo su conciencia desde su cuerpo hasta el universo.  Esta experiencia, descrita con imágenes, evoca la sensación de desconexión y la búsqueda de significado inherente a la filosofía psicodélica.  La pieza se centra en la introspección y la expansión de la conciencia,  mostrando cómo una experiencia aparentemente simple puede llevar a una profunda comprensión existencial.  No se describen imágenes específicas, sino la experiencia subjetiva que las imágenes evocan.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo se relaciona con la categoría 'Cultura Arte' por su exploración de una experiencia subjetiva que se conecta con la expresión artística y la búsqueda de significado, temas centrales en la cultura y el arte. La descripción evocadora y la reflexión existencial lo vinculan a la introspección artística y la exploración de la conciencia, un tema recurrente en diversas expresiones artísticas."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "The art of the city: a walking tour of Edinburgh’s best landscape sculptures",
+      "link": "https://www.theguardian.com/travel/2025/aug/21/the-art-of-the-city-a-walking-tour-of-edinburghs-best-landscape-sculptures",
+      "fecha_obj": "2025-08-21T06:00:01+00:00",
+      "fecha_str": "21-08-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Recorre Edimburgo, descubre esculturas paisajísticas de Goldsworthy, Hepworth y más, una experiencia artística inolvidable.",
+      "resumen": "El artículo describe un recorrido a pie por Edimburgo para apreciar esculturas al aire libre, comenzando con una exposición de Andy Goldsworthy en la Royal Scottish Academy.  El recorrido incluye obras en el Royal Botanic Garden (Hepworth, Finlay, Goldsworthy), Jupiter Artland (Goldsworthy, Finlay), y otras ubicaciones como el Water of Leith Walkway (Gormley), St. Mary's Cathedral y el National Museum of Scotland (Goldsworthy).  Se mencionan también otras galerías y eventos del Edinburgh Fringe Festival. El autor destaca la interacción entre arte, naturaleza y el paisaje urbano de Edimburgo, mostrando cómo el arte inspira una nueva apreciación del entorno.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo se centra completamente en el arte, describiendo diversas esculturas, instalaciones, exposiciones y artistas, además de mencionar eventos culturales relacionados. La relevancia para la categoría 'Cultura Arte' es máxima."
+    },
+    "categoria": "cultura_arte"
   }
 ]
