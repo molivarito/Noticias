@@ -1454,5 +1454,197 @@
       "relevancia_justificacion": "El artículo se centra completamente en el arte, describiendo diversas esculturas, instalaciones, exposiciones y artistas, además de mencionar eventos culturales relacionados. La relevancia para la categoría 'Cultura Arte' es máxima."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "SNCF, taxis, pharmacies, hôpitaux... Ces secteurs qui appellent à la grève en septembre",
+      "link": "https://www.lefigaro.fr/social/sncf-taxis-pharmacies-hopitaux-ces-secteurs-qui-appellent-a-la-greve-en-septembre-20250822",
+      "fecha_obj": "2025-08-22T07:09:48+00:00",
+      "fecha_str": "22-08-2025 07:09 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Septiembre en Francia: múltiples sectores en huelga contra las medidas de austeridad del gobierno.",
+      "resumen": "Varias profesiones en Francia planean movilizaciones en septiembre contra las medidas de austeridad del gobierno.  La SNCF, los taxistas, farmacéuticos y trabajadores de la AP-HP (hospitales de París) prevén huelgas por recortes presupuestarios.  Un movimiento ciudadano, surgido en redes sociales, llama a un bloqueo general el 10 de septiembre. Los taxistas planean un paro el 5 de septiembre.  Los farmacéuticos cerrarán el 18 de septiembre y todos los sábados a partir del 27.  El sector energético también se movilizará desde el 2 de septiembre.  La posibilidad de una huelga general aún se debate.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo describe una situación de protestas y huelgas a nivel nacional en Francia, con implicaciones económicas y sociales significativas.  Tiene relevancia internacional por el impacto potencial en la economía francesa y por ser un ejemplo de la creciente tensión social en Europa ante las medidas de austeridad."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Mouvement du 10 septembre : le RN «n'a pas vocation à être l’organisateur de manifestations», assure sa vice-présidente",
+      "link": "https://www.lefigaro.fr/politique/mouvement-du-10-septembre-le-rn-n-a-pas-vocation-a-etre-l-organisateur-de-manifestations-assure-sa-vice-presidente-20250822",
+      "fecha_obj": "2025-08-22T07:08:19+00:00",
+      "fecha_str": "22-08-2025 07:08 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El RN descarta organizar la protesta del 10 de septiembre, pero sus miembros son libres de participar.",
+      "resumen": "El movimiento social \"Bloquons tout\", convocado para el 10 de septiembre, ha recibido el apoyo de partidos de izquierda, pero el Rassemblement National (RN) ha decidido no participar en su organización.  La vice-presidenta del RN, Edwige Diaz, argumenta que su rol es dar soluciones, no organizar protestas, aunque reconoce la libertad de sus miembros para participar.  Diaz teme posibles incidentes y considera que la izquierda, al apoyar la protesta, busca debilitarla.  El diputado Thomas Ménagé coincide, instando a evitar la desestabilización del país y recalcando el compromiso del RN con las preocupaciones de la clase trabajadora.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "La noticia trata sobre un movimiento social en Francia con implicaciones políticas a nivel nacional, involucrando a partidos importantes y con potencial para generar inestabilidad.  Su alcance e impacto político lo hacen relevante a nivel internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Nantes : un étudiant en école d’ingénieurs dissimulait des caméras dans les prises électriques des chambres des filles",
+      "link": "https://www.lefigaro.fr/nantes/nantes-un-etudiant-en-ecole-d-ingenieurs-dissimulait-des-cameras-dans-les-prises-electriques-des-chambres-des-filles-20250822",
+      "fecha_obj": "2025-08-22T07:05:00+00:00",
+      "fecha_str": "22-08-2025 07:05 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Estudiante de ingeniería en Nantes es expulsado por instalar cámaras ocultas en habitaciones de mujeres.",
+      "resumen": "Un estudiante de la escuela de ingeniería Icam en Carquefou, Francia, fue expulsado por instalar cámaras ocultas en las tomas de corriente de las habitaciones de las estudiantes.  Una estudiante descubrió el dispositivo al encontrar un fallo en su toma de corriente.  Diez estudiantes presentaron denuncias, cinco por grabación de imágenes íntimas y cinco por intrusión. El estudiante, quien realizaba trabajos de mantenimiento en la residencia, tenía la confianza de sus empleadores. La universidad ha expresado su condena, ofrece apoyo a las víctimas y realizará un diagnóstico sobre la calidad de vida estudiantil en 2025. La investigación policial continúa.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien el incidente ocurrió en Francia, su impacto es local.  No tiene repercusiones geopolíticas o internacionales significativas, aunque sí genera debate sobre la seguridad en residencias estudiantiles."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Opportunity knocks for the Green party: can the candidates seize it? You decide",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/22/green-party-leadership-candidates",
+      "fecha_obj": "2025-08-22T05:00:24+00:00",
+      "fecha_str": "22-08-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Los Verdes buscan aprovechar la oportunidad electoral: ¿conseguirán sus candidatos el apoyo necesario?",
+      "resumen": "El artículo presenta las posturas de los candidatos a la dirección del Partido Verde inglés ante diversas cuestiones.  Se discuten temas como la participación juvenil en política, el papel de la clase social, políticas para una posible coalición (incluyendo reforma electoral e impuestos a la riqueza), posibles pactos con otros partidos,  la mitigación del cambio climático y la respuesta a la narrativa de 'voto desperdiciado'.  También se aborda la necesidad de un sistema de inmigración más justo.  Las respuestas revelan un espectro de opiniones dentro del partido, entre un enfoque más radical y otro más pragmático, en busca de un mayor impacto electoral.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta diferentes perspectivas sobre temas políticos relevantes, ofreciendo una visión analítica de las posturas de los candidatos.  Su estructura y contenido se ajustan a la estructura de un ensayo de opinión, aunque la presentación es más periodística que académica."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Europe’s show of unity at the White House is a plus for Ukraine, but peace is still a distant dream | Andrey Kurkov",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/22/ukraine-russia-europe-trump-putin-zelenskyy",
+      "fecha_obj": "2025-08-22T04:00:22+00:00",
+      "fecha_str": "22-08-2025 04:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La unidad europea en la Casa Blanca apoya a Ucrania, pero la paz sigue siendo un sueño lejano.",
+      "resumen": "El artículo analiza la reunión entre líderes europeos y Zelenskyy en la Casa Blanca, contrastándola con la reunión entre Trump y Putin en Alaska.  Si bien la reunión en Washington mostró unidad europea y apoyo a Ucrania, la paz real sigue siendo esquiva.  El autor destaca la falta de compromiso de las potencias occidentales con la liberación total de los territorios ucranianos ocupados por Rusia.  Se discute la dificultad de una reunión bilateral entre Zelenskyy y Putin, dada la falta de puntos de fácil acuerdo y la postura de Putin. La visita a Washington, aunque positiva para la moral ucraniana, no garantiza un fin a la guerra, como lo demuestran los ataques rusos posteriores a la reunión.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión clara sobre la situación en Ucrania, analizando las implicaciones políticas y la falta de progreso hacia una paz justa.  Es un ensayo de opinión bien argumentado que ofrece una perspectiva informada sobre un tema de actualidad."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Israel Says It Killed a Hamas Commander. It Killed a Pulitzer-Winning Journalist.",
+      "link": "https://www.nytimes.com/2025/08/21/opinion/israel-al-sharif-killing-gaza.html",
+      "fecha_obj": "2025-08-21T21:21:29+00:00",
+      "fecha_str": "21-08-2025 21:21 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El asesinato de un periodista Pulitzer por Israel expone la brutalidad sin límites de la guerra en Gaza.",
+      "resumen": "El artículo condena el asesinato de Shireen al-Sharif, periodista Pulitzer, por parte de Israel durante su ofensiva en Gaza.  Se critica la justificación israelí, que atribuye a Hamas la presencia en todas partes, llevando a la eliminación de periodistas considerados potenciales simpatizantes.  El autor destaca el valor de los periodistas en zonas de guerra, comparando su situación con la suya propia como corresponsal extranjero, y lamenta la pérdida de talentos como Mohammed Mhawish, obligado a ser periodista por las circunstancias.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión crítica y argumentada sobre la guerra en Gaza, específicamente sobre la estrategia israelí y sus consecuencias para los periodistas.  Su análisis y tono claramente lo ubican en la categoría de 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Paramount Plus Coupon Codes and Deals: Up to 50% Off in August",
+      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "fecha_obj": "2025-08-22T05:00:00+00:00",
+      "fecha_str": "22-08-2025 05:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ahorra hasta un 50% en Paramount+ con cupones y descuentos para estudiantes y militares; ¡disfruta de South Park, Yellowstone y más!",
+      "resumen": "El artículo promociona Paramount+, destacando su contenido variado como South Park, Yellowstone y Dexter, además de películas como Mean Girls y Top Gun: Maverick. Ofrece una prueba gratuita de una semana y descuentos del 50% para estudiantes y militares.  Se mencionan sus planes Essential y Premium, con y sin anuncios respectivamente, y la posibilidad de ver deportes en vivo, incluyendo la NFL.  El artículo enfatiza la conveniencia de usar cupones para reducir el costo de la suscripción, considerando que muchos usuarios tienen múltiples plataformas de streaming.",
+      "relevancia_score": 2,
+      "relevancia_justificacion": "El artículo se centra en una plataforma de streaming de entretenimiento, no en ciencia o tecnología.  Aunque la transmisión de contenido requiere tecnología, el enfoque principal no es tecnológico, sino la promoción de un servicio de entretenimiento."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "KitchenAid Promo Code: $150 Off in August 2025",
+      "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
+      "fecha_obj": "2025-08-22T05:00:00+00:00",
+      "fecha_str": "22-08-2025 05:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ahorra hasta $150 en electrodomésticos KitchenAid: ¡Ofertas por tiempo limitado!",
+      "resumen": "El artículo detalla las promociones de KitchenAid en agosto de 2025.  Se ofrecen descuentos de hasta $150 en batidoras Artisan, 40% de descuento en un electrodoméstico de mostrador al comprar otro, y envío gratuito en electrodomésticos de más de $399 durante el Labor Day.  Además, hay un 15% de descuento para trabajadores esenciales, estudiantes, militares y mayores de 50 años, así como para quienes se han mudado recientemente.  KitchenAid también ofrece descuentos regulares en artículos reacondicionados y beneficios exclusivos para usuarios registrados.",
+      "relevancia_score": 2,
+      "relevancia_justificacion": "El artículo se centra en ofertas comerciales de electrodomésticos. Si bien la fabricación de estos involucra tecnología, la temática principal es de marketing y ventas, no de avances científicos o tecnológicos."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "RFK Jr demanded a vaccine study be retracted — the journal said no",
+      "link": "https://www.nature.com/articles/d41586-025-02682-9",
+      "fecha_obj": "2025-08-22T00:00:00+00:00",
+      "fecha_str": "22-08-2025 00:00 UTC",
+      "source_name": "Nature News"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Kennedy exige la retractación de un estudio que descarta el vínculo entre aluminio en vacunas y enfermedades infantiles.",
+      "resumen": "Robert F. Kennedy Jr., cuestiona un estudio danés publicado en Annals of Internal Medicine que analizó 1.2 millones de niños y no encontró relación entre el aluminio en vacunas y enfermedades autoinmunes, alérgicas o neuro-conductuales.  Kennedy, en un artículo, critica la metodología y resultados del estudio, solicitando su retractación.  La revista defiende la validez del estudio, argumentando que no hubo errores graves ni mala conducta científica.  Expertos como Gary Grohmann reiteran la falta de evidencia sobre efectos secundarios significativos del aluminio en vacunas, mientras que otros estudios previos que sugerían un vínculo con el autismo han sido desacreditados.  Las críticas de Kennedy incluyen la exclusión de niños fallecidos antes de los dos años y la falta de comparación directa entre vacunados y no vacunados.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre un debate científico acerca de la seguridad de las vacunas, un tema altamente relevante en ciencia y tecnología, con implicaciones en salud pública y políticas sanitarias. La controversia involucra a un alto funcionario público, añadiendo un elemento político-científico de interés."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "The Thursday Murder Club review – Richard Osman bestseller provides solid, star-stuffed entertainment",
+      "link": "https://www.theguardian.com/film/2025/aug/22/the-thursday-club-review-richard-osman-bestseller-provides-solid-star-stuffed-entertainment",
+      "fecha_obj": "2025-08-22T07:01:25+00:00",
+      "fecha_str": "22-08-2025 07:01 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Un grupo de jubilados resuelve crímenes en una residencia de lujo, en una comedia llena de estrellas.",
+      "resumen": "La película \"The Thursday Murder Club\" adapta la exitosa novela de Richard Osman.  Un grupo de ancianos, liderados por Helen Mirren, investigan crímenes en su residencia de lujo, mientras enfrentan planes de remodelación. La trama, aunque a veces se vuelve absurda, ofrece una comedia entretenida con un elenco estelar, incluyendo a Pierce Brosnan, Ben Kingsley y David Tennant.  La película se compara con dramas policíacos clásicos, pero con un toque de humor y una mirada, aunque sutil, al tema de la eutanasia.  A pesar de algunas inconsistencias en la trama, la película se destaca por su encanto y el carisma de sus actores.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "La película es una adaptación de una novela exitosa, aborda temas relevantes de la cultura popular y analiza el género de la novela policíaca. El elenco de estrellas y la producción de alto nivel la ubican dentro de la categoría de cultura y entretenimiento."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Do you remember the first time? Why Britpop nostalgia just won’t go away",
+      "link": "https://www.theguardian.com/music/2025/aug/22/why-britpop-nostalgia-just-wont-go-away-robbie-williams-blur-oasis",
+      "fecha_obj": "2025-08-22T07:00:26+00:00",
+      "fecha_str": "22-08-2025 07:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La nostalgia Britpop resurge: ¿buena onda ochentera o marketing?",
+      "resumen": "El artículo explora el renovado interés por la música Britpop de los 90s, más allá de las reuniones de bandas como Blur u Oasis.  Robbie Williams, con su nuevo álbum inspirado en la época, ejemplifica este fenómeno.  El auge no se limita a la música; libros, obras de teatro, moda y hasta bebidas llevan la etiqueta 'Britpop'.  Se analiza la percepción idealizada de la década, contrastando la nostalgia con la realidad de la época, incluyendo aspectos sociopolíticos menos favorables.  Aunque algunos ven en ella optimismo y rebeldía juvenil, otros señalan una visión edulcorada del pasado.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo analiza un fenómeno cultural relevante: la nostalgia Britpop y su impacto en la música, la literatura, el teatro y el diseño.  Su perspectiva abarca la evolución de una tendencia musical en un fenómeno de marketing y consumo cultural."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "From Katrina: Come Hell and High Water to KPopped: the seven best shows to stream this week",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/22/from-katrina-come-hell-and-high-water-to-kpopped-the-seven-best-shows-to-stream-this-week",
+      "fecha_obj": "2025-08-22T06:00:24+00:00",
+      "fecha_str": "22-08-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Siete series para ver esta semana: desde el huracán Katrina hasta el K-pop.",
+      "resumen": "El artículo reseña siete series disponibles en plataformas de streaming.  Se destacan documentales como 'Katrina: Come Hell and High Water', sobre el devastador huracán, y 'Emma and Bruce Willis: The Unexpected Journey', que aborda la enfermedad de Bruce Willis.  También incluye programas de entretenimiento como 'KPopped', un concurso musical entre estrellas de K-pop y pop occidental, y 'Dating Naked', un reality de citas donde los participantes están desnudos.  Otros títulos son el drama militar 'The Terminal List: Dark Wolf', el show de Meghan Markle 'With Love, Meghan', y el documental 'Unknown Number: The High School Catfish', sobre ciberacoso.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Aunque la mayoría de las series son de entretenimiento, los documentales sobre Katrina y el ciberacoso tienen relevancia cultural, al igual que el show de Meghan Markle por su impacto mediático.  La inclusión del programa de K-pop amplía el espectro cultural."
+    },
+    "categoria": "cultura_arte"
   }
 ]
