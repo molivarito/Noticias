@@ -1646,5 +1646,181 @@
       "relevancia_justificacion": "Aunque la mayoría de las series son de entretenimiento, los documentales sobre Katrina y el ciberacoso tienen relevancia cultural, al igual que el show de Meghan Markle por su impacto mediático.  La inclusión del programa de K-pop amplía el espectro cultural."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Hong Kong Denies Visa Renewal for Senior Bloomberg Journalist",
+      "link": "https://www.nytimes.com/2025/08/23/world/asia/hong-kong-bloomberg-visa.html",
+      "fecha_obj": "2025-08-23T06:36:25+00:00",
+      "fecha_str": "23-08-2025 06:36 UTC",
+      "source_name": "The New York Times World"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Hong Kong rechaza renovar visa a periodista de Bloomberg, generando preocupación por la libertad de prensa.",
+      "resumen": "Hong Kong denegó la renovación de visa a la periodista senior de Bloomberg, Claire Choong Wilkins, quien estaba de licencia de maternidad.  La decisión, sin explicación oficial, preocupa profundamente al Foreign Correspondents’ Club, que la considera una muestra de la erosión de la libertad de prensa en la región.  Wilkins, que cubre temas económicos y políticos de China y Hong Kong, ha reportado sobre temas sensibles como la prohibición de entrada a un legislador británico y la actividad de un disidente chino. Este incidente sigue a otros casos similares, como la denegación de visa a un editor del Financial Times en 2018, evidenciando un endurecimiento de las condiciones para la prensa internacional en Hong Kong.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El suceso afecta directamente la libertad de prensa en Hong Kong, un tema de relevancia internacional.  La negativa de visa a una periodista extranjera por razones no aclaradas tiene implicaciones globales sobre la libertad de expresión y el periodismo."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Le Texas adopte une carte électorale redécoupée à la demande de Donald Trump, qui favorise les républicains",
+      "link": "https://www.lefigaro.fr/international/le-texas-adopte-une-carte-electorale-redecoupee-a-la-demande-de-donald-trump-qui-favorise-les-republicains-20250823",
+      "fecha_obj": "2025-08-23T06:31:54+00:00",
+      "fecha_str": "23-08-2025 06:31 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Texas aprueba mapa electoral favorable a republicanos, diluyendo el voto demócrata.",
+      "resumen": "El parlamento de Texas aprobó una nueva demarcación electoral impulsada por Donald Trump que beneficia a los republicanos, otorgándoles hasta cinco escaños adicionales en el Congreso en 2026.  Los demócratas, en minoría, denunciaron el 'gerrymandering' como una táctica para silenciar a los votantes minoritarios, especialmente afroamericanos e hispanos.  Para evitar la votación, los demócratas huyeron del estado. La medida ha sido criticada por favorecer a un partido sobre otro y diluir el voto de las minorías.  Como respuesta, California planea un redécoupage similar a su favor.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia tiene impacto internacional por involucrar al gobierno de Estados Unidos y afectar el equilibrio político a nivel nacional, además de generar una reacción en cadena en otro estado."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Guerre commerciale : Washington cible désormais les importations de meubles étrangers",
+      "link": "https://www.lefigaro.fr/societes/guerre-commerciale-washington-cible-desormais-les-importations-de-meubles-etrangers-20250823",
+      "fecha_obj": "2025-08-23T06:26:05+00:00",
+      "fecha_str": "23-08-2025 06:26 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Trump amenaza con nuevos aranceles a las importaciones de muebles, intensificando su guerra comercial.",
+      "resumen": "El presidente Trump anunció una investigación para imponer aranceles a las importaciones de muebles a Estados Unidos.  Esta medida se suma a otras ya impuestas a sectores como el acero, aluminio y automóviles.  Vietnam, China y México son los principales afectados, ya que son los mayores exportadores de muebles a EE.UU.  La investigación durará 50 días y el porcentaje de los aranceles aún no se ha determinado.  Esta acción refleja la continua estrategia proteccionista de Trump, con amenazas de aranceles aún mayores a otros sectores como los semiconductores y productos farmacéuticos.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La noticia tiene una relevancia internacional alta porque afecta las relaciones comerciales entre Estados Unidos y varios países, incluyendo a grandes exportadores como China, Vietnam y México.  Las políticas comerciales de EE.UU. tienen un impacto global significativo."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "When my birth mother rejected me, another woman’s words helped me heal | Corin Hirsch",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/23/birth-mother-reject-judge-new-perspective",
+      "fecha_obj": "2025-08-23T06:00:55+00:00",
+      "fecha_str": "23-08-2025 06:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El rechazo de su madre biológica lleva a una periodista a explorar temas de adopción, perdón y sanación.",
+      "resumen": "Corin Hirsch, adoptada, busca a su madre biológica, quien la rechaza.  Tras este duro golpe, una jueza le ofrece una perspectiva sobre el contexto social y las dificultades que enfrentaban las mujeres jóvenes embarazadas en los años 70.  Esta nueva comprensión ayuda a Hirsch a procesar el rechazo, cultivando compasión en lugar de resentimiento.  La experiencia la lleva a buscar a otros familiares biológicos, encontrando aceptación en algunos y rechazo en otros, pero aprendiendo a aceptar finales imperfectos y a sanar.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión personal sobre la adopción, el rechazo familiar y el proceso de sanación.  Es un ensayo reflexivo que explora emociones complejas y ofrece una perspectiva única sobre un tema socialmente relevante."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Before the almost inevitable row about policing at Notting Hill carnival, here are some things you should know | Alfie Moore",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/23/notting-hill-carnival-policing",
+      "fecha_obj": "2025-08-23T05:00:55+00:00",
+      "fecha_str": "23-08-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La prohibición de bailar para la policía en el Carnaval de Notting Hill genera controversia y debate sobre sus condiciones laborales.",
+      "resumen": "El artículo de Alfie Moore, ex policía, analiza la situación policial en el Carnaval de Notting Hill. Critica la prohibición de bailar impuesta por el comisionado, argumentando que refleja la falta de consideración hacia el bienestar y la moral de los agentes.  Moore destaca la baja remuneración, el aumento de las bajas y la inseguridad percibida por los oficiales durante el evento.  Señala la contradicción entre la necesidad de presencia policial para combatir la delincuencia y la prohibición de interacciones más distendidas con la comunidad.  Finalmente, hace un llamado a la comprensión y el respeto hacia los agentes, instando al público a mostrar empatía y a reconocer las complejidades de su trabajo.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo expresa una opinión clara sobre la situación policial, ofreciendo una perspectiva interna y crítica sobre las políticas y condiciones laborales.  Se basa en datos y anécdotas para sustentar sus argumentos, lo que lo convierte en un ensayo de opinión bien fundamentado."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "The Rise of Right-Wing Nihilism",
+      "link": "https://www.nytimes.com/2025/08/21/opinion/rufo-yarvin-trump-nihilism.html",
+      "fecha_obj": "2025-08-23T00:59:19+00:00",
+      "fecha_str": "23-08-2025 00:59 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La creciente sensación de ahogo ideológico en Occidente lleva a la derecha a un nihilismo reactivo.",
+      "resumen": "El artículo describe la sensación de los conservadores en Occidente de estar sometidos a una constante propaganda progresista.  A través de anécdotas, como una observación en un bar durante el Super Bowl y una conferencia, el autor ilustra cómo la dominancia del discurso progresista silencia las voces conservadoras.  Esta imposición ideológica, argumenta el autor, genera una actitud de resignación y enojo silencioso, lo que podría estar contribuyendo al auge de un nihilismo reactivo en la derecha.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre un tema político actual, utilizando ejemplos y anécdotas para apoyar su tesis. Su estilo reflexivo y analítico lo hacen adecuado para la categoría 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Lenovo Coupon Codes and Deals: Up to $100 Off PCs",
+      "link": "https://www.wired.com/story/lenovo-coupon-code/",
+      "fecha_obj": "2025-08-23T05:00:00+00:00",
+      "fecha_str": "23-08-2025 05:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ahorra hasta $100 en Lenovo: ¡Ofertas, cupones y descuentos en PCs y más!",
+      "resumen": "Lenovo ofrece diversas promociones en sus productos.  Hasta el 24 de agosto, hay un descuento extra de $100 en compras superiores a $500 para la vuelta al cole.  Además, cuenta con ofertas semanales, envío gratuito, garantía de igualación de precios y descuentos exclusivos para estudiantes, personal sanitario, fuerzas del orden y mayores de 55 años.  El programa My Lenovo Rewards ofrece puntos canjeables por compras futuras y un sorteo.  También hay opciones de financiación con Katapult para adquirir laptops de gama alta.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo trata sobre ofertas y promociones de productos tecnológicos de Lenovo, una importante empresa del sector.  La información sobre descuentos, financiación y programas de fidelización es relevante para la categoría 'Ciencia y Tecnología', aunque se centra más en el aspecto comercial que en avances científicos."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Two men fell gravely ill last year; their infections link to deaths in the ’80s",
+      "link": "https://arstechnica.com/health/2025/08/two-men-fell-gravely-ill-last-year-their-infections-link-to-deaths-in-the-80s/",
+      "fecha_obj": "2025-08-22T22:28:42+00:00",
+      "fecha_str": "22-08-2025 22:28 UTC",
+      "source_name": "Ars Technica"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Infecciones bacterianas en Georgia, ligadas a huracán y casos de décadas pasadas, alertan sobre amenaza latente.",
+      "resumen": "Cuatro hombres en Georgia contrajeron Burkholderia pseudomallei, bacteria tropical, en eventos separados entre 1983 y 2024.  La secuenciación genómica reveló una estrecha relación entre las cepas, sugiriendo una fuente común en la zona.  Aunque uno había viajado a una zona endémica, la mayoría no tenían antecedentes de exposición.  Un estudio en Emerging Infectious Diseases apunta al huracán Helene como posible detonante, ya que las fuertes lluvias y el trabajo al aire libre expusieron a dos pacientes a la bacteria presente en el suelo.  Esto sugiere que B. pseudomallei ha estado presente en Georgia durante décadas, resurgiendo tras eventos climáticos severos.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta un descubrimiento científico sobre una bacteria peligrosa, su propagación y los factores ambientales que influyen en su aparición.  La investigación involucra secuenciación genómica y epidemiología, áreas claramente relacionadas con la ciencia y la tecnología."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: nail-biting French war drama Dark Hearts",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/23/tv-tonight-nail-biting-french-war-drama-dark-hearts",
+      "fecha_obj": "2025-08-23T05:00:52+00:00",
+      "fecha_str": "23-08-2025 05:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: drama bélico francés, historia de los Nabateos, y el funk.",
+      "resumen": "La programación televisiva incluye el drama bélico francés 'Dark Hearts', que continúa su segunda temporada ambientada en Irak.  Bettany Hughes explora la civilización Nabatea en 'Lost Worlds'.  Se emite una adaptación de 'El Conde de Montecristo', y el documental 'We Want the Funk' analiza la historia del funk.  También se presenta la novela 'One Night', y una entrevista con el futbolista Marc Guéhi.  La película 'Shaft' y eventos deportivos como la Premier League y la Copa Mundial Femenina de Rugby completan la programación.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo incluye 'Lost Worlds', que trata sobre la historia y cultura de los Nabateos, y 'We Want the Funk', un documental sobre la historia cultural del funk.  'El Conde de Montecristo' también es una obra literaria clásica. Sin embargo, la mayor parte se centra en eventos deportivos y dramas contemporáneos."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Caso Beatriz Sarlo: tras dos conciliaciones, el juez definirá entre los tres herederos",
+      "link": "https://www.clarin.com/cultura/caso-beatriz-sarlo-conciliaciones-juez-definira-herederos_0_uVMLShpT0C.html",
+      "fecha_obj": "2025-08-23T01:07:07+00:00",
+      "fecha_str": "23-08-2025 01:07 UTC",
+      "source_name": "Revista Ñ – Clarín Cultura"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El juez decidirá pronto sobre la herencia de Beatriz Sarlo, entre su exmarido, un portero y una prima.",
+      "resumen": "El juez Fernando Cesari debe decidir sobre la sucesión de Beatriz Sarlo. Tres aspirantes reclaman la herencia: su exmarido Alberto Sato, el portero Melanio Meza López (quien dice tener un testamento), y su prima Ernestina del Río.  Tras dos conciliaciones fallidas, se espera una nueva audiencia. La justicia busca una convergencia entre los herederos, considerando la ambigüedad de la voluntad de Sarlo, quien dejó a su portero a cargo de su departamento y su gata.  El juez debe determinar si un manuscrito de Sarlo puede considerarse testamento ológrafo. La decisión judicial podrá ser apelada.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia trata directamente sobre la sucesión de una figura relevante de la cultura argentina, Beatriz Sarlo, involucrando sus bienes y derechos de autor.  Su impacto en el ámbito intelectual y cultural justifica una alta relevancia."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Ancient Sculptures Recovered From Sunken City Off Alexandria",
+      "link": "https://hyperallergic.com/1036426/ancient-sculptures-recovered-from-sunken-city-off-alexandria/",
+      "fecha_obj": "2025-08-22T20:40:08+00:00",
+      "fecha_str": "22-08-2025 20:40 UTC",
+      "source_name": "Hyperallergic"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Descubiertas antiguas esculturas y restos de una ciudad sumergida cerca de Alejandría.",
+      "resumen": "Las autoridades egipcias recuperaron artefactos de una ciudad sumergida en la bahía de Abu Qir, cerca de Alejandría.  Entre los hallazgos, que datan de hace más de 2000 años y podrían pertenecer a la ciudad portuaria de Canopus, se encuentran estatuas reales, restos de edificios y una embarcación mercante.  Las piezas, incluyendo una escultura ptolemaica y una esfinge con la inscripción de Ramsés II, se exhibirán en el Museo Nacional de Alejandría.  El descubrimiento destaca la vulnerabilidad de Alejandría al aumento del nivel del mar, que amenaza con sumergir parte de la ciudad para 2050.  A pesar de los importantes hallazgos, el ministro de Turismo y Antigüedades aclaró que gran parte del patrimonio sumergido permanecerá bajo el agua.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata directamente sobre el descubrimiento de esculturas y otros artefactos antiguos,  pertenecientes a la historia y cultura egipcia.  La exhibición de estos objetos en un museo refuerza su relevancia para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
   }
 ]
