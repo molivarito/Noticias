@@ -1822,5 +1822,165 @@
       "relevancia_justificacion": "El artículo trata directamente sobre el descubrimiento de esculturas y otros artefactos antiguos,  pertenecientes a la historia y cultura egipcia.  La exhibición de estos objetos en un museo refuerza su relevancia para la categoría 'Cultura Arte'."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Les États-Unis cherchent à expulser vers l’Ouganda un Salvadorien accusé d’être membre d’un gang «terroriste»",
+      "link": "https://www.lefigaro.fr/international/les-etats-unis-cherchent-a-expulser-un-salvadorien-vers-l-ouganda-accuse-d-etre-membre-d-un-gang-terroriste-20250824",
+      "fecha_obj": "2025-08-24T07:04:34+00:00",
+      "fecha_str": "24-08-2025 07:04 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "EEUU intenta expulsar a un salvadoreño a Uganda tras una serie de errores judiciales.",
+      "resumen": "Kilmar Abrego Garcia, un salvadoreño casado con una estadounidense, enfrenta una batalla legal en EEUU. Acusado de pertenecer a un gang considerado \"terrorista\" y ayudar a la inmigración ilegal, fue deportado erróneamente a El Salvador, luego regresado a EEUU y liberado.  Sin embargo, tras rechazar un acuerdo para ser enviado a Costa Rica, las autoridades estadounidenses intentan ahora expulsarlo a Uganda.  El caso ha involucrado intercambios entre los gobiernos de Trump y Bukele, y ha llegado a la Corte Suprema de EEUU, mostrando las complejidades del sistema de inmigración y las controversias en torno a las deportaciones.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El caso involucra a dos países (EEUU y Uganda), una disputa legal internacional y políticas de inmigración de EEUU, temas relevantes a nivel internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "«Le plus grand Frankenstein de tous les temps», réalisé par Guillaume Del Toro, sortira finalement au cinéma",
+      "link": "https://www.lefigaro.fr/cinema/le-plus-grand-frankenstein-de-tous-les-temps-realise-par-guillaume-del-toro-sortira-finalement-au-cinema-20250824",
+      "fecha_obj": "2025-08-24T07:00:00+00:00",
+      "fecha_str": "24-08-2025 07:00 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Guillermo del Toro adapta Frankenstein para cine, estrenándose el 17 de octubre, antes de su lanzamiento en Netflix.",
+      "resumen": "Inicialmente previsto solo para Netflix el 7 de noviembre, la película de Guillermo del Toro, \"Frankenstein\", tendrá un estreno en cines el 17 de octubre.  Esta decisión se debe al entusiasmo generado por el tráiler y el deseo del público de verla en la gran pantalla, así como a la presión del propio Del Toro, quien siempre quiso un estreno parcial en cines.  La cinta, ambientada en el siglo XIX, presenta una adaptación del clásico de Mary Shelley, incluyendo escenas poco frecuentes en otras versiones. Del Toro busca una versión única, alejándose de las más de 200 adaptaciones existentes, y  cuenta con un elenco de estrellas como Oscar Isaac.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "La noticia tiene relevancia internacional por ser una adaptación de una obra clásica de la literatura inglesa realizada por un reconocido director mexicano, con un estreno global y distribución a través de una plataforma de streaming internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Enquêteurs supplémentaires, radars... en Guadeloupe, Bruno Retailleau annonce de nouveaux moyens contre la délinquance et le narcotrafic",
+      "link": "https://www.lefigaro.fr/actualite-france/guadeloupe-bruno-retailleau-annonce-de-nouveaux-moyens-contre-la-delinquance-et-le-narcotrafic-20250824",
+      "fecha_obj": "2025-08-24T06:42:57+00:00",
+      "fecha_str": "24-08-2025 06:42 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Más recursos contra el narcotráfico en Guadalupe: 13 investigadores, radares y drones para combatir la violencia.",
+      "resumen": "El ministro del Interior francés, Bruno Retailleau, anunció el refuerzo de la lucha contra la delincuencia y el narcotráfico en Guadalupe.  Se destinarán 13 investigadores adicionales a la Ofast, se inaugurará un laboratorio de balística, y se desplegarán dos escuadrones de gendarmería móvil, dos brigadas náuticas, dos radares y un dron.  Estas medidas buscan contrarrestar el alto índice de homicidios, especialmente por armas de fuego, y la preocupación por el aumento del tráfico de drogas con la modernización del puerto de Guadalupe, que se convertirá en un hub regional.  Se realizarán auditorías en los puertos de Guadalupe y Martinica para prevenir un incremento del narcotráfico.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo trata sobre una problemática de seguridad y crimen organizado en un territorio francés de ultramar, con implicaciones internacionales por el tráfico de drogas y la cooperación entre países para combatirlo.  La magnitud del problema y la respuesta del gobierno francés le otorgan relevancia internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Back to School for Parents’ WhatsApp Groups",
+      "link": "https://www.nytimes.com/2025/08/24/opinion/parents-whatsapp-group-chats.html",
+      "fecha_obj": "2025-08-24T06:22:58+00:00",
+      "fecha_str": "24-08-2025 06:22 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Los grupos de WhatsApp de padres: ¿herramienta esencial o caos digital?",
+      "resumen": "El artículo reflexiona sobre la evolución de la comunicación escolar, desde las notas en las mochilas hasta los masivos grupos de WhatsApp.  Estos grupos, surgidos con fuerza durante la pandemia, se han convertido en un espacio de intercambio de información instantánea, pero a menudo caótico y abrumador.  La autora describe la experiencia como un torrente de mensajes, con participantes anónimos y preguntas triviales que saturan la conversación.  Se destaca la decisión de una madre de silenciar los grupos para priorizar la información oficial del colegio, planteando la cuestión de si estos grupos son realmente necesarios o se han convertido en una fuente de estrés innecesario para los padres.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión personal sobre un tema de actualidad, ofreciendo una crítica reflexiva y ejemplos concretos de la experiencia con los grupos de WhatsApp escolares.  Se argumenta con ejemplos y anécdotas, lo que lo enmarca perfectamente dentro de la categoría de 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "It’s the great grandparent revolt – and it shows we parents aren’t the only ones burnt out by family life | Rhiannon Lucy Cosslett",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/24/grandparent-revolt-burned-out-childcare-birthrates",
+      "fecha_obj": "2025-08-24T06:00:24+00:00",
+      "fecha_str": "24-08-2025 06:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La creciente carga del cuidado de nietos agota a los abuelos, quienes se rebelan contra un sistema que explota su trabajo no remunerado.",
+      "resumen": "El artículo discute el fenómeno del \"síndrome del abuelo esclavizado\", especialmente en España, donde muchos abuelos asumen una carga significativa de cuidado de nietos.  Esto genera conflictos intergeneracionales, con padres frustrados por la falta de apoyo y abuelos agotados por las demandas.  La autora argumenta que este problema es un reflejo de las desigualdades de género y un sistema que depende del trabajo doméstico no remunerado de las mujeres.  Señala la necesidad de un sistema de apoyo familiar que alivie la presión sobre padres y abuelos, permitiendo una convivencia familiar más equilibrada y satisfactoria.  El artículo concluye que tanto padres como abuelos buscan lo mismo: tiempo familiar de calidad sin la sobrecarga actual.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre un problema social actual, con ejemplos, datos y análisis de diferentes perspectivas.  Se enmarca perfectamente en la categoría de ensayo de opinión por su estructura, análisis crítico y propuesta implícita de soluciones."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "What the U.S. Open Tells Us About America",
+      "link": "https://www.nytimes.com/2025/08/23/opinion/international-sports-tennis-america-first.html",
+      "fecha_obj": "2025-08-24T02:10:15+00:00",
+      "fecha_str": "24-08-2025 02:10 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El Abierto de Estados Unidos: una metáfora de la política exterior estadounidense.",
+      "resumen": "El artículo utiliza el Abierto de Estados Unidos de tenis como analogía para la política exterior estadounidense.  Se destaca la importancia de la competencia justa (reglas equitativas), la fluidez de las identidades nacionales (jugadores con orígenes diversos) y la necesidad de un equilibrio entre el orgullo nacional y la cooperación global.  Se critica la visión simplista \"nosotros contra ellos\",  y se propone que, al igual que en el tenis, la política exterior estadounidense debería fomentar la competencia sana y el libre comercio, en lugar de aislacionismo o boicots, para lograr un beneficio mutuo.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada a través de una analogía, con una tesis clara, ejemplos concretos y una conclusión que propone una alternativa.  Su estructura y contenido cumplen con los requisitos de un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "HP Coupon Codes and Deals: Up to 60% Off | August 2025",
+      "link": "https://www.wired.com/story/hp-coupon-code/",
+      "fecha_obj": "2025-08-24T05:00:00+00:00",
+      "fecha_str": "24-08-2025 05:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ahorra hasta un 60% en ordenadores, monitores y más con los códigos de descuento de HP.",
+      "resumen": "El artículo detalla diversas ofertas y códigos de descuento de HP para una amplia gama de productos, incluyendo monitores (HP Omen Transcend 32, HP V27i G5), ordenadores de sobremesa y portátiles (EliteBook 860, ProBook, OmniBook Ultra Flip, Victus, Omen), impresoras y accesorios.  Se destacan descuentos para estudiantes, militares, personal sanitario y de emergencias (40%), un descuento de $20 en el primer pedido (mínimo $65), ofertas de paquetes (ahorro de $30 en impresoras al comprar un PC, juego gratuito con portátiles GeForce RTX 50 Series), y promociones semanales con descuentos de hasta el 60%.  Se mencionan también ofertas en equipos gaming, como auriculares y ratones HyperX.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo se centra en productos tecnológicos de HP (ordenadores, monitores, impresoras, etc.) y sus promociones, lo que lo hace altamente relevante para la categoría 'Ciencia y Tecnología'."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: James Norton’s blood-splattered Battle of Hastings epic",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/24/tv-tonight-james-nortons-blood-splattered-battle-of-hastings-epic",
+      "fecha_obj": "2025-08-24T05:00:21+00:00",
+      "fecha_str": "24-08-2025 05:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: desde épicas batallas hasta drag queens y el misterio del asesino de Gilgo Beach.",
+      "resumen": "La programación televisiva del día incluye una dramatización de la Batalla de Hastings ('King & Conqueror') protagonizada por James Norton y Nikolaj Coster-Waldau; un documental sobre la restauración del Castillo de Norwich ('The Castle: Rebuilding History'); un concierto de clásicos británicos en los Proms; el estreno de la séptima temporada de 'RuPaul’s Drag Race UK'; un documental sobre el asesino de Gilgo Beach ('Gilgo Beach Killer: House of Secrets'); un especial de stand-up de Marc Maron ('Marc Maron: Panicked'); y eventos deportivos como la Premier League y el US Open de tenis.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Incluye eventos culturales como 'Great British Classics at the Proms' y 'RuPaul’s Drag Race UK', aunque la mayor parte de la programación se centra en otros géneros."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Sam Nicoresti’s Baby Doomer wins best comedy show award at Edinburgh fringe 2025",
+      "link": "https://www.theguardian.com/stage/2025/aug/23/sam-nicoresti-baby-doomer-wins-best-comedy-award-edinburgh-fringe-2025",
+      "fecha_obj": "2025-08-23T13:30:41+00:00",
+      "fecha_str": "23-08-2025 13:30 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Sam Nicoresti gana el premio al mejor espectáculo de comedia en el Edinburgh Fringe 2025.",
+      "resumen": "Sam Nicoresti ganó el premio principal de comedia en el Edinburgh Fringe 2025 por su show \"Baby Doomer\", convirtiéndose en el primer ganador transgénero.  Ayoade Bamgboye ganó el premio al mejor recién llegado por \"Swings and Roundabouts\". Comedy Club 4 Kids recibió el premio Victoria Wood.  La ceremonia, presentada por Amy Gledhill, incluyó actuaciones de Adam Riches y John Kearns.  El éxito de Nicoresti se destaca por su enfoque en la comedia de alto impacto y su abordaje alegre de la vida como mujer trans.  El evento celebra la creatividad y el talento emergente en la comedia, manteniendo su relevancia en la industria.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre los premios de comedia del Edinburgh Fringe, un evento cultural importante.  Cubre aspectos relevantes de las artes escénicas, incluyendo la premiación, los artistas y el impacto cultural del festival. La mención de ganadores, shows y el contexto del evento lo hacen altamente relevante para la categoría."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Sheila Cremaschi, la argentina que lleva 20 años dirigiendo el ‘Hay Festival’",
+      "link": "https://www.clarin.com/cultura/sheila-cremaschi-argentina-lleva-20-anos-dirigiendo-festival_0_NJI3yPT8L3.html",
+      "fecha_obj": "2025-08-23T13:00:39+00:00",
+      "fecha_str": "23-08-2025 13:00 UTC",
+      "source_name": "Revista Ñ – Clarín Cultura"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Sheila Cremaschi, 20 años impulsando el Hay Festival, un puente cultural en tiempos convulsos.",
+      "resumen": "Sheila Cremaschi, argentina, celebra 20 años dirigiendo el Hay Festival España.  Reconocida por su labor, ha recibido importantes condecoraciones.  El festival, que se celebra en Segovia, reúne a más de 100 personalidades de 16 países para debatir sobre Europa, la democracia y el rol de la cultura en un mundo incierto. Cremaschi destaca la importancia del diálogo, la libertad de expresión, la colaboración público-privada y la conexión con los jóvenes.  Su visión se centra en la cultura como motor de transformación social y resistencia ante el populismo.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo se centra en la figura de una directora de un importante festival cultural y analiza la importancia de la cultura en la sociedad actual.  La información proporcionada es altamente relevante para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
   }
 ]
