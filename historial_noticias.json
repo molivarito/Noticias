@@ -1982,5 +1982,149 @@
       "relevancia_justificacion": "El artículo se centra en la figura de una directora de un importante festival cultural y analiza la importancia de la cultura en la sociedad actual.  La información proporcionada es altamente relevante para la categoría 'Cultura Arte'."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Guerre en Ukraine : le vice-chancelier allemand souhaite des «garanties de sécurité fiables» pour Kiev",
+      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-le-vice-chancelier-allemand-souhaite-des-garanties-de-securite-fiables-pour-kiev-20250825",
+      "fecha_obj": "2025-08-25T07:09:30+00:00",
+      "fecha_str": "25-08-2025 07:09 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Alemania busca garantías de seguridad para Ucrania en eventual acuerdo de paz con Rusia.",
+      "resumen": "El vice-canciller alemán, Lars Klingbeil, visitó Kiev para discutir la contribución alemana a un posible proceso de paz entre Ucrania y Rusia. Klingbeil abogó por un cese al fuego y garantías de seguridad fiables para Ucrania, asegurando que Alemania asumirá sus responsabilidades.  La obtención de un acuerdo entre Europa y Estados Unidos sobre estas garantías se presenta compleja.  A pesar de los esfuerzos de Trump por un encuentro entre ambos países, Rusia lo descartó.  Mientras tanto, Zelensky ha solicitado el estacionamiento de tropas extranjeras en Ucrania tras la guerra, aunque el canciller Merz ha sido ambiguo sobre la participación de la Bundeswehr.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata directamente sobre la guerra en Ucrania, las negociaciones de paz y el rol de Alemania, temas de gran relevancia internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Expositions censurées, héros de guerre noirs gommés : Donald Trump à l’assaut des musées pour réécrire l’Histoire",
+      "link": "https://www.lefigaro.fr/international/expositions-censurees-heros-de-guerre-noirs-gommes-donald-trump-a-l-assaut-des-musees-20250825",
+      "fecha_obj": "2025-08-25T06:57:40+00:00",
+      "fecha_str": "25-08-2025 06:57 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Trump ataca museos Smithsonian, censura arte y reescribe la historia estadounidense.",
+      "resumen": "Donald Trump acusa al Smithsonian de ser \"woke\" y busca censurar obras que muestran aspectos negativos de la historia de Estados Unidos, como la discriminación y el racismo.  Su administración ha creado una lista de piezas a censurar, incluyendo un cuadro de migrantes, un film sobre la muerte de George Floyd y una exposición sobre Benjamin Franklin que menciona su pasado como esclavista.  Esta acción se considera una intervención política para moldear la identidad nacional de forma ideológica, generando una fuerte controversia.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La noticia involucra al presidente de Estados Unidos y su intento de manipular instituciones culturales nacionales, siendo un evento de gran relevancia internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Angst-filled black metal music became my identity. Until I was persuaded to really listen to the lyrics | Ana Schnabl",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/25/cousin-black-metal-music-hate-lyrics-words",
+      "fecha_obj": "2025-08-25T07:00:53+00:00",
+      "fecha_str": "25-08-2025 07:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La música Black Metal: ¿rebeldía adolescente o camuflaje ideológico?",
+      "resumen": "El artículo narra cómo la autora, influenciada por un amigo, se sumergió en la música black metal sin prestar atención a las letras.  Su fascinación por la estética oscura y la atmósfera de alienación la llevó a formar parte de una subcultura sin cuestionar sus implicaciones.  Un familiar la alertó sobre las conexiones de algunas bandas con el fascismo, el nazismo y la supremacía blanca, lo que la hizo replantearse su gusto musical.  La autora reflexiona sobre cómo las ideologías pueden infiltrarse a través de la estética y la pertenencia a un grupo, especialmente en la juventud, y destaca la importancia de la curiosidad y la atención crítica para evitar la adopción inconsciente de ideas nocivas.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión personal sobre una experiencia de la autora, reflexiona sobre temas relevantes como la influencia de la cultura en la formación de la identidad y la importancia del pensamiento crítico, y está escrito en forma de ensayo."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "California Farms Feed America. They Can’t Do It Without Immigrants.",
+      "link": "https://www.nytimes.com/2025/08/25/opinion/immigration-farmworkers-agriculture-groceries.html",
+      "fecha_obj": "2025-08-25T06:32:31+00:00",
+      "fecha_str": "25-08-2025 06:32 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La agricultura californiana, esencial para alimentar a EEUU, depende críticamente del trabajo inmigrante.",
+      "resumen": "California, el mayor productor de alimentos de EEUU, genera casi $60 mil millones anuales gracias a su agricultura.  Más del 80% de los trabajadores agrícolas contratados en California entre 2015 y 2019 eran inmigrantes mexicanos, muchos indocumentados.  A nivel nacional, la cifra de trabajadores agrícolas inmigrantes es similar.  Estos inmigrantes realizan trabajos que pocos estadounidenses nativos buscan, siendo cruciales para la cadena alimentaria del país.  Las redadas de inmigración amenazan con consecuencias negativas para todos los estadounidenses, incluyendo precios más altos de alimentos y menos variedad.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión clara sobre la dependencia de la agricultura estadounidense de la mano de obra inmigrante y las consecuencias negativas de las políticas migratorias restrictivas.  Expone datos y argumentos para apoyar su postura, lo que lo hace adecuado para un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "The Democrats are in deep trouble in the US – and Labour is on the way to joining them | Nesrine Malik",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/25/us-democrats-collapse-in-support-labour-uk",
+      "fecha_obj": "2025-08-25T05:00:51+00:00",
+      "fecha_str": "25-08-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Demócratas y Laboristas pierden apoyo: ¿fracaso de la centroizquierda o cambio de época?",
+      "resumen": "El artículo analiza el declive de los demócratas en EEUU y el paralelismo con el partido Laborista en Reino Unido.  Ambos pierden votantes leales, especialmente jóvenes, debido a una falta de visión coherente y a la incapacidad de articular valores más allá de la oposición al adversario.  Se critica la falta de dirección y la representación de intereses antagónicos dentro de los partidos,  mientras la derecha capitaliza la insatisfacción con promesas populistas.  El autor argumenta que la centroizquierda debe evolucionar para conectar con una población con nuevas prioridades y un ecosistema mediático diferente, o arriesgarse a perder irremediablemente el apoyo popular.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta un análisis de opinión sobre la situación política de dos grandes partidos, ofreciendo una perspectiva crítica y argumentando sobre las causas de su declive.  Su estructura, argumentos y conclusiones lo hacen adecuado para la categoría de 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "A Crypto Micronation Is Making Friends at the White House",
+      "link": "https://www.wired.com/story/liberland-micro-nation-justin-sun-white-house/",
+      "fecha_obj": "2025-08-25T07:00:00+00:00",
+      "fecha_str": "25-08-2025 07:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Micronación cripto, Liberland, busca reconocimiento internacional con apoyo de Justin Sun.",
+      "resumen": "Liberland, una micronación autoproclamada ubicada en una zona en disputa entre Serbia y Croacia, busca legitimidad internacional.  Fundada por Vít Jedlička, un político checo euroescéptico, Liberland se basa en principios libertarios y utiliza criptomonedas.  Con Justin Sun, un multimillonario chino de criptomonedas, como primer ministro, Liberland busca acercarse a Estados Unidos y resolver su disputa territorial con Croacia.  A pesar del escepticismo del gobierno croata, que considera el proyecto ficticio, Liberland ha logrado atraer donaciones de entusiastas de las criptomonedas, creando su propia moneda digital y blockchain nacional.  El objetivo de Liberland es convertirse en un centro ideológico para el movimiento libertario.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Liberland utiliza criptomonedas como base de su economía y ha desarrollado su propia blockchain.  La relevancia en ciencia y tecnología se debe a la aplicación práctica de estas tecnologías en un contexto político y social inusual."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: Piper Alpha revisited – the world’s deadliest offshore oil disaster",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/25/tv-tonight-piper-alpha-revisited-the-worlds-deadliest-offshore-oil-disaster",
+      "fecha_obj": "2025-08-25T05:20:50+00:00",
+      "fecha_str": "25-08-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: desde el desastre de Piper Alpha hasta Jamie Oliver y el Edinburgh Military Tattoo.",
+      "resumen": "La programación televisiva incluye un documental sobre el desastre de Piper Alpha, el episodio final de 'Fake Or Fortune', la celebración del 75 aniversario del Royal Edinburgh Military Tattoo, un nuevo programa de cocina saludable de Jamie Oliver, un episodio de 'University Challenge', 'Stacey Dooley Sleeps Over' y la película 'The Godfather Part II'.  También se anuncia el partido de fútbol Newcastle v Liverpool. El documental de Piper Alpha destaca el desastre petrolero de 1988, incluyendo testimonios y entrevistas con sobrevivientes y familiares. 'Fake Or Fortune' resuelve el misterio de una pintura de Helen McNicoll.  El programa de Jamie Oliver ofrece recetas saludables y convenientes.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien incluye la reseña de 'Fake or Fortune', un programa sobre arte, la mayor parte del artículo se centra en otros temas como desastres, deportes y cocina. La mención del arte es mínima en el contexto general."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Semana del arte: Seis pasos para empezar a coleccionar obras y aprovechar las ferias",
+      "link": "https://www.clarin.com/cultura/semana-arte-pasos-empezar-coleccionar-obras-aprovechar-ferias_0_FZbjP1SCRT.html",
+      "fecha_obj": "2025-08-24T20:28:54+00:00",
+      "fecha_str": "24-08-2025 20:28 UTC",
+      "source_name": "Revista Ñ – Clarín Cultura"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Semana del arte en Buenos Aires: seis pasos para empezar a coleccionar arte y disfrutar las ferias.",
+      "resumen": "El artículo guía a principiantes en el coleccionismo de arte, aprovechando las ferias de arteba, Affair y Bada en Buenos Aires.  Se recomiendan seis pasos: mirar y preguntar, empezar con artistas locales, vencer el miedo a la primera compra (facilitado por programas como \"Mi primer Affair\" y \"Mi primera obra\"), escuchar y aprender de otros, atreverse a obras que incomoden y disfrutar el proceso. Las ferias ofrecen diversas opciones, desde artistas emergentes hasta obras de artistas consagrados, con facilidades de pago.  Se destaca la democratización del acceso al arte y la experiencia enriquecedora de las ferias.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo se centra completamente en el coleccionismo de arte y las ferias de arte en Buenos Aires,  proporcionando información práctica y consejos útiles para el público interesado en el tema.  Es altamente relevante para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Sandra Poulson’s Haunted House",
+      "link": "https://hyperallergic.com/1035186/sandra-poulson-haunted-house/",
+      "fecha_obj": "2025-08-24T20:02:00+00:00",
+      "fecha_str": "24-08-2025 20:02 UTC",
+      "source_name": "Hyperallergic"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Objetos cotidianos transformados en arte, reflexionando sobre la historia de Angola y el comercio global.",
+      "resumen": "La exposición individual de Sandra Poulson en MoMA PS1, \"Este quarto parece uma República!\" presenta ensamblajes de madera que incorporan símbolos de la historia de Angola posterior a la guerra civil. Poulson recontextualiza objetos domésticos, creando una atmósfera surrealista que refleja las fuerzas globales que han moldeado la vida en Angola.  La artista utiliza materiales de diversas procedencias (madera holandesa, contrachapado chino) para representar las complejas redes comerciales. Si bien algunas piezas se perciben como poco elaboradas, otras, como \"Cabinda Dreams\" y \"Propaganda Flush\", destacan por su ingenio y capacidad para hacer tangible la historia y sus consecuencias. La exposición logra materializar la interconexión entre el comercio global, el legado colonial y la vida cotidiana angoleña.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La exposición se centra en el arte contemporáneo, la historia angoleña y la reflexión sobre el impacto del comercio global, temas altamente relevantes para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
   }
 ]
